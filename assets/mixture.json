@@ -1,0 +1,42 @@
+{
+    "debug": false,
+    "lintScripts": false,
+    "preprocessorLocations": [
+        "/"
+    ],
+    "preprocessorScriptOutput": "js",
+    "preprocessorStyleOutput": "css",
+    "projectName": "Project Name",
+    "projectDescription": "Project Description",
+    "publishedId": null,
+    "serverHostname": null,
+    "serverPort": null,
+    "templateDirectory": "templates",
+    "templateDefaultLayout": "layout",
+    "templateDefaultPage": "index",
+    "type": "simple",
+    "useCompass": false,
+    "simpleModePartnerServer": "localhost",
+    "simpleModeFileTypes": null,
+    "modelSource": null,
+    "domain": null,
+    "followLeader": true,
+    "routes": null,
+    "customRuby": false,
+    "customRubyPath": null,
+    "remoteDebugPort": 0,
+    "optimiseImages": true,
+    "password": null,
+    "ignoreDir": [
+        "ignore"
+    ],
+    "customTodos": null,
+    "autoPrefixer": null,
+    "sass": null,
+    "sitemap": false,
+    "convertHtml": {
+        "extension": ".html",
+        "path": null,
+        "relativePaths": false
+    }
+}

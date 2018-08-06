@@ -1,0 +1,256 @@
+/* nav */
+
+.nav-vision { 
+	width:	78px;
+}
+
+.nav-initiatives { 
+	width: 157px;
+}
+
+.nav-initiatives > a {
+	margin-left: -14px;
+}
+
+#nav li {
+	float: left;
+	margin-left: 0;
+	width: 16.66%;
+
+	&:first-child	{
+		margin-left: 0px;
+	}
+
+	& > a	{
+		padding-top: 10%;
+		height: 100%;
+	}
+}
+
+#footer-nav li	{
+	padding-left: 23px;	
+}
+
+#ghf-logo	{
+	width: 100%;
+	height: auto;
+}
+
+.nav-home a {
+	margin-left: 0px;
+}
+.nav-about {
+	width: 129px;
+}
+
+.nav-about>a {
+	margin-left: 13px;
+}
+
+.nav-connect {
+	width: 100px;
+}
+.nav-la2050 {
+	width: 100px;
+}
+
+/* home */
+
+.home-title>h1 {
+	font-size: 38px;
+	padding: 0px 0px 6px 0px;
+}
+
+.home-idealists {
+	width: 356px;
+}
+
+.home-pragmatists {
+	margin-left: 381px;
+	width: 355px;
+}
+
+.home-look>.look-container {
+	background-image: none;
+	border: solid;
+	border-width: 2px;
+	border-color: $homedark;
+	position: relative;
+}
+
+.home-look>.look-container:before {
+	content: " ";
+	display: block;
+	background-color: $lightgreen;
+	width: 36px;
+	height: 4px;
+	position: absolute;	
+	left: 50%;
+	margin-left: -18px;
+	top: -3px;
+	
+}
+.home-look>.look-container:after {
+	content: " ";
+	display: block;
+	background-color: $lightgreen;
+	width: 36px;
+	height: 4px;
+	position: absolute;	
+	left: 50%;
+	margin-left: -18px;
+	bottom: -3px;
+	
+}
+
+.home-sun {
+	margin-left: 19px;
+}
+
+.home-title>h3 {
+	font-size: 28px;
+	line-height: 38px;
+}
+
+.home-courage {
+	padding-left: 10px;
+	margin-left: 20px;
+	width: 354px;
+}
+
+.home-innovations {
+	background-position: 253px top;
+	margin-left: 381px;
+	width: 365px;
+	
+}
+
+.home-goldhirsh > .goldhirsh-container {
+	width: 630px;
+	background-image: none;
+	border: solid;
+	border-color: $homedark;
+	border-width: 2px;
+	position: relative;	
+	padding: 0px 5px;
+}
+
+.home-goldhirsh > .goldhirsh-container:before {
+	content: " ";
+	display: block;
+	background-color: $lightgreen;
+	width: 36px;
+	height: 4px;
+	position: absolute;	
+	left: 50%;
+	margin-left: -18px;
+	top: -3px;
+}
+
+.home-goldhirsh > .goldhirsh-container>h1 {
+	font-size: 38px;
+}
+
+/* footer */
+.footer-contact {
+	width: 250px;
+}
+
+.footer-address {
+	display: none;
+}
+
+.footer-nav {
+	width: 465px;
+}
+
+#footer-nav>li {
+	line-height: 10px;
+}
+
+#footer-nav>li>a {
+	margin-top: 0px;
+}
+
+.footer-social > ul {
+margin-top: 8px;
+list-style: none;
+overflow: hidden;
+}
+/* vision */
+
+.vision-tools > img {
+	margin-left: 30px;
+}
+
+.vision-innovations {
+	padding-right: 0px;
+	width: 390px;
+}
+
+.vision-lattice img {
+	margin-left: 0px;
+}
+
+.vision-title > .left-rule > hr {
+	margin-top: 44px;
+	margin-right: 10px;
+}
+
+.vision-title > .right-rule > hr {
+	margin-top: 44px;
+	margin-left: 10px;
+}
+
+.vision-lattice {
+	width: 310px;
+}
+
+.vision-subtitle-center > .left-rule, .vision-subtitle-center > .right-rule {
+	width: 184px;
+}
+
+.vision-capital {
+	margin-left: -20px;
+}
+
+.vision-capital > div { 
+	width: 228px;
+	margin-left: 20px;
+}
+/* initiatives */
+
+.initiatives-feature-graphic > img {
+	height: 134px;
+	width: 724px; 
+}
+
+h1.vision-title-center { 
+	font-size: 32px;
+	line-height: 42px;
+}
+
+/* about */
+
+.about-text-graphic {
+	margin: 0px 25px 25px 0px;
+}
+
+.about-text-graphic > img {
+	width: 235px;
+	height: 165px;
+}
+
+.about-bio-image>img {
+	width: 228px;
+	height: 228px;
+}
+
+/* connect */
+.connect-input {
+	width: 317px;
+}
+
+#connect_message {
+	width: 692px
+}

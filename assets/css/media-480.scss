@@ -1,0 +1,267 @@
+body { 
+	min-width: auto;
+}
+
+.container {
+	margin: 0px 20px;
+}
+
+.row {
+	margin-left: -20px;
+	margin-right: 0px;
+}
+
+[class*="span"] {
+	margin-left: 20px;
+	margin-right: 0px;
+}
+
+#nav > li {
+	margin-top: 10px;
+	// height: 38px;
+}
+
+#nav > li > a {
+	font-size: 12px;
+	// padding-top: 18px;
+}
+#nav > li > a:hover {
+	// padding-top: 18px;
+}
+.current > a {
+	padding-top: 18px;
+}
+
+.nav-container {
+	text-align: left;
+}
+
+.nav-vision { 
+	width:	25%;
+	text-align: left;
+}
+
+.nav-initiatives { 
+	width: 25%;
+	text-align: center;
+}
+
+.nav-initiatives > a {
+	margin-left: 0px;
+}
+
+.nav-home {
+	display: none;
+}
+
+.nav-about {
+	text-align: center;
+	width: 33%;
+}
+
+.nav-about>a {
+	margin-left: 0px;
+}
+
+.nav-connect {
+	text-align: right;
+	width: 28%;
+}
+
+.nav-la2050 {
+	text-align: right;
+	width: 14%;
+}
+
+// #ghf-logo-mobile { 
+// 	width: 146px;
+// 	height: 47px;
+// }
+
+#mobile-logo { 
+	display: none;
+	visibility: visible;
+	margin: 0px auto;
+	width: 146px;
+}
+
+/* home */
+
+.home-look>.look-container {
+	background-image: none;
+	border: solid;
+	border-width: 2px;
+	border-color: $homedark;
+	position: relative;
+	width: 330px;
+}
+
+.home-look>.look-container:before {
+	content: " ";
+	display: block;
+	background-color: $lightgreen;
+	width: 36px;
+	height: 4px;
+	position: absolute;	
+	left: 50%;
+	margin-left: -18px;
+	top: -3px;
+	
+}
+.home-look>.look-container:after {
+	content: " ";
+	display: block;
+	background-color: $lightgreen;
+	width: 36px;
+	height: 4px;
+	position: absolute;	
+	left: 50%;
+	margin-left: -18px;
+	bottom: -3px;
+	
+}
+
+.home-good {
+	height: 99px;
+}
+
+.home-good > .good-container {
+	height: 99px;
+	background-size: 100px 99px;
+}
+.home-good > .good-container > h1 {
+	font-size: 24px;
+	line-height: 24px;
+	padding-top: 35px;
+	margin-left: -24px;
+}
+
+.home-title>h3 {
+	font-size: 28px;
+	line-height: 38px;
+}
+
+.home-courage {
+	padding-left: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home-innovations {
+	background-position: top right;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	
+}
+
+.home-goldhirsh > .goldhirsh-container {
+	width: auto;
+	background-image: none;
+	border: solid;
+	border-color: $homedark;
+	border-width: 2px;
+	position: relative;	
+	padding: 0px 5px;
+}
+
+.home-goldhirsh > .goldhirsh-container:before {
+	content: " ";
+	display: block;
+	background-color: $lightgreen;
+	width: 36px;
+	height: 4px;
+	position: absolute;	
+	left: 50%;
+	margin-left: -18px;
+	top: -3px;
+	
+}
+
+.home-goldhirsh > .goldhirsh-container>a>h1 {
+	font-size: 21px;
+}
+
+/* footer */
+.footer-contact {
+	width: auto;
+	margin-left: 0px;
+}
+.footer-address {
+	display: none;
+}
+
+.footer-nav {
+	width: auto;
+	margin-left: 0px;
+}
+
+#footer-nav>li {
+	line-height: 10px;
+	padding-right: 18px;
+}
+
+#footer-nav>li>a {
+	font-size: 12px;
+	margin-top: 0px;
+}
+.footer-social {
+	margin-left: 0px;
+}
+
+/* vision */
+
+.vision-tools > img {
+	margin-left: 30px;
+}
+
+.vision-title > .left-rule > hr {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 18px;
+}
+.vision-title > .right-rule > hr {
+	margin-top: 18px;
+	margin-left: 0px;
+}
+
+.vision-subtitle-center > .left-rule, .vision-subtitle-center > .right-rule {
+	margin-right: 0px;
+	width: auto;
+}
+
+/* initiatives */
+
+h1.vision-title-center { 
+	font-size: 32px;
+	line-height: 42px;
+}
+
+/* about */
+
+.about-text-graphic {
+	display: none;
+	margin: 0px 25px 25px 0px;
+}
+
+.about-bio-image {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.about-bio-image>img {
+	width: 150px;
+	height: auto;
+}
+
+/* connect */
+//#connect_message {
+	//width: 96%;
+	//padding: 4%;
+//  -webkit-box-sizing: border-box;
+       //-moz-box-sizing: border-box;
+            //box-sizing: border-box;
+//}
+.connect-message-container {
+	margin-right: 20px;
+}
