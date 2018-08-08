@@ -21,7 +21,6 @@ defaults:
     type: jobs
   values:
     url: ''
-    position: ''
     organization: ''
     employment_type:
     - Part Time
