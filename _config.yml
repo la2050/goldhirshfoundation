@@ -1,11 +1,16 @@
-
+---
 title: Goldhirsh Foundation
-
-permalink: pretty
-
-exclude:
-  - README
-
+timezone: UTC
 collections:
   jobs:
+    title: Jobs
     output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+exclude:
+- README

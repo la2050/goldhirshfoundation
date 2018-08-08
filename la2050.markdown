@@ -1,6 +1,6 @@
 ---
-layout: default
 title: LA2050, with support from the Goldhirsh Foundation
+layout: default
 ---
 
 Our largest and most ambitious effort is [LA2050](https://activation.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
