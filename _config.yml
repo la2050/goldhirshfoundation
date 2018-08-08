@@ -22,9 +22,7 @@ defaults:
   values:
     url: ''
     organization: ''
-    employment_type:
-    - Part Time
-    - Full Time
+    employment_type: ''
     date_posted: ''
     location: ''
     layout: default
