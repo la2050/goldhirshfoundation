@@ -1,6 +1,29 @@
 ---
 title: Goldhirsh Foundation
 timezone: UTC
+
+permalink: pretty
+
+exclude:
+  - README
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "jobs"
+    values:
+      url: ""
+      position: ""
+      organization: ""
+      employment_type: ["Part Time", "Full Time"]
+      date_posted: ""
+      location: ""
+      layout: default
+
 collections:
   jobs:
     title: Jobs
