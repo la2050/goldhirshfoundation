@@ -2,3 +2,10 @@
 title: Goldhirsh Foundation
 
 permalink: pretty
+
+exclude:
+  - README
+
+collections:
+  jobs:
+    output: false

@@ -82,13 +82,33 @@
                     <div class="col-md-2">Location</div>
                 </div>
                 <div class="table-content">
-                        <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit" target="_blank">Entrepreneur-in-Residence</a></div>
-                            <div class="col-md-3">New Media Ventures</div>
-                            <div class="col-md-2">Part Time</div>
-                            <div class="col-md-2">July 25, 2018</div>
-                            <div class="col-md-2">Oakland, CA or remote</div>
-                        </div>
+
+{% assign data_collection = site.collections | where: "label", "jobs" | first %}
+{% assign data_list = data_collection.docs | reverse %}
+
+{% for data in data_list %}
+
+<div class="table-row clearfix">
+    <div class="col-md-3 green-content"><a href="{{ data.url }}" target="_blank" rel="noopener">{{ data.position }}</a></div>
+    <div class="col-md-3">{{ data.organization }}</div>
+    <div class="col-md-2">{{ data.employment_type }}</div>
+    <div class="col-md-2">{{ data.date_posted }}</div>
+    <div class="col-md-2">{{ data.location }}</div>
+</div>
+
+{% endfor %}
+
+
+<!--
+
+<div class="table-row clearfix">
+    <div class="col-md-3 green-content"><a href = "https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit" target="_blank">Entrepreneur-in-Residence</a></div>
+    <div class="col-md-3">New Media Ventures</div>
+    <div class="col-md-2">Part Time</div>
+    <div class="col-md-2">July 25, 2018</div>
+    <div class="col-md-2">Oakland, CA or remote</div>
+</div>
+
                                             <div class="table-row clearfix">
                             <div class="col-md-3 green-content"><a href = "https://www.1degree.org/about/join/vp-of-program/?p=BL-OPN-ALL-NL61-2017-JUL-26-LAPress" target="_blank">Vice President of Program</a></div>
                             <div class="col-md-3">One Degree</div>
@@ -201,7 +221,9 @@
                             <div class="col-md-2">May 31, 2018</div>
                             <div class="col-md-2"><i>TBD</i></div>
                         </div>
+-->
                                     </div>
+
 
                 <div class="table_navigation page_navigation"></div>
             </div>
