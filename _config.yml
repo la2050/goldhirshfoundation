@@ -23,7 +23,6 @@ defaults:
     url: ''
     organization: ''
     employment_type: ''
-    date_posted: ''
     location: ''
     layout: default
 exclude:
