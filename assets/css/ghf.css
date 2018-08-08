@@ -2173,6 +2173,23 @@ h4 {
       width: 100%;
       padding: 0; } }
 
+.four-column-table--actually-five-columns .col-md-2,
+.four-column-table--actually-five-columns .col-md-3 {
+  width: 20%; /* 25% - (25% x 2/3) */
+  float: left;
+  padding-left: 50px;
+  box-sizing: border-box; }
+  .four-column-table .col-md-2:first-child,
+  .four-column-table .col-md-3:first-child {
+    padding-left: 0; }
+  @media (max-width: 991px) {
+    .four-column-table .col-md-2,
+    .four-column-table .col-md-3 {
+      width: 100%;
+      padding: 0; } }
+
+
+
 .green-content {
   color: #38af4d;
   font-family: "Proxima N W01 Smbd", sans-serif; }
