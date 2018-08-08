@@ -1,8 +1,9 @@
 ---
-url: https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit
 title: Entrepreneur-in-Residence
+url: https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit
 organization: New Media Ventures
 employment_type: Part Time
 date_posted: July 25, 2018
 location: Oakland, CA or remote
 ---
+
