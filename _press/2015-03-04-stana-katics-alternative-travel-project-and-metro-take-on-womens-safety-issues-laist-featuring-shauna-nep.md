@@ -1,7 +1,7 @@
 ---
 title: Stana Katic's Alternative Travel Project And Metro Take On Women's Safety Issues,
   LAist featuring Shauna Nep
-date: 2015-03-04 00:00:00 -08:00
+date: 2015-03-04 00:00:00 -07:00
 press_url: http://laist.com/2015/03/04/stana_katics_alternative_travel_pro.php
 ---
 

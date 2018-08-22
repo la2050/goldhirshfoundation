@@ -1,6 +1,6 @@
 ---
 title: The Smartest Cities In The World, Fast Company
-date: 2014-11-20 00:00:00 -08:00
+date: 2014-11-20 00:00:00 -07:00
 press_url: http://www.fastcoexist.com/3038765/fast-cities/the-smartest-cities-in-the-world
 ---
 

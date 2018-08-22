@@ -1,7 +1,7 @@
 ---
 title: 10 skill-sets every entrepreneur must have, according to 3 LA executives, featuring
   Tara Roth
-date: 2015-02-16 00:00:00 -08:00
+date: 2015-02-16 00:00:00 -07:00
 press_url: http://www.builtinla.com/2015/02/16/10-skill-sets-every-entrepreneur-must-have-according-3-la-executives
 ---
 

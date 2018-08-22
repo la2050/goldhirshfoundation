@@ -1,6 +1,6 @@
 ---
 title: Making Alleys a Place for Play, Next City
-date: 2014-11-04 00:00:00 -08:00
+date: 2014-11-04 00:00:00 -07:00
 press_url: http://nextcity.org/daily/entry/alley-makeover-green-alleys-los-angeles
 ---
 
