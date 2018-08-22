@@ -1,6 +1,6 @@
 ---
 title: 'LA2020 v. LA2050: The Battle Over L.A.’s Future, Los Angeles Magazine'
-date: 2014-03-12 00:00:00 -07:00
+date: 2014-03-12 12:00:00 -07:00
 press_url: http://www.lamag.com/citythink/citythinkblog/2014/03/12/la2020-v-la2050-the-battle-over-las-future
 ---
 

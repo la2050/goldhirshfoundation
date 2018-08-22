@@ -1,6 +1,6 @@
 ---
 title: How to Survive in LA Without Driving, PC Magazine
-date: 2016-08-02 00:00:00 -07:00
+date: 2016-08-02 12:00:00 -07:00
 press_url: http://www.pcmag.com/news/346663/how-to-survive-in-l-a-without-driving
 ---
 

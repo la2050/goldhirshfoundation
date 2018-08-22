@@ -1,6 +1,6 @@
 ---
 title: How Annenberg Tech turns LA Geeks into Philanthropists
-date: 2017-07-05 00:00:00 -07:00
+date: 2017-07-05 12:00:00 -07:00
 press_url: https://www.pcmag.com/news/354419/how-annenbergtech-turns-l-a-geeks-into-philanthropists
 ---
 

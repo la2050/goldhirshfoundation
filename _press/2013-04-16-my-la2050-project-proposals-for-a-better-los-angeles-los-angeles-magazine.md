@@ -1,6 +1,6 @@
 ---
 title: 'My LA2050: Project Proposals For A Better Los Angeles, Los Angeles Magazine'
-date: 2013-04-16 00:00:00 -07:00
+date: 2013-04-16 12:00:00 -07:00
 press_url: http://www.lamag.com/citythink/citythinkblog/2013/04/16/my-la2050-project-proposals-for-a-better-los-angeles
 ---
 

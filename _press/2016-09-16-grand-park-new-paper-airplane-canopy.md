@@ -1,6 +1,6 @@
 ---
 title: 'Grand Park New: ''Paper Airplane'' Canopy'
-date: 2016-09-16 00:00:00 -07:00
+date: 2016-09-16 12:00:00 -07:00
 press_url: http://www.nbclosangeles.com/news/local/Grand-Park-New-Paper-Airplane-Canopy-393769601.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How do you turn a tagger into an entrepreneur?, Streetcraft L.A., KPCC
-date: 2015-01-07 00:00:00 -08:00
+date: 2015-01-07 12:00:00 -07:00
 press_url: http://www.scpr.org/news/2015/01/07/49115/turning-taggers-into-entrepreneurs/
 ---
 

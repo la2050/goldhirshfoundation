@@ -1,6 +1,6 @@
 ---
 title: A Field Guide To Innovation In Los Angeles, PSFK
-date: 2013-12-20 00:00:00 -08:00
+date: 2013-12-20 12:00:00 -07:00
 press_url: http://www.psfk.com/2013/12/los-angeles-innovation.html#!ql6IG
 ---
 

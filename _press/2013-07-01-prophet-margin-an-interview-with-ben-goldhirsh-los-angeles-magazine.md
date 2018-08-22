@@ -1,6 +1,6 @@
 ---
 title: Prophet Margin, An Interview with Ben Goldhirsh, Los Angeles Magazine
-date: 2013-07-01 00:00:00 -07:00
+date: 2013-07-01 12:00:00 -07:00
 press_url: http://www.lamag.com/citythinkblog/prophet-margin/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: LA2050 Renews Civic Engagement in Los Angeles, 2015 Grant Winners Announced,
   KCET
-date: 2015-12-31 00:00:00 -08:00
+date: 2015-12-31 12:00:00 -07:00
 press_url: http://www.kcet.org/socal/departures/la2050-renews-civic-engagement-in-los-angeles-2015-grant-winners-announced.html
 ---
 

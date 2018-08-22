@@ -1,6 +1,6 @@
 ---
 title: Goldhirsh Foundation supported LADOT Fellowship featured in Fast Company
-date: 2015-05-07 00:00:00 -07:00
+date: 2015-05-07 12:00:00 -07:00
 press_url: http://www.fastcompany.com/3046055/tech-forecast/las-mayor-garcetti-were-hiring-a-ride-share-and-autonomous-car-advisor
 ---
 

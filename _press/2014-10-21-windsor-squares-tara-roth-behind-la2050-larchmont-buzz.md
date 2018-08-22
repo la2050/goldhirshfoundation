@@ -1,6 +1,6 @@
 ---
 title: Windsor Square's Tara Roth Behind LA2050, Larchmont Buzz
-date: 2014-10-21 00:00:00 -07:00
+date: 2014-10-21 12:00:00 -07:00
 press_url: http://www.larchmontbuzz.com/larchmont-village-people/windsor-square-s-tara-roth-behind-la2050/
 ---
 

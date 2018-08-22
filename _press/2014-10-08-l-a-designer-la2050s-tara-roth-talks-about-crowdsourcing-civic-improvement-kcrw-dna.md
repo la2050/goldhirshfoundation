@@ -1,7 +1,7 @@
 ---
 title: 'L.A. Designer: LA2050′s Tara Roth Talks about Crowdsourcing Civic Improvement,
   KCRW DNA'
-date: 2014-10-08 00:00:00 -07:00
+date: 2014-10-08 12:00:00 -07:00
 press_url: http://blogs.kcrw.com/dna/l-a-designer-la2050s-tara-roth-talks-about-crowdsourcing-civic-improvement
 ---
 

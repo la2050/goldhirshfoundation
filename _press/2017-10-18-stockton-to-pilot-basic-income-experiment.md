@@ -1,6 +1,6 @@
 ---
 title: Stockton to Pilot ‘Basic Income’ Experiment
-date: 2017-10-18 00:00:00 -07:00
+date: 2017-10-18 12:00:00 -07:00
 press_url: http://www.recordnet.com/news/20171018/stockton-to-pilot-basic-income-experiment
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The best and brightest of Los Angeles are hard at work planning the city's
   future, Smart Business Magazine
-date: 2014-05-01 00:00:00 -07:00
+date: 2014-05-01 12:00:00 -07:00
 press_url: http://www.smartbusinessemag.com/may2014/LosAngeles/0/0#&pageSet=7&contentItem=0
 ---
 

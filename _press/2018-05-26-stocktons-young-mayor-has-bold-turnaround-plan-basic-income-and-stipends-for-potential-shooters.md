@@ -1,7 +1,7 @@
 ---
 title: 'Stockton''s Young Mayor has Bold Turnaround Plan: Basic Income and Stipends
   for Potential Shooters'
-date: 2018-05-26 00:00:00 -07:00
+date: 2018-05-26 12:00:00 -07:00
 press_url: http://www.latimes.com/local/california/la-me-lopez-stockton-money-05272018-story.html
 ---
 

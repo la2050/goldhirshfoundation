@@ -1,6 +1,6 @@
 ---
 title: Young L.A. Is the Real Winner of LA2050, CityLab
-date: 2014-09-30 00:00:00 -07:00
+date: 2014-09-30 12:00:00 -07:00
 press_url: http://www.citylab.com/design/2014/09/young-la-is-the-real-winner-of-la2050/380948/
 ---
 

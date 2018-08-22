@@ -1,7 +1,7 @@
 ---
 title: Announcing $1.4 million in support for cities and sustainability through Partners
   for Places
-date: 2016-05-06 00:00:00 -07:00
+date: 2016-05-06 12:00:00 -07:00
 press_url: http://www.fundersnetwork.org/blog/announcing-1.4-million-in-support-for-cities-and-sustainability-throug
 ---
 

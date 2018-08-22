@@ -1,6 +1,6 @@
 ---
 title: How a city created a roadmap to a brighter future, PSFK
-date: 2014-03-13 00:00:00 -07:00
+date: 2014-03-13 12:00:00 -07:00
 press_url: http://www.psfk.com/2014/03/los-angeles-crowdsourcing-social-good.html?utm_source=Sailthru&utm_medium=email&utm_term=daily&utm_campaign=Daily%202014-03-13#!zyo0B
 ---
 

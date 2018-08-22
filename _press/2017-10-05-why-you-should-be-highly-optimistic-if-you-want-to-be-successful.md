@@ -1,6 +1,6 @@
 ---
 title: Why You Should Be Highly Optimistic If You Want To Be Successful
-date: 2017-10-05 00:00:00 -07:00
+date: 2017-10-05 12:00:00 -07:00
 press_url: https://www.cnbc.com/2017/10/05/why-should-you-be-highly-optimistic-if-you-want-to-be-successful.html
 ---
 
