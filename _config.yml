@@ -8,9 +8,6 @@ collections:
   posts:
     title: Posts
     output: true
-  press:
-    title: Press
-    output: false
   uploads:
     title: Uploads
     output: true
@@ -27,12 +24,6 @@ defaults:
     organization: ''
     employment_type: ''
     location: ''
-    layout: default
-- scope:
-    path: ''
-    type: press
-  values:
-    press_url: ''
     layout: default
 exclude:
 - README
