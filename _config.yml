@@ -5,12 +5,12 @@ collections:
   jobs:
     title: Jobs
     output: false
-  press:
-    title: Press
-    output: false
   posts:
     title: Posts
     output: true
+  press:
+    title: Press
+    output: false
   uploads:
     title: Uploads
     output: true
