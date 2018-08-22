@@ -1,6 +1,6 @@
 ---
 title: Goldhirsh Foundation gives $1M in grants via My LA2050 Grants Challenge
-date: 2016-12-05 23:00:00 -08:00
+date: 2016-12-06 00:00:00 -07:00
 press_url: https://web.archive.org/web/20161207225600/https://www.yahoo.com/news/goldhirsh-foundation-gives-1m-grants-via-la2050-grants-210100907.html
 ---
 

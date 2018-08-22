@@ -1,6 +1,6 @@
 ---
 title: And the My LA2050 Winners Are...
-date: 2015-12-07 23:00:00 -08:00
+date: 2015-12-08 00:00:00 -07:00
 press_url: http://www.prnewswire.com/news-releases/and-the-my-la2050-winners-are-300189904.html?tc=eml_cleartime
 ---
 
