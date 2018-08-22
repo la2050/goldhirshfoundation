@@ -1,6 +1,6 @@
 ---
 title: And the winners are...
-date: 2018-07-09 09:00:00 -07:00
+date: July 9, 2018 9:00 am
 author: Tara Roth
 ---
 
