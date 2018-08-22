@@ -18,6 +18,13 @@ defaults:
     layout: default
 - scope:
     path: ''
+    type: posts
+  values:
+    press_url: ''
+    author: Tara Roth
+    layout: default
+- scope:
+    path: ''
     type: jobs
   values:
     job_url: ''
