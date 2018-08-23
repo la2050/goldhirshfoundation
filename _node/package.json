@@ -4,7 +4,8 @@
   "description": "",
   "author": "jim@jimthoburn.com",
   "scripts": {
-    "markdown:create": "node ./create-markdown.js"
+    "markdown:create": "node ./create-markdown.js",
+    "markdown:update": "node ./update-markdown.js"
   },
   "devDependencies": {
     "csv-parse": "^2.1.0",
