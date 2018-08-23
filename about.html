@@ -91,19 +91,22 @@ layout: default
     <div class="pagination-list" id="pagination-list">
       <div class="pagination-content">
 
-        {% for post in site.categories["press"] %}
+        {% assign data_collection = site.collections | where: "label", "press" | first %}
+        {% assign data_list = data_collection.docs | reverse %}
+
+        {% for data in data_list %}
 
         <div class="speaking pagination-item">
           <div class="press-date pagination-date">
-            {{ post.date | date: "%B" | truncate: 3, "" }}
+            {{ data.date | date: "%B" | truncate: 3, "" }}
             <div class="clear"></div>
-            <span class="press-day">{{ post.date | date: "%-d" }}</span>
+            <span class="press-day">{{ data.date | date: "%-d" }}</span>
             <div class="clear"></div>
-            {{ post.date | date: "%Y" }}
+            {{ data.date | date: "%Y" }}
           </div>
           <div class="press-text-wrapper">
-            <a href="{{ post.press_url }}" target="_blank" class="press-title press-item-toggle">{{ post.title }}</a>
-            <p class="press-text">{{ post.content }}</p>
+            <a href="{{ post.press_url }}" target="_blank" class="press-title press-item-toggle">{{ data.title }}</a>
+            <p class="press-text">{{ data.content | strip_html }}</p>
             <a href="{{ post.press_url }}" target="_blank" class="read-more press-item-toggle">Read More</a>
             <div class="clear"></div>
           </div>
