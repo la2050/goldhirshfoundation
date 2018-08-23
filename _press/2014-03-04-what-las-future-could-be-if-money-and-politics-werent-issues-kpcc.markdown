@@ -1,6 +1,7 @@
 ---
 title: What LA's future could be if money and politics weren't issues, KPCC
 date: 2014-03-04 11:00:00 -08:00
+position: 8
 press_url: http://www.scpr.org/programs/take-two/2014/03/04/36298/what-la-s-future-could-be-if-money-and-politics-we/
 ---
 

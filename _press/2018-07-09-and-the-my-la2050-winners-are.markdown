@@ -1,6 +1,7 @@
 ---
 title: And the My LA2050 Winners Are...
 date: 2018-07-09 12:00:00 -07:00
+position: 99
 press_url: https://www.prweb.com/releases/2018/07/prweb15610130.htm
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Can a $100,000 grant revive the Triforium, L.A.'s 'weird, strange beacon'?
 date: 2017-01-03 11:00:00 -08:00
+position: 86
 press_url: http://www.latimes.com/local/lanow/la-me-ln-triforium-renovation-20161217-story.html
 ---
 

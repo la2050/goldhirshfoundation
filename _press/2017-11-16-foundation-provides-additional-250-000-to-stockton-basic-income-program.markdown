@@ -1,6 +1,7 @@
 ---
 title: Foundation Provides Additional $250,000 to Stockton Basic Income Program
 date: 2017-11-16 11:00:00 -08:00
+position: 96
 press_url: http://www.recordnet.com/news/20171116/foundation-provides-additional-250000-to-stockton-basic-income-program/1
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: LA's big plan to change the way we move, CurbedLA
 date: 2016-09-09 12:00:00 -07:00
+position: 74
 press_url: http://la.curbed.com/2016/9/9/12824240/self-driving-cars-plan-los-angeles
 ---
 

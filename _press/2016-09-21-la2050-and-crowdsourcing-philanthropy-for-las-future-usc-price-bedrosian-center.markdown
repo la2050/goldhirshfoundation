@@ -2,6 +2,7 @@
 title: LA2050 and Crowdsourcing Philanthropy for LA’s Future, USC Price Bedrosian
   Center
 date: 2016-09-21 12:00:00 -07:00
+position: 76
 press_url: https://soundcloud.com/uscbedrosian/la2050-and-crowdsourcing-philanthropy-for-las-future
 ---
 

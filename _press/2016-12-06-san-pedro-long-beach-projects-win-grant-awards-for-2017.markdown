@@ -1,6 +1,7 @@
 ---
 title: San Pedro, Long Beach Projects Win Grant Awards for 2017
 date: 2016-12-06 11:00:00 -08:00
+position: 82
 press_url: http://www.dailybreeze.com/science/20161206/san-pedro-long-beach-projects-win-grant-awards-for-2017
 ---
 
