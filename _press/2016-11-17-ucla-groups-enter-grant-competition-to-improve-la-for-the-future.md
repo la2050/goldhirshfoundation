@@ -1,8 +1,6 @@
 ---
 title: UCLA Groups Enter Grant Competition to Improve LA for the Future
 date: 2016-11-17 11:00:00 -08:00
-categories:
-- press
 press_url: http://dailybruin.com/2016/11/17/ucla-groups-enter-grant-competition-to-improve-la-for-the-future/
 ---
 

@@ -2,8 +2,6 @@
 title: LA is more than halfway to its goal of 50 new, small parks, KPCC featuring
   Trust for the Public Land
 date: 2015-03-03 11:00:00 -08:00
-categories:
-- press
 press_url: http://www.scpr.org/news/2015/03/03/50134/las-plan-for-50-new-parks-is-more-than-halfway-the/
 ---
 

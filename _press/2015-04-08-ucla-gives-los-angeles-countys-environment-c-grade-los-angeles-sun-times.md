@@ -1,8 +1,6 @@
 ---
 title: UCLA gives Los Angeles County's environment C+ grade, Los Angeles Sun Times
 date: 2015-04-08 12:00:00 -07:00
-categories:
-- press
 press_url: http://la.suntimes.com/la-news/7/88/204830/ucla-gives-los-angeles-countys-environment-c-grade/
 ---
 

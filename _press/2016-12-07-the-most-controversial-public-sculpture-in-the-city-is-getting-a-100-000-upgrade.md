@@ -1,8 +1,6 @@
 ---
 title: The Most Controversial Public Sculpture in the City Is Getting a $100,000 Upgrade
 date: 2016-12-07 11:00:00 -08:00
-categories:
-- press
 press_url: http://www.lamag.com/culturefiles/triforium-return-la2050-grant/
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: Tara Roth, President of the Goldhirsh Foundation, featured in Vator TV
 date: 2015-05-29 12:00:00 -07:00
-categories:
-- press
 press_url: http://vator.tv/news/2015-05-29-the-la-tech-culture-and-the-talent-pool-challenge
 ---
 

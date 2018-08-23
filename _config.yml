@@ -2,11 +2,17 @@
 title: Goldhirsh Foundation
 timezone: America/Los_Angeles
 collections:
+  blog:
+    title: Jobs
+    output: false
   jobs:
     title: Jobs
     output: false
+  press:
+    title: Press
+    output: false
   posts:
-    title: Posts
+    title: Blog
     output: true
   uploads:
     title: Uploads
@@ -18,9 +24,14 @@ defaults:
     layout: default
 - scope:
     path: ''
-    type: posts
+    type: press
   values:
     press_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: blog
+  values:
     author: Tara Roth
     layout: default
 - scope:

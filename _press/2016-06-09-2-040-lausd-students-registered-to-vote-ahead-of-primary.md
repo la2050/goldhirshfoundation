@@ -1,8 +1,6 @@
 ---
 title: 2,040 LAUSD Students Registered to Vote Ahead of Primary
 date: 2016-06-09 12:00:00 -07:00
-categories:
-- press
 press_url: http://laschoolreport.com/la-youth-vote/
 ---
 

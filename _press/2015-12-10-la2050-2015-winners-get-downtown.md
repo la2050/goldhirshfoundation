@@ -1,8 +1,6 @@
 ---
 title: LA2050 2015 Winners, Get Downtown
 date: 2015-12-10 11:00:00 -08:00
-categories:
-- press
 press_url: http://www.getdowntown.la/features/2016/1/5/la2050-2015-winners-la-victoria-at-las-perlas
 ---
 

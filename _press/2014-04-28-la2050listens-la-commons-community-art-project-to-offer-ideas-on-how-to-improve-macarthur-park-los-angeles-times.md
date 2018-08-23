@@ -2,8 +2,6 @@
 title: "#LA2050Listens, LA Commons, Community art project to offer ideas on how to
   improve MacArthur Park, Los Angeles Times"
 date: 2014-04-28 12:00:00 -07:00
-categories:
-- press
 press_url: http://www.latimes.com/local/la-me-macarthur-park-20140428-story.html
 ---
 

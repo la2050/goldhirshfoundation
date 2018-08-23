@@ -1,8 +1,6 @@
 ---
 title: New LA2050 Report, Vision for a Successful Los Angeles
 date: 2015-07-14 12:00:00 -07:00
-categories:
-- press
 press_url: http://www.prweb.com/releases/2015/07/prweb12845346.htm
 ---
 

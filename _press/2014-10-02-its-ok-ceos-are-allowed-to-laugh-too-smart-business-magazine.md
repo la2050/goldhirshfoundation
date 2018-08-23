@@ -1,8 +1,6 @@
 ---
 title: It’s OK, CEOs are allowed to laugh too, Smart Business Magazine
 date: 2014-10-02 12:00:00 -07:00
-categories:
-- press
 press_url: http://www.sbnonline.com/article/little-humor-can-facilitate-lot-creativity-business/
 ---
 

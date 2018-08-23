@@ -1,8 +1,6 @@
 ---
 title: Goldhirsh Foundation Awards $1 Million in Grants to 12 L.A.-Area Organization
 date: 2016-12-07 11:00:00 -08:00
-categories:
-- press
 press_url: http://www.labusinessjournal.com/news/2016/dec/08/goldhirsh-foundation-awards-1-million-grants-12-l-/
 ---
 

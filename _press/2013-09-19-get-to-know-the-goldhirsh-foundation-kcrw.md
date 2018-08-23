@@ -1,8 +1,6 @@
 ---
 title: Get to know the Goldhirsh Foundation, KCRW
 date: 2013-09-19 12:00:00 -07:00
-categories:
-- press
 press_url: http://blogs.kcrw.com/ipp/?p=1535
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: 'ComNetwork LA: An Evening with Tara Roth'
 date: 2016-05-17 12:00:00 -07:00
-categories:
-- press
 press_url: http://www.comnetwork.org/comnetworkla/
 ---
 
