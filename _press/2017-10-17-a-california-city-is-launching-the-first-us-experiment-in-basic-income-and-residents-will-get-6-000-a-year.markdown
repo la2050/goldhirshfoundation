@@ -1,7 +1,7 @@
 ---
 title: A California City is Launching the First US Experiment in Basic Income — and
   Residents Will Get $6,000 a Year
-date: 2018-10-17 12:00:00 -07:00
+date: 2017-10-17 12:00:00 -07:00
 position: 100
 press_url: http://www.businessinsider.com/stockton-california-launching-the-first-us-experiment-in-basic-income-2017-10
 ---
