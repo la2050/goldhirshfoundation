@@ -27,7 +27,7 @@ defaults:
     layout: default
 - scope:
     path: ''
-    type: blog
+    type: posts
   values:
     author: Tara Roth
     layout: default
