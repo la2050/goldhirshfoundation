@@ -1,0 +1,38 @@
+# https://www.netlifycms.org/docs/add-to-your-site/#configuration
+
+backend:
+  name: github # git-gateway
+  repo: la2050/goldhirshfoundation # Path to your Github repository
+  branch: netlify-cms # Branch to update (optional; defaults to master)
+
+# publish_mode: editorial_workflow
+
+media_folder: "uploads" # Media files will be stored in the repo under images/uploads
+
+# public_folder: "/assets/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+# If public_folder is not set, Netlify CMS will default to the same value as media_folder, adding an opening / if one is not included.
+
+collections:
+  - name: "jobs" # Used in routes, e.g., /admin/collections/blog
+    label: "Jobs" # Used in the UI
+    folder: "_jobs" # The path to the folder where the documents are stored
+#    create: true # Allow users to create new documents in this collection
+#    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+#      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Job URL", name: "job_url", widget: "string"}
+      - {label: "Organization", name: "organization", widget: "string"}
+      - {label: "Employment Type", name: "employment_type", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+#      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+#      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+#      - {label: "Project Description", name: "project_description", widget: "markdown"}
+
+title: Social Innovation and Design Intern
+date: 2018-08-08 16:54:00 -07:00
+job_url: https://docs.google.com/document/d/198brd6MoPiUOlctAq0O8v7_dlRc4KKYQk6Vfgg6TvGk/edit
+organization: Goldhirsh Foundation
+employment_type: Part Time
+location: Los Angeles, CA

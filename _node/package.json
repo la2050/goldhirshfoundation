@@ -1,0 +1,14 @@
+{
+  "name": "goldhirsh-foundation",
+  "version": "0.0.1",
+  "description": "",
+  "author": "jim@jimthoburn.com",
+  "scripts": {
+    "markdown:create": "node ./create-markdown.js"
+  },
+  "devDependencies": {
+    "csv-parse": "^2.1.0",
+    "js-yaml": "^3.10.0",
+    "mkdirp": "^0.5.1"
+  }
+}

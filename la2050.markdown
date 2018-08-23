@@ -1,13 +1,11 @@
 ---
 title: LA2050, with support from the Goldhirsh Foundation
-layout: default
+layout: la2050
 ---
 
 Our largest and most ambitious effort is [LA2050](https://activation.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
 
 LA2050 is rooted in a vision of a successful Los Angeles—a region that is a healthy, thriving, and desirable place to live. Our goal is to work with Angelenos to develop a framework that harnesses the area’s untapped potential and lays out a roadmap for a region that supports the shared success of all Angelenos. We foresee an environment that fosters innovation to solve our greatest challenges and that embraces community.
-
-
 
 Ultimately, LA2050 will promote and realize a future where people are deeply engaged in rebuilding and reshaping Los Angeles.
 
@@ -44,6 +42,7 @@ To find out more or if you would like to join the dialogue, please contact [conn
 </div>
 <!--End mc_embed_signup-->
 
+	
 **My LA2050 Grants Challenge Grantees**
 
 **2016 My LA2050 Grants Challenge**
@@ -118,8 +117,3 @@ To find out more or if you would like to join the dialogue, please contact [conn
 To learn more about how the winners made their impact, check out the latest LA2050 Impact Report [here](http://la2050.s3-us-west-1.amazonaws.com/reports/11/pdfs/ImpactReport_2015.pdf?1508262767), and check out all our impact reports [here](https://www.la2050.org/reports).
 
 We'd like to congratulate all the participants on their hard work, passion, and enthusiasm. The future of LA is bright--and they are all proof that the best is yet to come.
-
-
-
-
-
