@@ -1,14 +1,9 @@
 ---
 title: And the winners are...
-date: 2018-07-09T19:00:00.000Z
-author: Tara Roth
+date: 2018-07-09 12:00:00 -07:00
 position: 0
-
+author: Tara Roth
 ---
-
-
-
-
 
 **LA2050  announces $1,000,000  in grants to five winners  of the My LA2050 Grants Challenge to #ActivateforLA**
 
