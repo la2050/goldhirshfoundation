@@ -1,7 +1,7 @@
 ---
 title: Liberty Hill to Honor Benjamin Goldhirsh with the Upton Sinclair Award
 date: 2016-03-28 12:00:00 -07:00
-position: 65
+position: 68
 press_url: https://www.libertyhill.org/2016/03/28/liberty-hill-to-honor-benjamin-goldhirsh-with-the-upton-sinclair-award
 ---
 

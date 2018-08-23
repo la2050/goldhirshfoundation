@@ -1,7 +1,7 @@
 ---
 title: 'FOUNDATION WORK: Entry Points, Barriers and Funding'
 date: 2016-05-04 12:00:00 -07:00
-position: 66
+position: 69
 press_url: http://www2.artcenter.edu/leapdialogues/
 ---
 

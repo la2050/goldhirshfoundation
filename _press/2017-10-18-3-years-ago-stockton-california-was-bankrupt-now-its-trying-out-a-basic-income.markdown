@@ -2,7 +2,7 @@
 title: 3 Years Ago, Stockton, California, was Bankrupt. Now It's Trying Out a Basic
   Income.
 date: 2017-10-18 12:00:00 -07:00
-position: 96
+position: 99
 press_url: https://www.vox.com/policy-and-politics/2017/10/18/16479796/stockton-california-basic-income-economic-security-experiment
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'LA Review of Books: Quarterly Journal Fall 2016'
 date: 2017-01-06 11:00:00 -08:00
-position: 89
+position: 92
 press_url: https://lareviewofbooks.org/edition/quarterly-journal-fall-2016/
 ---
 

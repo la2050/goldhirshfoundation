@@ -1,7 +1,7 @@
 ---
 title: A brighter vision of LA’s future, KCRW
 date: 2014-03-12 12:00:00 -07:00
-position: 9
+position: 12
 press_url: http://blogs.kcrw.com/whichwayla/2014/03/a-brighter-vision-of-las-future
 ---
 

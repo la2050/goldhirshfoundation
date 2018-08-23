@@ -1,7 +1,7 @@
 ---
 title: Tara Roth interviewed by Lioness Magazine
 date: 2015-04-17 12:00:00 -07:00
-position: 42
+position: 45
 press_url: http://lionessmagazine.com/tara-roth-supports-innovation-at-the-goldhirsh-foundation/
 ---
 

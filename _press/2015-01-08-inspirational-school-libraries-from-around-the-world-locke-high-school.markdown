@@ -1,7 +1,7 @@
 ---
 title: Inspirational school libraries from around the world, Locke High School
 date: 2015-01-08 11:00:00 -08:00
-position: 28
+position: 31
 press_url: http://www.theguardian.com/teacher-network/gallery/2015/jan/08/school-libraries-world-books-gallery
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Leading from the Heart, C-Suite Quarterly
 date: 2016-09-29 12:00:00 -07:00
-position: 79
+position: 82
 press_url: http://csq.com/2016/10/tara-roth-leading-heart/#.WAErZ5MrKRu
 ---
 

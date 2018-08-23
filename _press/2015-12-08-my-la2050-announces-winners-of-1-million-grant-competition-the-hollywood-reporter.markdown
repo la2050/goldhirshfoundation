@@ -2,7 +2,7 @@
 title: My LA2050 Announces Winners of $1 Million Grant Competition, The Hollywood
   Reporter
 date: 2015-12-08 11:00:00 -08:00
-position: 59
+position: 62
 press_url: http://www.hollywoodreporter.com/news/my-la2050-announces-winners-1-846985
 ---
 

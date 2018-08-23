@@ -1,7 +1,7 @@
 ---
 title: She gives away millions at dream job, Larchmont Chronicle
 date: 2014-10-29 12:00:00 -07:00
-position: 23
+position: 26
 press_url: http://issuu.com/larchmontchronicle/docs/lc_issue_11-14_100
 ---
 

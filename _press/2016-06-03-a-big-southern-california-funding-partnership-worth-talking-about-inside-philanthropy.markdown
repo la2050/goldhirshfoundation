@@ -1,7 +1,7 @@
 ---
 title: A Big Southern California Funding Partnership Worth Talking About, Inside Philanthropy
 date: 2016-06-03 12:00:00 -07:00
-position: 70
+position: 73
 press_url: http://www.insidephilanthropy.com/los-angeles/2016/6/3/a-big-southern-california-funding-partnership-worth-talking.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: My LA2050 Wants to Make Sure Los Angeles Grows Creatively
 date: 2016-10-21 12:00:00 -07:00
-position: 81
+position: 84
 press_url: https://www.wearemitu.com/newsfeed/myla2050-wants-to-make-sure-los-angeles-grows-creatively/
 ---
 

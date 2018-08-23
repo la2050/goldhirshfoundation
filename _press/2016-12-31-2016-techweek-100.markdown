@@ -1,7 +1,7 @@
 ---
 title: 2016 Techweek 100
 date: 2016-12-31 11:00:00 -08:00
-position: 86
+position: 89
 press_url: http://techweek.com/techweek100/#tw100_list
 ---
 
