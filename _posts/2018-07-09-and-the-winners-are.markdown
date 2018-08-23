@@ -3,6 +3,8 @@ title: And the winners are...
 date: 2018-07-09 12:00:00 -07:00
 position: 0
 author: Tara Roth
+excerpt: >-
+  Today, the Goldhirsh Foundation has announced the winners of the 2018 My LA2050 Activation Challenge, an open call for ideas designed to activate 100,000 Angelenos to make LA the best place to learn, create, play, connect, and live. A total of $1,000,000 will be awarded evenly among the five selected organizations to carry out their proposals over the next two years. Each organization will receive $200,000 and partnership from LA2050 in support of its efforts. The My LA2050 Grants Challenge is part of LA2050’s effort to drive progress toward a shared vision of success for Los Angeles.
 ---
 
 **LA2050  announces $1,000,000  in grants to five winners  of the My LA2050 Grants Challenge to #ActivateforLA**
