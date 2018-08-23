@@ -2,18 +2,18 @@
 title: Goldhirsh Foundation
 timezone: America/Los_Angeles
 collections:
-  blog:
+  posts:
+    title: Blog
+    output: true
+  jobs:
     title: Jobs
     output: false
-  jobs:
+  blog:
     title: Jobs
     output: false
   press:
     title: Press
     output: false
-  posts:
-    title: Blog
-    output: true
   uploads:
     title: Uploads
     output: true
