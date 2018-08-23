@@ -1,7 +1,7 @@
 ---
 title: L.A. saving water but still has a long way to go, Los Angeles Times
 date: 2015-04-13 12:00:00 -07:00
-position: 40
+position: 39
 press_url: http://www.latimes.com/local/california/la-me-adv-water-use-compared-20150413-story.html
 ---
 

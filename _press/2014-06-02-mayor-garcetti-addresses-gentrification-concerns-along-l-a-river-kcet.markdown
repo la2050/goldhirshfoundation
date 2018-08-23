@@ -1,7 +1,7 @@
 ---
 title: Mayor Garcetti Addresses Gentrification Concerns Along L.A. River, KCET
 date: 2014-06-02 12:00:00 -07:00
-position: 15
+position: 14
 press_url: http://www.kcet.org/socal/departures/lariver/confluence/river-notes/mayor-garcetti-addresses-gentrification-concerns-along-la-river.html
 ---
 

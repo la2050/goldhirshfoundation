@@ -1,7 +1,7 @@
 ---
 title: LA2050 Opens Online Voting for 2014 Grants Challenge, The Hollywood Reporter
 date: 2014-09-02 12:00:00 -07:00
-position: 16
+position: 15
 press_url: http://www.hollywoodreporter.com/news/la2050-opens-online-voting-2014-729662
 ---
 
