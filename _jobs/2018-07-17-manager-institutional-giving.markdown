@@ -1,8 +1,9 @@
 ---
-job_url: 'https://phe.bamboohr.com/jobs/view.php?id=64'
-title: 'Manager, Institutional Giving'
+title: Manager, Institutional Giving
+date: 2018-07-17 00:00:00 -07:00
+job_url: https://phe.bamboohr.com/jobs/view.php?id=64
 organization: Peer Health Exchange
 employment_type: Full Time
-date: 'Tue Jul 17 2018 00:00:00 GMT-0700 (PDT)'
 location: TBD
 ---
+

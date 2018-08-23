@@ -1,8 +1,9 @@
 ---
-job_url: 'https://newschools.theresumator.com/apply/jobs/details/WhvYPvQtlo?'
-title: 'Associate Partner, Ed Tech'
+title: Associate Partner, Ed Tech
+date: 2018-07-19 00:00:00 -07:00
+job_url: https://newschools.theresumator.com/apply/jobs/details/WhvYPvQtlo?
 organization: NewSchools Venture Fund
 employment_type: Full Time
-date: 'Thu Jul 19 2018 00:00:00 GMT-0700 (PDT)'
 location: TBD
 ---
+

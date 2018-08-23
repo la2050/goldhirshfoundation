@@ -1,8 +1,9 @@
 ---
-job_url: 'https://la2050.org/jobs/1473'
 title: Social Innovation and Design Intern
+date: 2018-08-09 00:00:00 -07:00
+job_url: https://la2050.org/jobs/1473
 organization: LA2050 // Goldhirsh Foundation
 employment_type: Part Time
-date: 'Thu Aug 09 2018 00:00:00 GMT-0700 (PDT)'
 location: TBD
 ---
+

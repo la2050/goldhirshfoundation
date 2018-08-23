@@ -1,8 +1,9 @@
 ---
-job_url: 'https://newschools.theresumator.com/apply/jobs/details/XBQzoTNmm9?'
-title: 'Associate Partner, Diverse Leaders'
+title: Associate Partner, Diverse Leaders
+date: 2018-07-19 00:00:00 -07:00
+job_url: https://newschools.theresumator.com/apply/jobs/details/XBQzoTNmm9?
 organization: NewSchools Venture Fund
 employment_type: Full Time
-date: 'Thu Jul 19 2018 00:00:00 GMT-0700 (PDT)'
 location: TBD
 ---
+
