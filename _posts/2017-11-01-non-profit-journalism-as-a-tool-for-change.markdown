@@ -3,8 +3,9 @@ title: Non-profit Journalism as a Tool for Change
 date: 2017-11-01 12:00:00 -07:00
 position: 3
 author: Claire Hoffman
-excerpt: >-
-  Over the last six months, I’ve had the chance to participate in two panels on non\-profit journalism and philanthropy, in partnership with the Synergos’ Global Philanthropists Circle as well as the Philanthropy Workshop
+excerpt: Over the last six months, I’ve had the chance to participate in two panels
+  on non\-profit journalism and philanthropy, in partnership with the Synergos’ Global
+  Philanthropists Circle as well as the Philanthropy Workshop
 ---
 
 **Over the last six months, I’ve had the chance to participate in two panels on non\-profit journalism and philanthropy, in partnership with the [Synergos’ Global Philanthropists Circle](https://www.synergos.org/global-philanthropists-circle) as well as the [Philanthropy Workshop](http://www.tpw.org/).**  

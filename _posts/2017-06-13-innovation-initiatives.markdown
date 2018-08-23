@@ -3,8 +3,11 @@ title: Innovation Initiatives
 date: 2017-06-13 12:00:00 -07:00
 position: 4
 author: Tara Roth
-excerpt: >-
-  Over the past several years, the Federal government has been working with local communities across the country on a wide range of initiatives that support innovation and opportunity. Several of these initiatives are listed below along with links that offer more information. Many have existing communities of practice that are open for new participants to join.s
+excerpt: Over the past several years, the Federal government has been working with
+  local communities across the country on a wide range of initiatives that support
+  innovation and opportunity. Several of these initiatives are listed below along
+  with links that offer more information. Many have existing communities of practice
+  that are open for new participants to join.s
 ---
 
 Over the past several years, the Federal government has been working with local communities across the country on a wide range of initiatives that support innovation and opportunity. Several of these initiatives are listed below along with links that offer more information. Many have existing communities of practice that are open for new participants to join.  

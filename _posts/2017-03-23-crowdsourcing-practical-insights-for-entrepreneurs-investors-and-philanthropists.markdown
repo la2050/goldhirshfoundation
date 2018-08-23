@@ -1,11 +1,15 @@
 ---
-title: "Crowdsourcing: Practical Insights for Entrepreneurs, Investors, and Philanthropists"
+title: 'Crowdsourcing: Practical Insights for Entrepreneurs, Investors, and Philanthropists'
 date: 2017-03-23 12:00:00 -07:00
+tags:
+- Crowdsourcing
 position: 5
 author: Tara Roth
-tags: Crowdsourcing
-excerpt: >-
-  Crowdsourcing involves soliciting input from the public, usually on a digital platform, to address market gaps and surface promising solutions in an open, efficient way. It often has a voting component wherein the top-voted ideas win support. Crowdsourcing uses collective intelligence to help creative ideas rise to the top – while generating a real-time feedback loop and a shared sense of ownership in the project.
+excerpt: Crowdsourcing involves soliciting input from the public, usually on a digital
+  platform, to address market gaps and surface promising solutions in an open, efficient
+  way. It often has a voting component wherein the top-voted ideas win support. Crowdsourcing
+  uses collective intelligence to help creative ideas rise to the top – while generating
+  a real-time feedback loop and a shared sense of ownership in the project.
 ---
 
 Crowdsourcing involves soliciting input from the public, usually on a digital platform, to address market gaps and surface promising solutions in an open, efficient way. It often has a voting component wherein the top\-voted ideas win support. Crowdsourcing uses collective intelligence to help creative ideas rise to the top – while generating a real\-time feedback loop and a shared sense of ownership in the project.

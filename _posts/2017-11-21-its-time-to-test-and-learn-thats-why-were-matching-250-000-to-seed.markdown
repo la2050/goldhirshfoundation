@@ -1,10 +1,15 @@
 ---
 title: It’s Time to Test and Learn. That’s Why We’re Matching $250,000 to SEED.
-date: 2017-11-21 13:14:00 -07:00
+date: 2017-11-21 12:14:00 -08:00
 position: 2
 author: Tara Roth
-excerpt: >-
-  Since its inception, the Goldhirsh Foundation has had a strong track record of supporting innovative models for economic mobility that increase access to capital and promote inclusive entrepreneurship, especially among historically disinvested populations. We believe that entrepreneurship can be one pathway out of poverty. At the same time, we recognize that systemic change, especially in a complex arena like poverty, is a product of investment and exploration across policy, research, and direct service.
+excerpt: Since its inception, the Goldhirsh Foundation has had a strong track record
+  of supporting innovative models for economic mobility that increase access to capital
+  and promote inclusive entrepreneurship, especially among historically disinvested
+  populations. We believe that entrepreneurship can be one pathway out of poverty.
+  At the same time, we recognize that systemic change, especially in a complex arena
+  like poverty, is a product of investment and exploration across policy, research,
+  and direct service.
 ---
 
 **SINCE ITS INCEPTION, **the [Goldhirsh Foundation](http://www.goldhirshfoundation.org/) has had a strong track record of supporting innovative models for economic mobility that increase access to capital and promote inclusive entrepreneurship, especially among historically disinvested populations. We believe that entrepreneurship can be one pathway out of poverty. At the same time, we recognize that systemic change, especially in a complex arena like poverty, is a product of investment and exploration across policy, research, and direct service.

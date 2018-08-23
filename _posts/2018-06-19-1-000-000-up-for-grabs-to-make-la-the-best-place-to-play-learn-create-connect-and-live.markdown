@@ -1,10 +1,15 @@
 ---
-title: $1,000,000 up for Grabs to Make LA the Best Place to Play, Learn, Create, Connect, and Live
+title: "$1,000,000 up for Grabs to Make LA the Best Place to Play, Learn, Create,
+  Connect, and Live"
 date: 2018-06-19 15:22:00 -07:00
 position: 1
 author: Tara Roth
-excerpt: >-
-  Starting today, Angelenos can cast their vote to determine who will win the 2018 My LA2050 Activation Challenge, an open call for ideas that will activate 100,000 Angelenos to make LA the best place to learn, create, play, connect, and live. A total of $1,000,000 will be awarded among five organizations to carry out their proposal. Each organization will receive a total of $200,000 (over two years) and partnership from LA2050 in support of their efforts.
+excerpt: Starting today, Angelenos can cast their vote to determine who will win the
+  2018 My LA2050 Activation Challenge, an open call for ideas that will activate 100,000
+  Angelenos to make LA the best place to learn, create, play, connect, and live. A
+  total of $1,000,000 will be awarded among five organizations to carry out their
+  proposal. Each organization will receive a total of $200,000 (over two years) and partnership
+  from LA2050 in support of their efforts.
 ---
 
 Starting today, Angelenos can cast their vote to determine who will win the 2018 [My LA2050 Activation Challenge](https://activation.la2050.org/ "My LA2050 Activation Challenge"), an open call for ideas that will activate 100,000 Angelenos to make LA the best place to learn, create, play, connect, and live. A total of $1,000,000 will be awarded among five organizations to carry out their proposal. Each organization will receive a total of $200,000 (over two years) and [partnership from LA2050](https://activation.la2050.org/about/#la2050-partnership "partnership from LA2050") in support of their efforts.

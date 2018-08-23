@@ -31,7 +31,7 @@ defaults:
     path: ''
     type: posts
   values:
-    excerpt: ""
+    excerpt: ''
     author: Tara Roth
     layout: post
 - scope:
