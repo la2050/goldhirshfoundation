@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="individual-post">
+  <div id="wrapper" class="block-group">
+    <!-- #wrapper -->
+    <!-- CENTRE COLUMN - MAIN -->
+    <div id="main" class="block">
+      <div class='posts'>
+        <div class='post'>
+          <div class='post-head'>
+            <h2 class='post-headline'><a href='{{ page.url }}'>{{ page.title }}</a></h2>
+            <p class='post-byline'><span class='author'>Posted by <em>{{ page.author }}</em></span> on <span class='date'>{{ page.date | date: "%B %-d, %Y" }}</span></p>
+          </div>
+          <div class='post-body'>
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      <div id='post-author' class='clearfix'>
+        <h4 class='post-author-name'>{{ page.author }} <small>Author</small></h4>
+      </div>
+
+      {% comment %}
+      <div class="next-prev-posts"><p class="prev-post"><span>&lt;</span> <a href="/blog/non-profit-journalism-as-a-tool-for-change/">Non-profit Journalism as a Tool for Change</a></p><p class="next-post"><a href="/blog/1-000-000-up-for-grabs-to-make-la-the-best-place-to-play-learn-create-connect-and-live/">$1,000,000 up for Grabs to Make LA the Best Place to Play, Learn, Create, Connect, and Live</a> <span>&gt;</span></p></div>
+      {% endcomment %}
+
+    </div>
+    <!-- #main -->
+  </div>
+  <!-- end #wrapper -->
+</div>

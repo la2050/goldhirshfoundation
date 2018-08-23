@@ -26,7 +26,7 @@ The winners of the My LA2050 Activation Challenge are:
 **LEARN**
 
 *   [Center for Innovation in STEM Education (CISE)](https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/): The Center for Innovation in STEM Education (CISE) will empower teachers to instruct and inspire students in STEM via a dynamic training and mentoring program. Teachers in LAUSD\-Local District South and Compton USD will be trained and equipped to implement the Next Generation Science Standards and prepare their students for the jobs of the future.
-    
+
 
 **CREATE**
 

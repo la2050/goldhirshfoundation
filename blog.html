@@ -12,7 +12,7 @@ layout: default
   <!-- #wrapper -->
   <!-- CENTRE COLUMN - MAIN -->
   <div id="main" class="block">
-    <h3 class='posts-count'>Post 1 to 6 of 6</h3>
+    <h3 class='posts-count'>Post 1 to {{ site.posts.size }} of {{ site.posts.size }}</h3>
     <div class='posts posts-small'>
 
       {% for post in site.posts %}

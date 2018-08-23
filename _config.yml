@@ -31,9 +31,9 @@ defaults:
     path: ''
     type: posts
   values:
+    excerpt: ""
     author: Tara Roth
-    excerpt: ''
-    layout: default
+    layout: post
 - scope:
     path: ''
     type: jobs
