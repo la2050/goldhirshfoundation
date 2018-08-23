@@ -5,6 +5,6 @@ position: 0
 job_url: https://la2050.org/jobs/1475
 organization: Harbor Freight Tools for Schools
 employment_type: Full Time
-location: Los Angeles
+location: Los Angeles, California
 ---
 

@@ -5,6 +5,6 @@ position: 6
 job_url: https://newschools.theresumator.com/apply/jobs/details/XjimmhRQEm?
 organization: NewSchools Venture Fund
 employment_type: Full Time
-location: TBD
+location: Oakland, California
 ---
 

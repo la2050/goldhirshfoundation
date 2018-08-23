@@ -5,6 +5,6 @@ position: 11
 job_url: https://phe.bamboohr.com/jobs/view.php?id=64
 organization: Peer Health Exchange
 employment_type: Full Time
-location: TBD
+location: Chicago, Illinois
 ---
 
