@@ -2,7 +2,7 @@
 title: Los Angeles Philanthropic Partnership Announces $600,000 in Additional Grants
   to My LA2050 Participants
 date: 2016-03-09 11:00:00 -08:00
-position: 62
+position: 63
 press_url: https://drive.google.com/file/d/0B3d8uMoYWTmNa1IxajBkYjM5Z00/view?usp=sharing
 ---
 

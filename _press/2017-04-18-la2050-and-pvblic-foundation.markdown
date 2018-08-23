@@ -1,7 +1,7 @@
 ---
 title: LA2050 and PVBLIC Foundation
 date: 2017-04-18 12:00:00 -07:00
-position: 91
+position: 92
 press_url: https://www.pvblic.org/goldhirsh
 ---
 

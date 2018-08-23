@@ -2,7 +2,7 @@
 title: Risk-Taking Philanthropy Work Can Make a Big Urban Impact, Next City Profiles
   Shauna Nep
 date: 2015-04-16 12:00:00 -07:00
-position: 40
+position: 41
 press_url: http://nextcity.org/daily/entry/shauna-nep
 ---
 

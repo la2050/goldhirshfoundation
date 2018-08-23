@@ -1,7 +1,7 @@
 ---
 title: A Multi-Pronged Approach to Impact Investing for Family Foundations
 date: 2017-04-12 12:00:00 -07:00
-position: 90
+position: 91
 press_url: http://pndblog.typepad.com/pndblog/2017/04/a-multi-pronged-approach-to-impact-investing-for-family-foundations.html?
 ---
 

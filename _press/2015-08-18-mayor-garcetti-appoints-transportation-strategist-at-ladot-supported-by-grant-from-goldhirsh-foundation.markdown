@@ -2,7 +2,7 @@
 title: Mayor Garcetti Appoints Transportation Strategist at LADOT Supported by Grant
   from Goldhirsh Foundation
 date: 2015-08-18 12:00:00 -07:00
-position: 54
+position: 55
 press_url: http://www.lamayor.org/mayor_garcetti_announces_appointment_of_transportation_technology_strategist_fellow
 ---
 

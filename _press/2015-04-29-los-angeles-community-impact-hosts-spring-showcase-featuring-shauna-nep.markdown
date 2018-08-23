@@ -1,7 +1,7 @@
 ---
 title: Los Angeles Community Impact hosts Spring Showcase featuring Shauna Nep
 date: 2015-04-29 12:00:00 -07:00
-position: 42
+position: 43
 press_url: http://dailytrojan.com/2015/04/29/los-angeles-community-impact-hosts-spring-showcase/
 ---
 
