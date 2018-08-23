@@ -8,9 +8,6 @@ collections:
   jobs:
     title: Jobs
     output: false
-  blog:
-    title: Jobs
-    output: false
   press:
     title: Press
     output: false
