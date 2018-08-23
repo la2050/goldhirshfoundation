@@ -53,7 +53,7 @@ function createMarkdownFile(data, folderName) {
   let month = date.getMonth() + 1
   if (month < 10) {
     month = `0${month}`;
-  }
+  } 
 
   let day = date.getDate()
   if (day < 10) {
@@ -64,13 +64,16 @@ function createMarkdownFile(data, folderName) {
 
   data.date = date.toString() // 2018-08-08 16:54:00 -07:00
 
-  let content = data.body;
-  delete data.body;
+  let output;
 
-  console.dir(data);
+  if (data.body) {
+    let content = data.body;
+    delete data.body;
 
-  // https://www.npmjs.com/package/js-yaml#safedump-object---options-
-  let output =
+    console.dir(data);
+
+    // https://www.npmjs.com/package/js-yaml#safedump-object---options-
+    output =
 `---
 ${yaml.safeDump(data)}
 ---
@@ -78,11 +81,21 @@ ${yaml.safeDump(data)}
 ${content}
 `
 
+  } else {
+    console.dir(data);
+
+    output =
+`---
+${yaml.safeDump(data)}
+---
+`
+  }
+
   mkdirp(writePath, function (err) {
     if (err) {
       console.error(err);
     } else {
-      fs.writeFileSync(writePath + '/' +  filename + '.md', output, 'utf8', (err) => {
+      fs.writeFileSync(writePath + '/' +  filename + '.markdown', output, 'utf8', (err) => {
         if (err) {
           console.log(err);
         }
@@ -107,6 +120,7 @@ function generateCollections(file_name, category) {
 }
 
 
-generateCollections('press.yaml', 'press');
+// generateCollections('press.yaml', 'press');
+generateCollections('jobs.yaml', 'jobs');
 
 

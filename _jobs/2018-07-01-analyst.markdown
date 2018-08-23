@@ -1,0 +1,9 @@
+---
+job_url: >-
+  http://www.collaborativefund.com/blog/calling-others-to-join-collaborative-fund/
+title: Analyst
+organization: Collaborative Fund
+employment_type: Full Time
+date: 'Sun Jul 01 2018 00:00:00 GMT-0700 (PDT)'
+location: TBD
+---
