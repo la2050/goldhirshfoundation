@@ -1,7 +1,7 @@
 ---
 title: Forget the GOP Tax Plan. Stockton Has a Real Solution for Poverty – Free Money
 date: 2017-11-20 11:00:00 -08:00
-position: 97
+position: 98
 press_url: http://www.sacbee.com/opinion/opn-columns-blogs/erika-d-smith/article185683993.html
 ---
 
