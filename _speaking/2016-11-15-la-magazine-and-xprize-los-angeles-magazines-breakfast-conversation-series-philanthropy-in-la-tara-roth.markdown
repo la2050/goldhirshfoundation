@@ -1,9 +1,8 @@
 ---
-date: 'Tue Nov 15 2016 00:00:00 GMT-0800 (PST)'
-details_url: 'http://www.lamag.com/'
-title: >-
-  LA Magazine and XPRIZE, Los Angeles Magazine's Breakfast Conversation Series:
-  Philanthropy in LA,Tara Roth
+title: 'LA Magazine and XPRIZE, Los Angeles Magazine''s Breakfast Conversation Series:
+  Philanthropy in LA,Tara Roth'
+date: 2016-11-15 00:00:00 -08:00
 position: 15
-
+details_url: http://www.lamag.com/
 ---
+

@@ -1,7 +1,7 @@
 ---
-date: 'Nov 16 2017 00:00:00 GMT-0700 (PDT)'
-details_url: 'https://www.eventbrite.com/e/sustainlaco-kick-off-tickets-38597329652'
-title: '#SustainLACo Kickoff, Angie Jean-Marie'
+title: "#SustainLACo Kickoff, Angie Jean-Marie"
+date: 2017-11-16 00:00:00 -08:00
 position: 1
-
+details_url: https://www.eventbrite.com/e/sustainlaco-kick-off-tickets-38597329652
 ---
+

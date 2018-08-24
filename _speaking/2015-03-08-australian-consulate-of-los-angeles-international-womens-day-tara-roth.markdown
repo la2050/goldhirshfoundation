@@ -1,6 +1,6 @@
 ---
-date: 'Sun Mar 08 2015 00:00:00 GMT-0800 (PST)'
-title: 'Australian Consulate of Los Angeles, International Women''s Day, Tara Roth'
+title: Australian Consulate of Los Angeles, International Women's Day, Tara Roth
+date: 2015-03-08 00:00:00 -08:00
 position: 37
-
 ---
+

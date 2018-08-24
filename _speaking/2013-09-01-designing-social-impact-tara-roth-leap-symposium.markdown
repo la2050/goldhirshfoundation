@@ -1,7 +1,7 @@
 ---
-date: 'Sun Sep 01 2013 00:00:00 GMT-0700 (PDT)'
-details_url: 'http://leapsymposium.org/speaker-lineup/tara-roth-mcconaghy/'
-title: 'Designing Social Impact, Tara Roth,  LEAP Symposium'
+title: Designing Social Impact, Tara Roth,  LEAP Symposium
+date: 2013-09-01 00:00:00 -07:00
 position: 72
-
+details_url: http://leapsymposium.org/speaker-lineup/tara-roth-mcconaghy/
 ---
+

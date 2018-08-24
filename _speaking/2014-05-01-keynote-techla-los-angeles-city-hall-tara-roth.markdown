@@ -1,7 +1,7 @@
 ---
-date: 'Thu May 01 2014 00:00:00 GMT-0700 (PDT)'
-details_url: 'http://techla2014.com'
-title: 'Keynote, TechLA, Los Angeles City Hall, Tara Roth'
+title: Keynote, TechLA, Los Angeles City Hall, Tara Roth
+date: 2014-05-01 00:00:00 -07:00
 position: 50
-
+details_url: http://techla2014.com
 ---
+

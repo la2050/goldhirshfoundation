@@ -1,7 +1,7 @@
 ---
-date: 'Thu Dec 01 2016 00:00:00 GMT-0800 (PST)'
-details_url: 'http://www.makechangeawards.com/'
-title: 'MakeChange Awards, Afternoon Keynote, Angie Jean-Marie'
+title: MakeChange Awards, Afternoon Keynote, Angie Jean-Marie
+date: 2016-12-01 00:00:00 -08:00
 position: 13
-
+details_url: http://www.makechangeawards.com/
 ---
+

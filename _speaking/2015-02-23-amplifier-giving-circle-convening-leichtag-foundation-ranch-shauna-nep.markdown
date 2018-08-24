@@ -1,6 +1,6 @@
 ---
-date: 'Mon Feb 23 2015 00:00:00 GMT-0800 (PST)'
-title: 'Amplifier Giving Circle Convening, Leichtag Foundation Ranch, Shauna Nep'
+title: Amplifier Giving Circle Convening, Leichtag Foundation Ranch, Shauna Nep
+date: 2015-02-23 00:00:00 -08:00
 position: 38
-
 ---
+

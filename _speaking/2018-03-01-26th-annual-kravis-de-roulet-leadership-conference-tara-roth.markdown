@@ -1,7 +1,7 @@
 ---
-date: 'Thu Mar 01 2018 00:00:00 GMT-0800 (PST)'
-details_url: 'https://www.kravisleadershipinstitute.org/kravis-de-roulet-conference/'
-title: '26th Annual Kravis De-Roulet Leadership Conference, Tara Roth'
+title: 26th Annual Kravis De-Roulet Leadership Conference, Tara Roth
+date: 2018-03-01 00:00:00 -08:00
 position: 0
-
+details_url: https://www.kravisleadershipinstitute.org/kravis-de-roulet-conference/
 ---
+

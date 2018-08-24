@@ -1,7 +1,7 @@
 ---
-date: 'Sun Jun 01 2014 00:00:00 GMT-0700 (PDT)'
-details_url: 'http://www.lasbest.org'
-title: 'LA''s BEST Friends Board meeting, Ki''tay Davidson'
+title: LA's BEST Friends Board meeting, Ki'tay Davidson
+date: 2014-06-01 00:00:00 -07:00
 position: 48
-
+details_url: http://www.lasbest.org
 ---
+

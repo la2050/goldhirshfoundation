@@ -1,9 +1,8 @@
 ---
-date: 'Wed Apr 16 2014 00:00:00 GMT-0700 (PDT)'
-details_url: 'http://innovate.berkeley.edu/'
-title: >-
-  Designing Innovative Public Health Solutions, School of Public Health,
-  University of California, Berkeley, Shauna Nep
+title: Designing Innovative Public Health Solutions, School of Public Health, University
+  of California, Berkeley, Shauna Nep
+date: 2014-04-16 00:00:00 -07:00
 position: 51
-
+details_url: http://innovate.berkeley.edu/
 ---
+

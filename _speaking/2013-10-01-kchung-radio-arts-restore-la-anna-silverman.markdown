@@ -1,7 +1,7 @@
 ---
-date: 'Tue Oct 01 2013 00:00:00 GMT-0700 (PDT)'
-details_url: 'http://hammer.ucla.edu/programs/detail/program_id/1986'
-title: 'KCHUNG Radio, Arts ReSTORE LA, Anna Silverman'
+title: KCHUNG Radio, Arts ReSTORE LA, Anna Silverman
+date: 2013-10-01 00:00:00 -07:00
 position: 69
-
+details_url: http://hammer.ucla.edu/programs/detail/program_id/1986
 ---
+

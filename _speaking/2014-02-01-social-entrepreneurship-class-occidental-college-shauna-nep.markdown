@@ -1,6 +1,6 @@
 ---
-date: 'Sat Feb 01 2014 00:00:00 GMT-0800 (PST)'
-title: 'Social Entrepreneurship Class, Occidental College, Shauna Nep'
+title: Social Entrepreneurship Class, Occidental College, Shauna Nep
+date: 2014-02-01 00:00:00 -08:00
 position: 59
-
 ---
+

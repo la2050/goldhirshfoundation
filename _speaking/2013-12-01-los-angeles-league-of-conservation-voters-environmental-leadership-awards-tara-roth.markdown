@@ -1,9 +1,8 @@
 ---
-date: 'Sun Dec 01 2013 00:00:00 GMT-0800 (PST)'
-details_url: 'http://www.ecovote.org/awards'
-title: >-
-  Los Angeles League of Conservation Voters Environmental Leadership Awards,
+title: Los Angeles League of Conservation Voters Environmental Leadership Awards,
   Tara Roth
+date: 2013-12-01 00:00:00 -08:00
 position: 63
-
+details_url: http://www.ecovote.org/awards
 ---
+

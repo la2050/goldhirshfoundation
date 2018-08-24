@@ -9,10 +9,6 @@ collections:
     title: Jobs
     output: false
     permalink: "/jobs/:year/:month/:day/:title/"
-  speaking:
-    title: Speaking
-    output: false
-    permalink: "/speaking/:year/:month/:day/:title/"
   opportunities:
     title: Opportunities
     output: false
@@ -21,6 +17,10 @@ collections:
     title: Press
     output: false
     permalink: "/press/:year/:month/:day/:title/"
+  speaking:
+    title: Speaking
+    output: false
+    permalink: "/speaking/:year/:month/:day/:title/"
   uploads:
     title: Uploads
     output: true

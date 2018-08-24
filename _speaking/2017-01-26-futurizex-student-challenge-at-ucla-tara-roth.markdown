@@ -1,7 +1,7 @@
 ---
-date: 'Thu Jan 26 2017 00:00:00 GMT-0800 (PST)'
-details_url: 'http://futurizex.ucla.edu/student-challenge/'
-title: 'FuturizeX Student Challenge at UCLA, Tara Roth'
+title: FuturizeX Student Challenge at UCLA, Tara Roth
+date: 2017-01-26 00:00:00 -08:00
 position: 11
-
+details_url: http://futurizex.ucla.edu/student-challenge/
 ---
+
