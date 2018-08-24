@@ -5,10 +5,12 @@
   "author": "jim@jimthoburn.com",
   "scripts": {
     "markdown:create": "node ./create-markdown.js",
-    "markdown:update": "node ./update-markdown.js"
+    "markdown:update": "node ./update-markdown.js",
+    "markdown:export": "node ./export-markdown.js"
   },
   "devDependencies": {
     "csv-parse": "^2.1.0",
+    "csv-stringify": "^3.1.1",
     "js-yaml": "^3.10.0",
     "mkdirp": "^0.5.1"
   }

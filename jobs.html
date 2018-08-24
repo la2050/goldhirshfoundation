@@ -1,303 +1,52 @@
 ---
-layout: 
+layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-
-<title>Goldhirsh Foundation - Jobs</title>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="The Goldhirsh Foundation connects the dots between the best emerging innovations and the financial, social, and human capital to make them thrive.">
-<meta name="keywords" content="foundation, innovation, innovator, sustainability, activation, opportunity, goldhirsh">
-
-<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/a3879324-0676-4a49-a21e-a021934d1a6a.css"/>
-
-<link href="/assets/css/bootstrap_custom.min.css" rel="stylesheet">
-<link href="/assets/css/ghf.css" rel="stylesheet">
-<!--[if lt IE 9]>
-<link href="/assets/css/ie.css" rel="stylesheet">
-<![endif]-->
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<link rel="shortcut icon" href="/assets/ico/favicon.ico">
-
-<meta name="google-site-verification" content="OQbPN7vmr5v69iC3FhivQ0A9CFdLojFYziRCCnHoqLg" />
-
-</head>
-
-<body class="page-jobs">
-<div class="wrap">
-<div id="main" class="container">
-	<div class="row">
-		<div class="span12 nav-container">
-			
-<div id="mobile-logo" class="hidden">
-		<a href="/"><img src="/assets/img/ghf-logo-dark@x2.png" alt="GOLDHIRSH FOUNDATION" id="ghf-logo-mobile"></a>
-	</div>
-<ul id="nav">
-		 		<li class="nav-home">
-				<a href="/"><img src="/assets/img/ghf-logo-dark@x2.png" alt="GOLDHIRSH FOUNDATION" id="ghf-logo"></a>
-		</li>
-				<li class=" nav-vision"> 
-				<a href="/vision/">Vision</a> 
-		</li>
-		<li class=" nav-initiatives"> 
-				<a href="/initiatives/">Initiatives</a> 
-		</li>
-		<li class=" nav-about"> 
-				<a href="/about/">About</a> 
-		</li>
-		<li class=" nav-la2050"> 
-				<a href="/la2050/">LA2050</a> 
-		</li>
-		<li class=" nav-resources"> 
-				<a href="/resources/">Resources</a> 
-		</li>
-		<li class="current nav-jobs"> 
-				<a href="/jobs/">Jobs</a> 
-		</li>
-		<li class=" nav-blog"> 
-				<a href="/blog/">Blog</a> 
-		</li>
-</ul>
-		</div>
-	</div>
 <div class="row">
-    <div class="span12">
-        <div class="title-block">
-            <h1 class="title">Jobs</h1>
+  <div class="span12">
+    <div class="title-block">
+      <h1 class="title">Jobs</h1>
+      <p>The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.</p>
+      <p>Have a job to share? Email us: <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org</a>.</p>
+    </div>
 
-            <p>The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.</p>
-<p>Have a job to share? Email us: <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org</a>.</p>        </div>
+    <div id="four-column-table" class="four-column-table four-column-table--actually-five-columns clearfix">
 
-                    <div id="four-column-table" class="four-column-table four-column-table--actually-five-columns clearfix">
-                <div class="table-row table-head clearfix">
-                    <div class="col-md-3">Position</div>
-                    <div class="col-md-3">Organization</div>
-                    <div class="col-md-2">Employment Type</div>
-                    <div class="col-md-2">Date Posted</div>
-                    <div class="col-md-2">Location</div>
-                </div>
-                <div class="table-content">
+      <div class="table-row table-head clearfix">
+        <div class="col-md-3">Position</div>
+        <div class="col-md-3">Organization</div>
+        <div class="col-md-2">Employment Type</div>
+        <div class="col-md-2">Date Posted</div>
+        <div class="col-md-2">Location</div>
+      </div>
 
-{% assign data_collection = site.collections | where: "label", "jobs" | first %}
-{% assign data_list = data_collection.docs | reverse %}
+      <div class="table-content">
 
-{% for data in data_list %}
+        {% comment %} Get jobs from a spreadsheet {% endcomment %}
+        {% assign data_list = site.data['jobs'] %}
 
-<div class="table-row clearfix">
-    <div class="col-md-3 green-content"><a href="{{ data.job_url }}" target="_blank" rel="noopener">{{ data.title }}</a></div>
-    <div class="col-md-3">{{ data.organization }}</div>
-    <div class="col-md-2">{{ data.employment_type }}</div>
-    <div class="col-md-2">{{ data.date | date: "%B %-d, %Y" }}</div>
-    <div class="col-md-2">{{ data.location }}</div>
+        {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
+        {% unless data_list and data_list.size > 0 %}
+          {% assign data_collection = site.collections | where: "label", "jobs" | first %}
+          {% assign data_list = data_collection.docs | reverse %}
+        {% endunless %}
+
+        {% for data in data_list %}
+
+        <div class="table-row clearfix">
+          <div class="col-md-3 green-content"><a href="{{ data.job_url }}">{{ data.title }}</a></div>
+          <div class="col-md-3">{{ data.organization }}</div>
+          <div class="col-md-2">{{ data.employment_type }}</div>
+          <div class="col-md-2">{{ data.date | date: "%B %-d, %Y" }}</div>
+          <div class="col-md-2">{{ data.location }}</div>
+        </div>
+
+        {% endfor %}
+
+      </div>
+      {% comment %}
+      <div class="table_navigation page_navigation"></div>
+      {% endcomment %}
+    </div>
+  </div>
 </div>
-
-{% endfor %}
-
-
-<!--
-
-<div class="table-row clearfix">
-    <div class="col-md-3 green-content"><a href = "https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit" target="_blank">Entrepreneur-in-Residence</a></div>
-    <div class="col-md-3">New Media Ventures</div>
-    <div class="col-md-2">Part Time</div>
-    <div class="col-md-2">July 25, 2018</div>
-    <div class="col-md-2">Oakland, CA or remote</div>
-</div>
-
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://www.1degree.org/about/join/vp-of-program/?p=BL-OPN-ALL-NL61-2017-JUL-26-LAPress" target="_blank">Vice President of Program</a></div>
-                            <div class="col-md-3">One Degree</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 23, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://newschools.theresumator.com/apply/jobs/details/XjimmhRQEm?" target="_blank">Associate Partner (Selection), Innovative Schools</a></div>
-                            <div class="col-md-3">NewSchools Venture Fund</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 19, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://newschools.theresumator.com/apply/jobs/details/7Er2otIS5V?" target="_blank">Associate Partner (Relationships), Innovative Schools</a></div>
-                            <div class="col-md-3">NewSchools Venture Fund</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 19, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://newschools.theresumator.com/apply/jobs/details/XBQzoTNmm9?" target="_blank">Associate Partner, Diverse Leaders</a></div>
-                            <div class="col-md-3">NewSchools Venture Fund</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 19, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://newschools.theresumator.com/apply/jobs/details/uuQUVGEjLP?" target="_blank">Communications Manager</a></div>
-                            <div class="col-md-3">NewSchools Venture Fund</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 19, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="https://newschools.theresumator.com/apply/jobs/details/WhvYPvQtlo?" target= "_blank">Associate Partner, Ed Tech</a></div>
-                            <div class="col-md-3">NewSchools Venture Fund</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 19, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://phe.bamboohr.com/jobs/view.php?id=64" target="_blank">Manager, Institutional Giving</a></div>
-                            <div class="col-md-3">Peer Health Exchange</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 17, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="https://phe.bamboohr.com/jobs/view.php?id=60" target= "_blank">Program Manager</a></div>
-                            <div class="col-md-3">Peer Health Exchange</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 17, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="https://phe.bamboohr.com/jobs/view.php?id=61" target= "_blank">Associate, Institutional Giving</a></div>
-                            <div class="col-md-3">Peer Health Exchange</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 17, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="http://www.collaborativefund.com/blog/calling-others-to-join-collaborative-fund/" target= "_blank">Analyst</a></div>
-                            <div class="col-md-3">Collaborative Fund</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">July 1, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="https://scopely.com/join-us/" target= "_blank">Director of Platform Partnerships</a></div>
-                            <div class="col-md-3">Scopely</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">June 18, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="https://www.truelinkfinancial.com/career/product-manager-2" target= "_blank">Product Manager</a></div>
-                            <div class="col-md-3">True Link Financial</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">June 18, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="https://ltse.com/careers" target= "_blank">Director of Financial Markets and Policy</a></div>
-                            <div class="col-md-3">Long Term Stock Exchange</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">June 18, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href="http://la2050.org/jobs/1395" target= "_blank">Associate</a></div>
-                            <div class="col-md-3">Core Innovation Capital</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">June 6, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "http://la2050.org/jobs/1382" target="_blank">Social Innovation and Design Intern</a></div>
-                            <div class="col-md-3">Goldhirsh Foundation</div>
-                            <div class="col-md-2">Part Time</div>
-                            <div class="col-md-2">May 31, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
-                                            <div class="table-row clearfix">
-                            <div class="col-md-3 green-content"><a href = "https://www.la2050.org/jobs/1379" target="_blank">Chief Development Officer</a></div>
-                            <div class="col-md-3">After-School All-Stars</div>
-                            <div class="col-md-2">Full Time</div>
-                            <div class="col-md-2">May 31, 2018</div>
-                            <div class="col-md-2"><i>TBD</i></div>
-                        </div>
--->
-                                    </div>
-
-
-                <div class="table_navigation page_navigation"></div>
-            </div>
-            </div>
-</div>
-
-</div> <!-- /container -->
-<div class="push"></div>
-</div>
-
-<div id="footer">
-<div class="container">
-	<div class="row footer-container">
-		<div class="span4 footer-contact">
-			<p class="footer-mark">THE GOLDHIRSH FOUNDATION</p>
-			<p class="footer-address">6380 WILSHIRE BOULEVARD, 15TH FLOOR, LOS ANGELES, CA 90048</p>
-		</div>
-		<div class="span8 footer-nav">
-			<ul id="footer-nav">
-				<li> 
-					<a href="/vision/" class="">Vision</a> 
-				</li>
-				<li> 
-					<a href="/initiatives/" class="">Initiatives</a> 
-				</li>
-				<li> 
-					<a href="/about/" class="">About</a> 
-				</li>
-				<li> 
-					<a href="/la2050/" class="">LA2050</a> 
-				</li>
-				<li> 
-					<a href="/resources/" class="">Resources</a> 
-				</li>
-				<li> 
-					<a href="/jobs/" class="current">Jobs</a> 
-				</li>
-				<li> 
-					<a href="/blog/" class="">Blog</a> 
-				</li>
-			</ul>
-		</div>
-	</div>
-	<div class="row footer-social-container">
-		<div class="span12 footer-social">
-			<ul>
-				<li> 
-					<a class="footer-social-button footer-facebook" href="https://www.facebook.com/GoldhirshFoundation"></a>
-				</li>
-				<li>
-					<a class="footer-social-button footer-twitter" href="https://twitter.com/goldhirshfndtn"></a>
-				</li>
-			</ul>
-		</div>
-	</div>
-</div>
-</div>
-
-<script src="/assets/js/libs/jquery-1.8.0.min.js"></script>
-<script src="/assets/js/plugins.js"></script>
-<script src="/assets/js/main.js"></script>
-
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-38923310-1']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
-</body>
-</html>
