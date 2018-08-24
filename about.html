@@ -113,9 +113,9 @@ layout: default
             {{ data.date | date: "%Y" }}
           </div>
           <div class="press-text-wrapper">
-            <a href="{{ post.press_url }}" target="_blank" class="press-title press-item-toggle">{{ data.title }}</a>
+            <a href="{{ post.details_url }}" target="_blank" class="press-title press-item-toggle">{{ data.title }}</a>
             <p class="press-text">{{ data.content | strip_html }}</p>
-            <a href="{{ post.press_url }}" target="_blank" class="read-more press-item-toggle">Read More</a>
+            <a href="{{ post.details_url }}" target="_blank" class="read-more press-item-toggle">Read More</a>
             <div class="clear"></div>
           </div>
           <div class="clear"></div>

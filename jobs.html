@@ -36,7 +36,7 @@ layout: default
         {% for data in data_list %}
 
         <div class="table-row clearfix">
-          <div class="col-md-3 green-content"><a href="{{ data.job_url }}">{{ data.title }}</a></div>
+          <div class="col-md-3 green-content"><a href="{{ data.details_url }}">{{ data.title }}</a></div>
           <div class="col-md-3">{{ data.organization }}</div>
           <div class="col-md-2">{{ data.employment_type }}</div>
           <div class="col-md-2">{{ data.date | date: "%B %-d, %Y" }}</div>

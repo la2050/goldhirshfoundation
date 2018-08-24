@@ -33,7 +33,7 @@ defaults:
     path: ''
     type: press
   values:
-    press_url: ''
+    details_url: ''
     layout: default
 - scope:
     path: ''
@@ -58,7 +58,7 @@ defaults:
     path: ''
     type: jobs
   values:
-    job_url: ''
+    details_url: ''
     organization: ''
     employment_type: ''
     location: ''
