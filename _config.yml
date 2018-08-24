@@ -9,6 +9,14 @@ collections:
     title: Jobs
     output: false
     permalink: "/jobs/:year/:month/:day/:title/"
+  speaking:
+    title: Speaking
+    output: false
+    permalink: "/speaking/:year/:month/:day/:title/"
+  opportunities:
+    title: Opportunities
+    output: false
+    permalink: "/opportunities/:year/:month/:day/:title/"
   press:
     title: Press
     output: false
@@ -26,6 +34,18 @@ defaults:
     type: press
   values:
     press_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: speaking
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: opportunities
+  values:
+    details_url: ''
     layout: default
 - scope:
     path: ''

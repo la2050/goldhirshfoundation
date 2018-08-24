@@ -128,4 +128,5 @@ function updateMarkdownFiles(folder) {
 // updateMarkdownFiles('../_jobs');
 // updateMarkdownFiles('../_press');
 // updateMarkdownFiles('../_posts');
-
+updateMarkdownFiles('../_opportunities');
+updateMarkdownFiles('../_speaking');

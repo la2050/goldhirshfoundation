@@ -91,8 +91,16 @@ layout: default
     <div class="pagination-list" id="pagination-list">
       <div class="pagination-content">
 
-        {% assign data_collection = site.collections | where: "label", "press" | first %}
-        {% assign data_list = data_collection.docs | reverse %}
+        {% assign collection_name = "press" %}
+
+        {% comment %} Get data from a spreadsheet {% endcomment %}
+        {% assign data_list = site.data[collection_name] %}
+
+        {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
+        {% unless data_list and data_list.size > 0 %}
+          {% assign data_collection = site.collections | where: "label", collection_name | first %}
+          {% assign data_list = data_collection.docs | reverse %}
+        {% endunless %}
 
         {% for data in data_list %}
 

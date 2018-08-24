@@ -22,12 +22,14 @@ layout: default
 
       <div class="table-content">
 
-        {% comment %} Get jobs from a spreadsheet {% endcomment %}
-        {% assign data_list = site.data['jobs'] %}
+        {% assign collection_name = "jobs" %}
+
+        {% comment %} Get data from a spreadsheet {% endcomment %}
+        {% assign data_list = site.data[collection_name] %}
 
         {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
         {% unless data_list and data_list.size > 0 %}
-          {% assign data_collection = site.collections | where: "label", "jobs" | first %}
+          {% assign data_collection = site.collections | where: "label", collection_name | first %}
           {% assign data_list = data_collection.docs | reverse %}
         {% endunless %}
 

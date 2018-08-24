@@ -121,6 +121,8 @@ function generateCollections(file_name, category) {
 
 
 // generateCollections('press.yaml', 'press');
-generateCollections('jobs.yaml', 'jobs');
+// generateCollections('jobs.yaml', 'jobs');
+generateCollections('speaking.yaml', 'speaking');
+generateCollections('opportunities.yaml', 'opportunities');
 
 

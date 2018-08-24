@@ -28,7 +28,7 @@ function getContent(text, filename) {
   if (items.length === 3) {
     // If the content isn’t just whitespace
     if (items[2].replace(/\s/g, "").replace(/\n/g, "") != "") {
-      return items[2]
+      return items[2].trim()
     }
   } else {
     console.log('unexpected markdown format detected')
@@ -219,21 +219,13 @@ function getRecords(folder) {
 }
 
 
-// const categories = ["learn", "create", "play", "connect", "live"]
-
-// let records = []
-// categories.forEach(category => {
-//   let next = getRecords(`../_${category}`)
-//   records = records.concat(next)
-// })
 
 const writePath = "../_data_from_markdown/"
+const collections = ["jobs", "press", "opportunities", "speaking"]
 
-let collection = "jobs"
-
-let records = getRecords(`../_${collection}`)
-
-saveCSVFile(  writePath, collection, records )
-saveYAMLFile( writePath, collection, records )
-
+collections.forEach(collection => {
+  let records = getRecords(`../_${collection}`)
+  saveCSVFile(  writePath, collection, records )
+  saveYAMLFile( writePath, collection, records )
+})
 
