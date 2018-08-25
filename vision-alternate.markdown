@@ -1,10 +1,10 @@
 ---
-title: Our Vision (with data)
+title: Vision (with data)
 position: 8
 layout: default
 ---
 
-# Our Vision
+# Vision
 
 ![](/assets/img/vision_lattice@x2.png)
 
