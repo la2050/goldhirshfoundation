@@ -4,7 +4,6 @@ position: 8
 layout: default
 ---
 
-
 We connect the dots between the best **emerging innovations** and the **financial**, **social**, and **human** capital to make them thrive.
 
 ![](/assets/img/vision_lattice@x2.png)
