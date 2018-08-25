@@ -5,6 +5,7 @@ collections:
   posts:
     title: Blog
     output: true
+    permalink: "/blog/:year/:month/:day/:title/"
   capital:
     title: Capital
     output: false
@@ -29,6 +30,10 @@ collections:
     title: Speaking
     output: false
     permalink: "/speaking/:year/:month/:day/:title/"
+  team:
+    title: Team
+    output: false
+    permalink: "/team/:title/"
   uploads:
     title: Uploads
     output: true
@@ -42,7 +47,7 @@ defaults:
     type: posts
   values:
     excerpt: ''
-    author: Tara Roth
+    author: ''
     layout: post
 - scope:
     path: ''
@@ -83,6 +88,13 @@ defaults:
     type: speaking
   values:
     details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: team
+  values:
+    image: ''
+    twitter_username: ''
     layout: default
 exclude:
 - README
