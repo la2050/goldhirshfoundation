@@ -12,6 +12,106 @@ media_folder: "uploads" # Media files will be stored in the repo under images/up
 # public_folder: "/assets/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 # If public_folder is not set, Netlify CMS will default to the same value as media_folder, adding an opening / if one is not included.
 
+collections:
+- 
+  name: "pages"
+  label: "Pages"
+  files:
+  - 
+    label: "Initiatives"
+    name: "initiatives-alternate"
+    file: "initiatives-alternate.markdown"
+    fields:
+    - 
+      label: Title
+      name: title
+      widget: string
+    - 
+      label: body_class
+      name: body_class
+      widget: hidden
+    - 
+      label: Body
+      name: body
+      widget: markdown
+- 
+  name: "blog" # Used in routes, e.g., /admin/collections/blog
+  label: "Blog" # Used in the UI
+  folder: "_posts" # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  fields: # The fields for each document, usually in front matter
+  - 
+    label: Layout
+    name: layout
+    widget: hidden
+    default: post
+  - 
+    label: Title
+    name: title
+    widget: string
+  - 
+    label: Publish Date
+    name: date
+    widget: datetime
+  - 
+    label: Position
+    name: position
+    widget: hidden
+  - 
+    label: Author
+    name: author
+    widget: text
+  - 
+    label: Excerpt
+    name: excerpt
+    widget: text
+  - 
+    tags: Tags
+    name: tags
+    widget: hidden
+  - 
+    label: Body
+    name: content
+    widget: markdown
+- 
+  name: "jobs"
+  label: "Jobs"
+  create: false # Allow users to create new documents in this collection
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  folder: "_jobs"
+  fields:
+  - 
+    label: Title
+    name: title
+    widget: string
+  - 
+    label: Date
+    name: date
+    widget: datetime
+  - 
+    label: Position
+    name: position
+    widget: hidden
+  - 
+    label: Details URL
+    name: details_url
+    widget: text
+  - 
+    label: Organization Name
+    name: organization
+    widget: string
+  - 
+    label: Employment Type (Part Time or Full Time)
+    name: employment_type
+    widget: string
+  - 
+    label: Location
+    name: location
+    widget: string
+
+
+
 # collections:
 #   - name: "blog" # Used in routes, e.g., /admin/collections/blog
 #     label: "Blog" # Used in the UI
@@ -26,69 +126,8 @@ media_folder: "uploads" # Media files will be stored in the repo under images/up
 #       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
 #       - {label: "Body", name: "body", widget: "markdown"}
 
-collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "_posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - label: Position
-        name: position
-        widget: hidden
-      - label: Author
-        name: author
-        widget: text
-      - label: Excerpt
-        name: excerpt
-        widget: text
-      - tags: Tags
-        name: tags
-        widget: hidden
-      - {label: "Body", name: "content", widget: "markdown"}
 # - {label: "Featured Image", name: "thumbnail", widget: "image"}
 # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-  - name: "jobs" # Used in routes, e.g., /admin/collections/blog
-    label: "Jobs" # Used in the UI
-    folder: "_jobs" # The path to the folder where the documents are stored
-    fields: # The fields for each document, usually in front matter
-    - label: Date
-      name: date
-      widget: "datetime"
-    - label: Position
-      name: position
-      widget: hidden
-    - label: Details URL
-      name: details_url
-      widget: text
-    - label: Organization Name
-      name: organization
-      widget: string
-    - label: Employment Type (Part Time or Full Time)
-      name: employment_type
-      widget: string
-    - label: Location
-      name: location
-      widget: string
-  - name: "pages"
-    label: "Pages"
-    files:
-    - label: "Initiatives"
-      name: "initiatives-alternate"
-      file: "initiatives-alternate.markdown"
-      fields:
-      - label: Title
-        name: title
-        widget: string
-      - label: body_class
-        name: body_class
-        widget: hidden
-      - label: Body
-        name: body
-        widget: markdown
 #  - name: "settings"
 #    label: "Settings"
 #    files:
@@ -105,3 +144,4 @@ collections:
 #              min: 1,
 #              max: 8
 #            }
+
