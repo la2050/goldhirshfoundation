@@ -11,7 +11,7 @@ https://goldhirshfoundation.org
 
 ## How to make changes
 
-The website is published with [GitHub Pages](https://pages.github.com) and the files are generated with [Jekyll](http://jekyllrb.com).
+The website is published with [GitHub Pages](https://pages.github.com) and the files are generated with [Jekyll](https://jekyllrb.com).
 
 As you make changes and commit/push them to GitHub, the [website](https://goldhirshfoundation.org) will automatically update.
 
