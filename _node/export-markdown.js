@@ -159,7 +159,7 @@ function saveCSVFile(writePath, filename, records) {
       if (err) {
         console.error(err);
       } else {
-        fs.writeFileSync(writePath + '/' +  filename + '.csv', output, 'utf8', (err) => {
+        fs.writeFileSync(writePath + '/' +  filename + '__not_in_use.csv', output, 'utf8', (err) => {
           if (err) {
             console.log(err);
           }
@@ -176,7 +176,7 @@ function saveYAMLFile(writePath, filename, records) {
     if (err) {
       console.error(err);
     } else {
-      fs.writeFileSync(writePath + '/' +  filename + '.yaml', output, 'utf8', (err) => {
+      fs.writeFileSync(writePath + '/' +  filename + '__not_in_use.yaml', output, 'utf8', (err) => {
         if (err) {
           console.log(err);
         }
@@ -214,7 +214,7 @@ function getRecords(folder) {
 
 
 
-const writePath = "../_data_from_markdown/"
+const writePath = "../_data/"
 const collections = ["jobs", "press", "opportunities", "speaking", "initiatives", "capital"]
 
 collections.forEach(collection => {
