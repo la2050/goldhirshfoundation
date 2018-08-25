@@ -77,7 +77,7 @@ collections:
 - 
   name: "jobs"
   label: "Jobs"
-  create: false # Allow users to create new documents in this collection
+  create: true # Allow users to create new documents in this collection
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   folder: "_jobs"
   fields:
