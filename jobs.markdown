@@ -1,55 +1,8 @@
 ---
 title: Jobs
-layout: default
+layout: jobs
 ---
 
-<div class="row">
-  <div class="span12">
-    <div class="title-block">
-      <h1 class="title">Jobs</h1>
-      <p>The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.</p>
-      <p>Have a job to share? Email us: <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org</a>.</p>
-    </div>
+The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.
 
-    <div id="four-column-table" class="four-column-table four-column-table--actually-five-columns clearfix">
-
-      <div class="table-row table-head clearfix">
-        <div class="col-md-3">Position</div>
-        <div class="col-md-3">Organization</div>
-        <div class="col-md-2">Employment Type</div>
-        <div class="col-md-2">Date Posted</div>
-        <div class="col-md-2">Location</div>
-      </div>
-
-      <div class="table-content">
-
-        {% assign collection_name = "jobs" %}
-
-        {% comment %} Get data from a spreadsheet {% endcomment %}
-        {% assign data_list = site.data[collection_name] %}
-
-        {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
-        {% unless data_list and data_list.size > 0 %}
-          {% assign data_collection = site.collections | where: "label", collection_name | first %}
-          {% assign data_list = data_collection.docs | sort: "position" %}
-        {% endunless %}
-
-        {% for data in data_list %}
-
-        <div class="table-row clearfix">
-          <div class="col-md-3 green-content"><a href="{{ data.details_url }}">{{ data.title }}</a></div>
-          <div class="col-md-3">{{ data.organization }}</div>
-          <div class="col-md-2">{{ data.employment_type }}</div>
-          <div class="col-md-2">{{ data.date | date: "%B %-d, %Y" }}</div>
-          <div class="col-md-2">{{ data.location }}</div>
-        </div>
-
-        {% endfor %}
-
-      </div>
-      {% comment %}
-      <div class="table_navigation page_navigation"></div>
-      {% endcomment %}
-    </div>
-  </div>
-</div>
+Have a job to share? Email us: [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
