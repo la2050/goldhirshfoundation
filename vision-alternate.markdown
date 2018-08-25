@@ -1,5 +1,5 @@
 ---
-title: Our Vision
+title: Our Vision (alternate)
 position: 8
 layout: default
 ---
