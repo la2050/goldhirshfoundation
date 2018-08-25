@@ -8,4 +8,4 @@ details_url: http://mayorsfundla.org
 organization: Los Angeles Mayor’s Fund
 ---
 
-Through the Brand LA initiative, the Mayor's Fund engaged with branding experts and creative thinkers at 72andSunny and the Mayor's Office of Economic Development, to develop a consistent and revitalized identity for Los Angeles. This program, <a href="https://www.laoriginal.com">LA Original</a>, celebrates LA as the creative capital of the world, showcasing LA's manufacturers, makers, and entrepreneurs.
+Through the Brand LA initiative, the Mayor's Fund engaged with branding experts and creative thinkers at 72andSunny and the Mayor's Office of Economic Development, to develop a consistent and revitalized identity for Los Angeles. This program, [LA Original](https://www.laoriginal.com), celebrates LA as the creative capital of the world, showcasing LA's manufacturers, makers, and entrepreneurs.

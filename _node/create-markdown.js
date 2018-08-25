@@ -129,6 +129,6 @@ function generateCollections(file_name, category) {
 // generateCollections('jobs.yaml', 'jobs');
 // generateCollections('speaking.yaml', 'speaking');
 // generateCollections('opportunities.yaml', 'opportunities');
-generateCollections('capital.yaml', 'capital');
-generateCollections('initiatives.yaml', 'initiatives');
+// generateCollections('capital.yaml', 'capital');
+// generateCollections('initiatives.yaml', 'initiatives');
 

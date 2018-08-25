@@ -19,7 +19,8 @@
     and engage women entrepreneurs who are seeking to build sustainable small
     businesses.
 - categories: expansion
-  details_url: 'http://www.cityyear.org/losangeles.aspx">City Year'
+  details_url: 'http://www.cityyear.org/losangeles.aspx'
+  organization: City Year
   title: >-
     Redefining idealism by promoting the idea that each of us can make a
     difference.
@@ -37,11 +38,12 @@
     Through the Brand LA initiative, the Mayor's Fund engaged with branding
     experts and creative thinkers at 72andSunny and the Mayor's Office of
     Economic Development, to develop a consistent and revitalized identity for
-    Los Angeles. This program, <a href="https://www.laoriginal.com">LA
-    Original</a>, celebrates LA as the creative capital of the world, showcasing
-    LA's manufacturers, makers, and entrepreneurs.
+    Los Angeles. This program, [LA Original](https://www.laoriginal.com),
+    celebrates LA as the creative capital of the world, showcasing LA's
+    manufacturers, makers, and entrepreneurs.
 - categories: seed
-  details_url: 'http://www.imagination.is">The Imagination Foundation'
+  details_url: 'http://www.imagination.is'
+  organization: The Imagination Foundation
   title: 'Finding, funding, and fostering creativity and entrepreneurship in youth.'
   content: >-
     Inspired by Caine&rsquo;s Arcade, we provided seed funding to build an
@@ -117,9 +119,8 @@
     and the Security Deposit Loan Program for the first time to Southern
     California.
 - categories: civic
-  details_url: >-
-    https://www.whitehouse.gov/administration/eop/ostp">WHITE HOUSE FELLOWSHIP
-    in Entrepreneurship
+  details_url: 'https://www.whitehouse.gov/administration/eop/ostp'
+  organization: WHITE HOUSE FELLOWSHIP in Entrepreneurship
   title: >-
     Supporting sustainable economic growth and quality jobs with the White House
     Office of Science and Technology Policy.
@@ -129,7 +130,8 @@
     in the technology field, especially to women and formerly disinvested
     communities.
 - categories: seed
-  details_url: 'http://myla2050.maker.good.is/projects/salamanderproject">Locke Jet Space'
+  details_url: 'http://myla2050.maker.good.is/projects/salamanderproject'
+  organization: Locke Jet Space
   title: >-
     No Right Brain Left Behind's mission is to instill creativity in education.
     Green Dot Public Schools' mission is to help transform public education so
