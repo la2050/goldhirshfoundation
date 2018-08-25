@@ -1,6 +1,6 @@
 ---
 title: LA2050
-position: 0
+position: 1
 layout: la2050
 ---
 
