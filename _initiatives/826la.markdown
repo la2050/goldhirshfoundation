@@ -1,9 +1,9 @@
 ---
-categories: opportunity
-details_url: 'http://826la.org/'
 title: 826LA
+categories:
+- opportunity
 position: 13
-
+details_url: http://826la.org/
 ---
 
 Supporting students ages 6 to 18 with their creative and expository writing skills; empowering teachers; and providing tutoring, workshops, and more.
