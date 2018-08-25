@@ -23,7 +23,7 @@ layout: default
         {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
         {% unless data_list and data_list.size > 0 %}
           {% assign data_collection = site.collections | where: "label", collection_name | first %}
-          {% assign data_list = data_collection.docs | reverse %}
+          {% assign data_list = data_collection.docs | sort: "position" %}
         {% endunless %}
 
         {% for data in data_list %}
@@ -57,7 +57,7 @@ layout: default
         {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
         {% unless data_list and data_list.size > 0 %}
           {% assign data_collection = site.collections | where: "label", collection_name | first %}
-          {% assign data_list = data_collection.docs | reverse %}
+          {% assign data_list = data_collection.docs | sort: "position" %}
         {% endunless %}
 
         {% for data in data_list %}
