@@ -2,6 +2,7 @@
 title: Vision (with data)
 position: 8
 layout: default
+body_class: vision
 ---
 
 # Our Vision
