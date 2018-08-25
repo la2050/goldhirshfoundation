@@ -4,7 +4,7 @@ position: 8
 layout: default
 ---
 
-# Vision
+# Our Vision
 
 ![](/assets/img/vision_lattice@x2.png)
 
