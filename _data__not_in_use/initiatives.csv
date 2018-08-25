@@ -1,18 +1,18 @@
-categories,details_url,title,content
-activation,https://www.xprize.org/,XPRIZE,Bringing about radical breakthroughs for the benefit of humanity.
-activation,http://www.propublica.org/,PROPUBLICA,Supporting the creation of independent media stories with a “moral force.”
-activation,http://www.socialventurepartners.org/los-angeles/,Los Angeles Social Venture Partners,"Amplifying impact through building social capital, investing in collaboration, and increasing funder engagement."
-activation,https://www.tierradelsol.org/,Tierra del Sol,Empowering adults with developmental disabilities through workforce development; Providing opportunities for paid employment or professional volunteerism placement.
-activation,http://www.kiva.org/start,KIVA,Connecting people through lending; leveraging the internet and a network of microfinance institutions to alleviate poverty around the world.
-activation,http://www.ciclavia.org/,CICLAVIA,"Catalyzing vibrant public spaces, active transportation and good health through car-free street events in Los Angeles."
-sustainability,https://altasea.org/,AltaSea,Bridging gaps in STEM education to grow the Blue Tech economy and investing in sustainable aquaculture.
-sustainability,http://resnick.caltech.edu/,Caltech Resnick Institute,"Fostering transformative advances in energy science and technology. We kick-started the graduate fellowship program by delivering critically needed seed funding to support their cutting-edge, interdisciplinary research, and spurred further innovation by supporting their western regional clean-tech business plan competition."
-sustainability,http://www.healthebay.org,Heal the Bay,"Employing science, hands-on education, advocacy to improve the quality of life and the health of beaches, ocean, and inland waterways."
-sustainability,http://trustsouthla.org/,T.R.U.S.T. South LA,"Working to create affordable homes for local families, with a plan to make better use of the 3000 acres of underutilized land in South LA."
-sustainability,https://www.sierraclub.org/,Sierra Club,Leading conversations on climate disruption and the future of energy; Launching coalitions for energy justice to push Los Angeles towards a clean energy economy.
-opportunity,https://seejane.org/,GDIGM,Providing mentorship and educational pathways for girls across Los Angeles to achieve greater gender equity in media.
-opportunity,https://www.opportunityfund.org/,Opportunity Fund,"Establishing financial and referral networks for minority, immigrant, and women entrepreneurs and small business owners."
-opportunity,http://826la.org/,826LA,"Supporting students ages 6 to 18 with their creative and expository writing skills; empowering teachers; and providing tutoring, workshops, and more."
-opportunity,http://lfla.org/,Library Foundation of Los Angeles,"Providing in-person assistance, study materials and access to services and resources for citizenship and naturalization through the New Americans Initiative."
-opportunity,http://www.surfbusfoundation.org/,Surf Bus Foundation,Providing access for inner-city youth to engage in ocean sports and develop lifelong relationships with the sea.
-opportunity,http://www.stocktondemonstration.org,Stockton Economic Empowerment Demonstration,"Via Economic Security Project, piloting a basic income program to ensure opportunity and economic security."
+title,categories,details_url,content
+XPRIZE,"[""activation""]",https://www.xprize.org/,Bringing about radical breakthroughs for the benefit of humanity.
+PROPUBLICA,"[""activation""]",http://www.propublica.org/,Supporting the creation of independent media stories with a “moral force.”
+Los Angeles Social Venture Partners,"[""activation""]",http://www.socialventurepartners.org/los-angeles/,"Amplifying impact through building social capital, investing in collaboration, and increasing funder engagement."
+Tierra del Sol,"[""activation""]",https://www.tierradelsol.org/,Empowering adults with developmental disabilities through workforce development; Providing opportunities for paid employment or professional volunteerism placement.
+KIVA,"[""activation""]",http://www.kiva.org/start,Connecting people through lending; leveraging the internet and a network of microfinance institutions to alleviate poverty around the world.
+CICLAVIA,"[""activation""]",http://www.ciclavia.org/,"Catalyzing vibrant public spaces, active transportation and good health through car-free street events in Los Angeles."
+AltaSea,"[""sustainability""]",https://altasea.org/,Bridging gaps in STEM education to grow the Blue Tech economy and investing in sustainable aquaculture.
+Caltech Resnick Institute,"[""sustainability""]",http://resnick.caltech.edu/,"Fostering transformative advances in energy science and technology. We kick-started the graduate fellowship program by delivering critically needed seed funding to support their cutting-edge, interdisciplinary research, and spurred further innovation by supporting their western regional clean-tech business plan competition."
+Heal the Bay,"[""sustainability""]",http://www.healthebay.org,"Employing science, hands-on education, advocacy to improve the quality of life and the health of beaches, ocean, and inland waterways."
+T.R.U.S.T. South LA,"[""sustainability""]",http://trustsouthla.org/,"Working to create affordable homes for local families, with a plan to make better use of the 3000 acres of underutilized land in South LA."
+Sierra Club,"[""sustainability""]",https://www.sierraclub.org/,Leading conversations on climate disruption and the future of energy; Launching coalitions for energy justice to push Los Angeles towards a clean energy economy.
+GDIGM,"[""opportunity""]",https://seejane.org/,Providing mentorship and educational pathways for girls across Los Angeles to achieve greater gender equity in media.
+Opportunity Fund,"[""opportunity""]",https://www.opportunityfund.org/,"Establishing financial and referral networks for minority, immigrant, and women entrepreneurs and small business owners."
+826LA,"[""opportunity""]",http://826la.org/,"Supporting students ages 6 to 18 with their creative and expository writing skills; empowering teachers; and providing tutoring, workshops, and more."
+Library Foundation of Los Angeles,"[""opportunity""]",http://lfla.org/,"Providing in-person assistance, study materials and access to services and resources for citizenship and naturalization through the New Americans Initiative."
+Surf Bus Foundation,"[""opportunity""]",http://www.surfbusfoundation.org/,Providing access for inner-city youth to engage in ocean sports and develop lifelong relationships with the sea.
+Stockton Economic Empowerment Demonstration,"[""opportunity""]",http://www.stocktondemonstration.org,"Via Economic Security Project, piloting a basic income program to ensure opportunity and economic security."

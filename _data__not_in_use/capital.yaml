@@ -1,9 +1,9 @@
 - categories: civic
   details_url: 'https://www.stocktondemonstration.org'
-  organization: >-
+  title: >-
     Stockton Economic Empowerment Demonstration (SEED) via Economic Security
     Project
-  title: >-
+  project: >-
     Supporting groundbreaking initiatives to ensure opportunity and economic
     security.
   content: >-
@@ -12,16 +12,16 @@
     income programs in Stockton, CA.
 - categories: seed
   details_url: 'https://www.opportunityfund.org'
-  organization: Opportunity Fund
-  title: Women Empowering Women builds capacity for women entrepreneurs.
+  title: Opportunity Fund
+  project: Women Empowering Women builds capacity for women entrepreneurs.
   content: >-
     Opportunity Fund is investing in targeted outreach and technology to reach
     and engage women entrepreneurs who are seeking to build sustainable small
     businesses.
 - categories: expansion
   details_url: 'http://www.cityyear.org/losangeles.aspx'
-  organization: City Year
-  title: >-
+  title: City Year
+  project: >-
     Redefining idealism by promoting the idea that each of us can make a
     difference.
   content: >-
@@ -30,8 +30,8 @@
     conference about how service can drive education reform.
 - categories: civic
   details_url: 'http://mayorsfundla.org'
-  organization: Los Angeles Mayor’s Fund
-  title: >-
+  title: Los Angeles Mayor’s Fund
+  project: >-
     Developing civic pride by showcasing Los Angeles as a world-class creative
     capital
   content: >-
@@ -43,8 +43,8 @@
     manufacturers, makers, and entrepreneurs.
 - categories: seed
   details_url: 'http://www.imagination.is'
-  organization: The Imagination Foundation
-  title: 'Finding, funding, and fostering creativity and entrepreneurship in youth.'
+  title: The Imagination Foundation
+  project: 'Finding, funding, and fostering creativity and entrepreneurship in youth.'
   content: >-
     Inspired by Caine&rsquo;s Arcade, we provided seed funding to build an
     organization that would support more kids like Caine. We want to &ldquo;help
@@ -52,8 +52,8 @@
     imagine the world they can build.&rdquo;
 - categories: expansion
   details_url: 'http://www.liftcommunities.org'
-  organization: LIFT
-  title: >-
+  title: LIFT
+  project: >-
     Combating poverty and expanding opportunity so all Americans can pursue
     their life goals.
   content: >-
@@ -63,10 +63,10 @@
     potential board members, and funders to learn where LIFT could do the most
     good.
 - categories: civic
-  organization: >-
+  title: >-
     TRANSPORTATION TECHNOLOGY STRATEGIST FELLOW AT CITY OF LOS ANGELES
     DEPARTMENT OF TRANSPORTATION
-  title: Designing the future of transportation in Los Angeles
+  project: Designing the future of transportation in Los Angeles
   content: >-
     With our support, Los Angeles has become the only municipality in the nation
     with a staff person dedicated to developing a citywide transportation
@@ -74,8 +74,8 @@
     sustainable, and tech-enabled transportation network.
 - categories: seed
   details_url: 'http://artsrestore.la'
-  organization: Hammer Museum Arts Restore LA
-  title: >-
+  title: Hammer Museum Arts Restore LA
+  project: >-
     The Hammer Museum at UCLA believes in the promise of art and ideas to
     illuminate our lives and build a more just world.
   content: >-
@@ -84,8 +84,8 @@
     strategy to turn the neighborhood around.
 - categories: expansion
   details_url: 'http://www.peerhealthexchange.org'
-  organization: PEER HEALTH EXCHANGE
-  title: >-
+  title: PEER HEALTH EXCHANGE
+  project: >-
     Giving teenagers the knowledge and skills they need to make healthy
     decisions by training college students to teach a health curriculum in
     public schools that lack health education.
@@ -96,32 +96,32 @@
     to additional 9<sup>th</sup> grade students in new neighborhoods.
 - categories: civic
   details_url: 'https://healthebay.org'
-  organization: Heal the Bay in partnership with the U.S. Army Corps of Engineers
-  title: The Compton Creek Trash Capture Project
+  title: Heal the Bay in partnership with the U.S. Army Corps of Engineers
+  project: The Compton Creek Trash Capture Project
   content: >-
     Heal the Bay in partnership with the U.S. Army Corps of Engineers completed
     a project to build trash capture devices in the concrete portion of Compton
     Creek, the last major tributary that feeds into the Los Angeles River.
 - categories: seed
   details_url: 'https://www.galacademy.org'
-  organization: GIRLS ACADEMIC LEADERSHIP ACADEMY (GALA)
-  title: Promoting gender diversity and inspiring innovation in the STEM fields
+  title: GIRLS ACADEMIC LEADERSHIP ACADEMY (GALA)
+  project: Promoting gender diversity and inspiring innovation in the STEM fields
   content: >-
     GALA is LAUSD’s first all-girls public school. With a STEM-centered
     curriculum, GALA’s students will apply their academic and technology skills
     to build projects in a flexible, collaborative learning environment.
 - categories: expansion
   details_url: 'http://missionassetfund.org'
-  organization: Mission Asset Fund
-  title: Creating a fair financial marketplace for hardworking families.
+  title: Mission Asset Fund
+  project: Creating a fair financial marketplace for hardworking families.
   content: >-
     We worked with Mission Asset Fund to bring Lending Circles for Citizenship
     and the Security Deposit Loan Program for the first time to Southern
     California.
 - categories: civic
   details_url: 'https://www.whitehouse.gov/administration/eop/ostp'
-  organization: WHITE HOUSE FELLOWSHIP in Entrepreneurship
-  title: >-
+  title: WHITE HOUSE FELLOWSHIP in Entrepreneurship
+  project: >-
     Supporting sustainable economic growth and quality jobs with the White House
     Office of Science and Technology Policy.
   content: >-
@@ -131,8 +131,8 @@
     communities.
 - categories: seed
   details_url: 'http://myla2050.maker.good.is/projects/salamanderproject'
-  organization: Locke Jet Space
-  title: >-
+  title: Locke Jet Space
+  project: >-
     No Right Brain Left Behind's mission is to instill creativity in education.
     Green Dot Public Schools' mission is to help transform public education so
     all students graduate prepared for college, leadership, and life.
@@ -142,16 +142,16 @@
     students’ exploration, critical thinking, and collaborative problem solving.
 - categories: expansion
   details_url: 'https://www.homeboyindustries.org/what-we-do/homeboy-recycling'
-  organization: Homeboy Electronics Recycling
-  title: Providing economic opportunity and responsible e-waste recycling.
+  title: Homeboy Electronics Recycling
+  project: Providing economic opportunity and responsible e-waste recycling.
   content: >-
     We provided support for the merger of Homeboy Industries and Isidore
     Recycling, two nonprofits focused on reducing barriers to employment and
     recidivism while eliminating e-waste.
 - categories: expansion
   details_url: 'http://www.harlemlacrosse.org'
-  organization: Harlem Lacrosse Los Angeles
-  title: Empowering children to work hard on the field and in the classroom.
+  title: Harlem Lacrosse Los Angeles
+  project: Empowering children to work hard on the field and in the classroom.
   content: >-
     We supported City Lacrosse’s expansion to Los Angeles. In Spring 2017, they
     merged with Harlem Lacrosse to form a national, school-based organization
