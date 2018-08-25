@@ -71,3 +71,4 @@ innovative_tools:
     url: http://datausa.io/profile/geo/los-angeles-county-ca/
 ---
 
+The Goldhirsh Foundation is committed to supporting social _innovation_ in Los Angeles. Below find a number of resources around _social innovation_, _impact investing_, and _fundraising_.
