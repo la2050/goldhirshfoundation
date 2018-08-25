@@ -109,15 +109,15 @@ layout: default
 
       <div class="span4 resources-cta">
 
-        <div class="image-wrapper"><img src="/assets/files/1432/capitol-dev.png" /></div>
+        <div class="image-wrapper"><img src="{{ page.capital_publications.image }}" /></div>
         <div class="clear"></div>
-        <p class="resources-cta-title">1. Publications around capital development</p>
+        <p class="resources-cta-title">1. {{ page.capital_publications.title }}</p>
         <div class="clear"></div>
-        <p class="resources-cta-intro">From capital development to crowdsourcing technologies, we are always learning. Here is a list of publications we found helpful.</p>
+        <div class="resources-cta-intro">{{ page.capital_publications.introduction | markdownify }}</div>
         <div class="clear"></div>
 
         <ul>
-          {% for data in page.capital_publications %}
+          {% for data in page.capital_publications.items %}
             <li><a href="{{ data.url }}">{{ data.title }}</a></li>
           {% endfor %}
         </ul>
@@ -125,15 +125,15 @@ layout: default
       </div>
       <div class="span4 resources-cta">
 
-        <div class="image-wrapper"><img src="/assets/files/1433/currently-reading.png" /></div>
+        <div class="image-wrapper"><img src="{{ page.currently_reading.image }}" /></div>
         <div class="clear"></div>
-        <p class="resources-cta-title">2. Currently Reading</p>
+        <p class="resources-cta-title">2. {{ page.currently_reading.title }}</p>
         <div class="clear"></div>
-        <p class="resources-cta-intro">Our team is always learning and sharing. Here is a list of books we are currently reading. For real-time updates, <a href="https://twitter.com/GoldhirshFdn/goldhirsh-foundation-team/members">follow the team on twitter</a>.</p>
+        <div class="resources-cta-intro">{{ page.currently_reading.introduction | markdownify }}</div>
         <div class="clear"></div>
 
         <ul>
-          {% for data in page.currently_reading %}
+          {% for data in page.currently_reading.items %}
             <li><a href="{{ data.url }}">{{ data.title }}</a></li>
           {% endfor %}
         </ul>
@@ -141,15 +141,15 @@ layout: default
       </div>
       <div class="span4 resources-cta">
 
-        <div class="image-wrapper"><img src="/assets/files/1434/toolkit.png" /></div>
+        <div class="image-wrapper"><img src="{{ page.innovative_tools.image }}" /></div>
         <div class="clear"></div>
-        <p class="resources-cta-title">3. Innovative tools we love</p>
+        <p class="resources-cta-title">2. {{ page.innovative_tools.title }}</p>
         <div class="clear"></div>
-        <p class="resources-cta-intro">We are constantly learning about new and innovative tools to help nonprofits and for-profits succeed in their latest ventures. Here is a list of tools we love:</p>
+        <div class="resources-cta-intro">{{ page.innovative_tools.introduction | markdownify }}</div>
         <div class="clear"></div>
 
         <ul>
-          {% for data in page.innovative_tools %}
+          {% for data in page.innovative_tools.items %}
             <li><a href="{{ data.url }}">{{ data.title }}</a></li>
           {% endfor %}
         </ul>
