@@ -50,13 +50,13 @@ layout: default
   <div class="span4 initiatives-opportunity">
 
     {% for data in data_list %}
-      {% if data.categories.first == "civic" %}
+      {% if data.categories == '["civic"]' or data.categories.first == "civic" %}
         <div class="row initiatives-projects">
           <div class="span4 initiatives-project">
             <h4><a href="{{ data.details_url }}">{{ data.title }}</a></h4>
             <h5>{{ data.project }}</h5>
             <hr>
-            {{ data.content }}
+            {{ data.content | markdownify }}
           </div>
         </div>
       {% endif %}
@@ -66,13 +66,13 @@ layout: default
   <div class="span4 initiatatives-sustainability">
 
     {% for data in data_list %}
-      {% if data.categories.first == "seed" %}
+      {% if data.categories == '["seed"]' or data.categories.first == "seed" %}
         <div class="row initiatives-projects">
           <div class="span4 initiatives-project">
             <h4><a href="{{ data.details_url }}">{{ data.title }}</a></h4>
             <h5>{{ data.project }}</h5>
             <hr>
-            {{ data.content }}
+            {{ data.content | markdownify }}
           </div>
         </div>
       {% endif %}
@@ -82,13 +82,13 @@ layout: default
   <div class="span4 initiatives-activation">
 
     {% for data in data_list %}
-      {% if data.categories.first == "expansion" %}
+      {% if data.categories == '["expansion"]' or data.categories.first == "expansion" %}
         <div class="row initiatives-projects">
           <div class="span4 initiatives-project">
             <h4><a href="{{ data.details_url }}">{{ data.title }}</a></h4>
             <h5>{{ data.project }}</h5>
             <hr>
-            {{ data.content }}
+            {{ data.content | markdownify }}
           </div>
         </div>
       {% endif %}
@@ -152,11 +152,11 @@ layout: default
   <div class="span4 initiatives-opportunity">
 
     {% for data in data_list %}
-      {% if data.categories.first == "opportunity" %}
+      {% if data.categories == '["opportunity"]' or data.categories.first == "opportunity" %}
         <div class="row initiatives-organization">
           <div class="span4">
             <h4><a href="{{ data.details_url }}">{{ data.title }}</a></h4>
-            <p>{{ data.content | strip_html }}</p>
+            {{ data.content | markdownify }}
           </div>
         </div>
       {% endif %}
@@ -166,11 +166,11 @@ layout: default
   <div class="span4 initiatatives-sustainability">
 
     {% for data in data_list %}
-      {% if data.categories.first == "sustainability" %}
+      {% if data.categories == '["sustainability"]' or data.categories.first == "sustainability" %}
         <div class="row initiatives-organization">
           <div class="span4">
             <h4><a href="{{ data.details_url }}">{{ data.title }}</a></h4>
-            <p>{{ data.content | strip_html }}</p>
+            {{ data.content | markdownify }}
           </div>
         </div>
       {% endif %}
@@ -180,11 +180,11 @@ layout: default
   <div class="span4 initiatives-activation">
 
     {% for data in data_list %}
-      {% if data.categories.first == "activation" %}
+      {% if data.categories == '["activation"]' or data.categories.first == "activation" %}
         <div class="row initiatives-organization">
           <div class="span4">
             <h4><a href="{{ data.details_url }}">{{ data.title }}</a></h4>
-            <p>{{ data.content | strip_html }}</p>
+            {{ data.content | markdownify }}
           </div>
         </div>
       {% endif %}

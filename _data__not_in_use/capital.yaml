@@ -1,8 +1,9 @@
-- categories: civic
-  details_url: 'https://www.stocktondemonstration.org'
-  title: >-
+- title: >-
     Stockton Economic Empowerment Demonstration (SEED) via Economic Security
     Project
+  categories:
+    - civic
+  details_url: 'https://www.stocktondemonstration.org'
   project: >-
     Supporting groundbreaking initiatives to ensure opportunity and economic
     security.
@@ -10,17 +11,19 @@
     Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration
     (SEED) is the first guaranteed income experiment in the U.S. to pilot basic
     income programs in Stockton, CA.
-- categories: seed
+- title: Opportunity Fund
+  categories:
+    - seed
   details_url: 'https://www.opportunityfund.org'
-  title: Opportunity Fund
   project: Women Empowering Women builds capacity for women entrepreneurs.
   content: >-
     Opportunity Fund is investing in targeted outreach and technology to reach
     and engage women entrepreneurs who are seeking to build sustainable small
     businesses.
-- categories: expansion
+- title: City Year
+  categories:
+    - expansion
   details_url: 'http://www.cityyear.org/losangeles.aspx'
-  title: City Year
   project: >-
     Redefining idealism by promoting the idea that each of us can make a
     difference.
@@ -28,9 +31,10 @@
     We led City Year&rsquo;s expansion to Los Angeles then supported their
     growth in L.A. We also provided seed funding for their L.A.-based education
     conference about how service can drive education reform.
-- categories: civic
+- title: Los Angeles Mayor’s Fund
+  categories:
+    - civic
   details_url: 'http://mayorsfundla.org'
-  title: Los Angeles Mayor’s Fund
   project: >-
     Developing civic pride by showcasing Los Angeles as a world-class creative
     capital
@@ -41,18 +45,20 @@
     Los Angeles. This program, [LA Original](https://www.laoriginal.com),
     celebrates LA as the creative capital of the world, showcasing LA's
     manufacturers, makers, and entrepreneurs.
-- categories: seed
+- title: The Imagination Foundation
+  categories:
+    - seed
   details_url: 'http://www.imagination.is'
-  title: The Imagination Foundation
   project: 'Finding, funding, and fostering creativity and entrepreneurship in youth.'
   content: >-
     Inspired by Caine&rsquo;s Arcade, we provided seed funding to build an
     organization that would support more kids like Caine. We want to &ldquo;help
     kids not only to learn how to build the things they imagine, but to also
     imagine the world they can build.&rdquo;
-- categories: expansion
+- title: LIFT
+  categories:
+    - expansion
   details_url: 'http://www.liftcommunities.org'
-  title: LIFT
   project: >-
     Combating poverty and expanding opportunity so all Americans can pursue
     their life goals.
@@ -62,19 +68,23 @@
     city officials, social service organizations, university administrators,
     potential board members, and funders to learn where LIFT could do the most
     good.
-- categories: civic
-  title: >-
+- title: >-
     TRANSPORTATION TECHNOLOGY STRATEGIST FELLOW AT CITY OF LOS ANGELES
     DEPARTMENT OF TRANSPORTATION
+  details_url: >-
+    https://www.lamayor.org/mayor-garcetti-announces-appointment-transportation-technology-strategist-fellow
+  categories:
+    - civic
   project: Designing the future of transportation in Los Angeles
   content: >-
     With our support, Los Angeles has become the only municipality in the nation
     with a staff person dedicated to developing a citywide transportation
     technology strategy that promotes shared mobility and that supports a safe,
     sustainable, and tech-enabled transportation network.
-- categories: seed
+- title: Hammer Museum Arts Restore LA
+  categories:
+    - seed
   details_url: 'http://artsrestore.la'
-  title: Hammer Museum Arts Restore LA
   project: >-
     The Hammer Museum at UCLA believes in the promise of art and ideas to
     illuminate our lives and build a more just world.
@@ -82,9 +92,10 @@
     The Hammer Museum tapped into the thriving Los Angeles creative community to
     curate an artisanal pop-up village in Westwood and offer a long term
     strategy to turn the neighborhood around.
-- categories: expansion
+- title: PEER HEALTH EXCHANGE
+  categories:
+    - expansion
   details_url: 'http://www.peerhealthexchange.org'
-  title: PEER HEALTH EXCHANGE
   project: >-
     Giving teenagers the knowledge and skills they need to make healthy
     decisions by training college students to teach a health curriculum in
@@ -94,33 +105,37 @@
     operations in L.A., specifically within USC, UCLA, CSU Northridge, and
     Occidental College, training more college students to teach the curriculum
     to additional 9<sup>th</sup> grade students in new neighborhoods.
-- categories: civic
+- title: Heal the Bay in partnership with the U.S. Army Corps of Engineers
+  categories:
+    - civic
   details_url: 'https://healthebay.org'
-  title: Heal the Bay in partnership with the U.S. Army Corps of Engineers
   project: The Compton Creek Trash Capture Project
   content: >-
     Heal the Bay in partnership with the U.S. Army Corps of Engineers completed
     a project to build trash capture devices in the concrete portion of Compton
     Creek, the last major tributary that feeds into the Los Angeles River.
-- categories: seed
+- title: GIRLS ACADEMIC LEADERSHIP ACADEMY (GALA)
+  categories:
+    - seed
   details_url: 'https://www.galacademy.org'
-  title: GIRLS ACADEMIC LEADERSHIP ACADEMY (GALA)
   project: Promoting gender diversity and inspiring innovation in the STEM fields
   content: >-
     GALA is LAUSD’s first all-girls public school. With a STEM-centered
     curriculum, GALA’s students will apply their academic and technology skills
     to build projects in a flexible, collaborative learning environment.
-- categories: expansion
+- title: Mission Asset Fund
+  categories:
+    - expansion
   details_url: 'http://missionassetfund.org'
-  title: Mission Asset Fund
   project: Creating a fair financial marketplace for hardworking families.
   content: >-
     We worked with Mission Asset Fund to bring Lending Circles for Citizenship
     and the Security Deposit Loan Program for the first time to Southern
     California.
-- categories: civic
+- title: WHITE HOUSE FELLOWSHIP in Entrepreneurship
+  categories:
+    - civic
   details_url: 'https://www.whitehouse.gov/administration/eop/ostp'
-  title: WHITE HOUSE FELLOWSHIP in Entrepreneurship
   project: >-
     Supporting sustainable economic growth and quality jobs with the White House
     Office of Science and Technology Policy.
@@ -129,9 +144,10 @@
     supporting inclusive entrepreneurship and expanding business opportunities
     in the technology field, especially to women and formerly disinvested
     communities.
-- categories: seed
+- title: Locke Jet Space
+  categories:
+    - seed
   details_url: 'http://myla2050.maker.good.is/projects/salamanderproject'
-  title: Locke Jet Space
   project: >-
     No Right Brain Left Behind's mission is to instill creativity in education.
     Green Dot Public Schools' mission is to help transform public education so
@@ -140,17 +156,19 @@
     No Right Brain Left Behind and Green Dot Public Schools transformed a
     neglected library at Locke High School into the Locke Jet Space to foster
     students’ exploration, critical thinking, and collaborative problem solving.
-- categories: expansion
+- title: Homeboy Electronics Recycling
+  categories:
+    - expansion
   details_url: 'https://www.homeboyindustries.org/what-we-do/homeboy-recycling'
-  title: Homeboy Electronics Recycling
   project: Providing economic opportunity and responsible e-waste recycling.
   content: >-
     We provided support for the merger of Homeboy Industries and Isidore
     Recycling, two nonprofits focused on reducing barriers to employment and
     recidivism while eliminating e-waste.
-- categories: expansion
+- title: Harlem Lacrosse Los Angeles
+  categories:
+    - expansion
   details_url: 'http://www.harlemlacrosse.org'
-  title: Harlem Lacrosse Los Angeles
   project: Empowering children to work hard on the field and in the classroom.
   content: >-
     We supported City Lacrosse’s expansion to Los Angeles. In Spring 2017, they

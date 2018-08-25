@@ -1,6 +1,7 @@
 ---
 title: TRANSPORTATION TECHNOLOGY STRATEGIST FELLOW AT CITY OF LOS ANGELES DEPARTMENT
   OF TRANSPORTATION
+details_url: https://www.lamayor.org/mayor-garcetti-announces-appointment-transportation-technology-strategist-fellow
 categories:
 - civic
 position: 6

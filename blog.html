@@ -22,7 +22,7 @@ layout: default
           <p class='post-byline'><span class='author'>Posted by {{ post.author }}</span> on <span class='date'>{{ post.date | date: "%B %-d, %Y" }}</span></p>
         </div>
         <div class='post-body'>
-          <p class='post-small'>{{ post.excerpt | strip_html }}… <a class='more' href='{{ post.url }}'><strong>Read More</strong></a></p>
+          <p class='post-small'>{{ post.excerpt }}… <a class='more' href='{{ post.url }}'><strong>Read More</strong></a></p>
         </div>
       </div>
       {% endfor %}
