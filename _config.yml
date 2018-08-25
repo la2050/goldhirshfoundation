@@ -5,7 +5,6 @@ collections:
   posts:
     title: Blog
     output: true
-    permalink: "/blog/:year/:month/:day/:title/"
   capital:
     title: Capital
     output: false

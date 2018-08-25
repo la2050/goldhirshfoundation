@@ -1,6 +1,6 @@
 ---
 title: Ben Goldhrish
-image: /assets/files/1013/goldhirsh.jpg
+image: "/assets/files/1013/goldhirsh.jpg"
 twitter_username: goldhirsh
 ---
 
