@@ -19,17 +19,15 @@ We **identify gaps** then support those on the first line of response. If holes 
 Across it all, we **build networks** to ensure that the **strongest ideas** have the best support systems.
 
 
-### [SEE WHAT WE’VE BEEN WORKING ON](/initiatives/)
+[SEE WHAT WE’VE BEEN WORKING ON](/initiatives/)
 
 
-### WHAT WE DO
+## WHAT WE DO
 
 We deliver three types of capital to create networks of support for innovators.
 
 
-![](/assets/img/vision_financial@x2.png)
-
-#### 1\. FINANCIAL CAPITAL
+### 1\. FINANCIAL CAPITAL
 
 The necessary funding for growth
 
@@ -40,9 +38,7 @@ The necessary funding for growth
 *   Connect innovators to new potential funding opportunities
     
 
-![](/assets/img/vision_social@x2.png)
-
-#### 2\. SOCIAL CAPITAL
+### 2\. SOCIAL CAPITAL
 
 People and forces that expand and promote solutions
 
@@ -53,9 +49,7 @@ People and forces that expand and promote solutions
 *   Enhance and broaden reach via communications
     
 
-![](/assets/img/vision_human@x2.png)
-
-#### 3\. HUMAN CAPITAL
+## 3\. HUMAN CAPITAL
 
 Access to expertise and support to strengthen operations
 
