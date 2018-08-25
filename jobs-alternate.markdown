@@ -1,5 +1,5 @@
 ---
-title: Jobs (alternate)
+title: Jobs (with data)
 position: 6
 jobs:
 - title: Communications Manager
