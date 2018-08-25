@@ -1,6 +1,6 @@
 ---
 title: Initiatives (with data)
-position: 8
+position: 9
 capital:
   introduction: 'We invest our capital using three approaches to create systemic change:
     **civic capital**, **seed capital**, and **expansion capital**.'
