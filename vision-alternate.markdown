@@ -1,5 +1,5 @@
 ---
-title: Our Vision (with markdown)
+title: Our Vision (with data)
 position: 8
 layout: default
 ---
