@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }}{% unless page.title contains "Goldhirsh Foundation" %}, Goldhirsh Foundation {% endunless %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="The Goldhirsh Foundation connects the dots between the best emerging innovations and the financial, social, and human capital to make them thrive.">
   <meta name="keywords" content="foundation, innovation, innovator, sustainability, activation, opportunity, goldhirsh">
@@ -20,7 +20,7 @@
   <meta name="google-site-verification" content="OQbPN7vmr5v69iC3FhivQ0A9CFdLojFYziRCCnHoqLg" />
 </head>
 
-<body class="page-{{ page.url | replace: '/', '' }}">
+<body class="page-{{ page.url | replace: '/', '' }}{% if page.url == '/'' %}home{% endif %}">
   <div class="wrap">
     <div id="main" class="container">
 
@@ -31,8 +31,10 @@
           </div>
 
           <ul id="nav">
-            <li class="nav-home {% if page.url == '/' %} current {% endif %}">
-              <a href="/"><img src="/assets/img/ghf-logo-dark@x2.png" alt="GOLDHIRSH FOUNDATION" id="ghf-logo"></a>
+            <li class="nav-home">
+              <a href="/">
+                <img src="/assets/img/ghf-logo-{% if page.url == '/' %}light{% else %}dark{% endif %}@x2.png" alt="GOLDHIRSH FOUNDATION" id="ghf-logo">
+              </a>
             </li>
             <li class=" nav-vision {% if page.url == '/vision/' %} current {% endif %}">
               <a href="/vision/">Vision</a>

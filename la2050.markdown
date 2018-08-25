@@ -1,5 +1,5 @@
 ---
-title: LA2050, with support from the Goldhirsh Foundation
+title: LA2050
 layout: la2050
 ---
 
