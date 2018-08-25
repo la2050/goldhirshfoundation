@@ -1,7 +1,6 @@
 ---
-title: Initiatives
+title: Initiatives (with data)
 position: 4
-layout: initiatives-alternate
 capital:
   introduction: 'We invest our capital using three approaches to create systemic change:
     **civic capital**, **seed capital**, and **expansion capital**.'
@@ -228,6 +227,7 @@ initiatives:
       details_url: http://www.stocktondemonstration.org
       description: Via Economic Security Project, piloting a basic income program
         to ensure opportunity and economic security.
+layout: initiatives-alternate
 ---
 
 Here’s a glimpse of some of the organizations and specific projects we support.
