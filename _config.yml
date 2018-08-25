@@ -49,7 +49,7 @@ defaults:
     type: capital
   values:
     details_url: ''
-    organization: ''
+    project: ''
     layout: default
 - scope:
     path: ''
