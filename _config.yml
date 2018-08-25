@@ -5,6 +5,14 @@ collections:
   posts:
     title: Blog
     output: true
+  capital:
+    title: Capital
+    output: false
+    permalink: "/capital/:year/:month/:day/:title/"
+  initiatives:
+    title: Initiatives
+    output: false
+    permalink: "/initiatives/:year/:month/:day/:title/"
   jobs:
     title: Jobs
     output: false
@@ -31,15 +39,32 @@ defaults:
     layout: default
 - scope:
     path: ''
-    type: press
+    type: posts
+  values:
+    excerpt: ''
+    author: Tara Roth
+    layout: post
+- scope:
+    path: ''
+    type: capital
+  values:
+    details_url: ''
+    organization: ''
+    layout: default
+- scope:
+    path: ''
+    type: initiatives
   values:
     details_url: ''
     layout: default
 - scope:
     path: ''
-    type: speaking
+    type: jobs
   values:
     details_url: ''
+    organization: ''
+    employment_type: ''
+    location: ''
     layout: default
 - scope:
     path: ''
@@ -49,19 +74,15 @@ defaults:
     layout: default
 - scope:
     path: ''
-    type: posts
-  values:
-    excerpt: ''
-    author: Tara Roth
-    layout: post
-- scope:
-    path: ''
-    type: jobs
+    type: press
   values:
     details_url: ''
-    organization: ''
-    employment_type: ''
-    location: ''
+    layout: default
+- scope:
+    path: ''
+    type: speaking
+  values:
+    details_url: ''
     layout: default
 exclude:
 - README

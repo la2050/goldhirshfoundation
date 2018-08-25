@@ -205,12 +205,6 @@ function getRecords(folder) {
 
       record.date = `${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`
     }
-    
-    for (let name in skipColumns) {
-      if (skipColumns.hasOwnProperty(name)) {
-        delete record[name]
-      }
-    }
 
     // Add the data to the list of records
     records.push(record)
@@ -221,10 +215,27 @@ function getRecords(folder) {
 
 
 const writePath = "../_data_from_markdown/"
-const collections = ["jobs", "press", "opportunities", "speaking"]
+const collections = ["jobs", "press", "opportunities", "speaking", "initiatives", "capital"]
 
 collections.forEach(collection => {
   let records = getRecords(`../_${collection}`)
+  records.sort((a, b) => {
+    if (a.position < b.position) {
+      return -1;
+    }
+    if (a.position > b.position) {
+      return 1;
+    }
+    // a must be equal to b
+    return 0;
+  })
+  records.forEach(record => {
+    for (let name in skipColumns) {
+      if (skipColumns.hasOwnProperty(name)) {
+        delete record[name]
+      }
+    }
+  })
   saveCSVFile(  writePath, collection, records )
   saveYAMLFile( writePath, collection, records )
 })

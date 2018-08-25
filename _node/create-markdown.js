@@ -48,21 +48,25 @@ function createMarkdownFile(data, folderName) {
 
   let filename = stringToURI(data.title); //.split("-").slice(0,5).join("-");
 
-  let date = new Date(data.date)
+  if (data.date) {
 
-  let month = date.getMonth() + 1
-  if (month < 10) {
-    month = `0${month}`;
-  } 
+    let date = new Date(data.date)
 
-  let day = date.getDate()
-  if (day < 10) {
-    day = `0${day}`;
+    let month = date.getMonth() + 1
+    if (month < 10) {
+      month = `0${month}`;
+    } 
+
+    let day = date.getDate()
+    if (day < 10) {
+      day = `0${day}`;
+    }
+
+    filename = `${date.getFullYear()}-${month}-${day}-${filename}`;
+
+    data.date = date.toString() // 2018-08-08 16:54:00 -07:00
+
   }
-
-  filename = `${date.getFullYear()}-${month}-${day}-${filename}`;
-
-  data.date = date.toString() // 2018-08-08 16:54:00 -07:00
 
   let output;
 
@@ -114,6 +118,7 @@ function generateCollections(file_name, category) {
 
   for (let index = 0; index < records.length; index++) {
     let data = records[index];
+    data.position = index;
     createMarkdownFile(data, category);
   }
   return records;
@@ -122,7 +127,8 @@ function generateCollections(file_name, category) {
 
 // generateCollections('press.yaml', 'press');
 // generateCollections('jobs.yaml', 'jobs');
-generateCollections('speaking.yaml', 'speaking');
-generateCollections('opportunities.yaml', 'opportunities');
-
+// generateCollections('speaking.yaml', 'speaking');
+// generateCollections('opportunities.yaml', 'opportunities');
+generateCollections('capital.yaml', 'capital');
+generateCollections('initiatives.yaml', 'initiatives');
 
