@@ -1,5 +1,6 @@
 ---
 title: Resources
+position: 7
 layout: resources
 capital_publications:
   title: Publications around capital development

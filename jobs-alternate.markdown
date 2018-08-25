@@ -1,5 +1,6 @@
 ---
 title: Jobs (alternate)
+position: 6
 jobs:
 - title: Communications Manager
   date: 2018-08-09 17:00:00 -07:00
