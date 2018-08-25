@@ -1,4 +1,4 @@
----
+
 title: Goldhirsh Foundation
 timezone: America/Los_Angeles
 collections:
@@ -47,6 +47,7 @@ defaults:
   values:
     excerpt: ''
     author: ''
+    categories: blog
     layout: post
 - scope:
     path: ''
