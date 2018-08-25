@@ -1,6 +1,6 @@
 ---
 title: Our Vision (with data)
-position: 8
+position: 10
 layout: default
 ---
 
