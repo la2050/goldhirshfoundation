@@ -1,6 +1,6 @@
 ---
 title: Initiatives
-position: 5
+position: 2
 layout: initiatives
 ---
 
