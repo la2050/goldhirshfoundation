@@ -1,6 +1,6 @@
 ---
 title: About Us (with data)
-position: 3
+position: 7
 layout: about-alternate
 press:
 - title: And the My LA2050 Winners Are...
