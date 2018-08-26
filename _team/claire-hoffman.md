@@ -1,5 +1,6 @@
 ---
 title: Claire Hoffman
+position: 1
 image: "/assets/files/1057/claire_hoffman.jpg"
 twitter_username: clairedhoffman
 ---

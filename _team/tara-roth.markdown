@@ -1,5 +1,6 @@
 ---
 title: Tara Roth
+position: 0
 image: "/assets/files/1081/tara-gf-2.jpg"
 twitter_username: taranellroth
 ---
