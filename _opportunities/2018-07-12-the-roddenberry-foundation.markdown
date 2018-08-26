@@ -1,7 +1,7 @@
 ---
 title: The Roddenberry Foundation
 date: 2018-07-12 00:00:00 -07:00
-position: 6
+position: 7
 details_url: https://www.roddenberryprize.org/
 ---
 

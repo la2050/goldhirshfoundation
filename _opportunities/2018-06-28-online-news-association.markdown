@@ -1,7 +1,7 @@
 ---
 title: Online News Association
 date: 2018-06-28 00:00:00 -07:00
-position: 10
+position: 5
 details_url: https://journalists.org/programs/journalism-360/challenge/
 ---
 
