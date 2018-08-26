@@ -1,7 +1,7 @@
 ---
 title: Investing in Artists
 date: 2018-06-28 00:00:00 -07:00
-position: 8
+position: 10
 details_url: https://www.cciarts.org/grantsprogram.htm
 ---
 

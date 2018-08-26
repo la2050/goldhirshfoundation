@@ -1,7 +1,7 @@
 ---
 title: Harbor Freight Tools for Schools
 date: 2018-07-06 00:00:00 -07:00
-position: 3
+position: 5
 details_url: https://hftforschoolsprize.skild.com/skild2/hftforschoolsprize/loginPage.action=
 ---
 
