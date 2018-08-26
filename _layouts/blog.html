@@ -18,7 +18,7 @@ layout: default
       <div class='post'>
         <div class='post-head'>
           <h4 class='post-headline'><a href='{{ post.url }}'>{{ post.title }}</a></h4>
-          <p class='post-byline'><span class='author'>Posted by {{ post.author }}</span> on <span class='date'>{{ post.date | date: "%B %-d, %Y" }}</span></p>
+          <p class='post-byline'><span class='author'>Posted by <a href="/about/#{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></span> on <span class='date'>{{ post.date | date: "%B %-d, %Y" }}</span></p>
         </div>
         <div class='post-body'>
           <p class='post-small'>{{ post.excerpt }}… <a class='more' href='{{ post.url }}'><strong>Read More</strong></a></p>

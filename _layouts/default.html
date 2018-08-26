@@ -49,7 +49,7 @@
             <li class=" nav-jobs {% if page.url == '/jobs/' %} current {% endif %}">
               <a href="/jobs/">Jobs</a>
             </li>
-            <li class=" nav-blog {% if page.url == '/blog/' %} current {% endif %}">
+            <li class=" nav-blog {% if page.url contains '/blog/' %} current {% endif %}">
               <a href="/blog/">Blog</a>
             </li>
           </ul>
