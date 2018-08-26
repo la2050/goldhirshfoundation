@@ -18,7 +18,7 @@ initiatives:
   introduction: 'We support initiatives in three categories: **opportunity**, **sustainability**,
     and **activation**. Within each category, organizations deliver the following
     vital services:'
-  activation:
+  opportunity:
     title: OPPORTUNITY
     description: Provide skills, programming, and support structures to improve educational
       and economic opportunity.
@@ -26,7 +26,7 @@ initiatives:
     title: SUSTAINABILITY
     description: Pursue environmental health through innovation at both the cause
       and response sides of the issue.
-  opportunity:
+  activation:
     title: ACTIVATION
     description: Support pro-social platforms and tools for independent expression
       and individual mobilization.
