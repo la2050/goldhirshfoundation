@@ -4,12 +4,12 @@ date: 2017-03-23 12:00:00 -07:00
 tags:
 - Crowdsourcing
 position: 5
-author: Tara Roth
 excerpt: Crowdsourcing involves soliciting input from the public, usually on a digital
   platform, to address market gaps and surface promising solutions in an open, efficient
   way. It often has a voting component wherein the top-voted ideas win support. Crowdsourcing
   uses collective intelligence to help creative ideas rise to the top – while generating
   a real-time feedback loop and a shared sense of ownership in the project.
+author: Tara Roth
 ---
 
 Crowdsourcing involves soliciting input from the public, usually on a digital platform, to address market gaps and surface promising solutions in an open, efficient way. It often has a voting component wherein the top\-voted ideas win support. Crowdsourcing uses collective intelligence to help creative ideas rise to the top – while generating a real\-time feedback loop and a shared sense of ownership in the project.
@@ -22,11 +22,11 @@ With [LA2050](http://www.la2050.org/), an initiative to create, drive, and trac
 
 For four years, we have run this crowdsourced campaign to great acclaim – generating more than 1100 projects and engaging nearly 300,000 people in the voting process. Crowdsourcing encourages creative idea generation and promotion, enables us to connect the dots among ideas, supporters, and entrepreneurs, and allows us to co\-create solutions for the future of Los Angeles.
 
-**Crowdsourcing benefits and concerns**
+## Crowdsourcing benefits and concerns
 
 Crowdsourcing is an effective tool to help realize an organization's goals, whether you are an entrepreneur seeking funding, an investor exploring a new idea, or a civic organization trying to identify a breakthrough process.
 
-Benefits for funders:
+## Benefits for funders:
 
 > **Exposure to new organizations, ideas, and funding. **Crowdsourcing brings funders closer to real problems and solutions. Some applicants that didn't get funding from LA2050 went on to receive more than $1 million in follow\-on funding from the Annenberg Foundation and the Roy and Patricia Disney Foundation.
 > 
@@ -34,7 +34,7 @@ Benefits for funders:
 > 
 > **Emerging trends.** By analyzing the data that emerged from the My LA2050 Grants Challenge, we identified promising trends that could create significant change – trends that we also see in the private and civic sector, like sharing economy solutions and the re\-purposing of public space. By sharing this data in our [reports](https://www.la2050.org/reports) with other funders and leaders, we identified approaches that could help other organizations progress.
 
-**Benefits for entrepreneurs:**
+## Benefits for entrepreneurs:
 
 > **Earned media.** Projects that compete in a crowdsourced challenge can receive exposure to new audiences via earned media. The My LA2050 Grants Challenge garnered significant radio, print, and digital media coverage about the ideas we were showcasing – both challenge winners and those that did not win.
 > 
@@ -46,27 +46,27 @@ Benefits for funders:
 > 
 > **Engaged feedback.** Crowdsourcing helps establish a dynamic relationship between organizations and their supporters, including immediate feedback on projects.
 
-**Crowdsourcing also raises legitimate concerns that need to be addressed:**
+## Crowdsourcing also raises legitimate concerns that need to be addressed:
 
-_Isn't this just a popularity contest?_
+### Isn't this just a popularity contest?
 
 The idea most likely to succeed or to have the most impact may not win if the organization behind it has a small online constituency. To address this concern in our 2014 challenge, we allowed the public vote to determine five winners, while the foundation team chose the other five winners.
 
-_Competition pits social sector groups against each other._
+### Competition pits social sector groups against each other.
 
 What crowdsourcing really does is allow groups to compete publicly and transparently. When entrepreneurs submit their proposals to an investor, the selection is made behind closed doors, by a few people. We addressed this issue by encouraging more collaboration among participants and favoring collaborations in our selection process. We also hosted networking events for entrepreneurs to meet each other and join one another's projects.
 
-_There aren't enough benefits for participants who don't win._
+### There aren't enough benefits for participants who don't win.
 
 In our second year we spent a full month honoring and promoting the submissions – before voting even began. In this way, we were able to showcase all the great ideas that were submitted. We also actively pitch great ideas that did not win to other funders.
 
 * * *
 
-**CROWDSOURCING RESOURCE GUIDE FOR ENTREPRENEURS AND INVESTORS**
+# CROWDSOURCING RESOURCE GUIDE FOR ENTREPRENEURS AND INVESTORS
 
 Whether you are looking for a way to expand your funding, generate awareness about innovative ideas, unleash potential within your constituent base or increase participation in your initiatives, tapping into the crowd may help. The guide below offers some resources on how to effectively crowdsource – for both entrepreneurs and investors.
 
-**Getting started**
+## Getting started
 
 > [Chronicle of Philanthropy](http://philanthropy.com/section/Home/172): News and resources for nonprofit leaders, fundraisers, and grant makers.
 > 
@@ -76,7 +76,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > [Entrepreneurship.org](http://entrepreneurship.org/): Resources for entrepreneurs and investors.
 
-**Running a crowdsourced challenge**
+## Running a crowdsourced challenge
 
 > [FluidReview](http://fluidreview.com/): A platform that manages crowdsourced challenges
 > 
@@ -98,7 +98,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > Common Pool: Crowdsourcing platform for social change projects
 
-**Launching the campaign for your crowdsourced idea**
+## Launching the campaign for your crowdsourced idea
 
 > [Thunderclap](https://www.thunderclap.it/): Increase digital outreach by blasting timed messages and posts.
 > 
@@ -106,7 +106,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > [ManageFlitter](https://manageflitter.com/): Detailed analytics on your social media performance.
 
-**Promoting your idea**
+## Promoting your idea
 
 > [Hootsuite](http://hootsuite.com/) and [Buffer](https://buffer.com/): Social media management platform that lets you manage all your accounts on one dashboard.
 > 
@@ -116,7 +116,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > [Facebook ads](https://www.facebook.com/business/products/ads): Strong targeting tools to help get your idea and organization seen by a larger audience.
 
-**Sharing feedback and analytics with supporters and participants**
+## Sharing feedback and analytics with supporters and participants
 
 > [Storify](https://storify.com/): Create stories and timelines using posts from Twitter, Facebook, and Instagram.
 > 
