@@ -156,7 +156,7 @@ layout: default
 
         <ul>
           {% for data in data_list %}
-            {% if data.categories == '["capital-publications"]' or data.categories.first == "capital-publications" %}
+            {% if data.categories == "capital-publications" or data.categories.first == "capital-publications" %}
               <li><a href="{{ data.details_url }}">{{ data.title }}</a></li>
             {% endif %}
           {% endfor %}
@@ -174,7 +174,7 @@ layout: default
 
         <ul>
           {% for data in data_list %}
-            {% if data.categories == '["currently-reading"]' or data.categories.first == "currently-reading" %}
+            {% if data.categories == "currently-reading" or data.categories.first == "currently-reading" %}
               <li><a href="{{ data.details_url }}">{{ data.title }}</a></li>
             {% endif %}
           {% endfor %}
@@ -192,7 +192,7 @@ layout: default
 
         <ul>
           {% for data in data_list %}
-            {% if data.categories == '["innovative-tools"]' or data.categories.first == "innovative-tools" %}
+            {% if data.categories == "innovative-tools" or data.categories.first == "innovative-tools" %}
               <li><a href="{{ data.details_url }}">{{ data.title }}</a></li>
             {% endif %}
           {% endfor %}

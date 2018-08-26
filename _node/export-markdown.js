@@ -206,6 +206,10 @@ function getRecords(folder) {
       record.date = `${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`
     }
 
+    if (record.categories) {
+      record.categories = record.categories.join(", ")
+    }
+
     // Add the data to the list of records
     records.push(record)
   }
@@ -215,7 +219,7 @@ function getRecords(folder) {
 
 
 const writePath = "../_data/"
-const collections = ["jobs", "press", "opportunities", "speaking", "initiatives", "capital", "team"]
+const collections = ["jobs", "press", "opportunities", "speaking", "initiatives", "capital", "team", "resources"]
 
 collections.forEach(collection => {
   let records = getRecords(`../_${collection}`)
