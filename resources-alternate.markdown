@@ -1,6 +1,6 @@
 ---
 title: Resources (with data)
-position: 5
+position: 11
 layout: resources-alternate
 capital_publications:
   title: Publications around capital development
