@@ -12,7 +12,7 @@ author: Tara Roth
 
 Over the past several years, the Federal government has been working with local communities across the country on a wide range of initiatives that support innovation and opportunity. Several of these initiatives are listed below along with links that offer more information. Many have existing communities of practice that are open for new participants to join.  
 
-**Promoting Diverse Talent**
+## Promoting Diverse Talent
 
 Inclusion Pledges: To tap into talent across the country, companies and universities have taken pledges to take specific steps to be more representative of the American people.    
 
@@ -30,7 +30,7 @@ Inclusion Pledges: To tap into talent across the country, companies and universi
 > 
 > **IMAGE of STEM:** Inclusion of diverse and compelling STEM images, stories, and positive messages in mainstream entertainment media, social media, and everyday materials can be a positive driver of broad inclusive talent engagement for the STEM workforce. There are key opportunities to work with public and private sector partners to: 1) highlight STEM role models (past and present); 2) emphasize social impacts and exciting aspects of STEM work to inspire students to tackle pressing challenges of the 21st century; and 3) debunk STEM stigmas and misconceptions. For more information, click [here](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/imageofstemdepictiondoc_02102016_clean.pdf).
 
-**Collaborating to Tackle Big Challenges**  
+## Collaborating to Tackle Big Challenges
 
 **Grand Challenges: **As part of President Obama’s pledge “to restore science to its rightful place,” the Administration launched several Grand Challenges to enlist support from across the country – and across sectors – to tackle pressing issues. For more information on:  
 
@@ -52,7 +52,7 @@ Inclusion Pledges: To tap into talent across the country, companies and universi
 > 
 > [18F](https://18f.gsa.gov) 
 
-**Additional LA\-focused innovation initiatives of interest**  
+## Additional LA-focused innovation initiatives of interest
 
 Innovation Corps (I\-Corps): I\-Corps is an entrepreneurship initiative led by the National Science Foundation in collaboration with universities across the country, designed to accelerate discoveries from lab to market. Los Angeles has its own I\-Corps hub – Innovation\-Node Los Angeles (IN\-LA) – a collaboration of the University of Southern California (USC), California Institute of Technology (Caltech), and University of California, Los Angeles (UCLA). IN\-LA has touched more than 150 engineering teams in corporate and university environments in Southern California and beyond, offering leading educational programs, world\-class research, support for new ventures, and ecosystem\-developing programs to link innovators with capital and other resources. For more information: [http://lanode.org/about/](http://lanode.org/about/)  
 
