@@ -9,27 +9,26 @@ layout: default
 </div>
 <div class="row">
   <div class="span12">
-    <h1 class="initiatives-projects-subtitle">Here&rsquo;s a glimpse of some of the organizations and specific projects we support.</h1>
+    <h1 class="initiatives-projects-subtitle">{{ content | remove: "<p>" | remove: "</p>" }}</h1>
   </div>
 </div>
 <div class="row">
   <div class="span12">
-    <p>We invest our capital using three approaches to create systemic change: <strong>civic capital</strong>, <strong>seed capital</strong>, and <strong>expansion capital</strong>.</p>
-    <!-------------------------------------------------------------------------- New Fields -->
+    {{ page.capital.introduction | markdownify }}
   </div>
 </div>
 <div class="row initiatives-services">
   <div class="span4 initiatives initiatives-opportunity">
-    <h4>CIVIC CAPITAL</h4>
-    <p>Promoting mobilization and disruption within existing infrastructures.</p>
+    <h4>{{ page.capital.civic.title }}</h4>
+    <p>{{ page.capital.civic.description }}</p>
   </div>
   <div class="span4 initiatives-sustainability">
-    <h4>SEED CAPITAL</h4>
-    <p>Seeding social innovation in Los Angeles.</p>
+    <h4>{{ page.capital.seed.title }}</h4>
+    <p>{{ page.capital.seed.description }}</p>
   </div>
   <div class="span4 initiatives-activation">
-    <h4>EXPANSION CAPITAL</h4>
-    <p>Bringing proven solutions from other regions to Los Angeles.</p>
+    <h4>{{ page.capital.expansion.title }}</h4>
+    <p>{{ page.capital.expansion.description }}</p>
   </div>
 </div>
 
@@ -105,7 +104,7 @@ layout: default
 </div>
 <div class="row">
   <div class="span12">
-    <p>We support initiatives in three categories: <strong>opportunity</strong>, <strong>sustainability</strong>, and <strong>activation</strong>. Within each category, organizations deliver the following vital services:</p>
+    {{ page.initiatives.introduction | markdownify }}
   </div>
 </div>
 <div class="row initiatives-services">
@@ -113,26 +112,22 @@ layout: default
     <div class="services-graphic">
       <img src="/assets/img/initiatives_telescope@x2.png" alt="">
     </div>
-    <h4>OPPORTUNITY</h4>
-    <p>Provide skills, programming, and support structures to improve educational and economic opportunity.
-    </p>
-    <!-------------------------------------------------------------------------- New Fields -->
+    <h4>{{ page.initiatives.opportunity.title }}</h4>
+    <p>{{ page.initiatives.opportunity.description }}</p>
   </div>
   <div class="span4 initiatives-sustainability">
     <div class="services-graphic">
       <img src="/assets/img/initiatives_sunburst@x2.png" alt="">
     </div>
-    <h4>SUSTAINABILITY</h4>
-    <p>Pursue environmental health through innovation at both the cause and response sides of the issue. </p>
-    <!-------------------------------------------------------------------------- New Fields -->
+    <h4>{{ page.initiatives.sustainability.title }}</h4>
+    <p>{{ page.initiatives.sustainability.description }}</p>
   </div>
   <div class="span4 initiatives-activation">
     <div class="services-graphic">
       <img src="/assets/img/initiatives_bolt@x2.png" alt="">
     </div>
-    <h4>ACTIVATION</h4>
-    <p>Support pro-social platforms and tools for independent expression and individual mobilization.</p>
-    <!-------------------------------------------------------------------------- New Fields -->
+    <h4>{{ page.initiatives.activation.title }}</h4>
+    <p>{{ page.initiatives.activation.description }}</p>
   </div>
 </div>
 <div class="row initiatives-organizations">
