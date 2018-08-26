@@ -1,6 +1,6 @@
 ---
 title: About Us (with data)
-position: 10
+position: 11
 layout: about-alternate
 team:
 - title: Tara Roth
