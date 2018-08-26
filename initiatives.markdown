@@ -1,7 +1,6 @@
 ---
 title: Initiatives
 position: 2
-layout: initiatives
 capital:
   introduction: 'We invest our capital using three approaches to create systemic change:
     **civic capital**, **seed capital**, and **expansion capital**.'
@@ -30,5 +29,7 @@ initiatives:
     title: ACTIVATION
     description: Support pro-social platforms and tools for independent expression
       and individual mobilization.
+layout: initiatives
 ---
 
+Here’s a glimpse of some of the organizations and specific projects we support.
