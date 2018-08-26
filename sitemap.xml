@@ -1,0 +1,46 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+{% comment %}
+######### Pages #########
+{% endcomment %}
+
+  <url>
+    <loc>http://goldhirshfoundation.org/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/vision/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/initiatives/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/about/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/la2050/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/resources/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/jobs/</loc>
+  </url>
+  <url>
+    <loc>http://goldhirshfoundation.org/blog/</loc>
+  </url>
+
+{% comment %}
+######### Blog Posts #########
+{% endcomment %}
+
+{% for post in site.posts %}
+  <url>
+    <loc>http://goldhirshfoundation.org{{ post.url }}</loc>
+  </url>
+{% endfor %}
+
+</urlset>

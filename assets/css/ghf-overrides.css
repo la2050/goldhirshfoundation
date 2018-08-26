@@ -6,6 +6,15 @@
   text-decoration: underline;
 }
 
+
+.post h1.post-headline {
+  font-family: "Proxima N W01 Smbd", sans-serif;
+  font-size: 38px;
+  font-weight: normal;
+  line-height: 38px;
+  color: #38af4d;
+}
+
 .post .post-body ul {
   font-family: "Proxima N W01 Light", sans-serif;
   font-weight: normal;

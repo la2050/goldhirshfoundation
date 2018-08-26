@@ -10,7 +10,7 @@ layout: default
       <div class='posts'>
         <div class='post'>
           <div class='post-head'>
-            <h2 class='post-headline'><a href='{{ page.url }}'>{{ page.title }}</a></h2>
+            <h1 class='post-headline'>{{ page.title }}</h1>
             <p class='post-byline'><span class='author'>Posted by <a href="/about/#{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a></span> on <span class='date'>{{ page.date | date: "%B %-d, %Y" }}</span></p>
           </div>
           <div class='post-body'>

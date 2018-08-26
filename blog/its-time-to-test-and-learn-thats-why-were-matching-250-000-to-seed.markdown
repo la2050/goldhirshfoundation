@@ -1,0 +1,7 @@
+---
+title: "This page has moved"
+redirect: /blog/2017/11/21/its-time-to-test-and-learn-thats-why-were-matching-250-000-to-seed/
+canonical_url: /blog/2017/11/21/its-time-to-test-and-learn-thats-why-were-matching-250-000-to-seed/
+---
+
+This page has moved to a [new location](/blog/2017/11/21/its-time-to-test-and-learn-thats-why-were-matching-250-000-to-seed/)

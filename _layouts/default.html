@@ -5,7 +5,6 @@
   <meta charset="utf-8">
   <title>{{ page.title }}{% unless page.title contains "Goldhirsh Foundation" %}, Goldhirsh Foundation {% endunless %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="The Goldhirsh Foundation connects the dots between the best emerging innovations and the financial, social, and human capital to make them thrive.">
   <meta name="keywords" content="foundation, innovation, innovator, sustainability, activation, opportunity, goldhirsh">
   <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/a3879324-0676-4a49-a21e-a021934d1a6a.css" />
   <link href="/assets/css/bootstrap_custom.min.css" rel="stylesheet">
@@ -13,6 +12,36 @@
   <link href="/assets/css/ghf-overrides.css" rel="stylesheet">
   <link rel="shortcut icon" href="/assets/ico/favicon.ico">
   <meta name="google-site-verification" content="OQbPN7vmr5v69iC3FhivQ0A9CFdLojFYziRCCnHoqLg" />
+
+  {% capture canonical_url %}http://goldhirshfoundation.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
+  <link rel="canonical" href="{{ canonical_url }}" />
+  <meta property="og:url" content="{{ canonical_url }}" />
+
+  {% if page.project_description and page.project_description != '' %}
+    {% assign description = page.project_description %}
+  {% elsif layout.use_default_meta_description == true %}
+    {% assign description = site.description %}
+  {% endif %}
+  {% if description and description != '' %}
+    <meta name="description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description }}" />
+  {% endif %}
+
+  {% if site.image %}
+  <meta property="og:image" content="{{ site.image }}" />
+  {% endif %}
+
+  {% if page.redirect %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
+  {% endif %}
+
+  {% comment %}Open Graph: http://ogp.me{% endcomment %}
+  <meta property="og:type" content="website" />
+
+  {% comment %}Twitter Card: https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started{% endcomment %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@GoldhirshFdn" />
+
 </head>
 
 <body class="page-{{ page.url | replace: '/', '' }}{% if page.url == '/' %}home{% endif %}">
