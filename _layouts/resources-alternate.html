@@ -40,7 +40,7 @@ layout: default
 
         <div class="table-row clearfix">
           <div class="col-md-3"><a href="{{ data.details_url }}">{{ data.title }}</a></div>
-          <div class="col-md-3">{{ data.content | strip_html }}</div>
+          <div class="col-md-3">{{ data.content | remove: "<p>" | remove: "</p>" }}</div>
           <div class="col-md-3">{{ data.date | date: "%B %-d, %Y" }}</div>
         </div>
 

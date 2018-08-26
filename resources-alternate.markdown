@@ -1,6 +1,7 @@
 ---
 title: Resources (with data)
-position: 10
+position: 5
+layout: resources-alternate
 capital_publications:
   title: Publications around capital development
   introduction: From capital development to crowdsourcing technologies, we are always
@@ -68,7 +69,6 @@ innovative_tools:
     url: https://www.ioby.org
   - title: 'Data USA: Los Angeles'
     url: http://datausa.io/profile/geo/los-angeles-county-ca/
-layout: resources-alternate
 ---
 
 The Goldhirsh Foundation is committed to supporting social _innovation_ in Los Angeles. Below find a number of resources around _social innovation_, _impact investing_, and _fundraising_.

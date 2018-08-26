@@ -9,7 +9,7 @@ layout: default
 </div>
 <div class="row">
   <div class="span12">
-    <h1 class="initiatives-projects-subtitle">{{ content | strip_html }}</h1>
+    <h1 class="initiatives-projects-subtitle">{{ content | remove: "<p>" | remove: "</p>" }}</h1>
   </div>
 </div>
 <div class="row">

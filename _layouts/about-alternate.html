@@ -70,7 +70,7 @@ layout: default
           </div>
           <div class="press-text-wrapper">
             <a href="{{ data.details_url }}" class="press-title press-item-toggle">{{ data.title }}</a>
-            <p class="press-text">{{ data.content | strip_html }}</p>
+            <p class="press-text">{{ data.content | remove: "<p>" | remove: "</p>" }}</p>
             <a href="{{ data.details_url }}" class="read-more press-item-toggle">Read More</a>
             <div class="clear"></div>
           </div>

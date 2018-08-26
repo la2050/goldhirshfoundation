@@ -109,6 +109,24 @@
             <li class=" nav-blog {% if page.url contains '/blog/' %} current {% endif %}">
               <a href="/blog/">Blog</a>
             </li>
+            {% comment %}
+            {% assign sorted_pages = site.pages | sort:"position" %}
+            {% for item in sorted_pages %}
+              {% unless item.title contains "with data" or item.title contains "not found" or item.layout == "redirect" %}
+                {% if item.url == "/" %}
+                  <li class="nav-home">
+                    <a href="/">
+                      <img src="/assets/img/ghf-logo-{% if page.url == item.url %}light{% else %}dark{% endif %}@x2.png" alt="GOLDHIRSH FOUNDATION" id="ghf-logo">
+                    </a>
+                  </li>
+                {% else %}
+                  <li class=" nav-blog {% if page.url contains item.url %} current {% endif %}">
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                  </li>
+                {% endif %}
+              {% endunless %}
+            {% endfor %}
+            {% endcomment %}
           </ul>
         </div>
       </div>
