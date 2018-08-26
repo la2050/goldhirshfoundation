@@ -14,8 +14,17 @@
   <link rel="stylesheet" href="https://use.typekit.net/hja0dgt.css">
 
   <link href="/assets/css/bootstrap_custom.min.css" rel="stylesheet">
-  <link href="/assets/css/ghf.css" rel="stylesheet">
-  <link href="/assets/css/ghf-overrides.css" rel="stylesheet">
+  <link href="/assets/css/ghf.css?v={{ site.version }}" rel="stylesheet">
+  <link href="/assets/css/ghf-overrides.css?v={{ site.version }}" rel="stylesheet">
+
+  {% if page.stylesheets %}
+    {% assign stylesheets = page.stylesheets %}
+  {% elsif layout.stylesheets %}
+    {% assign stylesheets = layout.stylesheets %}
+  {% endif %}
+  {% for url in stylesheets %}
+  <link rel="stylesheet" href="{{ url }}?v={{ site.version }}" />
+  {% endfor %}
 
   <!-- for general use -->
   <link rel="shortcut icon" href="/assets/ico/favicon.ico">

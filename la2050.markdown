@@ -2,6 +2,8 @@
 title: LA2050
 position: 4
 layout: la2050
+stylesheets:
+  - https://cdn-images.mailchimp.com/embedcode/slim-081711.css
 ---
 
 Our largest and most ambitious effort is [LA2050](https://activation.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
@@ -26,27 +28,23 @@ Explore LA2050. Follow the stories of the eight indicators and the LA2050 goals.
 
 To find out more or if you would like to join the dialogue, please contact [connect@la2050.org](mailto:connect@la2050.org), use the hashtag [#LA2050](http://www.twitter.com/#LA2050), or subscribe to our newsletter.
 
+<br />
 
 <!-- Begin MailChimp Signup Form -->
-<link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
 <div id="mc_embed_signup">
-<form action="http://goldhirshfoundation.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://goldhirshfoundation.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	<label for="mce-EMAIL">Keep in touch with LA2050.</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </form>
 </div>
 <!--End mc_embed_signup-->
-
 	
-**My LA2050 Grants Challenge Grantees**
+<h2 class="title">My LA2050 Grants Challenge Grantees</h2>
 
-**2016 My LA2050 Grants Challenge**
+### 2016 My LA2050 Grants Challenge
+
+<br />
 
 **TOP VOTED**
 
@@ -66,7 +64,11 @@ To find out more or if you would like to join the dialogue, please contact [conn
 • [CONNECT - Friends of the Family](https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up)  
 • [LIVE - Covenant House California](https://challenge.la2050.org/entry/the-precise-barber-college)  
 
-**2015 My LA2050 Grants Challenge**
+<br />
+
+### 2015 My LA2050 Grants Challenge
+
+<br />
 
 **TOP VOTED**
 
@@ -82,9 +84,13 @@ To find out more or if you would like to join the dialogue, please contact [conn
 • [CREATE - Los Angeles Bioscience Hub](http://myla2050create2015.maker.good.is/projects/BiotechLeaders)  
 • [PLAY - People for Parks](http://myla2050play2015.maker.good.is/projects/peopleforparks)  
 • [CONNECT - CASA of Los Angeles](http://myla2050connect2015.maker.good.is/projects/casalosangeles)  
-• [LIVE - Iraq and Afghanistan Veterans of America](http://myla2050live2015.maker.good.is/projects/vetsrisingLA)  
+• [LIVE - Iraq and Afghanistan Veterans of America](http://myla2050live2015.maker.good.is/projects/vetsrisingLA)
 
-**2014 My LA2050 Grants Challenge**
+<br />
+
+### 2014 My LA2050 Grants Challenge
+
+<br />
 
 **TOP VOTED**
 
@@ -100,9 +106,13 @@ To find out more or if you would like to join the dialogue, please contact [conn
 • [LEARN - The Incubator School](http://maker.good.is/myLA2050learn/projects/incubator.html)  
 • [LIVE - The Trust for the Public Land](http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html)  
 • [CONNECT - Move LA](http://maker.good.is/myLA2050connect/projects/MoveLA.html)  
-• [CREATE - Downtown Women's Center](http://maker.good.is/myLA2050create/projects/DTwomenscenter.html)  
+• [CREATE - Downtown Women's Center](http://maker.good.is/myLA2050create/projects/DTwomenscenter.html)
 
-**2013 My LA2050 Grants Challenge**
+<br />
+
+### 2013 My LA2050 Grants Challenge
+
+<br />
 
 • [Arts & Cultural Vitality - Hammer Museum](http://maker.good.is/myla2050/projects/Hammer_Museum.html)  
 • [Education - 826LA](http://maker.good.is/myla2050/projects/826LA.html)  
@@ -113,7 +123,9 @@ To find out more or if you would like to join the dialogue, please contact [conn
 • [Public Safety - Homeboy Industries](http://maker.good.is/myla2050/projects/homeboyindustries.html)  
 • [Social Connectedness - CicLAvia](http://maker.good.is/myla2050/projects/CicLAvia.html)  
 • [Wild Card - Mission Asset Fund](http://maker.good.is/myla2050/projects/LendingCircles.html)  
-• [Wild Card - No Right Brain Left Behind & Green Dot Public Schools](http://maker.good.is/myla2050/projects/salamanderproject.html)  
+• [Wild Card - No Right Brain Left Behind & Green Dot Public Schools](http://maker.good.is/myla2050/projects/salamanderproject.html)
+
+<br />
 
 To learn more about how the winners made their impact, check out the latest LA2050 Impact Report [here](http://la2050.s3-us-west-1.amazonaws.com/reports/11/pdfs/ImpactReport_2015.pdf?1508262767), and check out all our impact reports [here](https://www.la2050.org/reports).
 

@@ -161,3 +161,9 @@ strong,
   margin-bottom: 11px;
 }
 
+#mc_embed_signup { 
+  clear: left;
+  font-size: inherit;
+  font-family: inherit;
+}
+
