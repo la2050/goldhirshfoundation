@@ -1,7 +1,7 @@
 ---
 title: Conservation Labs
 date: 2018-06-30 00:00:00 -07:00
-position: 6
+position: 8
 details_url: https://conservationx.com/challenge/cxtech/prize
 ---
 
