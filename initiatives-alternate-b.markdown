@@ -13,7 +13,9 @@ Here’s a glimpse of some of the organizations and specific projects we support
 
 
 <div class="introduction" markdown="1">
+
 We invest our capital using three approaches to create systemic change: **civic capital**, **seed capital**, and **expansion capital**.
+
 </div>
 
 
@@ -239,7 +241,9 @@ We supported City Lacrosse’s expansion to Los Angeles. In Spring 2017, they me
 
 
 <div class="introduction" markdown="1">
+
 We support initiatives in three categories: **opportunity**, **sustainability**, and **activation**. Within each category, organizations deliver the following vital services:
+
 </div>
 
 
