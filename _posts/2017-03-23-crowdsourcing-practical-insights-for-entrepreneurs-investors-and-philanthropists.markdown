@@ -62,7 +62,7 @@ In our second year we spent a full month honoring and promoting the submissions 
 
 * * *
 
-# CROWDSOURCING RESOURCE GUIDE FOR ENTREPRENEURS AND INVESTORS
+## CROWDSOURCING RESOURCE GUIDE FOR ENTREPRENEURS AND INVESTORS
 
 Whether you are looking for a way to expand your funding, generate awareness about innovative ideas, unleash potential within your constituent base or increase participation in your initiatives, tapping into the crowd may help. The guide below offers some resources on how to effectively crowdsource – for both entrepreneurs and investors.
 
