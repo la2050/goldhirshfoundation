@@ -1,8 +1,8 @@
 ---
 title: Spark Adobe
-details_url: 'https://spark.adobe.com/'
 categories:
-  - innovative-tools
+- innovative-tools
 position: 15
-
+details_url: https://spark.adobe.com/
 ---
+

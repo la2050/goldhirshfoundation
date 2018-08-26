@@ -1,8 +1,8 @@
 ---
 title: IOBY
-details_url: 'https://www.ioby.org'
 categories:
-  - innovative-tools
+- innovative-tools
 position: 21
-
+details_url: https://www.ioby.org
 ---
+

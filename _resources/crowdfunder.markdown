@@ -1,8 +1,8 @@
 ---
 title: CrowdFunder
-details_url: 'https://www.crowdfunder.com'
 categories:
-  - innovative-tools
+- innovative-tools
 position: 17
-
+details_url: https://www.crowdfunder.com
 ---
+

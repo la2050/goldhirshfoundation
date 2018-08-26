@@ -1,8 +1,8 @@
 ---
 title: Contagious
-details_url: 'https://ls2pac.lapl.org/?section=resource&resourceid=648914865'
 categories:
-  - currently-reading
+- currently-reading
 position: 11
-
+details_url: https://ls2pac.lapl.org/?section=resource&resourceid=648914865
 ---
+

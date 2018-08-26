@@ -1,8 +1,8 @@
 ---
 title: OpenIDEO
-details_url: 'https://openideo.com'
 categories:
-  - innovative-tools
+- innovative-tools
 position: 20
-
+details_url: https://openideo.com
 ---
+

@@ -1,8 +1,8 @@
 ---
 title: 10 Day MBA
-details_url: 'https://ls2pac.lapl.org/?section=resource&resourceid=21785586'
 categories:
-  - currently-reading
+- currently-reading
 position: 12
-
+details_url: https://ls2pac.lapl.org/?section=resource&resourceid=21785586
 ---
+

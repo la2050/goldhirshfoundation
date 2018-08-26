@@ -1,8 +1,8 @@
 ---
 title: ImpactBase
-details_url: 'http://www.impactbase.org'
 categories:
-  - innovative-tools
+- innovative-tools
 position: 19
-
+details_url: http://www.impactbase.org
 ---
+

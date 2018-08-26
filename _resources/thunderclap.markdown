@@ -1,8 +1,8 @@
 ---
 title: Thunderclap
-details_url: 'https://www.thunderclap.it'
 categories:
-  - innovative-tools
+- innovative-tools
 position: 18
-
+details_url: https://www.thunderclap.it
 ---
+
