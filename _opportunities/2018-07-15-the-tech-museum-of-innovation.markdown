@@ -1,7 +1,7 @@
 ---
 title: The Tech Museum of Innovation
 date: 2018-07-15 00:00:00 -07:00
-position: 6
+position: 7
 details_url: https://www.thetech.org/TechArts
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Cities for Financial Empowerment Fund
 date: 2018-07-02 00:00:00 -07:00
-position: 9
+position: 10
 details_url: https://www.grantinterface.com/Process/Apply?urlkey=CitiesFE
 ---
 
