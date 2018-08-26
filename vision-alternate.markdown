@@ -1,6 +1,6 @@
 ---
 title: Our Vision (with data)
-position: 8
+position: 7
 layout: default
 body_class: vision
 ---
