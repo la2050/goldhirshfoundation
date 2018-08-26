@@ -25,6 +25,10 @@ collections:
     title: Press
     output: false
     permalink: "/press/:year/:month/:day/:title/"
+  resources:
+    title: Resources
+    output: false
+    permalink: "/resources/:year/:month/:day/:title/"
   speaking:
     title: Speaking
     output: false
@@ -80,6 +84,12 @@ defaults:
 - scope:
     path: ''
     type: press
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: resources
   values:
     details_url: ''
     layout: default

@@ -134,17 +134,6 @@ layout: default
     <div class="clear"></div>
     <div class="row">
 
-      {% assign collection_name = "resources" %}
-
-      {% comment %} Get data from a spreadsheet {% endcomment %}
-      {% assign data_list = site.data[collection_name] %}
-
-      {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
-      {% unless data_list and data_list.size > 0 %}
-        {% assign data_collection = site.collections | where: "label", collection_name | first %}
-        {% assign data_list = data_collection.docs | sort: "position" %}
-      {% endunless %}
-
       <div class="span4 resources-cta">
 
         <div class="image-wrapper"><img src="{{ page.capital_publications.image }}" /></div>
@@ -155,10 +144,8 @@ layout: default
         <div class="clear"></div>
 
         <ul>
-          {% for data in data_list %}
-            {% if data.categories == '["capital-publications"]' or data.categories.first == "capital-publications" %}
-              <li><a href="{{ data.details_url }}">{{ data.title }}</a></li>
-            {% endif %}
+          {% for data in page.capital_publications.items %}
+            <li><a href="{{ data.url }}">{{ data.title }}</a></li>
           {% endfor %}
         </ul>
 
@@ -173,10 +160,8 @@ layout: default
         <div class="clear"></div>
 
         <ul>
-          {% for data in data_list %}
-            {% if data.categories == '["currently-reading"]' or data.categories.first == "currently-reading" %}
-              <li><a href="{{ data.details_url }}">{{ data.title }}</a></li>
-            {% endif %}
+          {% for data in page.currently_reading.items %}
+            <li><a href="{{ data.url }}">{{ data.title }}</a></li>
           {% endfor %}
         </ul>
 
@@ -191,10 +176,8 @@ layout: default
         <div class="clear"></div>
 
         <ul>
-          {% for data in data_list %}
-            {% if data.categories == '["innovative-tools"]' or data.categories.first == "innovative-tools" %}
-              <li><a href="{{ data.details_url }}">{{ data.title }}</a></li>
-            {% endif %}
+          {% for data in page.innovative_tools.items %}
+            <li><a href="{{ data.url }}">{{ data.title }}</a></li>
           {% endfor %}
         </ul>
 
