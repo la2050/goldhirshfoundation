@@ -38,13 +38,13 @@ layout: default
     {% endunless %}
 
     {% for data in data_list %}
-    <div class="row about-bio">
+    <div class="row about-bio" id="{{ data.title | downcase | replace: ' ', '-' }}">
       <div class="span4 about-bio-image">
         <img src="{{ data.image }}" alt="">
       </div>
       <div class="span8 about-bio-text">
 
-        {{ content }}
+        {{ data.content }}
 
         <br>
         <p><a href="https://twitter.com/{{ data.twitter_username }}" class="twitter-follow-button" data-show-count="false">Follow @{{ data.twitter_username }}</a>

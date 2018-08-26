@@ -5,3 +5,44 @@
 .resources-cta-intro a {
   text-decoration: underline;
 }
+
+.post .post-body ul {
+  font-family: "Proxima N W01 Light", sans-serif;
+  font-weight: normal;
+  letter-spacing: 1px;
+  color: #231f20;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+
+.post-body p {
+  margin-bottom: 22px;
+}
+.post-body ul {
+  margin-bottom: 22px;
+}
+
+
+.post-body h2 {
+  font-family: "Proxima N W01 Bold", sans-serif;
+  font-weight: normal;
+  color: #38af4d;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  color: #38af4d;
+  margin-bottom: 22px;
+}
+
+.post-body h3 {
+  font-family: "Proxima N W01 Light", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  font-weight: normal;
+  font-style: italic;
+  margin-top: 22px;
+  margin-bottom: 11px;
+}
+
