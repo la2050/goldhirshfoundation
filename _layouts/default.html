@@ -1,31 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}{% unless page.title contains "Goldhirsh Foundation" %}, Goldhirsh Foundation {% endunless %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="keywords" content="foundation, innovation, innovator, sustainability, activation, opportunity, goldhirsh">
+
+  {% comment %}
   <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/a3879324-0676-4a49-a21e-a021934d1a6a.css" />
+  {% endcomment %}
+
+  <!-- TEMPORARY: Jim’s Typekit account -->
+  <link rel="stylesheet" href="https://use.typekit.net/hja0dgt.css">
+
   <link href="/assets/css/bootstrap_custom.min.css" rel="stylesheet">
   <link href="/assets/css/ghf.css" rel="stylesheet">
   <link href="/assets/css/ghf-overrides.css" rel="stylesheet">
+
+  <!-- for general use -->
   <link rel="shortcut icon" href="/assets/ico/favicon.ico">
+  {% comment %}
+  <link rel="icon" type="image/png"    href="/assets/images/favicon.png" />
+  {% endcomment %}
+
+  <!-- for iOS -->
+  <link rel="apple-touch-icon"         href="/assets/img/logotype-square.png" />
+
+  <!-- for Windows 8 -->
+  <meta name="msapplication-TileImage" content="/assets/img/logotype-square.png" />
+  <meta name="msapplication-TileColor" content="rgb(49, 176, 71)" />
+
   <meta name="google-site-verification" content="OQbPN7vmr5v69iC3FhivQ0A9CFdLojFYziRCCnHoqLg" />
 
   {% capture canonical_url %}http://goldhirshfoundation.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
 
-  {% if page.project_description and page.project_description != '' %}
-    {% assign description = page.project_description %}
-  {% elsif layout.use_default_meta_description == true %}
+  {% if layout.use_default_meta_description == true %}
     {% assign description = site.description %}
   {% endif %}
   {% if description and description != '' %}
     <meta name="description" content="{{ description }}" />
     <meta property="og:description" content="{{ description }}" />
   {% endif %}
+
+  <meta name="keywords" content="foundation, innovation, innovator, sustainability, activation, opportunity, goldhirsh">
 
   {% if site.image %}
   <meta property="og:image" content="{{ site.image }}" />
