@@ -1,7 +1,9 @@
 ---
 title: Initiatives (with data as markdown)
 position: 10
-layout: default
+layout: main
+stylesheets:
+  - /assets/css/initiatives.css
 ---
 
 Initiatives
@@ -10,7 +12,7 @@ Initiatives
 Here’s a glimpse of some of the organizations and specific projects we support.
 -----------
 
-### We invest our capital using three approaches to create systemic change: _civic capital_, _seed capital_, and _expansion capital_. ###
+### We invest our capital using three approaches to create systemic change: [civic capital](#civic-capital), [seed capital](#seed-capital), and [expansion capital](#expansion-capital). ###
 
 
 
@@ -58,7 +60,7 @@ Seeding social innovation in Los Angeles.
 : _The Hammer Museum at UCLA believes in the promise of art and ideas to illuminate our lives and build a more just world._
 : The Hammer Museum tapped into the thriving Los Angeles creative community to curate an artisanal pop-up village in Westwood and offer a long term strategy to turn the neighborhood around.
 
-[GIRLS ACADEMIC LEADERSHIP ACADEMY (GALA)](https://www.galacademy.org)
+[Girls Academic Leadership Academy (GALA)](https://www.galacademy.org)
 : _Promoting gender diversity and inspiring innovation in the STEM fields_
 : GALA is LAUSD’s first all-girls public school. With a STEM-centered curriculum, GALA’s students will apply their academic and technology skills to build projects in a flexible, collaborative learning environment.
 
@@ -81,7 +83,7 @@ Bringing proven solutions from other regions to Los Angeles.
 : _Combating poverty and expanding opportunity so all Americans can pursue their life goals._
 : A longtime funder of LIFT, we worked with them to expand their model in L.A. We provided funding for a feasibility study and, organized meetings with city officials, social service organizations, university administrators, potential board members, and funders to learn where LIFT could do the most good.
 
-[PEER HEALTH EXCHANGE](http://www.peerhealthexchange.org)
+[Peer Health Exchange](http://www.peerhealthexchange.org)
 : _Giving teenagers the knowledge and skills they need to make healthy decisions by training college students to teach a health curriculum in public schools that lack health education._
 : A longtime funder of Peer Health Exchange, we helped expand and deepen their operations in L.A., specifically within USC, UCLA, CSU Northridge, and Occidental College, training more college students to teach the curriculum to additional 9th grade students in new neighborhoods.
 
@@ -103,7 +105,7 @@ Bringing proven solutions from other regions to Los Angeles.
 
 
 
-### We support initiatives in three categories: _opportunity_, _sustainability_, and _activation_. Within each category, organizations deliver the following vital services: ###
+### We support initiatives in three categories: [opportunity](#opportunity), [sustainability](#sustainability), and [activation](#activation). Within each category, organizations deliver the following vital services: ###
 
 
 

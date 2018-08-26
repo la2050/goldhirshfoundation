@@ -1,0 +1,112 @@
+
+body {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 100%;
+  font-size: calc(0.875em + 0.875vmin);
+  line-height: 1.5;
+  padding: 1.5em;
+  padding: calc(1.5em + 1.5vmin);
+  margin: 0;
+  background: rgb(251, 255, 252);
+  color: rgb(31, 35, 32);
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl, table, form {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+a {
+  color: rgb(56, 175, 77); /* @green */
+}
+
+header ul,
+header li,
+footer ul,
+footer li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+header ul,
+footer ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+header ul a,
+footer ul a {
+  display: inline-block;
+  padding: 0.75em;
+}
+
+@media (min-width: 70em) {
+  header {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-column-gap: 1.5em;
+  }
+  header ul {
+    justify-content: flex-end;
+  }
+}
+
+main h1 {
+  border-bottom: 1px solid rgb(177, 177, 177);
+  font-weight: 600; /* @semibold */
+  font-size: 2.375em;
+  line-height: 1;
+  margin-top: 5.8125rem;
+  padding-bottom: 1.875rem;
+  color: rgb(56, 175, 77); /* @green */
+  display: table;
+}
+main h2 {
+  font-weight: 100; /* @thin */
+  font-size: 2.375em;
+  line-height: 1.4210526316;
+  color: rgb(56, 175, 77); /* @green */
+  max-width: 65rem;
+}
+main h3 {
+  font-weight: 300; /* @light */
+  font-size: 1.625em;
+  line-height: 1.4615384615;
+  max-width: 65rem;
+}
+main h4 {
+  text-transform: uppercase;
+  border-bottom: 1px solid rgb(177, 177, 177);
+  font-weight: bold;
+  font-size: 1.25em;
+  line-height: 1.4;
+  padding-bottom: 1em;
+  margin-bottom: 1.2em;
+  color: rgb(56, 175, 77); /* @green */
+}
+
+.phrase {
+  display: inline-block;
+}
+
+/*
+header h2 {
+  font-weight: 800;
+}
+header h2 .f {
+  margin-left: 0.0625em;
+  margin-right: 0.0625em;
+}
+header h2 a {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  padding: 0.25em 0.375em 0.125em;
+  border: 0.25em solid;
+  text-transform: uppercase;
+  line-height: 0.925;
+}
+*/
