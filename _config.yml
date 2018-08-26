@@ -8,35 +8,35 @@ collections:
   capital:
     title: Capital
     output: false
-    permalink: "/capital/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   initiatives:
     title: Initiatives
     output: false
-    permalink: "/initiatives/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   jobs:
     title: Jobs
     output: false
-    permalink: "/jobs/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   opportunities:
     title: Opportunities
     output: false
-    permalink: "/opportunities/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   press:
     title: Press
     output: false
-    permalink: "/press/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   resources:
     title: Resources
     output: false
-    permalink: "/resources/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   speaking:
     title: Speaking
     output: false
-    permalink: "/speaking/:year/:month/:day/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   team:
     title: Team
     output: false
-    permalink: "/team/:title/"
+    permalink: "/:collection/:year/:month/:day/:title/"
   uploads:
     title: Uploads
     output: true
