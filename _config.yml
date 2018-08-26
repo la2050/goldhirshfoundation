@@ -102,6 +102,4 @@ image: http://goldhirshfoundation.org/assets/img/logotype-square.png
 exclude:
 - README
 permalink: pretty
-
-# For cache busting
 version: 0.0.1

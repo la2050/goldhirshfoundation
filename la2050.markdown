@@ -3,7 +3,7 @@ title: LA2050
 position: 4
 layout: la2050
 stylesheets:
-  - https://cdn-images.mailchimp.com/embedcode/slim-081711.css
+- https://cdn-images.mailchimp.com/embedcode/slim-081711.css
 ---
 
 Our largest and most ambitious effort is [LA2050](https://activation.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
