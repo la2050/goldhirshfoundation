@@ -215,7 +215,7 @@ function getRecords(folder) {
 
 
 const writePath = "../_data/"
-const collections = ["jobs", "press", "opportunities", "speaking", "initiatives", "capital"]
+const collections = ["jobs", "press", "opportunities", "speaking", "initiatives", "capital", "team"]
 
 collections.forEach(collection => {
   let records = getRecords(`../_${collection}`)
