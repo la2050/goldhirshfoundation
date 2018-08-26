@@ -3,7 +3,6 @@ title: Initiatives (with data as markdown)
 layout: default
 ---
 
-
 Initiatives
 ===========
 
