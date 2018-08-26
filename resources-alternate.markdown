@@ -1,6 +1,6 @@
 ---
 title: Resources (with data)
-position: 5
+position: 10
 capital_publications:
   title: Publications around capital development
   introduction: From capital development to crowdsourcing technologies, we are always
