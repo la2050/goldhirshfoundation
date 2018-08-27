@@ -227,9 +227,10 @@ main h1 {
 }
 main h2 {
   font-size: 1.25em;
+  font-size: 1.5em;
   line-height: inherit;
-  font-weight: 100; /* @thin */
-  margin-bottom: 3rem;
+  font-weight: 300; /* @light */
+  margin-bottom: 4.5rem;
 
   color: rgb(56, 175, 77); /* @green */
   max-width: 20em;
@@ -237,6 +238,7 @@ main h2 {
 @media (min-width: 40em) {
   main h2 {
     font-size: 1.625em;
+    font-size: 2.375em;
   }
 }
 main h3 {
@@ -252,7 +254,6 @@ main h3 {
   }
 }
 main h3 a {
-  display: inline-block; /* avoid break */
   font-weight: 600; /* @semibold */
 }
 main h4 {
@@ -274,6 +275,7 @@ main h4 {
 
 
   font-size: 1.25em;
+  display: table;
 }
 main h4 + p {
   margin-top: 0;

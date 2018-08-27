@@ -12,7 +12,7 @@ Initiatives
 Here’s a glimpse of some of the organizations and specific projects we support.
 -----------
 
-### We invest our capital using three approaches to create systemic change: [civic capital](#civic-capital), [seed capital](#seed-capital), and [expansion capital](#expansion-capital). ###
+### We invest our capital using three approaches to create systemic change: [civic capital](#1-civic-capital), [seed capital](#2-seed-capital), and [expansion capital](#3-expansion-capital). ###
 
 
 
@@ -105,7 +105,7 @@ Bringing proven solutions from other regions to Los Angeles.
 
 
 
-### We support initiatives in three categories: [opportunity](#opportunity), [sustainability](#sustainability), and [activation](#activation). Within each category, organizations deliver the following vital services: ###
+### We support initiatives in three categories: [opportunity](#1-opportunity), [sustainability](#2-sustainability), and [activation](#3-activation). Within each category, organizations deliver the following vital services: ###
 
 
 

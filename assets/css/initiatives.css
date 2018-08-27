@@ -27,32 +27,29 @@ main img {
   display: block;
 }
 dt {
-  margin-top: 4.5em;
+  margin-top: 2.25em;
 }
 dl {
   margin-bottom: 6em;
 }
 
 @media (min-width: 40em) {
+  dt {
+    margin-top: 4.5em;
+  }
+  dl {
+    margin-bottom: 6em;
+  }
   dl {
     display: grid;
     /*
     grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) );
     */
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 3em;
+    grid-column-gap: 2.25em;
     grid-row-gap: 0;
     grid-auto-flow: row dense;
   }
-/*  dt {
-    grid-row: 1/2;
-  }
-  dt + dd {
-    grid-row: 2/3;
-  }
-  dd + dd {
-    grid-row: 3/4;
-  }*/
   dt:nth-of-type(n),
   dt:nth-of-type(n) + dd,
   dt:nth-of-type(n) + dd + dd {
@@ -103,23 +100,8 @@ dl {
 @media (min-width: 85em) {
   dl {
     display: grid;
-    /*
-    grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) );
-    */
     grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: 3em;
-    grid-row-gap: 0;
-    grid-auto-flow: row dense;
   }
-/*  dt {
-    grid-row: 1/2;
-  }
-  dt + dd {
-    grid-row: 2/3;
-  }
-  dd + dd {
-    grid-row: 3/4;
-  }*/
   dt:nth-of-type(1),
   dt:nth-of-type(1) + dd,
   dt:nth-of-type(1) + dd + dd {
@@ -164,24 +146,8 @@ dl {
 
 @media (min-width: 115em) {
   dl {
-    display: grid;
-    /*
-    grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) );
-    */
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-column-gap: 3em;
-    grid-row-gap: 0;
-    grid-auto-flow: row dense;
   }
-/*  dt {
-    grid-row: 1/2;
-  }
-  dt + dd {
-    grid-row: 2/3;
-  }
-  dd + dd {
-    grid-row: 3/4;
-  }*/
   dt:nth-of-type(1),
   dt:nth-of-type(1) + dd,
   dt:nth-of-type(1) + dd + dd {
@@ -227,23 +193,8 @@ dl {
 @media (min-width: 145em) {
   dl {
     display: grid;
-    /*
-    grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) );
-    */
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-column-gap: 3em;
-    grid-row-gap: 0;
-    grid-auto-flow: row dense;
   }
-/*  dt {
-    grid-row: 1/2;
-  }
-  dt + dd {
-    grid-row: 2/3;
-  }
-  dd + dd {
-    grid-row: 3/4;
-  }*/
   dt:nth-of-type(1),
   dt:nth-of-type(1) + dd,
   dt:nth-of-type(1) + dd + dd {
