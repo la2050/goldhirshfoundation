@@ -1,6 +1,6 @@
 ---
 title: Vision
-position: 9
+position: 2
 layout: main
 ---
 
