@@ -1,6 +1,6 @@
 ---
 title: Our Vision
-position: 1
+position: 2
 layout: vision
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Jobs
-position: 6
+position: 12
 layout: main
 ---
 
