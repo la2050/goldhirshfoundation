@@ -1,0 +1,9 @@
+---
+title: WildArk
+date: 2018-08-14 00:00:00 -07:00
+position: 2
+details_url: https://wildark.com/blog/enter-pathfinder-award-innovation-nature-conservation/
+---
+
+The Pathfinder Award recognizes outstanding and innovative solutions for protected and conserved areas, developed and implemented by individuals, organisations or groups.
+

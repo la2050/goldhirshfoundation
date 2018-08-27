@@ -1,0 +1,192 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="span12">
+    <h1 class="title">{{ page.title }}</h1>
+  </div>
+</div>
+<div class="row">
+  <div class="span12 resources-text">
+    {{ content }}
+  </div>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <h2 class="title">Financial Capital Opportunities</h2>
+    <h4>Amplifying opportunities for social innovation</h4>
+    <div id="three-column-table" class="three-column-table clearfix">
+      <div class="table-row table-head clearfix">
+        <div class="col-md-3">Organization</div>
+        <div class="col-md-3">Description</div>
+        <div class="col-md-3">Deadline</div>
+      </div>
+      <div class="table-content">
+
+        {% assign collection_name = "opportunities" %}
+
+        {% comment %} Get data from a spreadsheet {% endcomment %}
+        {% assign data_list = site.data[collection_name] %}
+
+        {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
+        {% unless data_list and data_list.size > 0 %}
+          {% assign data_collection = site.collections | where: "label", collection_name | first %}
+          {% assign data_list = data_collection.docs | sort: "position" %}
+        {% endunless %}
+
+        {% for data in data_list %}
+
+        <div class="table-row clearfix">
+          <div class="col-md-3"><a href="{{ data.details_url }}">{{ data.title }}</a></div>
+          <div class="col-md-3">{{ data.content | remove: "<p>" | remove: "</p>" }}</div>
+          <div class="col-md-3">{{ data.date | date: "%B %-d, %Y" }}</div>
+        </div>
+
+        {% endfor %}
+      
+      </div>
+      <div class="table_navigation page_navigation "></div>
+    </div>
+  </div>
+</div>
+
+
+
+<p class="table-break">
+  Would you like to add something to the list? Email us at <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org.</a>
+</p>
+
+
+<div class="row">
+  <div class="span12 speaking-engagements">
+    <h2 class="title">Speaking Engagements</h2>  
+    <h4>Past and Upcoming Team Goldhirsh Speaking Engagements</h4>
+    <div class="pagination-list " id="pagination-list ">
+      <div class="pagination-content ">
+
+        {% assign collection_name = "speaking" %}
+
+        {% comment %} Get data from a spreadsheet {% endcomment %}
+        {% assign data_list = site.data[collection_name] %}
+
+        {% comment %} If a spreadsheet doesn’t exist, use markdown files instead {% endcomment %}
+        {% unless data_list and data_list.size > 0 %}
+          {% assign data_collection = site.collections | where: "label", collection_name | first %}
+          {% assign data_list = data_collection.docs | sort: "position" %}
+        {% endunless %}
+
+        {% for data in data_list %}
+
+        <div class="speaking pagination-item ">
+          <div class="press-date pagination-date ">
+            {{ data.date | date: "%B" | truncate: 3, "" }}
+            <div class="clear"></div>
+            <span class="press-day">{{ data.date | date: "%-d" }}</span>
+            <div class="clear"></div>
+            {{ data.date | date: "%Y" }}
+          </div>
+          <p class="speaking-text">
+            {% if data.details_url %}
+              <a href="{{ data.details_url }}">
+                {{ data.title }}
+              </a>
+            {% else %}
+              {{ data.title }}
+            {% endif %}
+          </p>
+          <div class="clear "></div>
+        </div>
+
+        {% endfor %}
+
+      </div>
+      <div class="pag-list page_navigation"></div>
+    </div>
+  </div>
+</div>
+
+
+<p class="table-break">
+  For inquiries please email us at <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org</a>
+</p>
+
+
+{% comment %}
+
+<div class="row">
+  <div class="span12">
+    <p class="add-to-list">For inquiries please email us at <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org</a>.</p>
+  </div>
+</div>
+
+{% endcomment %}
+
+
+<div class="row">
+  <div class="span12 resources-container">
+    <h2 class="title">Publications &amp; Tools</h2>
+    <h4>Amplifying opportunities for social innovation</h4>       
+    <div class="clear"></div>
+    <br /><br />
+    <br /><br />
+    <div class="clear"></div>
+    <div class="row">
+
+      <div class="span4 resources-cta">
+
+        <div class="image-wrapper"><img src="{{ page.capital_publications.image }}" /></div>
+        <div class="clear"></div>
+        <p class="resources-cta-title">1. {{ page.capital_publications.title }}</p>
+        <div class="clear"></div>
+        <div class="resources-cta-intro">{{ page.capital_publications.introduction | markdownify }}</div>
+        <div class="clear"></div>
+
+        <ul>
+          {% for data in page.capital_publications.items %}
+            <li><a href="{{ data.url }}">{{ data.title }}</a></li>
+          {% endfor %}
+        </ul>
+
+      </div>
+      <div class="span4 resources-cta">
+
+        <div class="image-wrapper"><img src="{{ page.currently_reading.image }}" /></div>
+        <div class="clear"></div>
+        <p class="resources-cta-title">2. {{ page.currently_reading.title }}</p>
+        <div class="clear"></div>
+        <div class="resources-cta-intro">{{ page.currently_reading.introduction | markdownify }}</div>
+        <div class="clear"></div>
+
+        <ul>
+          {% for data in page.currently_reading.items %}
+            <li><a href="{{ data.url }}">{{ data.title }}</a></li>
+          {% endfor %}
+        </ul>
+
+      </div>
+      <div class="span4 resources-cta">
+
+        <div class="image-wrapper"><img src="{{ page.innovative_tools.image }}" /></div>
+        <div class="clear"></div>
+        <p class="resources-cta-title">2. {{ page.innovative_tools.title }}</p>
+        <div class="clear"></div>
+        <div class="resources-cta-intro">{{ page.innovative_tools.introduction | markdownify }}</div>
+        <div class="clear"></div>
+
+        <ul>
+          {% for data in page.innovative_tools.items %}
+            <li><a href="{{ data.url }}">{{ data.title }}</a></li>
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+

@@ -5,6 +5,38 @@ collections:
   posts:
     title: Blog
     output: true
+  capital:
+    title: Capital
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  initiatives:
+    title: Initiatives
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  jobs:
+    title: Jobs
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  opportunities:
+    title: Opportunities
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  press:
+    title: Press
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  resources:
+    title: Resources
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  speaking:
+    title: Speaking
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
+  team:
+    title: Team
+    output: false
+    permalink: "/:collection/:year/:month/:day/:title/"
   uploads:
     title: Uploads
     output: true
@@ -21,6 +53,59 @@ defaults:
     author: ''
     categories: blog
     layout: post
+- scope:
+    path: ''
+    type: capital
+  values:
+    details_url: ''
+    project: ''
+    layout: default
+- scope:
+    path: ''
+    type: initiatives
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: jobs
+  values:
+    details_url: ''
+    organization: ''
+    employment_type: ''
+    location: ''
+    layout: default
+- scope:
+    path: ''
+    type: opportunities
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: press
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: resources
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: speaking
+  values:
+    details_url: ''
+    layout: default
+- scope:
+    path: ''
+    type: team
+  values:
+    image: ''
+    twitter_username: ''
+    layout: default
 description: The Goldhirsh Foundation connects the dots between the best emerging
   innovations and the financial, social, and human capital to make them thrive.
 image: http://goldhirshfoundation.org/assets/img/logotype-square.png
