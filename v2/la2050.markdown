@@ -1,0 +1,135 @@
+---
+title: LA2050
+position: 4
+layout: main
+stylesheets:
+- https://cdn-images.mailchimp.com/embedcode/slim-081711.css
+---
+
+LA2050
+===========
+
+Our largest and most ambitious effort is [LA2050](https://activation.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
+
+LA2050 is rooted in a vision of a successful Los Angeles—a region that is a healthy, thriving, and desirable place to live. Our goal is to work with Angelenos to develop a framework that harnesses the area’s untapped potential and lays out a roadmap for a region that supports the shared success of all Angelenos. We foresee an environment that fosters innovation to solve our greatest challenges and that embraces community.
+
+Ultimately, LA2050 will promote and realize a future where people are deeply engaged in rebuilding and reshaping Los Angeles.
+
+**How we're doing it**
+
+We’ve looked at the health of the region along well-defined indicators: education, income and employment, health, public safety, housing, environmental quality, arts and cultural vitality, and social connectedness. We’ve formed a comprehensive picture of how Los Angeles performs along these indicators today. And we’ve made informed projections about how the region will fare in decades to come if we continue on our current trajectory. Read the [first LA2050 report](http://la2050.s3-us-west-1.amazonaws.com/reports/3/pdfs/updated_original_la2050_report.pdf?1441226440) to learn more.
+
+We’ve engaged tens of thousands of Angelenos through a community visioning process and worked together to establish five goals to make Los Angeles the best place to learn, create, play, connect, and live. To make sure we are on track to get where we want to be by 2050, we are monitoring more than 60 metrics that measure quality of life across the region. Learn more about the LA2050 [goals and metrics](http://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf?1441226432).
+
+And, we’ve asked Angelenos via the [My LA2050 Grants Challenge](https://activation.la2050.org/) how we can turn these goals into action. The Los Angeles community has contributed their creative and innovative ideas to shape LA’s future and has been engaged in the process by voting on their favorite proposals. Check out the all [winners of the My LA2050 Grants Challenge](https://www.la2050.org/grantees).
+
+**Join Us**
+
+The goal of LA2050 is to challenge the status quo and demand more for the future of our region—and to build and shape Los Angeles as a thriving metropolis and hub of 21st Century citizenry. We believe that audacity, creativity, and collaboration can get us there.
+
+Explore LA2050. Follow the stories of the eight indicators and the LA2050 goals. Learn more about our grantees. Then join us to shape and build the future of Los Angeles.
+
+To find out more or if you would like to join the dialogue, please contact [connect@la2050.org](mailto:connect@la2050.org), use the hashtag [#LA2050](http://www.twitter.com/#LA2050), or subscribe to our newsletter.
+
+<br />
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://goldhirshfoundation.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<label for="mce-EMAIL">Keep in touch with LA2050.</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+	
+<h2 class="title">My LA2050 Grants Challenge Grantees</h2>
+
+### 2016 My LA2050 Grants Challenge
+
+<br />
+
+**TOP VOTED**
+
+• [LEARN - Altasea](https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean/)  
+• [CREATE - Geena Davis Institute on Gender in Media](https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape-)  
+• [PLAY - The Triforium Project](https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles)  
+• [CONNECT - Big Citizen Hub](https://challenge.la2050.org/entry/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service)  
+• [LIVE - The Sierra Club Foundation](https://challenge.la2050.org/entry/the-future-is-bright-a-clean-energy-future-for-la)  
+
+**JURY VOTED**
+
+• [LEARN - Lost Angels Children's Project](https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration)  
+• [CREATE - California Institute of Technology](https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations)  
+• [CREATE - Opportunity Fund](https://challenge.la2050.org/entry/catalyzing-community-partnerships-to-create-economic-mobility-for-las-underserved-entrepreneurs)  
+• [PLAY - Surf Bus Foundation](https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-toes-as-in-on-the-nose)  
+• [CONNECT - Tierra Del Sol Foundation](https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism)  
+• [CONNECT - Friends of the Family](https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up)  
+• [LIVE - Covenant House California](https://challenge.la2050.org/entry/the-precise-barber-college)  
+
+<br />
+
+### 2015 My LA2050 Grants Challenge
+
+<br />
+
+**TOP VOTED**
+
+• [LEARN - Citizens of the World](http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html)  
+• [CREATE - Los Angeles Review of Books](http://myla2050create2015.maker.good.is/projects/LARB)  
+• [PLAY - Grand Park](http://myla2050play2015.maker.good.is/projects/acoolergrandpark)  
+• [CONNECT - Los Angeles Promise Zone Initiative](http://myla2050connect2015.maker.good.is/projects/Young_Ethnographers)  
+• [LIVE - Heal the Bay](http://myla2050live2015.maker.good.is/projects/DroppingKnowledgeLA)  
+
+**JURY VOTED**
+
+• [LEARN - Girls Academic Leadership Academy](http://myla2050learn2015.maker.good.is/projects/GALA2015)  
+• [CREATE - Los Angeles Bioscience Hub](http://myla2050create2015.maker.good.is/projects/BiotechLeaders)  
+• [PLAY - People for Parks](http://myla2050play2015.maker.good.is/projects/peopleforparks)  
+• [CONNECT - CASA of Los Angeles](http://myla2050connect2015.maker.good.is/projects/casalosangeles)  
+• [LIVE - Iraq and Afghanistan Veterans of America](http://myla2050live2015.maker.good.is/projects/vetsrisingLA)
+
+<br />
+
+### 2014 My LA2050 Grants Challenge
+
+<br />
+
+**TOP VOTED**
+
+• [PLAY - Enrich LA](http://maker.good.is/myLA2050play/projects/enrichla.html)  
+• [LEARN - City Year LA and Partnership for LA Schools](http://maker.good.is/myLA2050learn/projects/CYLAPLAS.html)  
+• [LIVE - UCLA Grand Challenges](http://maker.good.is/myLA2050live/projects/UCLAHotterLA.html)  
+• [CONNECT - Special Olympics World Games 2015](http://maker.good.is/myLA2050connect/projects/LA2015.html)  
+• [CREATE - StreetCraft LA](http://maker.good.is/myLA2050create/projects/streetcraftla.html)  
+
+**JURY VOTED**
+
+• [PLAY - Pershing Square Park Advisory Council](http://maker.good.is/myLA2050play/projects/KidsplayatPS.html)  
+• [LEARN - The Incubator School](http://maker.good.is/myLA2050learn/projects/incubator.html)  
+• [LIVE - The Trust for the Public Land](http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html)  
+• [CONNECT - Move LA](http://maker.good.is/myLA2050connect/projects/MoveLA.html)  
+• [CREATE - Downtown Women's Center](http://maker.good.is/myLA2050create/projects/DTwomenscenter.html)
+
+<br />
+
+### 2013 My LA2050 Grants Challenge
+
+<br />
+
+• [Arts & Cultural Vitality - Hammer Museum](http://maker.good.is/myla2050/projects/Hammer_Museum.html)  
+• [Education - 826LA](http://maker.good.is/myla2050/projects/826LA.html)  
+• [Environmental Quality - CHC, C-Lab, 596 Acres](http://maker.good.is/myla2050/projects/LAOpenAcres.html)  
+• [Health - Public Matters](http://maker.good.is/myla2050/projects/MARKETMAKEOVERS.html)  
+• [Housing - TRUST South LA](http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html)  
+• [Income & Employment - ELACC & LURN](http://maker.good.is/myla2050/projects/streetvendors.html)  
+• [Public Safety - Homeboy Industries](http://maker.good.is/myla2050/projects/homeboyindustries.html)  
+• [Social Connectedness - CicLAvia](http://maker.good.is/myla2050/projects/CicLAvia.html)  
+• [Wild Card - Mission Asset Fund](http://maker.good.is/myla2050/projects/LendingCircles.html)  
+• [Wild Card - No Right Brain Left Behind & Green Dot Public Schools](http://maker.good.is/myla2050/projects/salamanderproject.html)
+
+<br />
+
+To learn more about how the winners made their impact, check out the latest LA2050 Impact Report [here](http://la2050.s3-us-west-1.amazonaws.com/reports/11/pdfs/ImpactReport_2015.pdf?1508262767), and check out all our impact reports [here](https://www.la2050.org/reports).
+
+We'd like to congratulate all the participants on their hard work, passion, and enthusiasm. The future of LA is bright--and they are all proof that the best is yet to come.
