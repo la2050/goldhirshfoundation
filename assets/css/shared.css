@@ -117,14 +117,14 @@ header h2 img {
 footer {
   background-color: rgb(240, 240, 241);
   padding: 1.5em;
-  margin: 3em -1.5em -1.5em;
+  margin: 4.5em -1.5em -1.5em;
 }
 @media (min-width: 70em) {
   footer {
     padding: 3em;
-    margin: 6em -3em -3em;
     padding: 6em 16.18vmin;
-    margin: 6em -16.18vmin -3em;
+    margin: 9em -3em -3em;
+    margin: 9em -16.18vmin -3em;
   }
 }
 footer h2 a {
@@ -178,6 +178,9 @@ header h2 a {
   header ul {
     align-self: center;
   }
+  header h2 {
+    margin-bottom: 0;
+  }
   header ul {
     justify-content: flex-end;
   }
@@ -209,11 +212,10 @@ main h1 {
   font-weight: 600; /* @semibold */
   line-height: inherit;
   margin-top: 2.25em;
-  padding-top: 0.75em;
   padding-bottom: 0.75em;
   padding-bottom: calc(0.75em - 1px);
   border-bottom: 1px solid rgb(177, 177, 177); /* @aluminum */
-  margin-bottom: 2.25em;
+  margin-bottom: 0;
 
   color: rgb(56, 175, 77); /* @green */
   display: table;
@@ -224,16 +226,17 @@ main h1 {
   }
 }
 main h2 {
-  font-size: 1.5em;
+  font-size: 1.25em;
   line-height: inherit;
   font-weight: 100; /* @thin */
+  margin-bottom: 3rem;
 
   color: rgb(56, 175, 77); /* @green */
   max-width: 20em;
 }
 @media (min-width: 40em) {
   main h2 {
-    font-size: 2.375em;
+    font-size: 1.625em;
   }
 }
 main h3 {
