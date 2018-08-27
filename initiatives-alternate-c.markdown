@@ -3,7 +3,7 @@ title: Initiatives (with data as markdown)
 position: 10
 layout: main
 stylesheets:
-  - /assets/css/initiatives.css
+- "/assets/css/initiatives.css"
 ---
 
 Initiatives
