@@ -16,7 +16,7 @@ Here’s a glimpse of some of the organizations and specific projects we support
 
 
 
-#### Civic Capital ####
+#### 1. Civic Capital ####
 
 Promoting mobilization and disruption within existing infrastructures.
 
@@ -43,7 +43,7 @@ Promoting mobilization and disruption within existing infrastructures.
 
 
 
-#### Seed Capital ####
+#### 2. Seed Capital ####
 
 Seeding social innovation in Los Angeles.
 
@@ -70,7 +70,7 @@ Seeding social innovation in Los Angeles.
 
 
 
-#### Expansion Capital ####
+#### 3. Expansion Capital ####
 
 Bringing proven solutions from other regions to Los Angeles.
 
@@ -111,7 +111,7 @@ Bringing proven solutions from other regions to Los Angeles.
 
 ![](/assets/img/initiatives_telescope@x2.png)
 
-#### Opportunity ####
+#### 1. Opportunity ####
 
 Provide skills, programming, and support structures to improve educational and economic opportunity.
 
@@ -138,7 +138,7 @@ Provide skills, programming, and support structures to improve educational and e
 
 ![](/assets/img/initiatives_sunburst@x2.png)
 
-#### Sustainability ####
+#### 2. Sustainability ####
 
 Pursue environmental health through innovation at both the cause and response sides of the issue.
 
@@ -162,7 +162,7 @@ Pursue environmental health through innovation at both the cause and response si
 
 ![](/assets/img/initiatives_bolt@x2.png)
 
-#### Activation ####
+#### 3. Activation ####
 
 Support pro-social platforms and tools for independent expression and individual mobilization.
 

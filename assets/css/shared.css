@@ -22,10 +22,10 @@ body {
   color: rgb(31, 35, 32);
 }
 
-@media (min-width: 40em) {
+@media (min-width: 70em) {
   body {
     padding: 3em;
-    padding: 16.18vmin;
+    padding: 3em 16.18vmin;
   }
 }
 
@@ -52,6 +52,10 @@ hr {
   margin-bottom: 0; 
 }
 
+header,
+footer {
+  text-align: center;
+}
 header ul,
 header li,
 footer ul,
@@ -66,6 +70,7 @@ header ul,
 footer ul {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 header ul a,
 footer ul a {
@@ -94,11 +99,13 @@ footer ul .current a {
 
 header h2 {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0.75em;
 }
 header h2 a,
 header h2 img {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 header h2 img {
   padding-top: 0.1875em;
@@ -112,12 +119,12 @@ footer {
   padding: 1.5em;
   margin: 3em -1.5em -1.5em;
 }
-@media (min-width: 40em) {
+@media (min-width: 70em) {
   footer {
     padding: 3em;
     margin: 6em -3em -3em;
-    padding: 16.18vmin;
-    margin: 16.18vmin -16.18vmin -16.18vmin;
+    padding: 6em 16.18vmin;
+    margin: 6em -16.18vmin -3em;
   }
 }
 footer h2 a {
@@ -127,6 +134,8 @@ footer h2 a {
   font-weight: 800; /* @extrabold */
 }
 footer h2 {
+  font-size: inherit;
+  line-height: inherit;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -154,7 +163,12 @@ header h2 a {
 */
 
 
+
 @media (min-width: 70em) {
+  header,
+  footer {
+    text-align: left;
+  }
   header {
     display: grid;
     grid-template-columns: max-content 1fr;
@@ -191,53 +205,48 @@ header h2 a {
 
 
 main h1 {
-  border-bottom: 1px solid rgb(177, 177, 177); /* @aluminum */
+  font-size: 1.5em;
   font-weight: 600; /* @semibold */
-  font-size: 2.375em;
-  line-height: 1;
-  margin-top: 5.8125rem;
-  padding-bottom: 1.875rem;
-
-  font-size: inherit;
   line-height: inherit;
-  margin-top: 1.5em;
-  padding-top: 1.5em;
-  padding-bottom: 1.5em;
-  padding-bottom: calc(1.5em - 1px);
-
-  font-size: 2.375em;
   margin-top: 2.25em;
   padding-top: 0.75em;
   padding-bottom: 0.75em;
   padding-bottom: calc(0.75em - 1px);
+  border-bottom: 1px solid rgb(177, 177, 177); /* @aluminum */
   margin-bottom: 2.25em;
 
   color: rgb(56, 175, 77); /* @green */
   display: table;
 }
+@media (min-width: 40em) {
+  main h1 {
+    font-size: 2.375em;
+  }
+}
 main h2 {
-  font-weight: 100; /* @thin */
-  font-size: 2.375em;
-  line-height: 1.4210526316;
-  color: rgb(56, 175, 77); /* @green */
-
-  font-size: inherit;
+  font-size: 1.5em;
   line-height: inherit;
+  font-weight: 100; /* @thin */
 
-  font-size: 2.375em;
-
+  color: rgb(56, 175, 77); /* @green */
+  max-width: 20em;
+}
+@media (min-width: 40em) {
+  main h2 {
+    font-size: 2.375em;
+  }
 }
 main h3 {
+  font-size: 1.25em;
   font-weight: 300; /* @light */
-  font-size: 1.625em;
-  line-height: 1.4615384615;
-  margin-bottom: 6rem;
-
-  font-size: inherit;
   line-height: inherit;
   margin-bottom: 6rem;
-
-  font-size: 1.625em;
+  max-width: 30em;
+}
+@media (min-width: 40em) {
+  main h3 {
+    font-size: 1.625em;
+  }
 }
 main h3 a {
   display: inline-block; /* avoid break */

@@ -26,6 +26,12 @@ main img {
   height: 4.875em;
   display: block;
 }
+dt {
+  margin-top: 4.5em;
+}
+dl {
+  margin-bottom: 6em;
+}
 
 @media (min-width: 40em) {
   dl {
@@ -47,12 +53,6 @@ main img {
   dd + dd {
     grid-row: 3/4;
   }*/
-  dt {
-    margin-top: 3em;
-  }
-  dl {
-    margin-bottom: 6em;
-  }
   dt:nth-of-type(1n),
   dt:nth-of-type(1n) + dd,
   dt:nth-of-type(1n) + dd + dd {
