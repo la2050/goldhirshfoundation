@@ -1,6 +1,6 @@
 ---
 title: About Us
-position: 5
+position: 4
 layout: about
 ---
 

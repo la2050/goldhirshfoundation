@@ -1,6 +1,6 @@
 ---
 title: Goldhirsh Foundation
-position: 0
+position: 15
 layout: home
 ---
 

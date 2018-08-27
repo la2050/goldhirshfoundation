@@ -1,6 +1,6 @@
 ---
 title: Resources
-position: 10
+position: 9
 layout: main
 ---
 
