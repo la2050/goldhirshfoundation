@@ -1,5 +1,5 @@
 ---
-title: Initiatives (with data as markdown)
+title: Initiatives
 position: 15
 layout: main
 stylesheets:
