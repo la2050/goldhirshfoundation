@@ -1,6 +1,6 @@
 ---
 title: Initiatives
-position: 14
+position: 10
 layout: main
 stylesheets:
 - "/assets/css/initiatives.css"

@@ -1,6 +1,6 @@
 ---
 title: Blog
-position: 13
+position: 15
 layout: main
 ---
 
