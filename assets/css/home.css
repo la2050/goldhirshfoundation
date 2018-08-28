@@ -53,3 +53,33 @@ main a strong {
   text-transform: uppercase;
 }
 
+
+
+main p {
+  font-size: 1.25em;
+  font-weight: 300; /* @light */
+  line-height: inherit;
+  margin-bottom: 1.5rem;
+/*  border-bottom: 2px solid;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;*/
+}
+@media (min-width: 40em) {
+  main p {
+    font-size: 1.625em;
+  }
+}
+
+
+/*main img {
+  width: auto;
+  height: 3.875rem;
+}*/
+
+
+
+main {
+  text-align: center;
+}
+
