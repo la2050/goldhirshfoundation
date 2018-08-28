@@ -1,0 +1,13 @@
+
+main p {
+  font-size: 1.25em;
+  font-weight: 300; /* @light */
+  line-height: inherit;
+  margin-bottom: 1.5rem;
+  max-width: 30em;
+}
+@media (min-width: 40em) {
+  main p {
+    font-size: 1.625em;
+  }
+}

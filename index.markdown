@@ -6,17 +6,28 @@ stylesheets:
 - "/assets/css/home.css"
 ---
 
+![](/assets/img/home-sun@x2.png)
+
 For the **idealists**.
 
 For the **pragmatists**.
 
+![](/assets/img/home-bars@x2.png)
+
+![](/assets/img/home-arrow-down@x2.png)
+
 For those **who look at the world** and say,
 
-“That’s not **good** enough.”
+> “That’s not **good** enough.”
+
+![](/assets/img/home-funnel@x2.png)
+
+![](/assets/img/home-bolt@x2.png)
 
 And for those who have the **courage** and **ability** to
+
+![](/assets/img/home-telescope@x2.png)
 
 translate that **perspective** into **real\-world innovations**:
 
 [the **Goldhirsh Foundation**](/vision/)
-============================

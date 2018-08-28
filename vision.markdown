@@ -9,18 +9,18 @@ Our Vision
 
 ![](/assets/img/vision_lattice@x2.png)
 
-### We connect the dots between the best **emerging innovations** and the **financial**, **social**, and **human** capital to make them thrive.
+We connect the dots between the best **emerging innovations** and the **financial**, **social**, and **human** capital to make them thrive.
 
 ![](/assets/img/vision_tools@x2.png)
 
-### We find **smart** people doing **creative** things, and we give them the **tools** to do them better.
+We find **smart** people doing **creative** things, and we give them the **tools** to do them better.
 
 We exist for social innovators and are run by social innovators.
 -------------
 
-### We **identify gaps** then support those on the first line of response. If holes remain, we **incubate solutions**.
+We **identify gaps** then support those on the first line of response. If holes remain, we **incubate solutions**.
 
-### Across it all, we **build networks** to ensure that the **strongest ideas** have the best support systems.
+Across it all, we **build networks** to ensure that the **strongest ideas** have the best support systems.
 
 [See what we’ve been working on](/initiatives/)
 

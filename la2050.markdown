@@ -3,6 +3,7 @@ title: LA2050
 position: 12
 layout: main
 stylesheets:
+- /assets/css/la2050.css
 - https://cdn-images.mailchimp.com/embedcode/slim-081711.css
 ---
 

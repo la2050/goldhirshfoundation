@@ -1,256 +1,55 @@
 
 body {
   background-color: rgb(56, 175, 77); /* @green */
-  color: white;
 }
 
+main h1 {
+  color: inherit;
+}
+
+
+main strong,
 header ul a,
 header ul a:hover,
 header ul a:active,
-header ul a:focus,
-main h1,
+header ul a:focus {
+  color: white;
+}
+
 main a,
 main a:hover,
 main a:active,
 main a:focus {
+  color: inherit
+}
+
+main a strong {
+  color: white;
+}
+
+
+main a {
+  display: inline-block;
+  text-decoration: none;
   color: inherit;
-}
+  padding: 0.25em 0.375em 0.125em;
+  border: 2px solid;
+  line-height: 0.925;
 
-dl {
-  margin-top: 0;
-}
+  font-size: 1.25em;
+  font-size: 1.5em;
+  line-height: inherit;
+  font-weight: 300; /* @light */
 
-dt,
-dd {
-  padding-left: 0;
-  margin-left: 0;
 }
-dt {
-  margin-top: 3em;
-  font-weight: 600; /* @semibold */
-  margin-bottom: 0.375em;
-}
-dd + dd {
-  border-top: 1px solid rgb(177, 177, 177); /* @aluminum */
-  padding-top: 0.75em;
-  padding-top: calc(0.75em - 1px);
-  margin-top: 0.75em;
-}
-
-main img {
-  margin-top: 3em;
-  width: auto;
-  height: 4.875em;
-  display: block;
-}
-dt {
-  margin-top: 2.25em;
-}
-dl {
-  margin-bottom: 6em;
-}
-
 @media (min-width: 40em) {
-  dt {
-    margin-top: 4.5em;
-  }
-  dl {
-    margin-bottom: 6em;
-  }
-  dl {
-    display: grid;
-    /*
-    grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) );
-    */
-    grid-template-columns: 1fr 1fr;
-    grid-column-gap: 2.25em;
-    grid-row-gap: 0;
-    grid-auto-flow: row dense;
-  }
-  dt:nth-of-type(n),
-  dt:nth-of-type(n) + dd,
-  dt:nth-of-type(n) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(1),
-  dt:nth-of-type(1) + dd,
-  dt:nth-of-type(1) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(2),
-  dt:nth-of-type(2) + dd,
-  dt:nth-of-type(2) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(3),
-  dt:nth-of-type(3) + dd,
-  dt:nth-of-type(3) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(4),
-  dt:nth-of-type(4) + dd,
-  dt:nth-of-type(4) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(5),
-  dt:nth-of-type(5) + dd,
-  dt:nth-of-type(5) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(6),
-  dt:nth-of-type(6) + dd,
-  dt:nth-of-type(6) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(7),
-  dt:nth-of-type(7) + dd,
-  dt:nth-of-type(7) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(8),
-  dt:nth-of-type(8) + dd,
-  dt:nth-of-type(8) + dd + dd {
-    grid-column: 2/3;
+  main h2 {
+    font-size: 2.375em;
   }
 }
 
-@media (min-width: 85em) {
-  dl {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-  dt:nth-of-type(1),
-  dt:nth-of-type(1) + dd,
-  dt:nth-of-type(1) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(2),
-  dt:nth-of-type(2) + dd,
-  dt:nth-of-type(2) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(3),
-  dt:nth-of-type(3) + dd,
-  dt:nth-of-type(3) + dd + dd {
-    grid-column: 3/4;
-  }
-  dt:nth-of-type(4),
-  dt:nth-of-type(4) + dd,
-  dt:nth-of-type(4) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(5),
-  dt:nth-of-type(5) + dd,
-  dt:nth-of-type(5) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(6),
-  dt:nth-of-type(6) + dd,
-  dt:nth-of-type(6) + dd + dd {
-    grid-column: 3/4;
-  }
-  dt:nth-of-type(7),
-  dt:nth-of-type(7) + dd,
-  dt:nth-of-type(7) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(8),
-  dt:nth-of-type(8) + dd,
-  dt:nth-of-type(8) + dd + dd {
-    grid-column: 2/3;
-  }
-}
-
-@media (min-width: 115em) {
-  dl {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-  }
-  dt:nth-of-type(1),
-  dt:nth-of-type(1) + dd,
-  dt:nth-of-type(1) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(2),
-  dt:nth-of-type(2) + dd,
-  dt:nth-of-type(2) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(3),
-  dt:nth-of-type(3) + dd,
-  dt:nth-of-type(3) + dd + dd {
-    grid-column: 3/4;
-  }
-  dt:nth-of-type(4),
-  dt:nth-of-type(4) + dd,
-  dt:nth-of-type(4) + dd + dd {
-    grid-column: 4/5;
-  }
-  dt:nth-of-type(5),
-  dt:nth-of-type(5) + dd,
-  dt:nth-of-type(5) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(6),
-  dt:nth-of-type(6) + dd,
-  dt:nth-of-type(6) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(7),
-  dt:nth-of-type(7) + dd,
-  dt:nth-of-type(7) + dd + dd {
-    grid-column: 3/4;
-  }
-  dt:nth-of-type(8),
-  dt:nth-of-type(8) + dd,
-  dt:nth-of-type(8) + dd + dd {
-    grid-column: 4/5;
-  }
-}
-
-@media (min-width: 145em) {
-  dl {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  }
-  dt:nth-of-type(1),
-  dt:nth-of-type(1) + dd,
-  dt:nth-of-type(1) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(2),
-  dt:nth-of-type(2) + dd,
-  dt:nth-of-type(2) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(3),
-  dt:nth-of-type(3) + dd,
-  dt:nth-of-type(3) + dd + dd {
-    grid-column: 3/4;
-  }
-  dt:nth-of-type(4),
-  dt:nth-of-type(4) + dd,
-  dt:nth-of-type(4) + dd + dd {
-    grid-column: 4/5;
-  }
-  dt:nth-of-type(5),
-  dt:nth-of-type(5) + dd,
-  dt:nth-of-type(5) + dd + dd {
-    grid-column: 5/6;
-  }
-  dt:nth-of-type(6),
-  dt:nth-of-type(6) + dd,
-  dt:nth-of-type(6) + dd + dd {
-    grid-column: 1/2;
-  }
-  dt:nth-of-type(7),
-  dt:nth-of-type(7) + dd,
-  dt:nth-of-type(7) + dd + dd {
-    grid-column: 2/3;
-  }
-  dt:nth-of-type(8),
-  dt:nth-of-type(8) + dd,
-  dt:nth-of-type(8) + dd + dd {
-    grid-column: 3/4;
-  }
+main a strong {
+  font-weight: 800;
+  text-transform: uppercase;
 }
 

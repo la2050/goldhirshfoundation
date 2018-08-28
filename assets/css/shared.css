@@ -251,7 +251,7 @@ main h3 {
   font-size: 1.25em;
   font-weight: 300; /* @light */
   line-height: inherit;
-  margin-bottom: 6rem;
+  margin-bottom: 1.5rem;
   max-width: 30em;
 }
 @media (min-width: 40em) {
