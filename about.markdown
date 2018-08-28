@@ -1,8 +1,11 @@
 ---
-title: About Us
-position: 4
-layout: about
+title: About
+position: 6
+layout: main
 ---
+
+About Us
+===========
 
 The world is brimming with **innovators** whose ideas can shape our region and **change the world**. At the Goldhirsh Foundation, we identify the **brightest emerging talent** and give them the tools to best support their success.
 
