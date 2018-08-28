@@ -1,0 +1,36 @@
+
+main p {
+  font-size: 1.25em;
+  font-weight: 300; /* @light */
+  line-height: inherit;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 40em) {
+  main p {
+    font-size: 1.625em;
+  }
+}
+
+main p strong {
+  color: rgb(56, 175, 77); /* @green */
+}
+
+main img[src*="lattice"] {
+  float: right;
+  width: 306px;
+  height: auto;
+  margin-left: 3em;
+}
+
+main img[src*="tools"] {
+  float: left;
+  width: 284px;
+  height: auto;
+  margin-right: 3em;
+}
+
+main h2[id*="we-exist"] {
+  clear: both;
+  padding-top: 3rem;
+}
+

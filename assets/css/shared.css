@@ -236,7 +236,6 @@ main h2 {
   font-size: 1.5em;
   line-height: inherit;
   font-weight: 300; /* @light */
-  margin-bottom: 4.5rem;
 
   color: rgb(56, 175, 77); /* @green */
   max-width: 20em;
