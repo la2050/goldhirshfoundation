@@ -11,7 +11,7 @@ Blog
 
 {% for post in site.posts %}
 
-<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <p>
   Posted by
   <a href="/about/#{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a> on {{ post.date | date: "%B %-d, %Y" }}
