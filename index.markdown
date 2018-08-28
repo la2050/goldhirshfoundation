@@ -2,6 +2,8 @@
 title: Goldhirsh Foundation
 position: 0
 layout: main
+stylesheets:
+- "/assets/css/home.css"
 ---
 
 For the **idealists**.
