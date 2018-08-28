@@ -2,6 +2,9 @@
 title: Jobs
 position: 14
 layout: main
+stylesheets:
+- "/assets/css/jobs.css"
+- "/assets/css/table.css"
 ---
 
 Jobs
@@ -9,10 +12,9 @@ Jobs
 
 The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.
 
-Have a job to share? Email us: [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
-
 
 <table>
+<thead>
 <tr>
   <th scope="col">Position</th>
   <th scope="col">Organization</th>
@@ -20,6 +22,7 @@ Have a job to share? Email us: [team@goldhirshfoundation.org](mailto:team@goldhi
   <th scope="col">Date Posted</th>
   <th scope="col">Location</th>
 </tr>
+</thead>
 <tbody>
 
 <tr>
@@ -144,4 +147,9 @@ Have a job to share? Email us: [team@goldhirshfoundation.org](mailto:team@goldhi
 
 </tbody>
 </table>
+
+
+
+Have a job to share? Email us: [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
+
 

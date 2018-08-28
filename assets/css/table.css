@@ -1,0 +1,33 @@
+
+
+table {
+  margin-top: 4.5em;
+  margin-bottom: 4.5em;
+  border-collapse: collapse;
+}
+
+thead th {
+  text-transform: uppercase;
+  font-weight: 600; /* @semibold */
+  letter-spacing: 0.0625em; /* 1px / 16px */
+  white-space: nowrap;
+}
+
+tbody th,
+tbody td {
+  border-top: 1px solid rgb(177, 177, 177); /* @aluminum */
+}
+
+th,
+td {
+  text-align: left;
+  padding: 1.5em 1.5em;
+  vertical-align: top;
+}
+th:first-child {
+  padding-left: 0;
+}
+td:last-child {
+  padding-right: 0;
+}
+

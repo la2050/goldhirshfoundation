@@ -1,0 +1,45 @@
+
+
+
+dt,
+dd {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+dt {
+  margin-top: 3rem;
+  color: rgb(149, 149, 149);
+  font-size: 2em;
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600; /* @semibold */
+}
+dt strong {
+  font-size: 2em;
+  display: block;
+  font-weight: inherit;
+}
+dt + dd {
+  margin-top: 3rem;
+  align-self: end;
+}
+
+
+@media (min-width: 40em) {
+  dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-column-gap: 1.5em;
+  }
+  dt {
+    grid-column: 1/2;
+    grid-row: span 2;
+  }
+  dd {
+    grid-column: 2/3;
+  }
+}
+

@@ -2,12 +2,15 @@
 title: Resources
 position: 13
 layout: main
+stylesheets:
+- "/assets/css/resources.css"
+- "/assets/css/table.css"
 ---
 
 Resources
 =========
 
-The Goldhirsh Foundation is committed to supporting social _innovation_ in Los Angeles. Below find a number of resources around _social innovation_, _impact investing_, and _fundraising_.
+The Goldhirsh Foundation is committed to supporting social **innovation** in Los Angeles. Below find a number of resources around **social innovation**, **impact investing**, and **fundraising**.
 
 Financial Capital Opportunities
 -------------------------------
@@ -16,11 +19,13 @@ Financial Capital Opportunities
 
 
 <table>
+<thead>
 <tr>
   <th scope="col">Organization</th>
   <th scope="col">Description</th>
   <th scope="col">Deadline</th>
 </tr>
+</thead>
 <tbody>
 
 <tr>
@@ -75,7 +80,7 @@ Financial Capital Opportunities
 </tr>
 <tr>
   <th scope="row"><a href="https://www.thetech.org/TechArts">The Tech Museum of Innovation</a></th>
-  <td>The Incubator awards grants of up to $50,000 to develop new digital art experiences.</p></td>
+  <td>The Incubator awards grants of up to $50,000 to develop new digital art experiences.</td>
   <td>July 15, 2018</td>
 </tr>
 
@@ -85,6 +90,10 @@ Financial Capital Opportunities
 
 
 Would you like to add something to the list? Email us at [team@goldhirshfoundation.org.](mailto:team@goldhirshfoundation.org)
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
 
