@@ -1,7 +1,7 @@
 ---
 title: "$1,000,000 up for Grabs to Make LA the Best Place to Play, Learn, Create,
   Connect, and Live"
-date: 2018-06-19 15:22:00 -07:00
+date: 2018-06-19
 position: 1
 author: Tara Roth
 excerpt: Starting today, Angelenos can cast their vote to determine who will win the

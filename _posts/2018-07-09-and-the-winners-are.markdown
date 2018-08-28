@@ -1,6 +1,6 @@
 ---
 title: And the winners are...
-date: 2018-07-09 12:00:00 -07:00
+date: 2018-07-09
 position: 0
 excerpt: Today, the Goldhirsh Foundation has announced the winners of the 2018 My
   LA2050 Activation Challenge, an open call for ideas designed to activate 100,000
@@ -25,15 +25,15 @@ The winners of the My LA2050 Activation Challenge are:
 
 ### LEARN
 
-[Center for Innovation in STEM Education (CISE)](https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/): The Center for Innovation in STEM Education (CISE) will empower teachers to instruct and inspire students in STEM via a dynamic training and mentoring program. Teachers in LAUSD\-Local District South and Compton USD will be trained and equipped to implement the Next Generation Science Standards and prepare their students for the jobs of the future.
+[Center for Innovation in STEM Education (CISE)](https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/): The Center for Innovation in STEM Education (CISE) will empower teachers to instruct and inspire students in STEM via a dynamic training and mentoring program. Teachers in LAUSD-Local District South and Compton USD will be trained and equipped to implement the Next Generation Science Standards and prepare their students for the jobs of the future.
 
 ### CREATE
 
-[ELACC + LA Street Vendors Coalition](https://activation.la2050.org/create/east-la-community-corporation-elacc/): After winning a 10\-year fight for the legalization of street vending in LA, the Los Angeles Street Vendor Campaign will continue to activate vendors, small businesses, policy makers, and food lovers across our city in the creation of an equitable economy inclusive of micro\-entrepreneurs. Through this activation, they will grow security and opportunity for an innovative industry that contributes to LA’s vibrant food culture and economy.
+[ELACC + LA Street Vendors Coalition](https://activation.la2050.org/create/east-la-community-corporation-elacc/): After winning a 10-year fight for the legalization of street vending in LA, the Los Angeles Street Vendor Campaign will continue to activate vendors, small businesses, policy makers, and food lovers across our city in the creation of an equitable economy inclusive of micro-entrepreneurs. Through this activation, they will grow security and opportunity for an innovative industry that contributes to LA’s vibrant food culture and economy.
 
 ### PLAY
 
-[Brady Center to Prevent Gun Violence](https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/): The Brady Center is establishing a coalition that will build public, legal, and economic pressure to reform or shut down “bad apple gun dealers,” and make an impact on two of LA2050’s key metrics \- per capita crime rates and perceived safety. With this campaign, they will activate Angelenos to take meaningful action to reduce gun violence and increase public safety.
+[Brady Center to Prevent Gun Violence](https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/): The Brady Center is establishing a coalition that will build public, legal, and economic pressure to reform or shut down “bad apple gun dealers,” and make an impact on two of LA2050’s key metrics - per capita crime rates and perceived safety. With this campaign, they will activate Angelenos to take meaningful action to reduce gun violence and increase public safety.
 
 ### CONNECT
 
