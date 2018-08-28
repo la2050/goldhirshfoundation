@@ -1,8 +1,6 @@
 ---
 title: 'Crowdsourcing: Practical Insights for Entrepreneurs, Investors, and Philanthropists'
 date: 2017-03-23
-tags:
-- Crowdsourcing
 position: 5
 excerpt: Crowdsourcing involves soliciting input from the public, usually on a digital
   platform, to address market gaps and surface promising solutions in an open, efficient
