@@ -1,9 +1,0 @@
----
-title: Unilever
-date: 2018-06-28 00:00:00 -07:00
-position: 3
-details_url: https://stage.youngentrepreneursawards.unilever.com/how-to-enter
----
-
-Unilever is awarding young entrepreneur with initiatives, products or services already in action tackling sustainability.
-
