@@ -9,37 +9,37 @@ stylesheets:
 
 For the **idealists**.
 
-![](/assets/img/home-spacer@x2.png)
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
 
 For the **pragmatists**.
 
-![](/assets/img/home-bars@x2.png)
+<img src="/assets/img/home-bars@x2.png" width="86" height="50" alt="" />
 
-![](/assets/img/home-arrow-down@x2.png)
+<img src="/assets/img/home-arrow-down@x2.png" width="31" height="63" alt="" />
 
 For those **who look at the world** and say,
 
-![](/assets/img/home-spacer@x2.png)
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
 
 > “That’s not **good** enough.”
 
-![](/assets/img/home-arrow-down@x2.png)
+<img src="/assets/img/home-arrow-down@x2.png" width="31" height="63" alt="" />
 
-![](/assets/img/home-funnel@x2.png)
+<img src="/assets/img/home-funnel@x2.png" width="171" height="139" alt="" />
 
-![](/assets/img/home-spacer@x2.png)
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
 
-![](/assets/img/home-bolt@x2.png)
+<img src="/assets/img/home-bolt@x2.png" width="81" height="115" alt="" />
 
 And for those who have the **courage** and **ability** to
 
-![](/assets/img/home-spacer@x2.png)
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
 
-![](/assets/img/home-telescope@x2.png)
+<img src="/assets/img/home-telescope@x2.png" width="90" height="108" alt="" />
 
 translate that **perspective** into **real\-world innovations**:
 
-![](/assets/img/home-arrow-down-long@x2.png)
+<img src="/assets/img/home-arrow-down-long@x2.png" width="31" alt="" />
 
 [the **Goldhirsh Foundation**](/vision/)
 
