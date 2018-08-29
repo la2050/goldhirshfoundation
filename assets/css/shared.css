@@ -90,6 +90,10 @@ footer ul a {
   text-transform: uppercase;
   letter-spacing: 0.0625em; /* 1px / 16px */
   color: rgb(177, 177, 177); /* @aluminum */
+  color: rgba(31, 35, 32, 0.8);
+}
+footer ul a {
+  color: inherit;
 }
 header ul a:hover,
 header ul a:active,
@@ -126,6 +130,7 @@ header h2 img {
 footer {
   background-color: rgb(240, 240, 241);
   color: rgb(31, 35, 32);
+  color: rgba(31, 35, 32, 0.8);
   padding: 1.5em;
   margin: 4.5em -1.5em -1.5em;
 }
