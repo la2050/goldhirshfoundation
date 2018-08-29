@@ -1,6 +1,5 @@
 ---
 title: Vision
-position: 2
 layout: main
 stylesheets:
 - "/assets/css/vision.css"

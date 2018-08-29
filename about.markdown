@@ -1,6 +1,5 @@
 ---
 title: About
-position: 6
 layout: main
 stylesheets:
 - "/assets/css/about.css"

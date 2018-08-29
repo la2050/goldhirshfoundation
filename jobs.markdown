@@ -1,6 +1,5 @@
 ---
 title: Jobs
-position: 14
 layout: main
 stylesheets:
 - "/assets/css/jobs.css"

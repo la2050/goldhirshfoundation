@@ -1,12 +1,11 @@
 ---
 title: Goldhirsh Foundation
-position: 0
 layout: main
 stylesheets:
 - "/assets/css/home.css"
 ---
 
-![](/assets/img/home-sun@x2.png)
+<img src="/assets/img/home-sun@x2.png" width="117" height="180" alt="" />
 
 For the **idealists**.
 

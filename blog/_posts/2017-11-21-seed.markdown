@@ -1,7 +1,6 @@
 ---
 title: It’s Time to Test and Learn. That’s Why We’re Matching $250,000 to SEED.
 date: 2017-11-21
-position: 2
 author: Tara Roth
 excerpt: Since its inception, the Goldhirsh Foundation has had a strong track record
   of supporting innovative models for economic mobility that increase access to capital

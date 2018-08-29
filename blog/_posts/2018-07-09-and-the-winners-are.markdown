@@ -1,7 +1,6 @@
 ---
 title: And the winners are...
 date: 2018-07-09
-position: 0
 excerpt: Today, the Goldhirsh Foundation has announced the winners of the 2018 My
   LA2050 Activation Challenge, an open call for ideas designed to activate 100,000
   Angelenos to make LA the best place to learn, create, play, connect, and live. A

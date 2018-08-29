@@ -1,6 +1,5 @@
 ---
 title: Resources
-position: 13
 layout: main
 stylesheets:
 - "/assets/css/resources.css"

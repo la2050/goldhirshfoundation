@@ -1,6 +1,5 @@
 ---
 title: Blog
-position: 15
 layout: main
 stylesheets:
 - "/assets/css/blog.css"

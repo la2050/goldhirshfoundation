@@ -1,6 +1,5 @@
 ---
 title: LA2050
-position: 12
 layout: main
 stylesheets:
 - /assets/css/la2050.css
