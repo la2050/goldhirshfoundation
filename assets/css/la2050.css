@@ -1,0 +1,99 @@
+
+
+
+
+
+form {
+  margin-top: 1.5em;
+  margin-bottom: 6em;
+}
+
+label,
+input,
+button {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.375em;
+}
+input {
+  margin-left: 0;
+  padding: 0.375em 0.75em;
+  border-radius: 0.25em;
+  border: 1px solid rgb(177, 177, 177); /* @aluminum */
+}
+button {
+  margin: 0;
+  padding: 0.375em 0.75em;
+  background-color: rgb(56, 175, 77); /* @green */
+  color: white;
+  border-radius: 0.25em;
+  border-width: 0;
+}
+
+
+main p:first-of-type ~ p {
+  max-width: 33em;
+}
+
+@media (min-width: 40em) {
+  main dl,
+  main p {
+    font-size: 1.25em;
+    font-weight: 300; /* @light */
+    line-height: inherit;
+    margin-bottom: 1.5rem;
+  }
+  @media (min-width: 40em) {
+    main p {
+      font-size: 1.625em;
+    }
+  }
+}
+
+
+dt,
+dd {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+dt {
+  margin-top: 1.5rem;
+  color: rgb(149, 149, 149);
+  text-transform: uppercase;
+  text-align: right;
+  font-weight: 600; /* @semibold */
+}
+dt + dd {
+  margin-top: 1.5rem;
+}
+
+
+
+@media (min-width: 40em) {
+  dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-column-gap: 1.5em;
+  }
+  dt {
+    grid-column: 1/2;
+  }
+  dd {
+    grid-column: 2/3;
+    align-self: center;
+  }
+}
+
+
+
+main dl {
+  margin-bottom: 6em;
+}
+

@@ -33,6 +33,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, dl, table, form, hr {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
+/*h1, h2, h3, h4, h5, h6, p {
+  max-width: 33em;
+  margin-left: auto;
+  margin-right: auto;
+}*/
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0.75em;
@@ -43,13 +48,17 @@ a {
   transition: color 0.2s;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 hr {
+  margin-top: calc(4.5em - 1px);
+  margin-bottom: 4.5em;
+  background-color: rgb(177, 177, 177); /* @aluminum */
   border-width: 0;
-  border-bottom: 1px solid rgb(177, 177, 177); /* @aluminum */
-  padding-bottom: 1.5em;
-  padding-bottom: calc(1.5em - 1px);
-  margin-top: calc(1.5em - 1px);
-  margin-bottom: 0; 
+  height: 1px;
 }
 
 header,
@@ -116,6 +125,7 @@ header h2 img {
 
 footer {
   background-color: rgb(240, 240, 241);
+  color: rgb(31, 35, 32);
   padding: 1.5em;
   margin: 4.5em -1.5em -1.5em;
 }
@@ -230,10 +240,8 @@ main h2 {
   font-size: 1.5em;
   line-height: inherit;
   font-weight: 300; /* @light */
-  margin-bottom: 4.5rem;
 
   color: rgb(56, 175, 77); /* @green */
-  max-width: 20em;
 }
 @media (min-width: 40em) {
   main h2 {
@@ -245,8 +253,7 @@ main h3 {
   font-size: 1.25em;
   font-weight: 300; /* @light */
   line-height: inherit;
-  margin-bottom: 6rem;
-  max-width: 30em;
+  margin-bottom: 1.5rem;
 }
 @media (min-width: 40em) {
   main h3 {
@@ -294,3 +301,15 @@ main h4 + p {
 .phrase {
   display: inline-block;
 }
+
+
+
+
+/*main {
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+
+

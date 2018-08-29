@@ -1,0 +1,60 @@
+
+
+
+dt,
+dd {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+dt {
+  margin-top: 3rem;
+  color: rgb(149, 149, 149);
+  font-size: 1.625em;
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600; /* @semibold */
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+dd {
+  max-width: 40rem;
+}
+dt strong {
+  font-size: 2.375em;
+  display: block;
+  font-weight: inherit;
+}
+dt + dd {
+  margin-top: 3rem;
+  margin-bottom: 0.75rem;
+  align-self: end;
+  font-size: 1.25em;
+}
+/*dt + dd {
+  font-size: 1.625em;
+}*/
+
+dd + dd a {
+  display: inline-block;
+}
+
+
+@media (min-width: 40em) {
+  dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+  }
+  dt {
+    grid-column: 1/2;
+    grid-row: span 2;
+    padding-left: 3rem;
+    padding-right:3rem;
+  }
+  dd {
+    grid-column: 2/3;
+  }
+}
+

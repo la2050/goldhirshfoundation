@@ -2,16 +2,16 @@
 title: Blog
 position: 15
 layout: main
+stylesheets:
+- "/assets/css/blog.css"
 ---
 
 Blog
 ===========
 
-<p>Post 1 to {{ site.posts.size }} of {{ site.posts.size }}</p>
-
 {% for post in site.posts %}
 
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 <p>
   Posted by
   <a href="/about/#{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a> on {{ post.date | date: "%B %-d, %Y" }}

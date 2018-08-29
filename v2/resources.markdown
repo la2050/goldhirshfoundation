@@ -2,12 +2,15 @@
 title: Resources
 position: 13
 layout: main
+stylesheets:
+- "/assets/css/resources.css"
+- "/assets/css/table.css"
 ---
 
 Resources
 =========
 
-The Goldhirsh Foundation is committed to supporting social _innovation_ in Los Angeles. Below find a number of resources around _social innovation_, _impact investing_, and _fundraising_.
+The Goldhirsh Foundation is committed to supporting social **innovation** in Los Angeles. Below find a number of resources around **social innovation**, **impact investing**, and **fundraising**.
 
 Financial Capital Opportunities
 -------------------------------
@@ -16,11 +19,13 @@ Financial Capital Opportunities
 
 
 <table>
+<thead>
 <tr>
   <th scope="col">Organization</th>
   <th scope="col">Description</th>
   <th scope="col">Deadline</th>
 </tr>
+</thead>
 <tbody>
 
 <tr>
@@ -75,7 +80,7 @@ Financial Capital Opportunities
 </tr>
 <tr>
   <th scope="row"><a href="https://www.thetech.org/TechArts">The Tech Museum of Innovation</a></th>
-  <td>The Incubator awards grants of up to $50,000 to develop new digital art experiences.</p></td>
+  <td>The Incubator awards grants of up to $50,000 to develop new digital art experiences.</td>
   <td>July 15, 2018</td>
 </tr>
 
@@ -85,6 +90,10 @@ Financial Capital Opportunities
 
 
 Would you like to add something to the list? Email us at [team@goldhirshfoundation.org.](mailto:team@goldhirshfoundation.org)
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
 
@@ -102,6 +111,13 @@ Nov <strong>16</strong> 2017
 
 Nov <strong>2</strong> 2017
 : [Redefining Innovation with Google.org and LA2050, Angie Jean-Marie](https://www.eventbrite.com/e/redefining-innovation-with-googleorg-and-la2050-tickets-38877230844)
+
+
+
+<details markdown="1">
+<summary>
+  <h3>More Speaking Engagements</h3>
+</summary>
 
 Nov <strong>1</strong> 2017
 : [Long Beach Civic Innovation Summit, Angie Jean-Marie](https://www.eventbrite.com/e/long-beach-civic-innovation-summit-2017-tickets-37399376542)
@@ -315,6 +331,8 @@ Sep <strong>1</strong> 2013
 
 Mar <strong>1</strong> 2013
 : [dublab Live Broadcast + Twitter Party. Shauna Nep](http://dublab.com/dublab-la2050-live-broadcast-twitter-party-03-17-13/)
+
+</details>
 
 
 
