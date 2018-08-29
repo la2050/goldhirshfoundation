@@ -1,8 +1,0 @@
----
-title: Tara Roth
-position: 0
-image: "/assets/files/1081/tara-gf-2.jpg"
-twitter_username: taranellroth
----
-
-**TARA ROTH** is the president of the Goldhirsh Foundation. Prior to this role, Tara bridged the worlds of marketing, media, and philanthropy as the founding COO of [GOOD](http://GOOD.is) and a social strategy advisor. Tara began her career in marketing and business development for NBCinternet and Infoseek. She has worked with organizations such as [Participant Media](http://www.participantmedia.com/), [Fifteen Foundation](http://www.15foundation.org/), and the [New Schools Venture Fund](http://www.newschools.org/). As a senior advisor to [GOOD](http://GOOD.is), Tara helped launch the Pepsi Refresh Project. Tara received a bachelor’s degree at Cornell University, and has an MBA from Oxford University where she was awarded a Skoll scholarship in social entrepreneurship. Tara serves on the board of [Southern California Grantmakers](https://www.socalgrantmakers.org/), [USC's Sol Price School of Public Policy](http://priceschool.usc.edu/), and [UCLA's School of Arts and Architecture](https://www.arts.ucla.edu/) and on the regional advisory boards of [Opportunity Fund](http://www.opportunityfund.org/), [FUSE Corps](http://www.fusecorps.org/), and [826LA](http://826la.org/). She is a Senior Fellow at [USC's Brittingham Social Enterprise Lab](https://www.marshall.usc.edu/faculty-research/centers-excellence/brittingham-social-enterprise-lab).
