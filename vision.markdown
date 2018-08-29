@@ -9,11 +9,11 @@ stylesheets:
 Our Vision
 ===========
 
-![](/assets/img/vision_lattice@x2.png)
+<img src="/assets/img/vision_lattice@x2.png" width="306" height="185" alt="" />
 
 We connect the dots between the best **emerging innovations** and the **financial**, **social**, and **human** capital to make them thrive.
 
-![](/assets/img/vision_tools@x2.png)
+<img src="/assets/img/vision_tools@x2.png" width="284" height="151" alt="" />
 
 We find **smart** people doing **creative** things, and we give them the **tools** to do them better.
 
