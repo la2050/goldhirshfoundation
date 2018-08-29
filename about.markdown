@@ -10,7 +10,7 @@ stylesheets:
 About Us
 ===========
 
-![](/assets/img/about_world@x2.png)
+<img src="/assets/img/about_world@x2.png" width="314" height="219" alt="" />
 
 The world is brimming with **innovators** whose ideas can shape our region and **change the world**. At the Goldhirsh Foundation, we identify the **brightest emerging talent** and give them the tools to best support their success.
 
