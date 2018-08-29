@@ -4,6 +4,7 @@ main p {
   font-weight: 300; /* @light */
   line-height: inherit;
   margin-bottom: 1.5rem;
+  max-width: 33em;
 }
 @media (min-width: 40em) {
   main p {

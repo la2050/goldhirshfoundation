@@ -33,6 +33,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, dl, table, form, hr {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
+/*h1, h2, h3, h4, h5, h6, p {
+  max-width: 33em;
+  margin-left: auto;
+  margin-right: auto;
+}*/
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0.75em;
@@ -237,7 +242,6 @@ main h2 {
   font-weight: 300; /* @light */
 
   color: rgb(56, 175, 77); /* @green */
-  max-width: 20em;
 }
 @media (min-width: 40em) {
   main h2 {
@@ -250,7 +254,6 @@ main h3 {
   font-weight: 300; /* @light */
   line-height: inherit;
   margin-bottom: 1.5rem;
-  max-width: 30em;
 }
 @media (min-width: 40em) {
   main h3 {
@@ -298,3 +301,15 @@ main h4 + p {
 .phrase {
   display: inline-block;
 }
+
+
+
+
+/*main {
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+
+

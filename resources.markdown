@@ -112,6 +112,13 @@ Nov <strong>16</strong> 2017
 Nov <strong>2</strong> 2017
 : [Redefining Innovation with Google.org and LA2050, Angie Jean-Marie](https://www.eventbrite.com/e/redefining-innovation-with-googleorg-and-la2050-tickets-38877230844)
 
+
+
+<details markdown="1">
+<summary>
+  <h3>More Speaking Engagements</h3>
+</summary>
+
 Nov <strong>1</strong> 2017
 : [Long Beach Civic Innovation Summit, Angie Jean-Marie](https://www.eventbrite.com/e/long-beach-civic-innovation-summit-2017-tickets-37399376542)
 
@@ -324,6 +331,8 @@ Sep <strong>1</strong> 2013
 
 Mar <strong>1</strong> 2013
 : [dublab Live Broadcast + Twitter Party. Shauna Nep](http://dublab.com/dublab-la2050-live-broadcast-twitter-party-03-17-13/)
+
+</details>
 
 
 

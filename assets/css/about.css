@@ -1,12 +1,4 @@
 
-
-/*main {
-  max-width: 60em;
-  margin-left: auto;
-  margin-right: auto;
-}
-*/
-
 main p strong {
   color: rgb(56, 175, 77); /* @green */
 }
@@ -97,4 +89,8 @@ main h2[id*="team"] ~ h3 {
 }
 
 
+
+p {
+  max-width: 33em;
+}
 

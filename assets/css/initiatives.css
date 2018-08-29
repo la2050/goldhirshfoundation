@@ -246,3 +246,10 @@ dl {
   }
 }
 
+main h2 {
+  max-width: 20em;
+}
+main h3 {
+  max-width: 30em;
+}
+

@@ -4,7 +4,6 @@ position: 12
 layout: main
 stylesheets:
 - /assets/css/la2050.css
-- https://cdn-images.mailchimp.com/embedcode/slim-081711.css
 ---
 
 LA2050
@@ -36,36 +35,29 @@ Explore LA2050. Follow the stories of the eight indicators and the LA2050 goals.
 
 To find out more or if you would like to join the dialogue, please contact [connect@la2050.org](mailto:connect@la2050.org), use the hashtag [#LA2050](http://www.twitter.com/#LA2050), or subscribe to our newsletter.
 
-
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://goldhirshfoundation.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	<label for="mce-EMAIL">Keep in touch with LA2050.</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+  <label for="mce-EMAIL">Keep in touch with LA2050.</label>
+  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+  <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+    Subscribe
+  </button>
 </form>
 </div>
 <!--End mc_embed_signup-->
 
 
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-
 My LA2050 Grants Challenge Grantees
+===========
+
+
+
+2016
 -----------
 
-
-
-### 2016 My LA2050 Grants Challenge ###
-
-#### Top Voted ####
+### Top Voted ###
 
 LEARN
 : [Altasea](https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean/)  
@@ -82,7 +74,7 @@ CONNECT
 LIVE
 : [The Sierra Club Foundation](https://challenge.la2050.org/entry/the-future-is-bright-a-clean-energy-future-for-la)  
 
-#### Jury Voted ####
+### Jury Voted ###
 
 LEARN
 : [Lost Angels Children's Project](https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration)  
@@ -103,9 +95,14 @@ LIVE
 
 
 
-### 2015 My LA2050 Grants Challenge ###
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-#### Top Voted ####
+
+
+2015
+-----------
+
+### Top Voted ###
 
 LEARN
 : [Citizens of the World](http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html)  
@@ -122,7 +119,7 @@ CONNECT
 LIVE
 : [Heal the Bay](http://myla2050live2015.maker.good.is/projects/DroppingKnowledgeLA)  
 
-#### Jury Voted ####
+### Jury Voted ###
 
 LEARN
 : [Girls Academic Leadership Academy](http://myla2050learn2015.maker.good.is/projects/GALA2015)  
@@ -141,9 +138,14 @@ LIVE
 
 
 
-### 2014 My LA2050 Grants Challenge ###
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-#### Top Voted ####
+
+
+2014
+-----------
+
+### Top Voted ###
 
 PLAY
 : [Enrich LA](http://maker.good.is/myLA2050play/projects/enrichla.html)  
@@ -160,7 +162,7 @@ CONNECT
 CREATE
 : [StreetCraft LA](http://maker.good.is/myLA2050create/projects/streetcraftla.html)  
 
-#### Jury Voted ####
+### Jury Voted ###
 
 PLAY
 : [Pershing Square Park Advisory Council](http://maker.good.is/myLA2050play/projects/KidsplayatPS.html)  
@@ -179,7 +181,12 @@ CREATE
 
 
 
-### 2013 My LA2050 Grants Challenge ###
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+
+2013
+-----------
 
 Arts & Cultural Vitality
 : [Hammer Museum](http://maker.good.is/myla2050/projects/Hammer_Museum.html)  

@@ -12,20 +12,18 @@ td:last-child {
 }
 
 
-@media (min-width: 40em) {
 
+dd,
+main p {
+  font-size: 1.25em;
+  font-weight: 300; /* @light */
+  line-height: inherit;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 40em) {
   dd,
   main p {
-    font-size: 1.25em;
-    font-weight: 300; /* @light */
-    line-height: inherit;
-    margin-bottom: 1.5rem;
-  }
-  @media (min-width: 40em) {
-    dd,
-    main p {
-      font-size: 1.625em;
-    }
+    font-size: 1.625em;
   }
 }
 
@@ -56,6 +54,20 @@ dt + dd {
   margin-top: 3rem;
 }
 
+details {
+  margin-bottom: 6em;
+}
+summary {
+  text-align: center;
+  color: rgb(149, 149, 149);
+}
+summary h3 {
+  display: inline;
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0;
+}
+
 
 @media (min-width: 40em) {
   dl {
@@ -71,4 +83,10 @@ dt + dd {
     align-self: center;
   }
 }
+
+
+ul {
+  margin-bottom: 6em;
+}
+
 
