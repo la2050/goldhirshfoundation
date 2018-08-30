@@ -1,6 +1,5 @@
 ---
 title: Goldhirsh Foundation
-layout: main
 stylesheets:
 - "/assets/css/home.css"
 ---
@@ -20,6 +19,10 @@ stylesheets:
   </span>
 
   <q>That’s not <strong>good</strong> enough.</q>
+
+</p>
+
+<p>
 
   <span class="courage">
     And for those who have the <strong>courage</strong> and <strong>ability</strong> to
