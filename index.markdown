@@ -29,8 +29,10 @@ stylesheets:
     translate that <strong>perspective</strong> into <strong>real-world innovations</strong>:
   </span>
 
+</p>
+
+<h1>
   <a href="/vision/">
     the <strong>Goldhirsh Foundation</strong>
   </a>
-
-</p>
+</h1>
