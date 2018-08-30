@@ -1,6 +1,5 @@
 ---
 title: Blog
-layout: main
 stylesheets:
 - "/assets/css/blog.css"
 ---

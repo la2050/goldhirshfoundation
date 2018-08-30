@@ -1,6 +1,5 @@
 ---
 title: Resources
-layout: main
 stylesheets:
 - "/assets/css/resources.css"
 - "/assets/css/table.css"

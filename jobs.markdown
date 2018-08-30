@@ -1,6 +1,5 @@
 ---
 title: Jobs
-layout: main
 stylesheets:
 - "/assets/css/jobs.css"
 - "/assets/css/table.css"

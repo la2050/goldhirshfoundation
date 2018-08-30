@@ -4,6 +4,7 @@ body {
 }
 
 main h1 {
+  margin: 0;
   color: inherit;
 }
 
@@ -28,12 +29,19 @@ main a strong {
 }
 
 
+main h1 {
+  border-width: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
 main a {
+  margin-top: 0.375em;
   display: inline-block;
   text-decoration: none;
   color: inherit;
   padding: 0.25em 0.375em 0.125em;
-  border: 2px solid;
+  border: calc(2 / 38 * 38px) solid;
 
   font-weight: 300; /* @light */
 
@@ -42,21 +50,38 @@ main a strong {
   font-weight: 800;
   text-transform: uppercase;
 }
+main a {
+  position: relative;
+}
+main a::before {
+  content: " ";
+  display: block;
+  background-color: rgb(56, 175, 77); /* @green */
+  width: calc(36 / 38 * 38px);
+  height: calc(4 / 38 * 38px);
+  position: absolute;
+  left: 50%;
+  margin-left: calc(-18 / 38 * 38px);
+  top: calc(-3 / 38 * 38px);
+}
 
 
 
-main p {
+main h1,
+main p, {
   font-size: 1.25em;
   font-size: 1.5em;
   font-weight: 300; /* @light */
   line-height: inherit;
   margin-bottom: 1.5rem;
+  text-align: center;
 /*  border-bottom: 2px solid;
   display: table;
   margin-left: auto;
   margin-right: auto;*/
 }
-@media (min-width: 40em) {
+@media (min-width: 20em) {
+  main h1,
   main p {
     font-size: 1.625em;
     font-size: 2.375em;
@@ -75,3 +100,282 @@ main {
   text-align: center;
 }
 
+
+
+.idealists {
+
+}
+
+.pragmatists {
+
+}
+
+.look {
+
+}
+
+q {
+
+}
+
+.courage {
+
+}
+
+.perspective {
+
+}
+
+h1 {
+
+}
+
+main p:first-child {
+  margin-bottom: 0;
+}
+main p + p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+main p span {
+/*padding-bottom: calc(0 / 38 * 38px);
+  border-bottom: calc(2 / 38 * 38px) solid;*/
+  display: table;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+main p span::before,
+main p span::after {
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+main .idealists::before {
+  content: "";
+  display: block;
+  width: calc(117 / 38 * 38px);
+  height: calc(180 / 38 * 38px);
+  height: calc(190 / 38 * 38px);
+  background-image: url(/assets/img/home-sun@x2.png);
+}
+main .idealists::after {
+  content: "";
+  display: block;
+  width: calc(2 / 38 * 38px);
+  height: calc(62 / 38 * 38px);
+  background-image: url(/assets/img/home-spacer@x2.png);
+}
+
+main .pragmatists::before {
+  content: "";
+  display: block;
+  width: calc(86 / 38 * 38px);
+  height: calc(50 / 38 * 38px);
+  background-image: url(/assets/img/home-bars@x2.png);
+}
+main .pragmatists::after {
+  content: "";
+  display: block;
+  width: calc(31 / 38 * 38px);
+  height: calc(63 / 38 * 38px);
+  background-image: url(/assets/img/home-arrow-down@x2.png);
+}
+
+main .look {
+  margin-top: 2.25em;
+  padding: 0.375em;
+  background-image: none;
+  border: solid;
+  border-width: calc(2 / 38 * 38px);
+  border-color: black;
+  position: relative;
+  max-width: 15em;
+}
+main .look:before {
+  content: " ";
+  display: block;
+  background-color: rgb(56, 175, 77); /* @green */
+  width: calc(36 / 38 * 38px);
+  height: calc(4 / 38 * 38px);
+  position: absolute;
+  left: 50%;
+  margin-left: calc(-18 / 38 * 38px);
+  top: calc(-3 / 38 * 38px);
+}
+main .look:after {
+  content: " ";
+  display: block;
+  background-color: rgb(56, 175, 77); /* @green */
+  width: calc(36 / 38 * 38px);
+  height: calc(4 / 38 * 38px);
+  position: absolute;
+  left: 50%;
+  margin-left: calc(-18 / 38 * 38px);
+  bottom: calc(-3 / 38 * 38px);
+}
+
+main .good::before {
+  content: "";
+  display: block;
+  width: calc(2 / 38 * 38px);
+  height: calc(62 / 38 * 38px);
+  background-image: url(/assets/img/home-spacer@x2.png);
+}
+
+main p:first-child::after {
+  content: "";
+  display: block;
+  width: calc(171 / 38 * 38px);
+  height: calc(303 / 38 * 38px); /* (63px + 20px + 139px + 20px + 62px) = 303px */
+  background-image: url(/assets/img/home-arrow-down@x2.png),
+                    url(/assets/img/home-funnel@x2.png),
+                    url(/assets/img/home-spacer@x2.png);
+  background-size: calc(  31 / 38 * 38px) calc( 63 / 38 * 38px),
+                   calc( 171 / 38 * 38px) calc(139 / 38 * 38px),
+                   calc(   2 / 38 * 38px) calc( 62 / 38 * 38px);
+  background-position: top, center, bottom;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main .courage::before {
+  content: "";
+  display: block;
+  width: calc(81 / 38 * 38px);
+  height: calc(115 / 38 * 38px);
+  background-image: url(/assets/img/home-bolt@x2.png);
+}
+main .courage::after {
+  content: "";
+  display: block;
+  width: calc(2 / 38 * 38px);
+  height: calc(62 / 38 * 38px);
+  background-image: url(/assets/img/home-spacer@x2.png);
+}
+
+main .perspective::before {
+  content: "";
+  display: block;
+  width: calc(90 / 38 * 38px);
+  height: calc(108 / 38 * 38px);
+  background-image: url(/assets/img/home-telescope@x2.png);
+}
+main .perspective::after {
+  content: "";
+  display: block;
+  width: calc(31 / 38 * 38px);
+  height: calc(123 / 38 * 38px);
+  background-image: url(/assets/img/home-arrow-down-long@x2.png);
+}
+
+
+
+main .idealists {
+  margin-bottom: calc(62 / 38 * 38px); /* home-spacer@x2.png, height */
+}
+main .idealists::after {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+main .pragmatists {
+  margin-bottom: calc(63 / 38 * 38px); /* home-arrow-down@x2.png, height */
+}
+main .pragmatists::before {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  transform: translate(0, calc(10 / 38 * 38px));
+}
+main .pragmatists::after {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, calc(10 / 38 * 38px));
+}
+
+
+main .courage {
+  max-width: 12em;
+}
+
+main .perspective {
+  max-width: 13em;
+}
+
+
+/*@media (min-width: 70em) {
+  main .idealists {
+    margin-left: 0;
+    margin-right: calc(50vw - 16.81vmin);
+    text-align: right;
+  }
+  main .idealists::before {
+    margin-right: 0;
+    transform: translateX(50%);
+  }
+  main .idealists::after {
+    left: auto;
+    right: 0;
+  }
+  main .pragmatists {
+    margin-right: 0;
+    margin-left: calc(50vw - 16.81vmin);
+    text-align: left;
+  }
+  main .pragmatists::after {
+    left: 0;
+  }
+}*/
+
+
+
+/*
+
+<img src="/assets/img/home-sun@x2.png" width="117" height="180" alt="" />
+
+For the **idealists**.
+
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
+
+For the **pragmatists**.
+
+<img src="/assets/img/home-bars@x2.png" width="86" height="50" alt="" />
+
+<img src="/assets/img/home-arrow-down@x2.png" width="31" height="63" alt="" />
+
+For those **who look at the world** and say,
+
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
+
+> “That’s not **good** enough.”
+
+<img src="/assets/img/home-arrow-down@x2.png" width="31" height="63" alt="" />
+
+<img src="/assets/img/home-funnel@x2.png" width="171" height="139" alt="" />
+
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
+
+<img src="/assets/img/home-bolt@x2.png" width="81" height="115" alt="" />
+
+And for those who have the **courage** and **ability** to
+
+<img src="/assets/img/home-spacer@x2.png" width="2" height="62" alt="" />
+
+<img src="/assets/img/home-telescope@x2.png" width="90" height="108" alt="" />
+
+translate that **perspective** into **real\-world innovations**:
+
+<img src="/assets/img/home-arrow-down-long@x2.png" width="31" alt="" />
+
+[the **Goldhirsh Foundation**](/vision/)
+
+*/

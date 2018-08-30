@@ -1,6 +1,5 @@
 ---
 title: About
-layout: main
 stylesheets:
 - "/assets/css/about.css"
 - "/assets/css/date-list.css"

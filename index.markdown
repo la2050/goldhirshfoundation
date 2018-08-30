@@ -18,7 +18,9 @@ stylesheets:
     For those <strong>who look at the world</strong> and say,
   </span>
 
-  <q>That’s not <strong>good</strong> enough.</q>
+  <span class="good">
+    <q>That’s not <strong>good</strong> enough.</q>
+  </span>
 
 </p>
 
