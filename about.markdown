@@ -8,14 +8,14 @@ stylesheets:
 About Us
 ===========
 
-<img src="/assets/img/about_world@x2.png" width="314" height="219" alt="" />
+<div class="image image-world"><img src="/assets/img/about_world@x2.png" width="314" height="219" alt="" /></div>
 
 The world is brimming with **innovators** whose ideas can shape our region and **change the world**. At the Goldhirsh Foundation, we identify the **brightest emerging talent** and give them the tools to best support their success.
 
 We hold ourselves to the same **high standard** of the talent we seek to cultivate. We are a small team, passionate about our work in **social innovation**. We strive to manifest that beyond our investments—by creating events and mission-driven initiatives meant to bring together thinkers and doers across a **spectrum of disciplines**.
 
 The Goldhirsh Foundation has been making grants for almost a decade, but was re-launched in 2012 in Los Angeles, where the majority of our  
-grant-making occurs. In 2013, the Goldhirsh Foundation conducted its grantmaking via the **[2013 My LA2050 Grants Challenge](http://myla2050.maker.good.is/)**. After a successful grants challenge in 2013, the Goldhirsh Foundation conducted its grantmaking in 2014, 2015, and 2016 via the **[My LA2050 Grants Challenge](https://www.challenge.la2050.org)**, and 2018 via the **[My LA2050 Activation Challenge](https://activation.la2050.org/)**.
+grant-making occurs. In 2013, the Goldhirsh Foundation conducted its grantmaking via the [2013 My LA2050 Grants Challenge](http://myla2050.maker.good.is/). After a successful grants challenge in 2013, the Goldhirsh Foundation conducted its grantmaking in 2014, 2015, and 2016 via the [My LA2050 Grants Challenge](http://www.challenge.la2050.org), and 2018 via the [My LA2050 Activation Challenge](https://activation.la2050.org/).
 
 
 
@@ -78,6 +78,13 @@ May <strong>26</strong> 2018
 Nov <strong>20</strong> 2017
 : [Forget the GOP Tax Plan. Stockton Has a Real Solution for Poverty – Free Money](http://www.makechangeawards.com/)
 : Republicans in Congress certainly talk a good game about helping the poor and middle class, arguing, however unconvincingly, that their rewrite of the tax code will amount to more than just a giveaway to the rich. But all their shameless maneuvering is really doing is making once-crazy, semi-socialistic economic ideas, such as universal basic income, seem sane. [Read more](http://www.sacbee.com/opinion/opn-columns-blogs/erika-d-smith/article185683993.html)
+
+
+
+<details markdown="1">
+<summary>
+  <h3>More Press</h3>
+</summary>
 
 
 
@@ -676,7 +683,10 @@ Apr <strong>16</strong> 2013
 
 
 
-![](/assets/img/illustration.png)
+</details>
 
+
+
+<div class="image image-illustration"><img src="/assets/img/illustration.png" height="243" alt="" /></div>
 
 
