@@ -15,7 +15,7 @@ stylesheets:
   </span>
 
   <span class="look">
-    For those <strong>who look at the world</strong> and say,
+    For those <strong>who look at the<br />world</strong> and say,
   </span>
 
   <span class="good">
@@ -27,11 +27,13 @@ stylesheets:
 <p>
 
   <span class="courage">
-    And for those who have the <strong>courage</strong> and <strong>ability</strong> to
+    And for those who have<br />
+    the <strong>courage</strong> and <strong>ability</strong> to
   </span>
 
   <span class="perspective">
-    translate that <strong>perspective</strong> into <strong>real-world innovations</strong>:
+    translate that <strong>perspective</strong><br />
+    into <strong>real-world innovations</strong>:
   </span>
 
 </p>

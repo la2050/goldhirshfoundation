@@ -4,7 +4,8 @@ body {
 }
 
 main h1 {
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 9rem;
   color: inherit;
 }
 
@@ -216,7 +217,7 @@ main .look {
   border-width: calc(2 / 38 * 38px);
   border-color: black;
   position: relative;
-  max-width: 15em;
+  /*max-width: 12em;*/
   margin-top: calc(103 / 38 * 38px);
 }
 main .look::before {
@@ -324,12 +325,13 @@ main .courage::before {
 main .perspective::before {
   margin-top: calc(-108px + 62px + 20px);
   margin-top: 20px;
+  margin-bottom: 10px;
   content: "";
   display: block;
   height: calc(108 / 38 * 38px);
   background-image: url(/assets/img/home-spacer@x2.png),
                     url(/assets/img/home-telescope@x2.png);
-  background-position: bottom, bottom right;
+  background-position: bottom, bottom right 1em;
   background-size: calc(  2 / 38 * 38px) calc( 62 / 38 * 38px),
                    calc( 90 / 38 * 38px) calc(108 / 38 * 38px);
 }
@@ -346,7 +348,7 @@ main .perspective::before {
 }*/
 
 main h1 {
-  margin-top: calc(143 / 38 * 38px);
+  margin-top: calc(153 / 38 * 38px);
 }
 main h1 a::before {
   content: "";
@@ -389,15 +391,55 @@ main h1 a::before {
   transform: translate(-50%, calc(10 / 38 * 38px));
 }
 
-
+/*
 main .courage {
-  max-width: 12em;
+  max-width: 11.5em;
 }
 
 main .perspective {
-  max-width: 13em;
-}
+  max-width: 12.5em;
+}*/
 
+
+
+@media (max-width: 30em) {
+  main p span br {
+    display: none;
+  }
+}
+@media (min-width: 70em) {
+  main .idealists {
+    transform: translateX(calc(-50% - 10px));
+  }
+  main .idealists::before {
+    transform: translateX(calc(50% + 10px));
+    margin-right: 0;
+  }
+  main .pragmatists {
+    transform: translateX(calc(50% - 10px));
+  }
+  main .pragmatists::before {
+    transform: translateX(calc(-50% + 10px));
+    margin-left: 0;
+  }
+  main .courage {
+    margin-top: -2.25em;
+    transform: translateX(calc(-50% - 10px));
+    text-align: right;
+  }
+  main .courage::before {
+    transform: translate(-37.5%, 37.5%);
+    margin-left: 0;
+  }
+  main .perspective {
+    transform: translateX(calc(50% - 10px));
+    text-align: left;
+  }
+  main .perspective::before {
+    margin-top: -0.5em;
+    background-position: bottom left 10px, bottom right 1em;
+  }
+}
 
 
 
