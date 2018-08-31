@@ -61,6 +61,13 @@ hr {
   height: 1px;
 }
 
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 0 0 1em;
+  border-left: 0.3125em solid rgb(238, 238, 238);
+}
+
 header,
 footer {
   text-align: center;

@@ -67,11 +67,7 @@ dt {
   margin-top: 1.5rem;
   color: rgb(149, 149, 149);
   text-transform: uppercase;
-  text-align: right;
   font-weight: 600; /* @semibold */
-}
-dt + dd {
-  margin-top: 1.5rem;
 }
 
 
@@ -84,10 +80,14 @@ dt + dd {
   }
   dt {
     grid-column: 1/2;
+    text-align: right;
   }
   dd {
     grid-column: 2/3;
     align-self: center;
+  }
+  dt + dd {
+    margin-top: 1.5rem;
   }
 }
 

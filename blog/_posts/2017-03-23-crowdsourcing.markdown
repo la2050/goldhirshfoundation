@@ -59,11 +59,11 @@ In our second year we spent a full month honoring and promoting the submissions 
 
 * * *
 
-## CROWDSOURCING RESOURCE GUIDE FOR ENTREPRENEURS AND INVESTORS
+## Crowdsourcing Resource Guide For Entrepreneurs And Investors
 
 Whether you are looking for a way to expand your funding, generate awareness about innovative ideas, unleash potential within your constituent base or increase participation in your initiatives, tapping into the crowd may help. The guide below offers some resources on how to effectively crowdsource – for both entrepreneurs and investors.
 
-## Getting started
+### Getting started
 
 > [Chronicle of Philanthropy](http://philanthropy.com/section/Home/172): News and resources for nonprofit leaders, fundraisers, and grant makers.
 > 
@@ -73,7 +73,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > [Entrepreneurship.org](http://entrepreneurship.org/): Resources for entrepreneurs and investors.
 
-## Running a crowdsourced challenge
+### Running a crowdsourced challenge
 
 > [FluidReview](http://fluidreview.com/): A platform that manages crowdsourced challenges
 > 
@@ -95,7 +95,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > Common Pool: Crowdsourcing platform for social change projects
 
-## Launching the campaign for your crowdsourced idea
+### Launching the campaign for your crowdsourced idea
 
 > [Thunderclap](https://www.thunderclap.it/): Increase digital outreach by blasting timed messages and posts.
 > 
@@ -103,7 +103,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > [ManageFlitter](https://manageflitter.com/): Detailed analytics on your social media performance.
 
-## Promoting your idea
+### Promoting your idea
 
 > [Hootsuite](http://hootsuite.com/) and [Buffer](https://buffer.com/): Social media management platform that lets you manage all your accounts on one dashboard.
 > 
@@ -113,7 +113,7 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 > 
 > [Facebook ads](https://www.facebook.com/business/products/ads): Strong targeting tools to help get your idea and organization seen by a larger audience.
 
-## Sharing feedback and analytics with supporters and participants
+### Sharing feedback and analytics with supporters and participants
 
 > [Storify](https://storify.com/): Create stories and timelines using posts from Twitter, Facebook, and Instagram.
 > 
