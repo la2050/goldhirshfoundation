@@ -108,7 +108,7 @@ Bringing proven solutions from other regions to Los Angeles.
 
 
 
-<img src="/assets/img/initiatives_telescope@x2.png" width="90" height="108" alt="" />
+<div class="image"><img src="/assets/img/initiatives_telescope@x2.png" width="90" height="108" alt="" /></div>
 
 #### 1. Opportunity ####
 
@@ -135,7 +135,7 @@ Provide skills, programming, and support structures to improve educational and e
 
 
 
-<img src="/assets/img/initiatives_sunburst@x2.png" width="119" height="119" alt="" />
+<div class="image"><img src="/assets/img/initiatives_sunburst@x2.png" width="119" height="119" alt="" /></div>
 
 #### 2. Sustainability ####
 
@@ -159,7 +159,7 @@ Pursue environmental health through innovation at both the cause and response si
 
 
 
-<img src="/assets/img/initiatives_bolt@x2.png" width="81" height="115" alt="" />
+<div class="image"><img src="/assets/img/initiatives_bolt@x2.png" width="81" height="115" alt="" /></div>
 
 #### 3. Activation ####
 

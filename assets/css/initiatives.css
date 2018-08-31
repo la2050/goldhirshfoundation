@@ -264,3 +264,115 @@ main h3 {
   max-width: 30em;
 }
 
+
+
+
+@media (min-width: 60em) {
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+    grid-row-gap: 3em;
+    /*grid-auto-flow: row dense;*/
+  }
+
+  main h1 {
+    margin-bottom: 0;
+  }
+
+  main hr {
+    grid-column: 1/-1;
+    margin: 0;
+    margin-top: calc(3em - 1px);
+    margin-bottom: 3em;
+  }
+  main hr + h3 {
+    margin-top: 0;
+  }
+  main h3 {
+    margin-bottom: 0;
+  }
+
+  main p {
+    margin: 0;
+  }
+  main h2[id*="team"] ~ h3 + p {
+    margin-top: 3rem;
+    align-self: end;
+  }
+  main h2[id*="team"] ~ p {
+    margin: 0;
+  }
+  main h2 {
+    line-height: 1;
+  }
+  main h2,
+  main dl {
+    margin: 0;
+  }
+
+  main h1 {
+    grid-column: 1/-1;
+  }
+  main h1 + p,
+  main h1 + p + h3 {
+    margin: 0;
+    grid-column: 1/-1;
+    max-width: 33em;
+  }
+
+  main h1 + p {
+    grid-column: 1/4;
+    max-width: none;
+  }
+
+  main dl {
+    grid-column: span 3;
+  }
+  main h2,
+  main h3,
+  main h4 {
+    grid-column: 1/-1;
+  }
+  main h4 {
+    margin-top: 4.5rem;
+    grid-column: 1/2;
+    margin-bottom: 0;
+  }
+  main h4 + p {
+    margin-top: -1.5rem;
+    grid-column: 1/-1;
+    margin-bottom: -3rem;
+  }
+
+  main .image {
+    /*position: relative;*/
+    margin: 0;
+  }
+  main .image img {
+    /*order: 1;*/
+   /* position: absolute;*/
+  }
+  main .image + h4 {
+    margin-top: 0;
+  }
+  main .image + h4 + p {
+    max-width: 33em;
+    /*margin-top: -2.25rem;*/
+  }
+/*  main .image + h4,
+  main .image + h4 + p {
+    margin-left: 9rem;
+  }*/
+  main h4 {
+    grid-column: 1/-1;
+  }
+  main h4 + p {
+    grid-column: 1/-1;
+  }
+  main dl {
+    grid-column: 1/-1;
+  }
+
+}
+

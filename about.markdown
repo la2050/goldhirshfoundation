@@ -32,7 +32,7 @@ The Team
 
 **Tara Roth** is the president of the Goldhirsh Foundation. Prior to this role, Tara bridged the worlds of marketing, media, and philanthropy as the founding COO of [GOOD](http://GOOD.is) and a social strategy advisor. Tara began her career in marketing and business development for NBCinternet and Infoseek. She has worked with organizations such as [Participant Media](http://www.participantmedia.com/), [Fifteen Foundation](http://www.15foundation.org/), and the [New Schools Venture Fund](http://www.newschools.org/). As a senior advisor to [GOOD](http://GOOD.is), Tara helped launch the Pepsi Refresh Project. Tara received a bachelor’s degree at Cornell University, and has an MBA from Oxford University where she was awarded a Skoll scholarship in social entrepreneurship. Tara serves on the board of [Southern California Grantmakers](https://www.socalgrantmakers.org/), [USC's Sol Price School of Public Policy](http://priceschool.usc.edu/), and [UCLA's School of Arts and Architecture](https://www.arts.ucla.edu/) and on the regional advisory boards of [Opportunity Fund](http://www.opportunityfund.org/), [FUSE Corps](http://www.fusecorps.org/), and [826LA](http://826la.org/). She is a Senior Fellow at [USC's Brittingham Social Enterprise Lab](https://www.marshall.usc.edu/faculty-research/centers-excellence/brittingham-social-enterprise-lab).
 
-[Follow @taranellroth on Twitter](https://twitter.com/taranellroth)
+[@taranellroth on Twitter](https://twitter.com/taranellroth)
 
 
 
@@ -40,7 +40,7 @@ The Team
 
 **Claire Hoffman** is a director of the Goldhirsh Foundation. She [writes](http://www.clairehoffman.com/) for national magazines, covering culture, celebrity, religion, business, and whatever else seems interesting. She has a master’s degree in religion from the University of Chicago, and a master’s degree in journalism from Columbia University. Her daughters, Josie and Vivian, sit firmly at the center of her universe.
 
-[Follow @clairedhoffman on Twitter](https://twitter.com/clairedhoffman)
+[@clairedhoffman on Twitter](https://twitter.com/clairedhoffman)
 
 
 
@@ -48,7 +48,7 @@ The Team
 
 **Ben Goldhirsh** is the co-founder and CEO of GOOD, a global community of, by, and for pragmatic idealists working towards individual and collective progress. Outside of [GOOD](http://GOOD.is), Ben is the Chairman of The Goldhirsh Foundation, an organization built to help social innovators implement and scale solutions to critical societal challenges. A co-founder and board member of [City Year Los Angeles](http://www.cityyear.org/losangeles), Goldhirsh graduated from Brown University and currently resides in Los Angeles.
 
-[Follow @goldhirsh on Twitter](https://twitter.com/goldhirsh)
+[@goldhirsh on Twitter](https://twitter.com/goldhirsh)
 
 
 
@@ -276,7 +276,7 @@ Jun <strong>3</strong> 2016
 
 
 May <strong>26</strong> 2016
-: [50 influential people in LA tech you should follow on Twitter, Built in LA](http://www.makechangeawards.com/)
+: [50 influential people in LA tech you should on Twitter, Built in LA](http://www.makechangeawards.com/)
 : Goldhirsh Foundation president, Tara Roth, is featured in article listing leaders from LA’s tech and startup community. [Read more](http://www.builtinla.com/2016/05/25/los-angeles-tech-influencers-twitter)
 
 
