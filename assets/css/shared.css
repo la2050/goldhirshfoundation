@@ -30,7 +30,9 @@ body {
 
 @media (min-width: 70em) {
   body {
-    padding: 3em 16.18vmin;
+    padding-left: 16.18vmin;
+    padding-right: 16.18vmin;
+    padding-top: 10vmin;
   }
 }
 
@@ -246,7 +248,6 @@ main h1 {
   padding-bottom: 0.75em;
   padding-bottom: calc(0.75em - 1px);
   border-bottom: 1px solid rgb(177, 177, 177); /* @aluminum */
-  margin-bottom: 0;
 
   color: rgb(56, 175, 77); /* @green */
   display: table;
@@ -266,7 +267,7 @@ main h2 {
 }
 @media (min-width: 40em) {
   main h2 {
-    font-size: 1.625em;
+    font-size: 1.618em;
     font-size: 2.375em;
   }
 }
@@ -278,7 +279,7 @@ main h3 {
 }
 @media (min-width: 40em) {
   main h3 {
-    font-size: 1.625em;
+    font-size: 1.618em;
   }
 }
 main h3 a {
@@ -319,6 +320,31 @@ main h4 + p {
 }
 
 
+main {
+  padding-top: 3em;
+}
+main h1 {
+  margin-top: 0;
+}
+@media (min-width: 70em) {
+  main {
+    padding-top: 10vmin;
+  }
+}
+
+main h2 {
+  margin-bottom: 0.75rem;
+}
+main h2 + * {
+  margin-top: 1.5rem;
+}
+main h2 + h3 {
+  margin-top: 0;  
+}
+
+
+
+
 .phrase {
   display: inline-block;
 }
@@ -333,4 +359,18 @@ main h4 + p {
 }*/
 
 
+
+details {
+  margin-bottom: 6em;
+}
+summary {
+  text-align: center;
+  color: rgb(149, 149, 149);
+}
+summary h3 {
+  display: inline;
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0;
+}
 

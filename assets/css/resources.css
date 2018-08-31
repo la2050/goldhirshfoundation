@@ -1,6 +1,4 @@
 
-
-
 main p strong {
   color: rgb(56, 175, 77); /* @green */
 }
@@ -23,7 +21,7 @@ main p {
 @media (min-width: 40em) {
   dd,
   main p {
-    font-size: 1.625em;
+    font-size: 1.618em;
   }
 }
 
@@ -54,19 +52,7 @@ dt + dd {
   margin-top: 3rem;
 }
 
-details {
-  margin-bottom: 6em;
-}
-summary {
-  text-align: center;
-  color: rgb(149, 149, 149);
-}
-summary h3 {
-  display: inline;
-  font-size: inherit;
-  line-height: inherit;
-  margin: 0;
-}
+
 
 
 @media (min-width: 40em) {

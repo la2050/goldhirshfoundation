@@ -15,7 +15,7 @@ main .author {
 @media (min-width: 40em) {
 
   .disabled main h1 + p + p {
-    font-size: 1.625em;
+    font-size: 1.618em;
     font-weight: 300; /* @light */
     max-width: none;
     margin-top: 4.5rem;

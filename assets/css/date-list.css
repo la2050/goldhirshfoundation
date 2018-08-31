@@ -11,7 +11,7 @@ dd {
 dt {
   margin-top: 3rem;
   color: rgb(149, 149, 149);
-  font-size: 1.625em;
+  font-size: 1.618em;
   line-height: 1;
   text-transform: uppercase;
   text-align: center;
@@ -20,7 +20,7 @@ dt {
   padding-right: 1.5rem;
 }
 dd {
-  max-width: 40rem;
+  max-width: 40em;
 }
 dt strong {
   font-size: 2.375em;
@@ -31,10 +31,10 @@ dt + dd {
   margin-top: 3rem;
   margin-bottom: 0.75rem;
   align-self: end;
-  font-size: 1.25em;
+  /*font-size: 1.25em;*/
 }
 /*dt + dd {
-  font-size: 1.625em;
+  font-size: 1.618em;
 }*/
 
 dd + dd a {
@@ -45,16 +45,23 @@ dd + dd a {
 @media (min-width: 40em) {
   dl {
     display: grid;
-    grid-template-columns: max-content 1fr;
+    grid-template-columns: 1fr 2fr;
   }
   dt {
     grid-column: 1/2;
     grid-row: span 2;
     padding-left: 3rem;
     padding-right:3rem;
+    justify-self: end;
+    align-self: center;
   }
   dd {
     grid-column: 2/3;
   }
 }
+
+
+
+
+
 

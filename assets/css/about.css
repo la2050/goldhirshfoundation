@@ -1,7 +1,22 @@
 
-main p strong {
+/*
+main {
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+
+.disabled main p strong {
   color: rgb(56, 175, 77); /* @green */
 }
+
+/*main p strong {
+  font-weight: inherit;
+  font-style: italic;
+}*/
+
+
 main img[src*="world"] {
   width: 314px;
   height: auto;
@@ -14,8 +29,94 @@ main h2[id*="team"] ~ h3 {
 
 
 
+/*main h1 {
+  grid-column: 2/3;
+}*/
 
+
+main .image-world + p {
+  grid-column: 2/4;
+  max-width: 33em;
+}
+main .image-world + p + p {
+  grid-column: 2/3;
+}
+
+/*main .image-world ~ p {
+  font-size: 1.25em;
+}*/
+
+main .image-world + p {
+  font-size: 1.25em;
+  font-weight: 300; /* @light */
+  line-height: inherit;
+  margin-bottom: 1.5rem;
+}
+main .image-world + p strong {
+  font-weight: 600; /* @semibold */
+}
 @media (min-width: 40em) {
+  main .image-world + p {
+    font-size: 1.618em;
+  }
+}
+
+main h2[id*="team"] ~ h3 {
+  margin: 3rem 1.5rem 0 0;
+  grid-column: 1/2;
+  grid-row: span 2;
+  justify-self: end;
+}
+main h2[id*="team"] ~ h3 img {
+  display: block;
+  border-radius: 50%;
+}
+main h2[id*="team"] ~ p {
+  grid-column: 2/4;
+  max-width: 40em;
+}
+main h2[id*="team"] ~ h3 + p + p {
+  align-self: start;
+}
+main h2[id*="team"] ~ h3 + p + p a {
+  display: inline-block;
+  background-color: rgb(56, 175, 77); /* @green */
+  color: white;
+  border-radius: 0.25em;
+  padding: 0.375em  0.75em;
+  text-decoration: none;
+  font-weight: 600; /* @semibold */
+}
+/*main h2[id*="team"] ~ h3 + p + p a:hover,
+main h2[id*="team"] ~ h3 + p + p a:active,
+main h2[id*="team"] ~ h3 + p + p a:focus {
+  color: black;
+}*/
+
+main details,
+main dl {
+  grid-column: span 3;
+}
+main h2 + p {
+  font-size: 1.5em;
+  font-weight: 300; /* @light */
+  margin-bottom: 1.5rem;
+  margin: 0;
+}
+@media (min-width: 40em) {
+  main h2 + p {
+    font-size: 1.618em;
+  }
+}
+
+main .image-illustration {
+  margin-top: 3em;
+  grid-column: 1/-1;
+  justify-self: center;
+}
+
+
+@media (min-width: 4000em) {
 
   main p {
     font-size: 1.25em;
@@ -24,8 +125,8 @@ main h2[id*="team"] ~ h3 {
     margin-bottom: 1.5rem;
   }
   @media (min-width: 40em) {
-    main p {
-      font-size: 1.625em;
+    .disabled main p {
+      font-size: 1.618em;
     }
   }
 
@@ -81,7 +182,7 @@ main h2[id*="team"] ~ h3 {
   }
   @media (min-width: 40em) {
     main h2[id*="press"] ~ p {
-      font-size: 1.625em;
+      font-size: 1.618em;
     }
   }
 
@@ -90,7 +191,52 @@ main h2[id*="team"] ~ h3 {
 
 
 
-p {
-  max-width: 33em;
+
+
+@media (min-width: 60em) {
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+    grid-row-gap: 3em;
+    /*grid-auto-flow: row dense;*/
+  }
+
+  main h1 {
+    margin-bottom: 0;
+  }
+
+  main hr {
+    grid-column: 1/-1;
+    margin: 0;
+    margin-top: calc(3em - 1px);
+    margin-bottom: 3em;
+  }
+  .image-world {
+    justify-self: center;
+    grid-column: 1/2;
+    grid-row: span 2;
+    margin-right: 1.5em;
+  }
+
+  main p {
+    margin: 0;
+  }
+  main h2[id*="team"] ~ h3 + p {
+    margin-top: 3rem;
+    align-self: end;
+  }
+  main h2[id*="team"] ~ p {
+    margin: 0;
+  }
+  main h2 {
+    line-height: 1;
+  }
+  main h2,
+  main dl {
+    margin: 0;
+  }
 }
+
+
 
