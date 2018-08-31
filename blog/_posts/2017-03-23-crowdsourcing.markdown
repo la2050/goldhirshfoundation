@@ -25,9 +25,9 @@ Crowdsourcing is an effective tool to help realize an organization's goals, whet
 
 ## Benefits for funders:
 
-> **Exposure to new organizations, ideas, and funding. **Crowdsourcing brings funders closer to real problems and solutions. Some applicants that didn't get funding from LA2050 went on to receive more than $1 million in follow-on funding from the Annenberg Foundation and the Roy and Patricia Disney Foundation.
+> **Exposure to new organizations, ideas, and funding.** Crowdsourcing brings funders closer to real problems and solutions. Some applicants that didn't get funding from LA2050 went on to receive more than $1 million in follow-on funding from the Annenberg Foundation and the Roy and Patricia Disney Foundation.
 > 
-> **Community engagement. **Crowdsourcing enabled us to engage tens of thousands of people each year, putting private dollars to public use. As a result, we now have a group of Angelenos who have opted to receive information about the organizations they supported, and who care about a better future for LA.
+> **Community engagement.** Crowdsourcing enabled us to engage tens of thousands of people each year, putting private dollars to public use. As a result, we now have a group of Angelenos who have opted to receive information about the organizations they supported, and who care about a better future for LA.
 > 
 > **Emerging trends.** By analyzing the data that emerged from the My LA2050 Grants Challenge, we identified promising trends that could create significant change – trends that we also see in the private and civic sector, like sharing economy solutions and the re-purposing of public space. By sharing this data in our [reports](https://www.la2050.org/reports) with other funders and leaders, we identified approaches that could help other organizations progress.
 
