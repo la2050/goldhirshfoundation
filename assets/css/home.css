@@ -53,7 +53,7 @@ main a strong {
 main a {
   position: relative;
 }
-main a::before {
+main a strong::before {
   content: " ";
   display: block;
   background-color: rgb(56, 175, 77); /* @green */
@@ -139,13 +139,20 @@ main p + p {
 }
 
 main p span {
-/*padding-bottom: calc(0 / 38 * 38px);
-  border-bottom: calc(2 / 38 * 38px) solid;*/
+  padding-bottom: calc(0 / 38 * 38px);
+  border-bottom: calc(2 / 38 * 38px) solid;
+/*  padding-top: calc(0 / 38 * 38px);
+  border-top: calc(2 / 38 * 38px) solid blue;*/
   display: table;
   position: relative;
   margin-left: auto;
   margin-right: auto;
 }
+main p .good {
+  border-bottom-width: 0;
+  padding-bottom: 0;
+}
+main a::before,
 main p span::before,
 main p span::after {
   margin-left: auto;
@@ -160,9 +167,10 @@ main .idealists::before {
   display: block;
   width: calc(117 / 38 * 38px);
   height: calc(180 / 38 * 38px);
-  height: calc(190 / 38 * 38px);
+  height: calc(200 / 38 * 38px);
   background-image: url(/assets/img/home-sun@x2.png);
 }
+/*
 main .idealists::after {
   content: "";
   display: block;
@@ -171,13 +179,27 @@ main .idealists::after {
   background-image: url(/assets/img/home-spacer@x2.png);
 }
 
+*/
 main .pragmatists::before {
+  content: "";
+  display: block;
+  width: calc(2 / 38 * 38px);
+  height: calc(62 / 38 * 38px);
+  background-image: url(/assets/img/home-spacer@x2.png);
+  margin-top: 20px;
+}
+main .pragmatists::after {
   content: "";
   display: block;
   width: calc(86 / 38 * 38px);
   height: calc(50 / 38 * 38px);
   background-image: url(/assets/img/home-bars@x2.png);
+  position: absolute;
+  right: 0;
+  top: 100%;
+  top: calc(100% + 10px);
 }
+/*
 main .pragmatists::after {
   content: "";
   display: block;
@@ -185,9 +207,9 @@ main .pragmatists::after {
   height: calc(63 / 38 * 38px);
   background-image: url(/assets/img/home-arrow-down@x2.png);
 }
+*/
 
 main .look {
-  margin-top: 2.25em;
   padding: 0.375em;
   background-image: none;
   border: solid;
@@ -195,8 +217,20 @@ main .look {
   border-color: black;
   position: relative;
   max-width: 15em;
+  margin-top: calc(103 / 38 * 38px);
 }
-main .look:before {
+main .look::before {
+  content: "";
+  display: block;
+  width: calc(31 / 38 * 38px);
+  height: calc(63 / 38 * 38px);
+  background-image: url(/assets/img/home-arrow-down@x2.png);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translate(-50%, calc(-20 / 38 * 38px));
+}
+main .look strong:before {
   content: " ";
   display: block;
   background-color: rgb(56, 175, 77); /* @green */
@@ -207,7 +241,7 @@ main .look:before {
   margin-left: calc(-18 / 38 * 38px);
   top: calc(-3 / 38 * 38px);
 }
-main .look:after {
+main .look strong:after {
   content: " ";
   display: block;
   background-color: rgb(56, 175, 77); /* @green */
@@ -225,6 +259,42 @@ main .good::before {
   width: calc(2 / 38 * 38px);
   height: calc(62 / 38 * 38px);
   background-image: url(/assets/img/home-spacer@x2.png);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+main .good {
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 20px;
+}
+
+/*
+main .good q::before {
+  content: "“";
+  transform: translateX(-100%);
+}
+main .good q::after {
+  content: "”";
+  transform: translateX(100%);
+}
+*/
+
+@media (min-width: 40em) {
+  main .good::before {
+    transform: translate(0.325em, 0);
+  }
+  main .good {
+    transform: translate(-0.325em, 0);
+  }
+}
+
+main .good strong {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  width: 3.375em;
+  line-height: 3.375em;
 }
 
 main p:first-child::after {
@@ -251,51 +321,68 @@ main .courage::before {
   height: calc(115 / 38 * 38px);
   background-image: url(/assets/img/home-bolt@x2.png);
 }
-main .courage::after {
+main .perspective::before {
+  margin-top: calc(-108px + 62px + 20px);
+  margin-top: 20px;
   content: "";
   display: block;
-  width: calc(2 / 38 * 38px);
-  height: calc(62 / 38 * 38px);
-  background-image: url(/assets/img/home-spacer@x2.png);
+  height: calc(108 / 38 * 38px);
+  background-image: url(/assets/img/home-spacer@x2.png),
+                    url(/assets/img/home-telescope@x2.png);
+  background-position: bottom, bottom right;
+  background-size: calc(  2 / 38 * 38px) calc( 62 / 38 * 38px),
+                   calc( 90 / 38 * 38px) calc(108 / 38 * 38px);
 }
 
-main .perspective::before {
+/*main .perspective::after {
   content: "";
   display: block;
   width: calc(90 / 38 * 38px);
   height: calc(108 / 38 * 38px);
   background-image: url(/assets/img/home-telescope@x2.png);
+  position: absolute;
+  top: 0;
+  right: 0;
+}*/
+
+main h1 {
+  margin-top: calc(143 / 38 * 38px);
 }
-main .perspective::after {
+main h1 a::before {
   content: "";
   display: block;
   width: calc(31 / 38 * 38px);
   height: calc(123 / 38 * 38px);
   background-image: url(/assets/img/home-arrow-down-long@x2.png);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translate(-50%, calc(-20 / 38 * 38px));
 }
 
 
 
-main .idealists {
+.disabled main .idealists {
   margin-bottom: calc(62 / 38 * 38px); /* home-spacer@x2.png, height */
+  margin-bottom: calc(102 / 38 * 38px); /* home-spacer@x2.png, height */
 }
-main .idealists::after {
+.disabled main .idealists::after {
   position: absolute;
   top: 100%;
   left: 50%;
-  transform: translate(-50%, 0);
+  transform: translate(-50%, calc(20 / 38 * 38px));
 }
 
-main .pragmatists {
+.disabled main .pragmatists {
   margin-bottom: calc(63 / 38 * 38px); /* home-arrow-down@x2.png, height */
 }
-main .pragmatists::before {
+.disabled main .pragmatists::before {
   position: absolute;
   right: 0;
   top: 100%;
   transform: translate(0, calc(10 / 38 * 38px));
 }
-main .pragmatists::after {
+.disabled main .pragmatists::after {
   position: absolute;
   top: 100%;
   left: 50%;
@@ -310,6 +397,8 @@ main .courage {
 main .perspective {
   max-width: 13em;
 }
+
+
 
 
 /*@media (min-width: 70em) {
