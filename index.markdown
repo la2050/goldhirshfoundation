@@ -15,7 +15,8 @@ stylesheets:
   </span>
 
   <span class="look">
-    For those <strong>who look at the<br />world</strong> and say,
+    For those <strong>who look at the<br />
+    world</strong> and say,
   </span>
 
   <span class="good">
