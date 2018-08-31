@@ -1,28 +1,58 @@
 
 
-/*main {
-  max-width: 60em;
+main {
+  max-width: 40em;
   margin-left: auto;
   margin-right: auto;
 }
-*/
 
+
+main .author {
+  font-size: 1em;
+}
 
 
 @media (min-width: 40em) {
 
-  main p {
-    font-size: 1.25em;
+  .disabled main h1 + p + p {
+    font-size: 1.625em;
     font-weight: 300; /* @light */
-    line-height: inherit;
-    margin-bottom: 1.5rem;
-    max-width: 33em;
+    max-width: none;
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
   }
-
+  .disabled main h1 + p + p strong {
+    font-weight: 400;
+  }
+  main p,
+  main li {
+    font-size: 1.25em;
+    line-height: inherit;
+  }
+  main p {
+    margin-bottom: 1.5rem;
+  }
+  main blockquote,
+  main ul,
+  main p,
+  main h3,
+  main h4 {
+    max-width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  main h1 + p + h2 {
+    max-width: none;
+  }
+  main h2 {
+    max-width: 65rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 
 main h3 {
-  margin-top: 6rem;
+  margin-top: 3rem;
 }
 

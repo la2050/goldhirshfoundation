@@ -22,9 +22,14 @@ body {
   color: rgb(31, 35, 32);
 }
 
-@media (min-width: 70em) {
+@media (min-width: 40em) {
   body {
     padding: 3em;
+  }
+}
+
+@media (min-width: 70em) {
+  body {
     padding: 3em 16.18vmin;
   }
 }
@@ -138,14 +143,18 @@ footer {
   background-color: rgb(240, 240, 241);
   color: rgb(31, 35, 32);
   color: rgba(31, 35, 32, 0.8);
-  padding: 1.5em;
+  padding: 4.5em 1.5em 3em;
   margin: 4.5em -1.5em -1.5em;
+}
+@media (min-width: 40em) {
+  footer {
+    padding: 3em;
+    margin: 9em -3em -3em;
+  }
 }
 @media (min-width: 70em) {
   footer {
-    padding: 3em;
     padding: 6em 16.18vmin;
-    margin: 9em -3em -3em;
     margin: 9em -16.18vmin -3em;
   }
 }
@@ -186,7 +195,7 @@ header h2 a {
 
 
 
-@media (min-width: 70em) {
+@media (min-width: 85em) {
   header,
   footer {
     text-align: left;
