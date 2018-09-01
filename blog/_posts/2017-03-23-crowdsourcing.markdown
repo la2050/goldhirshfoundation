@@ -25,23 +25,31 @@ Crowdsourcing is an effective tool to help realize an organization's goals, whet
 
 ## Benefits for funders:
 
-> **Exposure to new organizations, ideas, and funding.** Crowdsourcing brings funders closer to real problems and solutions. Some applicants that didn't get funding from LA2050 went on to receive more than $1 million in follow-on funding from the Annenberg Foundation and the Roy and Patricia Disney Foundation.
-> 
-> **Community engagement.** Crowdsourcing enabled us to engage tens of thousands of people each year, putting private dollars to public use. As a result, we now have a group of Angelenos who have opted to receive information about the organizations they supported, and who care about a better future for LA.
-> 
-> **Emerging trends.** By analyzing the data that emerged from the My LA2050 Grants Challenge, we identified promising trends that could create significant change – trends that we also see in the private and civic sector, like sharing economy solutions and the re-purposing of public space. By sharing this data in our [reports](https://www.la2050.org/reports) with other funders and leaders, we identified approaches that could help other organizations progress.
+Exposure to new organizations, ideas, and funding
+: Crowdsourcing brings funders closer to real problems and solutions. Some applicants that didn't get funding from LA2050 went on to receive more than $1 million in follow-on funding from the Annenberg Foundation and the Roy and Patricia Disney Foundation.
+
+Community engagement
+: Crowdsourcing enabled us to engage tens of thousands of people each year, putting private dollars to public use. As a result, we now have a group of Angelenos who have opted to receive information about the organizations they supported, and who care about a better future for LA.
+
+Emerging trends
+: By analyzing the data that emerged from the My LA2050 Grants Challenge, we identified promising trends that could create significant change – trends that we also see in the private and civic sector, like sharing economy solutions and the re-purposing of public space. By sharing this data in our [reports](https://www.la2050.org/reports) with other funders and leaders, we identified approaches that could help other organizations progress.
 
 ## Benefits for entrepreneurs:
 
-> **Earned media.** Projects that compete in a crowdsourced challenge can receive exposure to new audiences via earned media. The My LA2050 Grants Challenge garnered significant radio, print, and digital media coverage about the ideas we were showcasing – both challenge winners and those that did not win.
-> 
-> **Marketing inspiration.** Participation in a crowdsourced challenge forces you to crystallize your idea or project, and pushes you to create videos, photos, tweets, and pithy messaging to promote your project.
-> 
-> **Landscape knowledge.** By showcasing a range of projects, crowdsourcing can help organizations better differentiate themselves from their competitors. Simultaneously, this fosters collaboration between organizations that have similar visions and theories of change or that work along a similar continuum.
-> 
-> **Exposure to other funders, investors and partners.** As mentioned, even organizations that didn't win a My LA2050 grant reported more than $1 million in follow-on funding from other sources, based directly on exposure generated through the challenge.
-> 
-> **Engaged feedback.** Crowdsourcing helps establish a dynamic relationship between organizations and their supporters, including immediate feedback on projects.
+Earned media
+: Projects that compete in a crowdsourced challenge can receive exposure to new audiences via earned media. The My LA2050 Grants Challenge garnered significant radio, print, and digital media coverage about the ideas we were showcasing – both challenge winners and those that did not win.
+
+Marketing inspiration
+: Participation in a crowdsourced challenge forces you to crystallize your idea or project, and pushes you to create videos, photos, tweets, and pithy messaging to promote your project.
+
+Landscape knowledge
+: By showcasing a range of projects, crowdsourcing can help organizations better differentiate themselves from their competitors. Simultaneously, this fosters collaboration between organizations that have similar visions and theories of change or that work along a similar continuum.
+
+Exposure to other funders, investors and partners
+: As mentioned, even organizations that didn't win a My LA2050 grant reported more than $1 million in follow-on funding from other sources, based directly on exposure generated through the challenge.
+
+Engaged feedback
+: Crowdsourcing helps establish a dynamic relationship between organizations and their supporters, including immediate feedback on projects.
 
 ## Crowdsourcing also raises legitimate concerns that need to be addressed:
 
@@ -65,56 +73,79 @@ Whether you are looking for a way to expand your funding, generate awareness abo
 
 ### Getting started
 
-> [Chronicle of Philanthropy](http://philanthropy.com/section/Home/172): News and resources for nonprofit leaders, fundraisers, and grant makers.
-> 
-> [Up! Global (formerly Start-up America)](http://www.up.co/): Fosters entrepreneurship, grassroots leadership, and strong communities.
-> 
-> [Foundation Center](http://foundationcenter.org/) (and its [Philanthropy News Digest Bulletin](http://www.philanthropynewsdigest.org/)): The most comprehensive database of U.S. grantmakers.
-> 
-> [Entrepreneurship.org](http://entrepreneurship.org/): Resources for entrepreneurs and investors.
+[Chronicle of Philanthropy](http://philanthropy.com/section/Home/172)
+: News and resources for nonprofit leaders, fundraisers, and grant makers.
+
+[Up! Global (formerly Start-up America)](http://www.up.co/)
+: Fosters entrepreneurship, grassroots leadership, and strong communities.
+
+[Foundation Center](http://foundationcenter.org/) (and its [Philanthropy News Digest Bulletin](http://www.philanthropynewsdigest.org/))
+: The most comprehensive database of U.S. grantmakers.
+
+[Entrepreneurship.org](http://entrepreneurship.org/)
+: Resources for entrepreneurs and investors.
 
 ### Running a crowdsourced challenge
 
-> [FluidReview](http://fluidreview.com/): A platform that manages crowdsourced challenges
-> 
-> [OpenIDEO](https://openideo.com/): A platform to co-design solutions to challenges, designed by IDEO.
-> 
-> [Crowdrise](https://www.crowdrise.com/): Crowdsourcing and crowdfundraising platforms.
-> 
-> [Ioby](https://www.ioby.org/): A platform to crowdsource and fund ideas right in your backyard
-> 
-> [Hoodstarter](https://www.hoodstarter.com/): A crowdsourcing platform for open spaces that could transform communities
-> 
-> [Citizinvestor](http://www.citizinvestor.com/): A crowdfunding and civic engagement platform for local government projects
-> 
-> [Crowdfunder](https://www.crowdfunder.com/): Crowdfunding platform that democratizes early stage investment online
-> 
-> [InnoCentive](http://www.innocentive.com/): Crowdsourcing platform for tackling large problems or encouraging innovation
-> 
-> [StartSomeGood](https://startsomegood.com/): connects social entrepreneurs with financial and intellectual capital
-> 
-> Common Pool: Crowdsourcing platform for social change projects
+[FluidReview](http://fluidreview.com/)
+: A platform that manages crowdsourced challenges
+
+[OpenIDEO](https://openideo.com/)
+: A platform to co-design solutions to challenges, designed by IDEO.
+
+[Crowdrise](https://www.crowdrise.com/)
+: Crowdsourcing and crowdfundraising platforms.
+
+[Ioby](https://www.ioby.org/)
+: A platform to crowdsource and fund ideas right in your backyard
+
+[Hoodstarter](https://www.hoodstarter.com/)
+: A crowdsourcing platform for open spaces that could transform communities
+
+[Citizinvestor](http://www.citizinvestor.com/)
+: A crowdfunding and civic engagement platform for local government projects
+
+[Crowdfunder](https://www.crowdfunder.com/)
+: Crowdfunding platform that democratizes early stage investment online
+
+[InnoCentive](http://www.innocentive.com/)
+: Crowdsourcing platform for tackling large problems or encouraging innovation
+
+[StartSomeGood](https://startsomegood.com/)
+: connects social entrepreneurs with financial and intellectual capital
+
+Common Pool
+: Crowdsourcing platform for social change projects
 
 ### Launching the campaign for your crowdsourced idea
 
-> [Thunderclap](https://www.thunderclap.it/): Increase digital outreach by blasting timed messages and posts.
-> 
-> [Zapier](https://zapier.com/): Connect your web apps to automate tedious tasks and transfer information between apps.
-> 
-> [ManageFlitter](https://manageflitter.com/): Detailed analytics on your social media performance.
+[Thunderclap](https://www.thunderclap.it/)
+: Increase digital outreach by blasting timed messages and posts.
+
+[Zapier](https://zapier.com/)
+: Connect your web apps to automate tedious tasks and transfer information between apps.
+
+[ManageFlitter](https://manageflitter.com/)
+: Detailed analytics on your social media performance.
 
 ### Promoting your idea
 
-> [Hootsuite](http://hootsuite.com/) and [Buffer](https://buffer.com/): Social media management platform that lets you manage all your accounts on one dashboard.
-> 
-> [Snip.ly](http://snip.ly/): Embed messages on pages and articles that you share to drive more traffic to your project.
-> 
-> [Adobe Spark](https://spark.adobe.com/): Easily create graphics, web stories, and animated videos to help promote your idea.
-> 
-> [Facebook ads](https://www.facebook.com/business/products/ads): Strong targeting tools to help get your idea and organization seen by a larger audience.
+[Hootsuite](http://hootsuite.com/) and [Buffer](https://buffer.com/)
+: Social media management platform that lets you manage all your accounts on one dashboard.
+
+[Snip.ly](http://snip.ly/)
+: Embed messages on pages and articles that you share to drive more traffic to your project.
+
+[Adobe Spark](https://spark.adobe.com/)
+: Easily create graphics, web stories, and animated videos to help promote your idea.
+
+[Facebook ads](https://www.facebook.com/business/products/ads)
+: Strong targeting tools to help get your idea and organization seen by a larger audience.
 
 ### Sharing feedback and analytics with supporters and participants
 
-> [Storify](https://storify.com/): Create stories and timelines using posts from Twitter, Facebook, and Instagram.
-> 
-> [Mention](https://en.mention.com/): Track mentions of your submission or project.
+[Storify](https://storify.com/)
+: Create stories and timelines using posts from Twitter, Facebook, and Instagram.
+
+[Mention](https://en.mention.com/)
+: Track mentions of your submission or project.

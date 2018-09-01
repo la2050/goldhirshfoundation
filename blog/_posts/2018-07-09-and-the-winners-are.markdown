@@ -20,7 +20,7 @@ The winning proposals reflect conversations occurring at both national and local
 
 Additionally, the Goldhirsh Foundation is delighted to partner with the Annenberg Foundation for the fourth year in the My LA2050 Grants Challenge. The Annenberg Foundation will provide each winner with an additional $25,000 grant to support the organization’s diversity, equity, and inclusion efforts.
 
-The winners of the My LA2050 Activation Challenge are:
+## The winners of the My LA2050 Activation Challenge are: ##
 
 ### LEARN
 

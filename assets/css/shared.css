@@ -72,12 +72,12 @@ hr {
   height: 1px;
 }
 
-@media (min-width: 60em) {
+/*@media (min-width: 60em) {
   hr {
     margin-top: 15vh !important;
     margin-bottom: 15vh !important;
   }
-}
+}*/
 
 blockquote {
   margin-left: 0;

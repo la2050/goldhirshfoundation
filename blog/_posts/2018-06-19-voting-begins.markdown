@@ -17,6 +17,7 @@ Starting today, Angelenos can cast their vote to determine who will win the 2018
 
 Five finalists have been selected in each [LA2050 goal category](https://activation.la2050.org/about/#goals "LA2050 goal category") that will engage Angelenos to make a specific, tangible impact by 2020. The Goldhirsh Foundation's finalists for the My LA2050 Activation Challenge are:
 
+
 ### LEARN ###
 
 * [Big Brothers Big Sisters LA](https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/)

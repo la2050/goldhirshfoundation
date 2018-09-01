@@ -15,7 +15,7 @@ excerpt: Since its inception, the Goldhirsh Foundation has had a strong track
 
 To that end, **we work across a variety of programs to address economic mobility**. We were an early investor in Kiva to explore micro lending to low-income entrepreneurs on a digital platform and with the Network for Teaching Entrepreneurship to build start-up skills in youth from under-resourced communities. We have provided loans to low-income small business owners via our work with Opportunity Fund and Leaders for Urban Renewal Network (LURN). We supported fellowships and research about access to capital and inclusive entrepreneurship via the White House Office of Science and Technology Policy. And as a continuation of our long-standing relationship with LIFT, we are collaborating with them to pilot conditional cash transfers in Los Angeles.
 
-**"Through these investments, we understand that communities are trying to help themselves, but that something is still not working."**
+<q>Through these investments, we understand that communities are trying to help themselves, but that something is still not working.</q>
 
 In fact, some of the statistics around economic immobility and poverty are staggering:
 
@@ -38,5 +38,12 @@ Further compounding these dire numbers are trends in technology and automation t
 Aligned with our efforts to test bold solutions for economic mobility, the Goldhirsh Foundation is working with the Economic Security Project and **matching up to $250,000 in donations to the [Stockton Economic Empowerment Demonstration (SEED)](https://www.stocktondemonstration.org/) to inspire and galvanize others to join them in supporting the exploration of a guaranteed income**. Under the leadership of Stockton’s own Mayor Michael Tubbs, Stockton will pioneer a multi-year demonstration project to test and track a guaranteed income in real time.
 
 We know we still have a lot to learn before we can declare basic income as a solution for poverty alleviation and a vehicle for economic mobility. We recognize there are gaps in research and a healthy skepticism about the topic. But, we believe that the only way to address some of the dire statistics confronting us as a nation are to test and learn by investing in research and pilot programs that may show promise. We cannot think of a better living laboratory than SEED for exploring basic income. We are committed to supporting and learning from efforts such as SEED with the end goal of meaningfully improving lives.
+
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
 
 _Join the Goldhirsh Foundation in funding the first ever municipal led basic income demonstration in the country _[_via CrowdRise._](https://www.crowdrise.com/stockton-economic-empowerment-demonstration)
