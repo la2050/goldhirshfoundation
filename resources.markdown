@@ -346,8 +346,10 @@ Publications & Tools
 --------------------
 
 
+<div class="tools" markdown="1">
 
-![](/assets/files/1432/capitol-dev.png)
+
+<div class="image"><img src="/assets/files/1432/capitol-dev.png" width="71" height="35" alt="" /></div>
 
 #### 1. Publications around capital development
 
@@ -363,7 +365,7 @@ From capital development to crowdsourcing technologies, we are always learning. 
 
 
 
-![](/assets/files/1433/currently-reading.png)
+<div class="image"><img src="/assets/files/1433/currently-reading.png" width="39" alt="" /></div>
 
 #### 2. Currently Reading
 
@@ -380,7 +382,7 @@ Our team is always learning and sharing. Here is a list of books we are currentl
 
 
 
-![](/assets/files/1434/toolkit.png)
+<div class="image"><img src="/assets/files/1434/toolkit.png" alt="" /></div>
 
 #### 3. Innovative tools we love
 
@@ -394,4 +396,9 @@ We are constantly learning about new and innovative tools to help nonprofits and
 * [OpenIDEO](https://openideo.com)
 * [IOBY](https://www.ioby.org)
 * [Data USA: Los Angeles](http://datausa.io/profile/geo/los-angeles-county-ca)
+
+
+</div>
+
+
 

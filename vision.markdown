@@ -22,7 +22,7 @@ We **identify gaps** then support those on the first line of response. If holes 
 
 Across it all, we **build networks** to ensure that the **strongest ideas** have the best support systems.
 
-[See what we’ve been working on](/initiatives/)
+[See what we’ve been working on →](/initiatives/)
 
 
 

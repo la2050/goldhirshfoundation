@@ -40,6 +40,42 @@ main h2[id*="we-exist"] {
 
 
 
+main h2[id*="we-exist"] + p + p + p a {
+  display: inline-block;
+  background-color: rgb(56, 175, 77); /* @green */
+  color: white;
+  border-radius: 0.25em;
+  padding: 0.375em  0.75em;
+  text-decoration: none;
+  font-weight: 600; /* @semibold */
+  font-size: 0.875em;
+}
+
+
+main hr + h2 {
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  color: inherit;
+}
+main hr + h2 + h3 {
+  font-size: 1.25em;
+  font-size: 1.5em;
+  line-height: inherit;
+  font-weight: 300; /* @light */
+
+  color: rgb(56, 175, 77); /* @green */
+}
+@media (min-width: 40em) {
+  main hr + h2 + h3 {
+    font-size: 1.618em;
+    font-size: 2.375em;
+  }
+}
+
+
+
+
 @media (min-width: 60em) {
   main hr {
     grid-column: 1/-1;
@@ -111,16 +147,6 @@ main h2[id*="we-exist"] {
   main h2[id*="we-exist"] + p + p + p {
     grid-column: 2/-1;
     max-width: none;
-  }
-  main h2[id*="we-exist"] + p + p + p a {
-    display: inline-block;
-    background-color: rgb(56, 175, 77); /* @green */
-    color: white;
-    border-radius: 0.25em;
-    padding: 0.375em  0.75em;
-    text-decoration: none;
-    font-weight: 600; /* @semibold */
-    font-size: 0.875em;
   }
   main h3,
   main h4,

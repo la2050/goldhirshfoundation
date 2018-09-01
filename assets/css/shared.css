@@ -50,6 +50,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.75em;
 }
 
+td {
+  max-width: 33em;
+}
+
 a {
   color: rgb(56, 175, 77); /* @green */
   transition: color 0.2s;
