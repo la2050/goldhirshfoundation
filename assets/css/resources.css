@@ -11,7 +11,6 @@ td:last-child {
 
 
 
-dd,
 main p {
   font-size: 1.25em;
   font-weight: 300; /* @light */
@@ -19,12 +18,16 @@ main p {
   margin-bottom: 1.5rem;
 }
 @media (min-width: 40em) {
-  dd,
   main p {
     font-size: 1.618em;
   }
 }
 
+
+main dd {
+  font-size: 1.25em;
+  line-height: inherit;
+}
 
 
 dt,
@@ -54,15 +57,38 @@ dt + dd {
 
 
 
+dt {
+  margin-top: 3rem;
+  color: rgb(149, 149, 149);
+  font-size: 1.618em;
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600; /* @semibold */
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+dd {
+  max-width: 40em;
+}
+dt strong {
+  font-size: 2.375em;
+  display: block;
+  font-weight: inherit;
+}
+
+
 
 @media (min-width: 40em) {
   dl {
     display: grid;
-    grid-template-columns: max-content 1fr;
+    grid-template-columns: 1fr 2fr;
     grid-column-gap: 1.5em;
   }
   dt {
     grid-column: 1/2;
+    justify-self: end;
+    padding-right: 1.5rem;
   }
   dd {
     grid-column: 2/3;
