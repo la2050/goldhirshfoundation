@@ -11,13 +11,13 @@ excerpt: Starting today, Angelenos can cast their vote to determine who will win
   from LA2050 in support of their efforts.
 ---
 
-## The Goldhirsh Foundation seeks public input to determine winners of the My LA2050 Activation Challenge. Public voting begins today.
+The Goldhirsh Foundation seeks public input to determine winners of the My LA2050 Activation Challenge. Public voting begins today.
 
 Starting today, Angelenos can cast their vote to determine who will win the 2018 [My LA2050 Activation Challenge](https://activation.la2050.org/ "My LA2050 Activation Challenge"), an open call for ideas that will activate 100,000 Angelenos to make LA the best place to learn, create, play, connect, and live. A total of $1,000,000 will be awarded among five organizations to carry out their proposal. Each organization will receive a total of $200,000 (over two years) and [partnership from LA2050](https://activation.la2050.org/about/#la2050-partnership "partnership from LA2050") in support of their efforts.
 
 Five finalists have been selected in each [LA2050 goal category](https://activation.la2050.org/about/#goals "LA2050 goal category") that will engage Angelenos to make a specific, tangible impact by 2020. The Goldhirsh Foundation's finalists for the My LA2050 Activation Challenge are:
 
-### LEARN
+### LEARN ###
 
 * [Big Brothers Big Sisters LA](https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/)
 * [Center for Innovation in STEM Education (CISE)](https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/)
@@ -26,7 +26,7 @@ Five finalists have been selected in each [LA2050 goal category](https://activa
 * [Harlem Lacrosse](https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/)
     
 
-### CREATE
+### CREATE ###
 
 * [Brioxy](https://activation.la2050.org/create/brioxy/)
 * [LA Street Vendor Campaign](https://activation.la2050.org/create/east-la-community-corporation-elacc/)
@@ -35,7 +35,7 @@ Five finalists have been selected in each [LA2050 goal category](https://activa
 * [National Association of Latino Independent Producers (NALIP)](https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/)
     
 
-### PLAY
+### PLAY ###
 
 * [Brady Center to Prevent Gun Violence](https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/)
 * [Dodgers Foundation](https://activation.la2050.org/play/los-angeles-dodgers-foundation/)
@@ -44,7 +44,7 @@ Five finalists have been selected in each [LA2050 goal category](https://activa
 * [Trust for Public Land](https://activation.la2050.org/play/the-trust-for-public-land/)
     
 
-### CONNECT
+### CONNECT ###
 
 * [CASA/LA](https://activation.la2050.org/connect/casa-of-los-angeles/)
 * [Homeboy Industries](https://activation.la2050.org/connect/homeboy-industries/)
@@ -53,14 +53,19 @@ Five finalists have been selected in each [LA2050 goal category](https://activa
 * [VoteRunLead](https://activation.la2050.org/connect/voterunlead/)
     
 
-### LIVE
+### LIVE ###
 
 * [LA County Electric Bus Coalition](https://activation.la2050.org/live/environment-california-research-policy-center/)
 * [LA Kitchen](https://activation.la2050.org/live/l-a-kitchen/)
 * [Move LA](https://activation.la2050.org/live/move-la-a-project-of-community-partners/)
 * [United Way of Greater Los Angeles](https://activation.la2050.org/live/united-way-of-greater-los-angeles/)
 * [The Youth Movement Against Alzheimer's](https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/)
-    
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
 
 \*in alphabetical order by goal category
 

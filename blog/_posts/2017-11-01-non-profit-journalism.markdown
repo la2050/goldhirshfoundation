@@ -7,7 +7,7 @@ excerpt: Over the last six months, I’ve had the chance to participate in two p
   Philanthropists Circle as well as the Philanthropy Workshop
 ---
 
-**Over the last six months, I’ve had the chance to participate in two panels on non-profit journalism and philanthropy, in partnership with the [Synergos’ Global Philanthropists Circle](https://www.synergos.org/global-philanthropists-circle) as well as the [Philanthropy Workshop](http://www.tpw.org/).**  
+Over the last six months, I’ve had the chance to participate in two panels on non-profit journalism and philanthropy, in partnership with the [Synergos’ Global Philanthropists Circle](https://www.synergos.org/global-philanthropists-circle) as well as the [Philanthropy Workshop](http://www.tpw.org/).
 
 Last year, when I first connected with Peggy Dulany, the co-founder of the Synergos’ Global Philanthropists Circle, with this idea of introducing her members to the non-profit journalism model, the hope with these events was to explain the field of independent journalism to a new audience and to ask leading practitioners and funders of non-profit journalism to share best-case scenarios about how the process works.  
 
@@ -36,6 +36,12 @@ Here, the conversation centered more on the various ways funders can work both w
 Simone Otus Coxe described how an organization she supports, InterNews, helps refugees arriving in Greece get basic information critical to their survival, alongside the news they receive via their mobile phones from other local news sources.  
 
 In the end, these conversations underscored that independent non-profit journalism is a tool in the social change tool chest to educate and empower people. Whether a philanthropist is passionate about education reform or the environment, non-profit journalism is an exciting and meaningful mechanism for change.  
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
 
 **[Claire Hoffman](/about/#claire-hoffman)** is a trustee of the [Goldhirsh Foundation](http://www.goldhirshfoundation.org/).
 

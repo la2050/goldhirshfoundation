@@ -1,0 +1,110 @@
+
+
+/*main {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+
+/*main {
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+
+main .author {
+  font-size: 1em;
+}
+
+
+main ol {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+main ol p:not(.author) {
+  padding: 0 0 0 1em;
+  border-left: 0.3125em solid rgb(238, 238, 238);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+main ol li + li {
+  margin-top: 4.5em;
+}
+
+main h2 {
+  --font-size: 1.5em;
+  font-size: var(--font-size);
+  line-height: calc(1.5em / var(--font-size));
+  margin-top: calc(1.5 / var(--font-size));
+  margin-bottom: calc(0.75 / var(--font-size));
+  font-weight: inherit;
+  color: inherit;
+}
+/*@media (min-width: 40em) {
+  main h2 {
+    --font-size: 2.375em;
+  }
+}*/
+main .author {
+  margin-top: calc(1.5em / 0.875);
+  font-size: 0.875em;
+  line-height: calc(1.5 / 0.875);
+}
+
+
+
+@media (min-width: 60em) {
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+    grid-row-gap: 3em;
+    /*grid-auto-flow: row dense;*/
+  }
+  main ol {
+    grid-column: 2/-1;
+  }
+  main h1,
+  main h2,
+  main .author {
+    grid-column: 1/2;
+  }
+  main h1 {
+    grid-column: 1/-1;
+    margin-bottom: 0;
+  }
+  main h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  main ol {
+    margin-top: 0;
+  }
+  main ol li * {
+    max-width: 42em;
+  }
+  main ol li {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+    grid-row-gap: 0.75em;
+  }
+  main ol h2 {
+    grid-column: 1/-1;
+  }
+  main ol .author {
+    grid-column: 1/-1;
+    margin: 0;
+  }
+  main ol p {
+    grid-column: 1/-1;
+    margin: 0;
+    font-style: italic;
+  }
+}
+
+

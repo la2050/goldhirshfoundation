@@ -1,58 +1,51 @@
 
-
-main {
-  max-width: 40em;
+/*main {
+  max-width: 50em;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 
 
 main .author {
-  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+  font-style: italic;
 }
 
 
-@media (min-width: 40em) {
-
-  .disabled main h1 + p + p {
-    font-size: 1.618em;
-    font-weight: 300; /* @light */
-    max-width: none;
-    margin-top: 4.5rem;
-    margin-bottom: 4.5rem;
-  }
-  .disabled main h1 + p + p strong {
-    font-weight: 400;
-  }
-  main p,
-  main li {
-    font-size: 1.25em;
-    line-height: inherit;
-  }
-  main p {
-    margin-bottom: 1.5rem;
-  }
-  main blockquote,
-  main ul,
-  main p,
-  main h3,
-  main h4 {
-    max-width: 50rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  main h1 + p + h2 {
-    max-width: none;
-  }
-  main h2 {
-    max-width: 65rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
+main .body > p:first-child {
+  --font-size: 1.5em;
+  font-size: var(--font-size);
+  line-height: calc(1.5em / var(--font-size));
+  margin-top: calc(1.5 / var(--font-size));
+  margin-bottom: calc(0.75 / var(--font-size));
+  margin-top: 1.5em;
 }
 
 
-main h3 {
-  margin-top: 3rem;
+@media (min-width: 60em) {
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+    grid-row-gap: 3em;
+    /*grid-auto-flow: row dense;*/
+  }
+  main h1 {
+    grid-column: 1/-1;
+    margin-bottom: 0;
+  }
+  main .author {
+    grid-column: 1/2;
+    margin-top: 0;
+  }
+  main .body {
+    grid-column: 2/-1;
+  }
+  main .body *:not(hr) {
+    max-width: 40em;
+  }
+  main .body > p:first-child {
+    margin-top: 4.5em;
+  }
 }
 

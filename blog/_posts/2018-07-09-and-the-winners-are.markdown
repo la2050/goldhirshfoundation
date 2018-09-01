@@ -12,7 +12,7 @@ excerpt: Today, the Goldhirsh Foundation has announced the winners of the 2018 M
 author: Tara Roth
 ---
 
-## LA2050 announces $1,000,000 in grants to five winners of the My LA2050 Grants Challenge to #ActivateforLA
+LA2050 announces $1,000,000 in grants to five winners of the My LA2050 Grants Challenge to #ActivateforLA
 
 Today, the Goldhirsh Foundation has announced the winners of the 2018 [My LA2050 Activation Challenge](https://activation.la2050.org/), an open call for ideas designed to activate 100,000 Angelenos to make LA the best place to learn, create, play, connect, and live. A total of $1,000,000 will be awarded evenly among the five selected organizations to carry out their proposals over the next two years. Each organization will receive $200,000 and [partnership from LA2050](https://activation.la2050.org/about/#la2050-partnership) in support of its efforts. The My LA2050 Grants Challenge is part of LA2050’s effort to drive progress toward a shared vision of success for Los Angeles.
 
@@ -42,6 +42,10 @@ The winners of the My LA2050 Activation Challenge are:
 
 [United Way of Greater Los Angeles](https://activation.la2050.org/live/united-way-of-greater-los-angeles/): Through their #EveryoneIn campaign, United Way of Greater Los Angeles will activate 100,000 Angelenos to connect the dots between housing affordability and homelessness. #EveryoneIn will empower participants to say “yes” to supportive housing, the preservation of existing housing, and the creation of new affordable housing.
 
-* * *
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
 
 You can connect with LA2050 by signing up for the newsletter at [la2050.org](http://la2050.org). You can follow LA2050 on [facebook.com/LA2050](https://facebook.com/LA2050) and on [Twitter @LA2050](https://twitter.com/la2050).
