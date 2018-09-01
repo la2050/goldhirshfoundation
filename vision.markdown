@@ -7,11 +7,11 @@ stylesheets:
 Our Vision
 ===========
 
-<img src="/assets/img/vision_lattice@x2.png" width="306" height="185" alt="" />
+<div class="image"><img src="/assets/img/vision_lattice@x2.png" width="306" height="185" alt="" /></div>
 
 We connect the dots between the best **emerging innovations** and the **financial**, **social**, and **human** capital to make them thrive.
 
-<img src="/assets/img/vision_tools@x2.png" width="284" height="151" alt="" />
+<div class="image"><img src="/assets/img/vision_tools@x2.png" width="284" height="151" alt="" /></div>
 
 We find **smart** people doing **creative** things, and we give them the **tools** to do them better.
 
@@ -36,6 +36,10 @@ What We Do
 
 ### We deliver three types of capital to create networks of support for innovators. ###
 
+
+<div class="capital" markdown="1">
+
+
 #### 1. Financial Capital ####
 
 The necessary funding for growth
@@ -59,3 +63,7 @@ Access to expertise and support to strengthen operations
 * Provide strategic counsel
 * Foster the exchange of ideas and best practices with other experts
 * Offer operational advice
+
+
+</div>
+

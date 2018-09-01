@@ -63,7 +63,7 @@ dd {
 dt {
   margin-top: 1.5rem;
   color: rgb(149, 149, 149);
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: 600; /* @semibold */
 }
 
@@ -83,7 +83,7 @@ dt {
     grid-column: 2/3;
     align-self: center;
   }
-  dt + dd {
+  dd {
     margin-top: 1.5rem;
   }
 }
@@ -179,6 +179,12 @@ main .social-links a svg {
     margin: -1.5em 0 3em 0;
     grid-column: 1/-1;
   }
+/*  main dl + h4 {
+    grid-column: 3/4;
+  }
+  main dl + h4 + dl {
+    grid-template-columns: 2fr 1fr;
+  }*/
   main hr {
     grid-column: 1/-1;
     margin: 0;
