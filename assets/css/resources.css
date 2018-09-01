@@ -1,5 +1,5 @@
 
-main p strong {
+.disabled main p strong {
   color: rgb(56, 175, 77); /* @green */
 }
 
@@ -16,6 +16,9 @@ main p {
   font-weight: 300; /* @light */
   line-height: inherit;
   margin-bottom: 1.5rem;
+}
+main p strong {
+  font-weight: 600; /* @semibold */
 }
 @media (min-width: 40em) {
   main p {
@@ -131,7 +134,6 @@ ul {
   }
   main h1 + p {
     margin-top: 0;
-    max-width: 33em;
   }
   main h2 {
     margin-bottom: 0;
@@ -194,7 +196,7 @@ ul {
     padding-top: calc(0.75em - 1px);
     grid-row: 3/4;
     grid-column: auto;
-    padding-right: 1.5rem;
+    padding-right: 3rem;
   }
   .tools ul {
     margin-top: -2.25rem;

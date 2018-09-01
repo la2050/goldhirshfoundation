@@ -81,6 +81,9 @@ main p, {
   margin-left: auto;
   margin-right: auto;*/
 }
+main p strong {
+  font-weight: 600; /* @semibold */
+}
 @media (min-width: 20em) {
   main h1,
   main p {

@@ -15,6 +15,13 @@ We connect the dots between the best **emerging innovations** and the **financia
 
 We find **smart** people doing **creative** things, and we give them the **tools** to do them better.
 
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+
 We exist for social innovators and are run by social innovators.
 -------------
 

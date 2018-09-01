@@ -8,6 +8,13 @@ Initiatives
 ===========
 
 Here’s a glimpse of some of the organizations and specific projects we support.
+-----------
+
+
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 
 
 

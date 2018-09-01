@@ -104,6 +104,9 @@ main h2 + p {
   margin-bottom: 1.5rem;
   margin: 0;
 }
+main h2 + p strong {
+  font-weight: 600; /* @semibold */
+}
 @media (min-width: 40em) {
   main h2 + p {
     font-size: 1.618em;
@@ -180,6 +183,9 @@ main .image-illustration {
     font-weight: 300; /* @light */
     line-height: inherit;
     margin-bottom: 1.5rem;
+  }
+  main h2[id*="press"] ~ p strong {
+    font-weight: 600; /* @semibold */
   }
   @media (min-width: 40em) {
     main h2[id*="press"] ~ p {

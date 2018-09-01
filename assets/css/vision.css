@@ -40,7 +40,7 @@ main h2[id*="we-exist"] {
 
 
 
-main h2[id*="we-exist"] + p + p + p a {
+.disabled main h2[id*="we-exist"] + p + p + p a {
   display: inline-block;
   background-color: rgb(56, 175, 77); /* @green */
   color: white;
@@ -52,11 +52,13 @@ main h2[id*="we-exist"] + p + p + p a {
 }
 
 
-main hr + h2 {
+main hr:nth-of-type(2) + h2 {
   font-size: inherit;
   line-height: inherit;
-  font-weight: inherit;
+  font-weight: 600; /* @semibold */
   color: inherit;
+  text-transform: uppercase;
+  letter-spacing: 0.0625em; /* 1px / 16px */
 }
 main hr + h2 + h3 {
   font-size: 1.25em;
@@ -85,7 +87,7 @@ main hr + h2 + h3 {
   }
   main {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-column-gap: 1.5em;
     grid-row-gap: 3em;
     /*grid-auto-flow: row dense;*/
@@ -103,7 +105,7 @@ main hr + h2 + h3 {
   }
   main h1 + .image + p {
     grid-row: 2/3;
-    grid-column: 1/3;
+    grid-column: 1/2;
     max-width: none;
   }
   main h1 + .image + p + .image + p {
@@ -136,16 +138,20 @@ main hr + h2 + h3 {
     margin: 0;
   }
   main h2[id*="we-exist"] {
-    margin-top: 4.5rem;
+    margin-top: 0;
     grid-column: 1/-1;
   }
   main h2[id*="we-exist"] + p,
   main h2[id*="we-exist"] + p + p {
-    grid-column: 1/3;
+    grid-column: 1/2;
     margin: 0;
   }
+  main h2[id*="we-exist"] + p + p {
+    grid-column: -2/-1;
+  }
   main h2[id*="we-exist"] + p + p + p {
-    grid-column: 2/-1;
+    margin-top: 3rem;
+    grid-column: -2/-1;
     max-width: none;
   }
   main h3,
@@ -178,6 +184,7 @@ main hr + h2 + h3 {
     grid-column-gap: 1.5em;
     grid-row-gap: 3em;
     grid-column: 1/-1;
+    margin-bottom: 6em;
   }
   .capital h4 {
     grid-row: 1/2;

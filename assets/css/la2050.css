@@ -46,6 +46,12 @@ main .image + p {
   line-height: inherit;
   margin-bottom: 1.5rem;
 }
+main .image + p strong {
+  font-weight: 600; /* @semibold */
+}
+main .image + p a {
+  font-weight: 600; /* @semibold */
+}
 @media (min-width: 40em) {
   main .image + p {
     font-size: 1.618em;

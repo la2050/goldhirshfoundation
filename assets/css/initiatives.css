@@ -11,6 +11,9 @@ main p {
   line-height: inherit;
   margin-bottom: 1.5rem;
 }
+main p strong {
+  font-weight: 600; /* @semibold */
+}
 @media (min-width: 40em) {
   main p {
     font-size: 1.618em;
@@ -270,13 +273,12 @@ dl {
   }
 }
 
-main h2 {
+/*main h2 {
   max-width: 20em;
-}
-main h3 {
+}*/
+/*main h3 {
   max-width: 30em;
-}
-
+}*/
 
 
 
@@ -315,9 +317,6 @@ main h3 {
   }
   main h2[id*="team"] ~ p {
     margin: 0;
-  }
-  main h2 {
-    line-height: 1;
   }
   main h2,
   main dl {
