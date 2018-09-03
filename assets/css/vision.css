@@ -20,24 +20,39 @@ main p strong {
 }
 
 main img[src*="lattice"] {
-  float: right;
   width: 306px;
   height: auto;
-  margin-left: 3em;
+  display: block;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 main img[src*="tools"] {
-  float: left;
   width: 284px;
   height: auto;
-  margin-right: 3em;
+  display: block;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
-main h2[id*="we-exist"] {
-  clear: both;
-  padding-top: 3rem;
-}
 
+@media (min-width: 40em) {
+
+  main img[src*="lattice"] {
+    float: right;
+    margin-left: 3em;
+  }
+
+  main img[src*="tools"] {
+    float: left;
+    margin-right: 3em;
+  }
+
+  main h2[id*="we-exist"] {
+    clear: both;
+    padding-top: 3rem;
+  }
+}
 
 
 .disabled main h2[id*="we-exist"] + p + p + p a {

@@ -5,7 +5,13 @@
 
 form {
   margin-top: 1.5em;
-  margin-bottom: 6em;
+  margin-bottom: 3em;
+}
+
+@media (min-width: 40em) {
+  form {
+    margin-bottom: 6em;
+  }
 }
 
 label,
@@ -25,6 +31,9 @@ input {
   padding: 0.375em 0.75em;
   border-radius: 0.25em;
   border: 1px solid rgb(177, 177, 177); /* @aluminum */
+  width: 20em;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 button {
   margin: 0;
@@ -33,6 +42,17 @@ button {
   color: white;
   border-radius: 0.25em;
   border-width: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 30em) {
+  input,
+  button {
+    width: 100%;
+  }
+  button {
+    margin-top: 0.375em;
+  }
 }
 
 
@@ -95,10 +115,15 @@ dt {
 }
 
 
-
 main dl {
-  margin-bottom: 6em;
+  margin-bottom: 3em;
 }
+@media (min-width: 40em) {
+  main dl {
+    margin-bottom: 6em;
+  }
+}
+
 
 
 

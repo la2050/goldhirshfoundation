@@ -64,11 +64,13 @@ Five finalists have been selected in each [LA2050 goal category](https://activa
 
 
 
+\*in alphabetical order by goal category
+
+
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
-
-\*in alphabetical order by goal category
 
 Public voting will close June 29th, and winners will be announced on July 9th.
 
