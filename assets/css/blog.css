@@ -34,7 +34,7 @@ main .body > p:first-child {
     margin-bottom: 0;
   }
   main .author {
-    grid-column: 1/2;
+    grid-column: 1/-1;
     margin-top: 0;
   }
   main .body {
@@ -53,26 +53,44 @@ main .body > p:first-child {
     margin: 0;
   }
   main .body > p:nth-child(1) {
-    margin-top: 3em;
     grid-column: 1/-1;
-    margin-top: 3em;
+    margin-top: 0em;
   }
   main .body h2 + p {
     margin-top: -2.25em;
     font-size: 1.5em;
     grid-column: 1/-1 !important;
   }
+  main .body h3 + dl,
   main .body h2 + dl {
     margin-top: -2.25em;
   }
-  main .body  dl {
+  main .body dl {
     margin-bottom: 0;
   }
   main .body h3 {
     margin-bottom: 0
   }
+  main .body h3 + ul {
+    margin-top: -3.75em;
+  }
   main .body h3 + p {
     margin-top: -2.25em;
+    margin-top: -4.5em;
+  }
+  main .body ul {
+    margin-bottom: 0;
+  }
+  main .body h2 + h3,
+  main .body ul + h3,
+  main .body p + h3 {
+    margin-top: -2.25rem;
+  }
+  main .body h2 + p + h3 {
+    margin-top: 0;
+  }
+  main .body hr + h2 {
+    margin-top: 0;
   }
 
   main .body > p:nth-child(4) ~ p {
@@ -81,20 +99,25 @@ main .body > p:first-child {
   }
   main .body > p:nth-child(5) {
     border-top: 1px solid rgb(177, 177, 177); /* @aluminum */
-    padding-top: 4.5em;
-    padding-top: calc(4.5em - 1px);
-    margin-top: 0em;
+    padding-top: 1.5em;
+    padding-top: calc(1.5em - 1px);
+    margin-top: -3em;
   }
-  main .body > p:nth-child(4) ~ *:not(p) ~ p {
+/*  main .body > p:nth-child(4) ~ *:not(p) ~ p {
     margin-bottom: 0;
     grid-column: 1/-1;
-  }
+  }*/
 
 
   main .body > hr ~ p:nth-last-child(3),
   main .body > hr ~ p:nth-last-child(2),
   main .body > hr ~ p:nth-last-child(1) {
     grid-column: 1/-1 !important;
+    margin: 0;
+  }
+  main .body > hr ~ p:nth-last-child(3),
+  main .body > hr ~ p:nth-last-child(2) {
+    margin-bottom: -3em;
   }
   main hr {
     grid-column: 1/-1;
@@ -224,6 +247,16 @@ dl {
   dt:nth-of-type(8) + dd + dd {
     grid-column: 2/3;
   }
+  dt:nth-of-type(9),
+  dt:nth-of-type(9) + dd,
+  dt:nth-of-type(9) + dd + dd {
+    grid-column: 1/2;
+  }
+  dt:nth-of-type(10),
+  dt:nth-of-type(10) + dd,
+  dt:nth-of-type(10) + dd + dd {
+    grid-column: 2/3;
+  }
 
 
   dt:nth-of-type(1),
@@ -277,6 +310,26 @@ dl {
   dt:nth-of-type(8) + dd + dd {
     grid-column: 2/3;
   }
+  dt:nth-of-type(9),
+  dt:nth-of-type(9) + dd,
+  dt:nth-of-type(9) + dd + dd {
+    grid-column: 3/4;
+  }
+  dt:nth-of-type(10),
+  dt:nth-of-type(10) + dd,
+  dt:nth-of-type(10) + dd + dd {
+    grid-column: 1/2;
+  }
+  dt:nth-of-type(11),
+  dt:nth-of-type(11) + dd,
+  dt:nth-of-type(11) + dd + dd {
+    grid-column: 2/3;
+  }
+  dt:nth-of-type(12),
+  dt:nth-of-type(12) + dd,
+  dt:nth-of-type(12) + dd + dd {
+    grid-column: 3/4;
+  }
 
 
   dt:nth-of-type(3) {
@@ -327,6 +380,16 @@ dl {
   dt:nth-of-type(8) + dd,
   dt:nth-of-type(8) + dd + dd {
     grid-column: 4/5;
+  }
+  dt:nth-of-type(9),
+  dt:nth-of-type(9) + dd,
+  dt:nth-of-type(9) + dd + dd {
+    grid-column: 1/2;
+  }
+  dt:nth-of-type(10),
+  dt:nth-of-type(10) + dd,
+  dt:nth-of-type(10) + dd + dd {
+    grid-column: 2/3;
   }
 
 
