@@ -186,7 +186,7 @@ main .social-links a svg {
     grid-column: 2/3;
   }*/
   main form {
-/*    grid-column: 3/4;*/
+    grid-column: 1/-1;
     margin: 0;
   }
   main form ~ h2 {
