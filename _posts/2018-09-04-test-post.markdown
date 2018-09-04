@@ -1,6 +1,8 @@
 ---
 title: This is a test post
-date: 2018-09-04
+date: 2018-09-04 00:00:00 -07:00
+categories:
+- blog
 excerpt: This is a test excerpt
 author: Tara Roth
 ---

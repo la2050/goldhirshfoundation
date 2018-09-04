@@ -1,6 +1,8 @@
 ---
 title: Innovation Initiatives
-date: 2017-06-13
+date: 2017-06-13 00:00:00 -07:00
+categories:
+- blog
 excerpt: Over the past several years, the Federal government has been working with
   local communities across the country on a wide range of initiatives that support
   innovation and opportunity. Several of these initiatives are listed below along
