@@ -82,9 +82,11 @@ main .body > p:first-child {
     margin-bottom: 0;
   }
   main .body h2 + h3,
-  main .body ul + h3,
-  main .body p + h3 {
+  main .body ul + h3 {
     margin-top: -2.25rem;
+  }
+  main .body p + h3 {
+    margin-top: 0;
   }
   main .body h2 + p + h3 {
     margin-top: 0;
