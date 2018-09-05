@@ -23,8 +23,11 @@ defaults:
     layout: post
 description: The Goldhirsh Foundation connects the dots between the best emerging
   innovations and the financial, social, and human capital to make them thrive.
-image: http://goldhirshfoundation.org/assets/img/logotype-square.png
+image: https://goldhirshfoundation.org/assets/img/logotype-square.png
 exclude:
 - README
+- CNAME
+- Gemfile
+- Gemfile.lock
 permalink: pretty
-version: 0.0.1
+version: 0.0.2
