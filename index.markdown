@@ -34,7 +34,7 @@ stylesheets:
 
   <span class="perspective">
     translate that <strong>perspective</strong><br />
-    into <strong>real-world innovations</strong>:
+    into <strong>real world innovations</strong>:
   </span>
 
 </p>
