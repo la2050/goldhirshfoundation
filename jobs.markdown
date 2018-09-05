@@ -24,6 +24,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://la2050.org/jobs/1475">President</a></th>
+  <td>Vista Del Mar Child and Family Services</td>
+  <td>Full Time</td>
+  <td>September 5, 2018</td>
+  <td>San Francisco, California</td>
+</tr>
+<tr>
   <th scope="row"><a href="https://la2050.org/jobs/1475">Communications Manager</a></th>
   <td>Harbor Freight Tools for Schools</td>
   <td>Full Time</td>
