@@ -48,7 +48,7 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 <tr>
   <th scope="row"><a href="https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit">Entrepreneur-in-Residence</a></th>
-  <td>New Media Ventures</td
+  <td>New Media Ventures</td>
   <td>Oakland, California or remote</td>
   <td>July 25, 2018</td>
 </tr>
