@@ -23,14 +23,14 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
 
-<!--
+
+
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1475">President</a></th>
   <td>Vista Del Mar Child and Family Services</td>
   <td>San Francisco, California</td>
   <td>September 5, 2018</td>
 </tr>
--->
 
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1475">Communications Manager</a></th>
@@ -150,6 +150,8 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
   <td>TBD</td>
   <td>June 18, 2018</td>
 </tr>
+
+
 
 </tbody>
 </table>
