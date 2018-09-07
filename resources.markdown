@@ -27,6 +27,11 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://www.hiltonfoundation.org/humanitarian-prize/nominations">2019 Conrad N. Hilton Humanitarian Prize</a></th>
+  <td>The $2 million Conrad N. Hilton Humanitarian Prize is awarded annually to a nonprofit organization making extraordinary contributions toward alleviating human suffering anywhere in the world.</td>
+  <td>October 25, 2018</td>
+</tr>
+<tr>
   <th scope="row"><a href="http://westly.org/westly-prize/">The Westly Prize</a></th>
   <td>The Westly Foundation will award up to three Grand Prizes of $40,000 each to early-stage, young social innovators in California with novel solutions to community challenges.</td>
   <td>October 15, 2018</td>
