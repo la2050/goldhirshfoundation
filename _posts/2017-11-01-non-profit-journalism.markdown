@@ -21,7 +21,7 @@ In more recent years, I’ve had the chance to work through the [Goldhirsh Foun
 
 But in the last year, a second sort of crisis in journalism has surfaced, the underside of all that proliferating and shifting technology has now become a crisis in the credibility and independence of the press itself.  
 
-Our first meeting in March came at a low point for the field of journalism. A [Gallup Poll](http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx)put out last fall found that 32% of Americans trust the Media. This is the lowest figure in the history of such polling. And, this poll was conducted before the concept of fake news had really caught on.  
+Our first meeting in March came at a low point for the field of journalism. A [Gallup Poll](http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx) put out last fall found that 32% of Americans trust the Media. This is the lowest figure in the history of such polling. And, this poll was conducted before the concept of fake news had really caught on.  
 
 Given this moment—where journalism is vulnerable and where the average American believes you can not trust what you read and hear, what do philanthropists and non profits do with journalism as a tool for change. How do we support an empowered, intelligent press with resources to conduct their work grounded in sound research and responsibly analyzed data?  
 
