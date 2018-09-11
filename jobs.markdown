@@ -23,14 +23,20 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
 
-<!--
+
+<tr>
+  <th scope="row"><a href="https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=136567">Programme Manager - Developing Talent</a></th>
+  <td>Saïd Business School</td>
+  <td>Oxford, England</td>
+  <td>September 10, 2018</td>
+</tr>
+
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1475">President</a></th>
   <td>Vista Del Mar Child and Family Services</td>
   <td>San Francisco, California</td>
   <td>September 5, 2018</td>
 </tr>
--->
 
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1475">Communications Manager</a></th>
@@ -41,13 +47,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1473">Social Innovation and Design Intern</a></th>
-  <td>LA2050 // Goldhirsh Foundation</td>
-  <td>Los Angeles, California</td>
-  <td>August 9, 2018</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://la2050.org/jobs/1474">Digital Content and Communications Intern</a></th>
   <td>LA2050 // Goldhirsh Foundation</td>
   <td>Los Angeles, California</td>
   <td>August 9, 2018</td>
@@ -150,6 +149,8 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
   <td>TBD</td>
   <td>June 18, 2018</td>
 </tr>
+
+
 
 </tbody>
 </table>
