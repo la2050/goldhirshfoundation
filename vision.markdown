@@ -13,7 +13,7 @@ We connect the dots between the best **emerging innovations** and the **financia
 
 <div class="image"><img src="/assets/img/vision_tools@x2.png" width="284" height="151" alt="" /></div>
 
-We find **smart** people doing **creative** things, and we give them the **tools** to do them better.
+We find **smart** people doing **creative** things, and we give them the **tools** to do those things better.
 
 
 
