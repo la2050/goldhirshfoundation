@@ -29,7 +29,7 @@ Promoting mobilization and disruption within existing infrastructures.
 
 [Stockton Economic Empowerment Demonstration (SEED) via Economic Security Project](https://www.stocktondemonstration.org)
 : Supporting groundbreaking initiatives to ensure opportunity and economic security.
-: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) is the first guaranteed income experiment in the U.S. to pilot basic income programs in Stockton, CA._
+: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) is the first guaranteed income experiment in the U.S. to pilot basic income._
 
 [Los Angeles Mayor’s Fund](http://mayorsfundla.org)
 : Developing civic pride by showcasing Los Angeles as a world-class creative capital
@@ -37,7 +37,7 @@ Promoting mobilization and disruption within existing infrastructures.
 
 [Transportation Technology Strategist Fellow at City of Los Angeles Department of Transportation](https://www.lamayor.org/mayor-garcetti-announces-appointment-transportation-technology-strategist-fellow)
 : Designing the future of transportation in Los Angeles
-: _With our support, Los Angeles has become the only municipality in the nation with a staff person dedicated to developing a citywide transportation technology strategy that promotes shared mobility and that supports a safe, sustainable, and tech-enabled transportation network._
+: _With our support, Los Angeles has become the only municipality in the nation with a staff person dedicated to developing a citywide transportation technology strategy that promotes shared mobility and supports a safe, sustainable, and tech-enabled transportation network._
 
 [Heal the Bay in partnership with the U.S. Army Corps of Engineers](https://healthebay.org)
 : The Compton Creek Trash Capture Project
@@ -82,11 +82,11 @@ Bringing proven solutions from other regions to Los Angeles.
 
 [City Year](http://www.cityyear.org/losangeles.aspx)
 : Redefining idealism by promoting the idea that each of us can make a difference.
-: _We led City Year’s expansion to Los Angeles then supported their growth in L.A. We also provided seed funding for their L.A.-based education conference about how service can drive education reform._
+: _We led City Year’s expansion to Los Angeles and then supported their growth in L.A. We also provided seed funding for their L.A.-based education conference on the topic of how service can drive education reform._
 
 [LIFT](http://www.liftcommunities.org)
 : Combating poverty and expanding opportunity so all Americans can pursue their life goals.
-: _A longtime funder of LIFT, we worked with them to expand their model in L.A. We provided funding for a feasibility study and, organized meetings with city officials, social service organizations, university administrators, potential board members, and funders to learn where LIFT could do the most good._
+: _A longtime funder of LIFT, we worked with them to expand their model in L.A. We provided funding for a feasibility study and organized meetings with city officials, social service organizations, university administrators, potential board members, and funders to learn where LIFT could do the most good._
 
 [Peer Health Exchange](http://www.peerhealthexchange.org)
 : Giving teenagers the knowledge and skills they need to make healthy decisions by training college students to teach a health curriculum in public schools that lack health education.
@@ -161,7 +161,7 @@ Pursue environmental health through innovation at both the cause and response si
 : Working to create affordable homes for local families, with a plan to make better use of the 3000 acres of underutilized land in South LA.
 
 [Sierra Club](https://www.sierraclub.org/)
-: Leading conversations on climate disruption and the future of energy; Launching coalitions for energy justice to push Los Angeles towards a clean energy economy.
+: Leading conversations on climate disruption and the future of energy; launching coalitions for energy justice to push Los Angeles towards a clean energy economy.
 
 
 
@@ -182,7 +182,7 @@ Support pro-social platforms and tools for independent expression and individual
 : Amplifying impact through building social capital, investing in collaboration, and increasing funder engagement.
 
 [Tierra del Sol](https://www.tierradelsol.org/)
-: Empowering adults with developmental disabilities through workforce development; Providing opportunities for paid employment or professional volunteerism placement.
+: Empowering adults with developmental disabilities through workforce development; providing opportunities for paid employment or professional volunteerism.
 
 [Kiva](http://www.kiva.org/start)
 : Connecting people through lending; leveraging the internet and a network of microfinance institutions to alleviate poverty around the world.
