@@ -46,13 +46,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://la2050.org/jobs/1473">Social Innovation and Design Intern</a></th>
-  <td>LA2050 // Goldhirsh Foundation</td>
-  <td>Los Angeles, California</td>
-  <td>August 9, 2018</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://docs.google.com/document/d/1cncFvhRgKHUqxdvnSiqv7B-ihHEQq0mr2zlrpmqnGqA/edit">Entrepreneur-in-Residence</a></th>
   <td>New Media Ventures</td>
   <td>Oakland, California or remote</td>
