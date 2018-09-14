@@ -32,9 +32,9 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://la2050.org/jobs/1475">President</a></th>
+  <th scope="row"><a href="https://la2050.org/jobs/1503">President and CEO</a></th>
   <td>Vista Del Mar Child and Family Services</td>
-  <td>San Francisco, California</td>
+  <td>Los Angeles, California</td>
   <td>September 5, 2018</td>
 </tr>
 
