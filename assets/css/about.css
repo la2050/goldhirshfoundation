@@ -250,4 +250,10 @@ main .image-illustration {
 }
 
 
+main h2[id*="team"] ~ p a[href*="twitter.com"] svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  margin-left: 0.375em;
+}
 
