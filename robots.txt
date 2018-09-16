@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://goldhirshfoundation.org/sitemap.xml
