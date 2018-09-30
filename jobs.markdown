@@ -55,7 +55,7 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tr>
   <th scope="row"><a href="https://www.1degree.org/about/join/vp-of-program/?p=BL-OPN-ALL-NL61-2017-JUL-26-LAPress">Vice President of Program</a></th>
   <td>One Degree</td>
-  <td>San Francisco</td>
+  <td>San Francisco, California</td>
   <td>July 23, 2018</td>
 </tr>
 
