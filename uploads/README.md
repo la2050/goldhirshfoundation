@@ -5,4 +5,8 @@ This is a folder where images and other files can be uploaded to the Goldhirsh F
 
 For example, the `womens-march-la.jpg` file in this folder is available at this web address:
 
-https://goldhirshfoundation.org/uploads/womens-march-la.jpg
+```
+/uploads/womens-march-la.jpg
+```
+
+[Learn more about uploading images](https://github.com/la2050/goldhirshfoundation#how-to-add-an-image)
