@@ -20,7 +20,7 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ## How to add an image
 
-If you want to add an image (or any file) to the website, you can upload it to any of the folders on GitHub.
+If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
 The [uploads folder](https://github.com/la2050/goldhirshfoundation/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
 
