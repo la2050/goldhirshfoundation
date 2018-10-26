@@ -36,56 +36,7 @@ Financial Capital Opportunities
   <td>The Westly Foundation will award up to three Grand Prizes of $40,000 each to early-stage, young social innovators in California with novel solutions to community challenges.</td>
   <td>October 15, 2018</td>
 </tr>
-<tr>
-  <th scope="row"><a href="http://homeforgoodla.org/our-work/funders-collaborative/grantseekers/">United Way Funders Collaborative</a></th>
-  <td>Apply to the LA Homelessness Challenge and the Housing Innovation Challenge to win up to $1million for creative housing models.</td>
-  <td>Multiple Deadlines</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://wildark.com/blog/enter-pathfinder-award-innovation-nature-conservation/">WildArk</a></th>
-  <td>The Pathfinder Award recognizes outstanding and innovative solutions for protected and conserved areas, developed and implemented by individuals, organisations or groups.</td>
-  <td>August 14, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://stage.youngentrepreneursawards.unilever.com/how-to-enter">Unilever</a></th>
-  <td>Unilever is awarding young entrepreneur with initiatives, products or services already in action tackling sustainability.</td>
-  <td>June 28, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://www.cciarts.org/grantsprogram.htm">Investing in Artists</a></th>
-  <td>The Investing in Artists grants program enhances the working lives and strengthen the creative support system for California artists working in all disciplines.</td>
-  <td>June 28, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://journalists.org/programs/journalism-360/challenge/">Online News Association</a></th>
-  <td>This is an open call for ideas using immersive storytelling to discover new ways to engage audiences and advance the field of journalism.</td>
-  <td>June 28, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://conservationx.com/challenge/cxtech/prize">Conservation Labs</a></th>
-  <td>Conservation X Labs (CXL) is seeking bold ideas for technology solutions to conservation challenges.</td>
-  <td>June 30, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://www.grantinterface.com/Process/Apply?urlkey=CitiesFE">Cities for Financial Empowerment Fund</a></th>
-  <td>The CFE Fund is seeking partners to expand the opportunity to integrate banking access into programs that work with high school age youth.</td>
-  <td>July 2, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://hftforschoolsprize.skild.com/skild2/hftforschoolsprize/loginPage.action=">Harbor Freight Tools for Schools</a></th>
-  <td>The 2018 Harbor Freight Tools for Schools Prize for Teaching Excellence will award $1 million in prizes to U.S. public high school skilled trades teachers and programs!</td>
-  <td>July 6, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://www.roddenberryprize.org/">The Roddenberry Foundation</a></th>
-  <td>The 2018 Roddenberry Prize will award four grants to organizations focused on four issue areas, food waste, plant-rich diets, girls’ education, and women’s rights, to solve the climate crisis.</td>
-  <td>July 12, 2018</td>
-</tr>
-<tr>
-  <th scope="row"><a href="https://www.thetech.org/TechArts">The Tech Museum of Innovation</a></th>
-  <td>The Incubator awards grants of up to $50,000 to develop new digital art experiences.</td>
-  <td>July 15, 2018</td>
-</tr>
+
 
 </tbody>
 </table>
