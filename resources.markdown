@@ -61,6 +61,9 @@ Oct <strong>25</strong> 2018
 Oct <strong>10</strong> 2018
 : [Make it in LA / LACI, "Dollars and Sense," Tara Roth](https://makeitinla.org/wp-content/uploads/2018-10-11-Dollars-and-Sense-Social-Impact-Capital-FINAL-SLIDES.pdf?mc_cid=eb620daa63&mc_eid=5b9f9b1467)
 
+Oct <strong>3</strong> 2018
+: [Leadership for LA's Future: What Will LA Look Like in 2050?; United Way of Greater LA's Tocqueville Society and Emerging Leaders, Tara Roth](https://www.unitedwayla.org/en/news-resources/blog/united-way-philanthropic-leaders-came-together-discuss-ls-future/)
+
 Mar <strong>1</strong> 2018
 : [26th Annual Kravis De-Roulet Leadership Conference, Tara Roth](https://www.kravisleadershipinstitute.org/kravis-de-roulet-conference/)
 
