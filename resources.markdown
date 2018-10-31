@@ -55,7 +55,11 @@ Would you like to add something to the list? Email us at [team@goldhirshfoundati
 
 ### Past and Upcoming Team Goldhirsh Speaking Engagements
 
+Oct <strong>25</strong> 2018
+: [Talanoa Dialogue on Sub-National Climate Financing at the Los Angeles Cleantech Incubator (LACI), Tara Roth](https://www.sgvtribune.com/2018/10/27/whats-arnold-schwarzenegger-up-to-fighting-climate-change/)
 
+Oct <strong>10</strong> 2018
+: [Make it in LA / LACI, "Dollars and Sense," Tara Roth](https://makeitinla.org/wp-content/uploads/2018-10-11-Dollars-and-Sense-Social-Impact-Capital-FINAL-SLIDES.pdf?mc_cid=eb620daa63&mc_eid=5b9f9b1467)
 
 Mar <strong>1</strong> 2018
 : [26th Annual Kravis De-Roulet Leadership Conference, Tara Roth](https://www.kravisleadershipinstitute.org/kravis-de-roulet-conference/)
