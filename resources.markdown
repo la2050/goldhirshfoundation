@@ -27,6 +27,11 @@ Financial Capital Opportunities
 <tbody>
   
   <tr>
+  <th scope="row"><a href="https://ai.google/social-good/impact-challenge">Google AI for Social Good</a></th>
+  <td>Google.org is issuing an open call to organizations around the world to submit their ideas for how they could use AI to help address societal challenges.</td>
+  <td>January 22, 2019</td>
+</tr>
+  <tr>
   <th scope="row"><a href="https://www.weingartfnd.org/Youth-Organizing-Request-for-Proposals">Youth Organizing Capacity Building Initiative - Request for Proposals</a></th>
   <td>The Youth Organizing Funder Collaborative invites nonprofit organizations to submit proposals that strengthen the capacity and effectiveness of 501(c)(3) organizations engaged in youth organizing to increase the number of young people of color leading social justice grassroots campaigns, especially from communities most impacted by racial, economic and social injustice in Los Angeles, Orange, Riverside, San Bernardino, Santa Barbara and Ventura counties.</td>
   <td>December 18, 2018</td>
