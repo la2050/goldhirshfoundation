@@ -1,0 +1,17 @@
+---
+title: Enter your title here
+excerpt: This is a single paragraph of text that will appear on the blog page
+  https://goldhirshfoundation.org/blog/
+  About three to five lines of text will be best. You can put the whole excerpt on a
+  single line or multiple lines (like this example). Each line after the first one
+  should be preceded by two spaces.
+author: Tara Roth
+published: true
+---
+
+Your first paragraph of text can go here.
+
+## And here’s an example of a title
+
+To see more examples, try opening some of the other posts, or read the markdown guide:
+https://guides.github.com/features/mastering-markdown/
