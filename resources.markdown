@@ -26,27 +26,29 @@ Financial Capital Opportunities
 </thead>
 <tbody>
   
-  <tr>
+<tr>
   <th scope="row"><a href="https://ai.google/social-good/impact-challenge">Google AI for Social Good</a></th>
   <td>Google.org is issuing an open call to organizations around the world to submit their ideas for how they could use AI to help address societal challenges.</td>
   <td>January 22, 2019</td>
 </tr>
-  <tr>
+
+<tr>
   <th scope="row"><a href="https://www.weingartfnd.org/Youth-Organizing-Request-for-Proposals">Youth Organizing Capacity Building Initiative - Request for Proposals</a></th>
   <td>The Youth Organizing Funder Collaborative invites nonprofit organizations to submit proposals that strengthen the capacity and effectiveness of 501(c)(3) organizations engaged in youth organizing to increase the number of young people of color leading social justice grassroots campaigns, especially from communities most impacted by racial, economic and social injustice in Los Angeles, Orange, Riverside, San Bernardino, Santa Barbara and Ventura counties.</td>
   <td>December 18, 2018</td>
 </tr>
+
 <tr>
   <th scope="row"><a href="https://www.hiltonfoundation.org/humanitarian-prize/nominations">2019 Conrad N. Hilton Humanitarian Prize</a></th>
   <td>The $2 million Conrad N. Hilton Humanitarian Prize is awarded annually to a nonprofit organization making extraordinary contributions toward alleviating human suffering anywhere in the world.</td>
   <td>October 25, 2018</td>
 </tr>
+
 <tr>
   <th scope="row"><a href="http://westly.org/westly-prize/">The Westly Prize</a></th>
   <td>The Westly Foundation will award up to three Grand Prizes of $40,000 each to early-stage, young social innovators in California with novel solutions to community challenges.</td>
   <td>October 15, 2018</td>
 </tr>
-
 
 </tbody>
 </table>
