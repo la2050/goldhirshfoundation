@@ -8,6 +8,7 @@ https://goldhirshfoundation.org
 * [How to make changes](#how-to-make-changes)
 * [How to add a blog post](#how-to-add-a-blog-post)
 * [How to add an image](#how-to-add-an-image)
+* [How to see a preview of your changes](#how-to-see-a-preview-of-your-changes)
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
 
@@ -20,6 +21,10 @@ As you make changes and commit/push them to GitHub, the [website](https://goldhi
 For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfoundation/edit/master/la2050.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [LA2050 page](https://goldhirshfoundation.org/la2050/) of the website within a few minutes.
 
 ## How to add a blog post
+
+The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes)
+
+You can also follow these steps, to add a blog post manually…
 
 1. Open the [\_posts](https://github.com/la2050/goldhirshfoundation/tree/master/_posts) folder.
 
@@ -85,6 +90,32 @@ To use this on the website, you can create an image with [markdown](https://guid
 ![Women’s March LA](/uploads/womens-march-la.jpg)
 ```
 
+## How to see a preview of your changes
+
+If you’d like to see how your changes will look on the website before making them public, you can work in the [staging branch](https://github.com/la2050/goldhirshfoundation/tree/staging)–a copy of the website files, that’s published at https://staging.goldhirshfoundation.org
+
+![staging](https://user-images.githubusercontent.com/926616/47131296-bcb61180-d252-11e8-90e0-56a2e7552163.png)
+
+You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
+
+Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://goldhirshfoundation.org) (the `master` branch) using a pull request. Here are the steps:
+
+1. Press the “new pull request” button.
+
+https://github.com/la2050/goldhirshfoundation/pull/new/staging
+
+![1-new-pull-request-button](https://user-images.githubusercontent.com/926616/47131298-bde73e80-d252-11e8-8cd6-f64703af5c2b.png)
+
+2. Write a title for your pull request (this is optional).
+
+3. Press the “create pull request” button.
+
+4. And then, press the “merge pull request” button.
+
+5. And lastly, press the “confirm merge” button.
+
+![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47131302-c0499880-d252-11e8-9393-75dcfcd49650.png)
+
 ## How to develop locally
 
 If you want to see a preview of your changes while you work, you can [run a Jekyll server](https://jekyllrb.com) on your local machine. [Installing Ruby and Jekyll](https://jekyllrb.com/docs/installation/) is a good place to start.
@@ -104,7 +135,10 @@ jekyll serve
 ## Handy guides
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
+* [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+* [YAML Checker](http://www.yamllint.com)
 * [Liquid](https://shopify.github.io/liquid/)
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll](https://jekyllrb.com/docs/home/)
+* [GitHub Pages](https://pages.github.com)
 
