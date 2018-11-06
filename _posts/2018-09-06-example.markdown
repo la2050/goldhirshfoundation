@@ -1,6 +1,7 @@
 ---
 title: Enter your title here
 date: 2018-09-06 00:00:00 -07:00
+published: false
 excerpt: This is a single paragraph of text that will appear on the blog page https://goldhirshfoundation.org/blog/
   About three to five lines of text will be best. You can put the whole excerpt on
   a single line or multiple lines (like this example). Each line after the first one
