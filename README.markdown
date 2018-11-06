@@ -22,7 +22,7 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ## How to add a blog post
 
-The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes)
+The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes).
 
 You can also follow these steps, to add a blog post manually…
 
@@ -56,7 +56,7 @@ To see more examples, try opening some of the other posts, or read the markdown 
 https://guides.github.com/features/mastering-markdown/
 ```
 
-*You can also use one of the other posts as a starting point.*
+*You can also use one of the other [posts](https://github.com/la2050/goldhirshfoundation/tree/master/_posts) as a starting point.*
 
 4. Press the `Commit changes` button
 
