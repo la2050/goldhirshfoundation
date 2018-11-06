@@ -6,6 +6,7 @@ This is a website for the Goldhirsh Foundation.
 https://goldhirshfoundation.org
 
 * [How to make changes](#how-to-make-changes)
+* [How to add a blog post](#how-to-add-a-blog-post)
 * [How to add an image](#how-to-add-an-image)
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
@@ -17,6 +18,44 @@ The website is published with [GitHub Pages](https://pages.github.com) and the f
 As you make changes and commit/push them to GitHub, the [website](https://goldhirshfoundation.org) will automatically update.
 
 For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfoundation/edit/master/la2050.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [LA2050 page](https://goldhirshfoundation.org/la2050/) of the website within a few minutes.
+
+## How to add a blog post
+
+1. Open the [\_posts](https://github.com/la2050/goldhirshfoundation/tree/master/_posts) folder.
+
+2. Press the `create new file` button: https://github.com/la2050/goldhirshfoundation/new/master/_posts
+
+3. Name the file using today‘s date (or whichever date you’d like to use as the published date) along with the name of the post. It’s best to use lowercase letters and dashes instead of spaces for your filename. For example:
+```
+2018-07-09-and-the-winners-are.markdown
+```
+
+3. Copy and paste this text into your new post, and then change it to your liking:
+```
+---
+title: Enter your title here
+excerpt: This is a single paragraph of text that will appear on the blog page
+  https://goldhirshfoundation.org/blog/
+  About three to five lines of text will be best. You can put the whole excerpt on a
+  single line or multiple lines (like this example). Each line after the first one
+  should be preceded by two spaces.
+author: Tara Roth
+published: true
+---
+
+Your first paragraph of text can go here.
+
+## And here’s an example of a title
+
+To see more examples, try opening some of the other posts, or read the markdown guide:
+https://guides.github.com/features/mastering-markdown/
+```
+
+*You can also use one of the other posts as a starting point.*
+
+4. Press the `Commit changes` button
+
+Your new blog post should appear on [blog page](https://goldhirshfoundation.org/blog/) within a few minutes.
 
 ## How to add an image
 
