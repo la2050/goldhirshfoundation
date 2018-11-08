@@ -22,9 +22,9 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ## How to add a blog post
 
-The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)
+*The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
 
-You can also follow these steps, to add a blog post manually…
+*You can also follow these steps, to add a blog post manually…*
 
 1. Open the [\_posts](https://github.com/la2050/goldhirshfoundation/tree/master/_posts) folder.
 
@@ -64,9 +64,13 @@ Your new blog post should appear on [blog page](https://goldhirshfoundation.org/
 
 ## How to add an image
 
+*The easist way to add an image is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
+
+*Here are more details, if you want to add an image using GitHub instead…*
+
 If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
-The [uploads folder](https://github.com/la2050/goldhirshfoundation/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
+The [uploads folder](https://github.com/la2050/goldhirshfoundation/tree/master/_uploads) might be a good choice, if you’re unsure where to put a file.
 
 Once you’ve chosen a folder, follow these steps:
 
