@@ -28,7 +28,7 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ![blog-post](https://user-images.githubusercontent.com/926616/48216238-f7363a00-e338-11e8-8695-74cdd813762e.png)
 
-*You can also follow these steps, to add a blog post manually…*
+*You can also follow these steps, to add a blog post using GitHub…*
 
 1. Open the [\_posts](https://github.com/la2050/goldhirshfoundation/tree/master/_posts) folder.
 
