@@ -103,7 +103,7 @@ main hr + h2 + h3 {
   main {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 1.5em;
+    grid-column-gap: 3em;
     grid-row-gap: 3em;
     /*grid-auto-flow: row dense;*/
   }
