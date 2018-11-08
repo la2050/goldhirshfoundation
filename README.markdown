@@ -22,9 +22,13 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ## How to add a blog post
 
-The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)
+*The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). If you make a change it Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
 
-You can also follow these steps, to add a blog post manually…
+![blog](https://user-images.githubusercontent.com/926616/48216016-78410180-e338-11e8-940c-52ae3c4d0944.png)
+
+![blog-post](https://user-images.githubusercontent.com/926616/48216238-f7363a00-e338-11e8-8695-74cdd813762e.png)
+
+*You can also follow these steps, to add a blog post manually…*
 
 1. Open the [\_posts](https://github.com/la2050/goldhirshfoundation/tree/master/_posts) folder.
 
@@ -64,9 +68,15 @@ Your new blog post should appear on [blog page](https://goldhirshfoundation.org/
 
 ## How to add an image
 
+*The easist way to add an image is to use [Siteleaf](https://www.siteleaf.com). If you make a change it Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
+
+![uploads](https://user-images.githubusercontent.com/926616/48215303-d240c780-e336-11e8-9f6b-24fa6d3781f1.png)
+
+*Here are more details, if you want to add an image using GitHub instead…*
+
 If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
-The [uploads folder](https://github.com/la2050/goldhirshfoundation/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
+The [uploads folder](https://github.com/la2050/goldhirshfoundation/tree/master/_uploads) might be a good choice, if you’re unsure where to put a file.
 
 Once you’ve chosen a folder, follow these steps:
 
