@@ -22,7 +22,7 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ## How to add a blog post
 
-The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes).
+The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). Siteleaf saves its data to the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)
 
 You can also follow these steps, to add a blog post manually…
 
