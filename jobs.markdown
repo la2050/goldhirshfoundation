@@ -24,6 +24,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
   
 <tr>
+  <th scope="row"><a href="https://www.1degree.org/about/join/software-engineer/">Software Engineer</a></th>
+  <td>One Degree</td>
+  <td>Preferrably based in San Francisco, California</td>
+  <td>November 15, 2018</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://www.1degree.org/about/join/ui-ux-designer/">UI/UX Designer</a></th>
   <td>One Degree</td>
   <td>San Francisco, California</td>
