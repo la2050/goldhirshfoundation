@@ -22,27 +22,19 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 </thead>
 <tbody>
-
+  
+  <tr>
+  <th scope="row"><a href="http://skoll.org/job/principal-skoll-foundation/?utm_source=Skoll+Email+List&utm_campaign=7bc4405b8a-EMAIL_CAMPAIGN_2018_09_05_06_10_COPY_01&utm_medium=email&utm_term=0_934f830608-7bc4405b8a-118780021">Principal</a></th>
+  <td>Skoll Foundation</td>
+  <td>Palo Alto, California</td>
+  <td>December 15, 2018</td>
+</tr>
 
 <tr>
-  <th scope="row"><a href="https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=136567">Programme Manager - Developing Talent</a></th>
+  <th scope="row"><a href="https://www.sbs.ox.ac.uk/about-us/work-us/programme-manager-impact-networks?utm_source=Skoll+Email+List&utm_campaign=7bc4405b8a-EMAIL_CAMPAIGN_2018_09_05_06_10_COPY_01&utm_medium=email&utm_term=0_934f830608-7bc4405b8a-118780021">Programme Manager - Impact Networks</a></th>
   <td>Saïd Business School</td>
   <td>Oxford, England</td>
-  <td>September 10, 2018</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://la2050.org/jobs/1503">President and CEO</a></th>
-  <td>Vista Del Mar Child and Family Services</td>
-  <td>Los Angeles, California</td>
-  <td>September 5, 2018</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://la2050.org/jobs/1475">Communications Manager</a></th>
-  <td>Harbor Freight Tools for Schools</td>
-  <td>Los Angeles, California</td>
-  <td>August 10, 2018</td>
+  <td>November 19, 2018</td>
 </tr>
 
 
