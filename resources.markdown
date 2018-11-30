@@ -29,7 +29,7 @@ Financial Capital Opportunities
   <tr>
   <th scope="row"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdrgqGR3KYIZupiX7nQ0ha4NapUZDW13GH9xe-nfi5NCoSIug/viewform">Coding it Forward - Mini-Grant Program</a></th>
   <td>Coding it Forward is launching the Mini-Grant Program to back the passion of students and teams at campuses around the country who want to pursue socially impactful products and projects.</td>
-  <td>January 22, 2019</td>
+  <td>TBD - sign up through the link to receive updates</td>
 </tr>
   
 <tr>
