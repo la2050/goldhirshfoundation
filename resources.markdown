@@ -26,6 +26,12 @@ Financial Capital Opportunities
 </thead>
 <tbody>
   
+  <tr>
+  <th scope="row"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdrgqGR3KYIZupiX7nQ0ha4NapUZDW13GH9xe-nfi5NCoSIug/viewform">Coding it Forward - Mini-Grant Program</a></th>
+  <td>Coding it Forward is launching the Mini-Grant Program to back the passion of students and teams at campuses around the country who want to pursue socially impactful products and projects.</td>
+  <td>January 22, 2019</td>
+</tr>
+  
 <tr>
   <th scope="row"><a href="https://ai.google/social-good/impact-challenge">Google AI for Social Good</a></th>
   <td>Google.org is issuing an open call to organizations around the world to submit their ideas for how they could use AI to help address societal challenges.</td>
