@@ -26,6 +26,12 @@ Financial Capital Opportunities
 </thead>
 <tbody>
   
+ <tr>
+  <th scope="row"><a href="https://www.unitedwayla.org/en/give/disaster-relief-fund/disaster-relief-fund-rfa/">UWGLA Disaster Relief Fund Grant</a></th>
+  <td>On November 9, 2018, United Way of Great Los Angeles (UWGLA) established the Disaster Relief Fund (Fund), in partnership with the United Way of Ventura County (UWVC) and United Ways of California (UWCA).  It is a regional fund with the purpose of supporting low-income residents, communities, and workers affected by the devastating impact of the Woolsey and Hill fires in Ventura and Los Angeles counties.</td>
+  <td>December 20, 2018</td>
+</tr>
+  
   <tr>
   <th scope="row"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdrgqGR3KYIZupiX7nQ0ha4NapUZDW13GH9xe-nfi5NCoSIug/viewform">Coding it Forward - Mini-Grant Program</a></th>
   <td>Coding it Forward is launching the Mini-Grant Program to back the passion of students and teams at campuses around the country who want to pursue socially impactful products and projects.</td>
