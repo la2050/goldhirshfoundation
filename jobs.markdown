@@ -24,6 +24,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
   
 <tr>
+  <th scope="row"><a href="https://la2050.org/jobs/1639">Digital Content and Communications Intern</a></th>
+  <td>Goldhirsh Foundation / LA2050</td>
+  <td>Los Angeles, CA</td>
+  <td>January 7, 2019</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://www.1degree.org/about/join/software-engineer/">Software Engineer</a></th>
   <td>One Degree</td>
   <td>Preferrably based in San Francisco, California</td>
