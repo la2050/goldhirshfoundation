@@ -27,9 +27,9 @@ Financial Capital Opportunities
 <tbody>
   
  <tr>
-  <th scope="row"><a href="https://www.unitedwayla.org/en/give/disaster-relief-fund/disaster-relief-fund-rfa/">UWGLA Disaster Relief Fund Grant</a></th>
-  <td>On November 9, 2018, United Way of Great Los Angeles (UWGLA) established the Disaster Relief Fund (Fund), in partnership with the United Way of Ventura County (UWVC) and United Ways of California (UWCA).  It is a regional fund with the purpose of supporting low-income residents, communities, and workers affected by the devastating impact of the Woolsey and Hill fires in Ventura and Los Angeles counties.</td>
-  <td>December 20, 2018</td>
+  <th scope="row"><a href="https://docs.google.com/document/d/1Ul6sYsVM_D-PkQR0GpicTVATPk7f3O2mjFqjXHmyQr8/edit">New Media Ventures Open Call Application</a></th>
+  <td>New Media Ventures is eager to invest in projects that are building movements, technology, and media to power the future. The application opens January 14 and will close February 11, at 11:59pm PT.</td>
+  <td>February 11, 2019</td>
 </tr>
   
   <tr>
@@ -42,12 +42,6 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://ai.google/social-good/impact-challenge">Google AI for Social Good</a></th>
   <td>Google.org is issuing an open call to organizations around the world to submit their ideas for how they could use AI to help address societal challenges.</td>
   <td>January 22, 2019</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://www.weingartfnd.org/Youth-Organizing-Request-for-Proposals">Youth Organizing Capacity Building Initiative - Request for Proposals</a></th>
-  <td>The Youth Organizing Funder Collaborative invites nonprofit organizations to submit proposals that strengthen the capacity and effectiveness of 501(c)(3) organizations engaged in youth organizing to increase the number of young people of color leading social justice grassroots campaigns, especially from communities most impacted by racial, economic and social injustice in Los Angeles, Orange, Riverside, San Bernardino, Santa Barbara and Ventura counties.</td>
-  <td>December 18, 2018</td>
 </tr>
 
 
