@@ -22,7 +22,14 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 </thead>
 <tbody>
-  
+ 
+<tr>
+  <th scope="row"><a href="https://usccareers.usc.edu/job/los-angeles/project-coordinator/1209/10252330">Project Coordinator</a></th>
+  <td>University of Southern California’s Pullias Center for Higher Education</td>
+  <td>Los Angeles, CA</td>
+  <td>January 8, 2019</td>
+</tr>
+
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1639">Digital Content and Communications Intern</a></th>
   <td>Goldhirsh Foundation / LA2050</td>
