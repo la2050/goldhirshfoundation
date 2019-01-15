@@ -36,36 +36,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
   <td>Los Angeles, CA</td>
   <td>January 7, 2019</td>
 </tr>
-  
-<tr>
-  <th scope="row"><a href="https://www.1degree.org/about/join/software-engineer/">Software Engineer</a></th>
-  <td>One Degree</td>
-  <td>Preferrably based in San Francisco, California</td>
-  <td>November 15, 2018</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://www.1degree.org/about/join/ui-ux-designer/">UI/UX Designer</a></th>
-  <td>One Degree</td>
-  <td>San Francisco, California</td>
-  <td>November 14, 2018</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="http://skoll.org/job/principal-skoll-foundation/?utm_source=Skoll+Email+List&utm_campaign=7bc4405b8a-EMAIL_CAMPAIGN_2018_09_05_06_10_COPY_01&utm_medium=email&utm_term=0_934f830608-7bc4405b8a-118780021">Principal</a></th>
-  <td>Skoll Foundation</td>
-  <td>Palo Alto, California</td>
-  <td>December 15, 2018</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://www.sbs.ox.ac.uk/about-us/work-us/programme-manager-impact-networks?utm_source=Skoll+Email+List&utm_campaign=7bc4405b8a-EMAIL_CAMPAIGN_2018_09_05_06_10_COPY_01&utm_medium=email&utm_term=0_934f830608-7bc4405b8a-118780021">Programme Manager - Impact Networks</a></th>
-  <td>Saïd Business School</td>
-  <td>Oxford, England</td>
-  <td>November 19, 2018</td>
-</tr>
-
-
 
 </tbody>
 </table>
