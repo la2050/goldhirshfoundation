@@ -349,7 +349,7 @@ Our team is always learning and sharing. Here is a list of books we are currentl
 * [10 Day MBA](https://ls2pac.lapl.org/?section=resource&resourceid=21785586)
 * [The Airbnb Story](https://ls2pac.lapl.org/?section=resource&resourceid=1362158604)
 * [Personal History](https://ls2pac.lapl.org/?section=resource&resourceid=25571206)
-
+* [How Luck Happens](https://ls2pac.lapl.org/?section=resource&resourceid=1679845743&currentIndex=0&view=fullDetailsDetailsTab)
 
 
 <div class="image"><img src="/assets/files/1434/toolkit.png" alt="" /></div>
