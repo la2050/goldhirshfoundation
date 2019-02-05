@@ -22,6 +22,20 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 </thead>
 <tbody>
+  
+ <tr>
+  <th scope="row"><a href="https://fusecorps.org/fellowship-openings/launching-a-command-center-to-improve-health-care-coordination/">FUSE Fellow: Launching a Command Center to Improve Health Care Coordination</a></th>
+  <td>FUSE Corps</td>
+  <td>Los Angeles, CA</td>
+  <td>February 5, 2019</td>
+</tr>
+ 
+<tr>
+  <th scope="row"><a href="https://fusecorps.org/fellowship-openings/redesigning-physician-recruitment-to-improve-access-to-care/">FUSE Fellow: Redesigning Physician Recruitment to Improve Access to Care</a></th>
+  <td>FUSE Corps</td>
+  <td>Los Angeles, CA</td>
+  <td>February 5, 2019</td>
+</tr>
  
 <tr>
   <th scope="row"><a href="https://usccareers.usc.edu/job/los-angeles/project-coordinator/1209/10252330">Project Coordinator</a></th>
