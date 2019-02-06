@@ -26,6 +26,12 @@ Financial Capital Opportunities
 </thead>
 <tbody>
   
+<tr>
+  <th scope="row"><a href="https://druckerprize2019.skild.com/skild2/druckerprize2019/loginPage.action?utm_source=Drucker+Institute+news&utm_campaign=0a83001186-EMAIL_CAMPAIGN_2019_02_04_07_18_COPY_01&utm_medium=email&utm_term=0_e7827d2a5b-0a83001186-9514213">The Drucker Prize</a></th>
+  <td>The Drucker Prize (formerly the Drucker Award for Nonprofit Innovation) is a $100,000 award given to the nonprofit organization that is deemed to best meet Drucker’s definition of innovation: “change that creates a new dimension of performance.”</td>
+  <td>April 30, 2019</td>
+</tr>
+  
  <tr>
   <th scope="row"><a href="https://docs.google.com/document/d/1Ul6sYsVM_D-PkQR0GpicTVATPk7f3O2mjFqjXHmyQr8/edit">New Media Ventures Open Call Application</a></th>
   <td>New Media Ventures is eager to invest in projects that are building movements, technology, and media to power the future. The application opens January 14 and will close February 11, at 11:59pm PT.</td>
