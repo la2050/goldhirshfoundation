@@ -22,7 +22,21 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 </thead>
 <tbody>
-  
+
+<tr>
+  <th scope="row"><a href="http://lurnetwork.org/index/careers/">Associate, Operations and Development</a></th>
+  <td>LURN</td>
+  <td>Los Angeles, CA</td>
+  <td>February 12, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="http://lurnetwork.org/index/careers/">Associate, Economic Development Initiatives</a></th>
+  <td>LURN</td>
+  <td>Los Angeles, CA</td>
+  <td>February 12, 2019</td>
+</tr>
+
  <tr>
   <th scope="row"><a href="https://fusecorps.org/fellowship-openings/launching-a-command-center-to-improve-health-care-coordination/">FUSE Fellow: Launching a Command Center to Improve Health Care Coordination</a></th>
   <td>FUSE Corps</td>
