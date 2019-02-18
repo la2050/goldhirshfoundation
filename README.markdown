@@ -22,7 +22,7 @@ For example, if you [edit the LA2050 page](https://github.com/la2050/goldhirshfo
 
 ## How to add a blog post
 
-*The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). If you make a change it Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
+*The easist way to add a blog post is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
 
 ![blog](https://user-images.githubusercontent.com/926616/48216016-78410180-e338-11e8-940c-52ae3c4d0944.png)
 
