@@ -68,7 +68,7 @@ Your new blog post should appear on [blog page](https://goldhirshfoundation.org/
 
 ## How to add an image
 
-*The easist way to add an image is to use [Siteleaf](https://www.siteleaf.com). If you make a change it Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
+*The easist way to add an image is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Megan and Jim have a Siteleaf account.)*
 
 ![uploads](https://user-images.githubusercontent.com/926616/48215303-d240c780-e336-11e8-9f6b-24fa6d3781f1.png)
 
