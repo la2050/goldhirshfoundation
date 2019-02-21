@@ -25,7 +25,7 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
 <tr>
   <th scope="row"><a href="https://app.trinethire.com/companies/17306-the-oped-project-llc/jobs/9973-director-of-fellowships">Director of Fellowships</a></th>
-  <td>Opeed Project</td>
+  <td>Oped Project</td>
   <td>New York City, New York</td>
   <td>February 19, 2019</td>
 </tr>
