@@ -24,6 +24,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://static1.squarespace.com/static/5c491ccc45776ed167c9078c/t/5c68574beef1a1de5b02db22/1550341963507/Mayors+Challenge_Founding+Director+Job+Description.pdf">Founding Director</a></th>
+  <td>South Bend Bloomberg Mayors Challenge</td>
+  <td>South Bend, IN</td>
+  <td>February 26, 2019</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://app.trinethire.com/companies/17306-the-oped-project-llc/jobs/9973-director-of-fellowships">Director of Fellowships</a></th>
   <td>Oped Project</td>
   <td>New York City, New York</td>
