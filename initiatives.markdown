@@ -10,14 +10,6 @@ Initiatives
 Here’s a glimpse of some of the organizations and specific projects we support.
 -----------
 
-
-
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-
-
 ### We invest our capital using three approaches to create systemic change: [civic capital](#1-civic-capital), [seed capital](#2-seed-capital), and [expansion capital](#3-expansion-capital). ###
 
 
