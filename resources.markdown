@@ -25,7 +25,13 @@ Financial Capital Opportunities
 </tr>
 </thead>
 <tbody>
-  
+ 
+ <tr>
+  <th scope="row"><a href="https://www.knightfoundation.org/challenges/public-spaces-fellowship">The Knight Foundation</a></th>
+  <td>The Knight Foundation is taking applications for its Public Spaces Fellowships. The fellowship recognizes leading civic innovators who have created or influenced great public spaces in U.S. communities, creating more opportunities for connection and civic engagement. Chosen fellows will share up to $1 million in grants to continue their work.</td>
+  <td>March 22, 2019</td>
+</tr>
+ 
 <tr>
   <th scope="row"><a href="https://druckerprize2019.skild.com/skild2/druckerprize2019/loginPage.action?utm_source=Drucker+Institute+news&utm_campaign=0a83001186-EMAIL_CAMPAIGN_2019_02_04_07_18_COPY_01&utm_medium=email&utm_term=0_e7827d2a5b-0a83001186-9514213">The Drucker Prize</a></th>
   <td>The Drucker Prize (formerly the Drucker Award for Nonprofit Innovation) is a $100,000 award given to the nonprofit organization that is deemed to best meet Drucker’s definition of innovation: “change that creates a new dimension of performance.”</td>
