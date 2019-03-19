@@ -37,13 +37,8 @@ Financial Capital Opportunities
   <td>The Drucker Prize (formerly the Drucker Award for Nonprofit Innovation) is a $100,000 award given to the nonprofit organization that is deemed to best meet Drucker’s definition of innovation: “change that creates a new dimension of performance.”</td>
   <td>April 30, 2019</td>
 </tr>
-  
- <tr>
-  <th scope="row"><a href="https://docs.google.com/document/d/1Ul6sYsVM_D-PkQR0GpicTVATPk7f3O2mjFqjXHmyQr8/edit">New Media Ventures Open Call Application</a></th>
-  <td>New Media Ventures is eager to invest in projects that are building movements, technology, and media to power the future. The application opens January 14 and will close February 11, at 11:59pm PT.</td>
-  <td>February 11, 2019</td>
-</tr>
-  
+
+ 
   <tr>
   <th scope="row"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdrgqGR3KYIZupiX7nQ0ha4NapUZDW13GH9xe-nfi5NCoSIug/viewform">Coding it Forward - Mini-Grant Program</a></th>
   <td>Coding it Forward is launching the Mini-Grant Program to back the passion of students and teams at campuses around the country who want to pursue socially impactful products and projects.</td>
