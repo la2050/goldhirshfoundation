@@ -24,6 +24,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://grossmanheinz.com/job/job_20190313122604_3OGIKWQEMLHQSAZG">Chief Executive Officer</a></th>
+  <td>Civic Nation</td>
+  <td>Washington, DC</td>
+  <td>March 19, 2019</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://jobs.ucmerced.edu/n/staff/position.jsf?positionId=8722&utm_source=CCST+Executive+Director+-+Job+Posting+&utm_campaign=2019+Science+Fellows+Recruitment+3rd+Email&utm_medium=email">Executive Director</a></th>
   <td>California Council on Science and Technology</td>
   <td>Sacramento,CA</td>
