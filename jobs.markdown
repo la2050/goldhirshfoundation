@@ -24,10 +24,17 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://www.artsforla.org/laura_zucker_fellowship?utm_campaign=newsletter_april_19&utm_medium=email&utm_source=artsforla">Laura Zucker Fellowship for Policy and Research</a></th>
+  <td>Arts for LA</td>
+  <td>Los Angeles, CA</td>
+  <td>March 19, 2019</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://grossmanheinz.com/job/job_20190313122604_3OGIKWQEMLHQSAZG">Chief Executive Officer</a></th>
   <td>Civic Nation</td>
   <td>Washington, DC</td>
-  <td>March 19, 2019</td>
+  <td>April 4, 2019</td>
 </tr>
 
 <tr>
