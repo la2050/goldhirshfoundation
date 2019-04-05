@@ -78,8 +78,6 @@ Oct <strong>3</strong> 2018
 Mar <strong>1</strong> 2018
 : [26th Annual Kravis De-Roulet Leadership Conference, Tara Roth](https://www.kravisleadershipinstitute.org/kravis-de-roulet-conference/)
 
-</details>
-
 
 
 For inquiries please email us at [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org)
