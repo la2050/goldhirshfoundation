@@ -22,6 +22,20 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 </thead>
 <tbody>
+  
+ <tr>
+  <th scope="row"><a href="https://la2050.org/jobs/1968">Assistant to the President (Intern)</a></th>
+  <td>Goldhirsh Foundation</td>
+  <td>Los Angeles, CA</td>
+  <td>May 28, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://la2050.org/jobs/1969">Social Innovation and Design Intern</a></th>
+  <td>Goldhirsh Foundation</td>
+  <td>Los Angeles, CA</td>
+  <td>May 28, 2019</td>
+</tr>
 
 <tr>
   <th scope="row"><a href="https://www.artsforla.org/laura_zucker_fellowship?utm_campaign=newsletter_april_19&utm_medium=email&utm_source=artsforla">Laura Zucker Fellowship for Policy and Research</a></th>
@@ -50,29 +64,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
   <td>South Bend, IN</td>
   <td>February 26, 2019</td>
 </tr>
-
-<tr>
-  <th scope="row"><a href="https://app.trinethire.com/companies/17306-the-oped-project-llc/jobs/9973-director-of-fellowships">Director of Fellowships</a></th>
-  <td>Oped Project</td>
-  <td>New York City, New York</td>
-  <td>February 19, 2019</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="http://lurnetwork.org/index/careers/">Associate, Operations and Development</a></th>
-  <td>LURN</td>
-  <td>Los Angeles, CA</td>
-  <td>February 12, 2019</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="http://lurnetwork.org/index/careers/">Associate, Economic Development Initiatives</a></th>
-  <td>LURN</td>
-  <td>Los Angeles, CA</td>
-  <td>February 12, 2019</td>
-</tr>
-
-
  
 
 </tbody>
