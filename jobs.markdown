@@ -23,6 +23,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+<tr>
+  <th scope="row"><a href="https://la2050.org/jobs/1973">Junior Associate</a></th>
+  <td>Gonring, Spahn & Associates</td>
+  <td>Los Angeles, CA</td>
+  <td>June 3, 2019</td>
+</tr>
+  
  <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1968">Assistant to the President (Intern)</a></th>
   <td>Goldhirsh Foundation</td>
