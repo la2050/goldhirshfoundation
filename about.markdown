@@ -95,22 +95,25 @@ Press
 
 To contact the Goldhirsh Foundation, email [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
 
+Jun <strong>4</strong> 2019
+: [My LA2050 $1 Million Grants Challenge Winners Announced](https://www.prweb.com/releases/my_la2050_1_million_grants_challenge_winners_announced/prweb16350859.htm)
+: Today, the Goldhirsh Foundation announces the winners for its annual <a href="challenge.la2050.org">My LA2050 Grants Challenge</a>, a $1 million online crowdsourced competition for creative ideas that shape the future of LA. [Read more](https://www.prweb.com/releases/my_la2050_1_million_grants_challenge_winners_announced/prweb16350859.htm)
 
 
 Jul <strong>9</strong> 2018
-: [And the My LA2050 Winners Are...](http://www.makechangeawards.com/)
+: [And the My LA2050 Winners Are...](https://www.prweb.com/releases/2018/07/prweb15610130.htm)
 : Today, the Goldhirsh Foundation has announced the winners of the <a href="https://activation.la2050.org">2018 My LA2050 Activation Challenge</a>, an open call for ideas designed to activate 100,000 Angelenos to make LA the best place to learn, create, play, connect, and live. [Read more](https://www.prweb.com/releases/2018/07/prweb15610130.htm)
 
 
 
 May <strong>26</strong> 2018
-: [Stockton's Young Mayor has Bold Turnaround Plan: Basic Income and Stipends for Potential Shooters](http://www.makechangeawards.com/)
+: [Stockton's Young Mayor has Bold Turnaround Plan: Basic Income and Stipends for Potential Shooters](http://www.latimes.com/local/california/la-me-lopez-stockton-money-05272018-story.html)
 : Stockton Mayor Michael Tubbs says that for way too long, his city has been known for headlines about bankruptcy, violent crime and the housing collapse. In the future, he wants it to be known as a place willing to test bold solutions. [Read more](http://www.latimes.com/local/california/la-me-lopez-stockton-money-05272018-story.html)
 
 
 
 Nov <strong>20</strong> 2017
-: [Forget the GOP Tax Plan. Stockton Has a Real Solution for Poverty – Free Money](http://www.makechangeawards.com/)
+: [Forget the GOP Tax Plan. Stockton Has a Real Solution for Poverty – Free Money](http://www.sacbee.com/opinion/opn-columns-blogs/erika-d-smith/article185683993.html)
 : Republicans in Congress certainly talk a good game about helping the poor and middle class, arguing, however unconvincingly, that their rewrite of the tax code will amount to more than just a giveaway to the rich. But all their shameless maneuvering is really doing is making once-crazy, semi-socialistic economic ideas, such as universal basic income, seem sane. [Read more](http://www.sacbee.com/opinion/opn-columns-blogs/erika-d-smith/article185683993.html)
 
 
