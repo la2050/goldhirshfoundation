@@ -23,18 +23,18 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+  <tr>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/cap/view/1342934344/">Office Administrator</a></th>
+  <td>Amplify.LA</td>
+  <td>Los Angeles, CA</td>
+  <td>June 28, 2019</td>
+</tr>
+  
 <tr>
   <th scope="row"><a href="https://la2050.org/jobs/1973">Junior Associate</a></th>
   <td>Gonring, Spahn & Associates</td>
   <td>Los Angeles, CA</td>
   <td>June 3, 2019</td>
-</tr>
-  
- <tr>
-  <th scope="row"><a href="https://la2050.org/jobs/1968">Assistant to the President (Intern)</a></th>
-  <td>Goldhirsh Foundation</td>
-  <td>Los Angeles, CA</td>
-  <td>May 28, 2019</td>
 </tr>
 
 <tr>
@@ -58,19 +58,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
   <td>April 4, 2019</td>
 </tr>
 
-<tr>
-  <th scope="row"><a href="https://jobs.ucmerced.edu/n/staff/position.jsf?positionId=8722&utm_source=CCST+Executive+Director+-+Job+Posting+&utm_campaign=2019+Science+Fellows+Recruitment+3rd+Email&utm_medium=email">Executive Director</a></th>
-  <td>California Council on Science and Technology</td>
-  <td>Sacramento,CA</td>
-  <td>February 26, 2019</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://static1.squarespace.com/static/5c491ccc45776ed167c9078c/t/5c68574beef1a1de5b02db22/1550341963507/Mayors+Challenge_Founding+Director+Job+Description.pdf">Founding Director</a></th>
-  <td>South Bend Bloomberg Mayors Challenge</td>
-  <td>South Bend, IN</td>
-  <td>February 26, 2019</td>
-</tr>
  
 
 </tbody>
