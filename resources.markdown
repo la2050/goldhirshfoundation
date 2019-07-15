@@ -96,7 +96,6 @@ From capital development to crowdsourcing technologies, we are always learning. 
 * [A Sense of Purpose](https://www.blackrock.com/corporate/en-us/investor-relations/larry-fink-ceo-letter)
 * [Space to Lead (2017)](http://www.futurecitiesla.org/space_to_lead_focla?utm_campaign=eventfollowup&utm_medium=email&utm_source=futurecities)
 * [The Op\-Ed Project: Op\-Ed Writing Basic Tips and Tricks](https://www.theopedproject.org/oped-basics/)
-* [This Might Be the Best Idea for Turning Out More Voters in U.S. Elections (2017)](http://nymag.com/daily/intelligencer/2017/07/making-voting-more-engaging-might-make-more-people-vote.html)
 * [Crowdsourcing: Practical Insights for Entrepreneurs, Investors, and Philanthropists (2015)](http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/106/files/original/TaraRothToolsforCrowdsourcing.pdf)
 * [Evolution of an Impact Portfolio: From Implementation to Results (2014)](http://www.sonencapital.com/evolution-of-impact.php)
 * [Insights from a Decade of Philanthropic R&D (2017)](https://durfee.org/durfee-content/uploads/2016/10/Durfee-What-If-Report-FINAL.pdf)
@@ -109,12 +108,10 @@ From capital development to crowdsourcing technologies, we are always learning. 
 
 Our team is always learning and sharing. Here is a list of books we are currently reading. For real\-time updates, [follow the team on twitter](https://twitter.com/GoldhirshFdn/goldhirsh-foundation-team/members).
 
-* [The 48 Laws of Power](https://ls2pac.lapl.org/?section=resource&resourceid=6170941)
 * [The Upside of Your Dark Side](https://ls2pac.lapl.org/?section=resource&resourceid=893534792)
 * [The Rise and Fall of Urban Economies](https://ls2pac.lapl.org/?section=resource&resourceid=1100384479)
 * [The End of the Suburbs](https://ls2pac.lapl.org/?section=resource&resourceid=687503806)
 * [Contagious](https://ls2pac.lapl.org/?section=resource&resourceid=648914865)
-* [10 Day MBA](https://ls2pac.lapl.org/?section=resource&resourceid=21785586)
 * [The Airbnb Story](https://ls2pac.lapl.org/?section=resource&resourceid=1362158604)
 * [Personal History](https://ls2pac.lapl.org/?section=resource&resourceid=25571206)
 * [How Luck Happens](https://ls2pac.lapl.org/?section=resource&resourceid=1679845743&currentIndex=0&view=fullDetailsDetailsTab)
@@ -127,10 +124,7 @@ Our team is always learning and sharing. Here is a list of books we are currentl
 
 We are constantly learning about new and innovative tools to help nonprofits and for\-profits succeed in their latest ventures. Here is a list of tools we love:
 
-* [Spark Adobe](https://spark.adobe.com/)
-* [Omaze](https://www.omaze.com)
 * [CrowdFunder](https://www.crowdfunder.com)
-* [Thunderclap](https://www.thunderclap.it)
 * [ImpactBase](http://www.impactbase.org)
 * [OpenIDEO](https://openideo.com)
 * [IOBY](https://www.ioby.org)
