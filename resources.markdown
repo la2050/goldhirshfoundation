@@ -99,6 +99,12 @@ From capital development to crowdsourcing technologies, we are always learning. 
 * [Crowdsourcing: Practical Insights for Entrepreneurs, Investors, and Philanthropists (2015)](http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/106/files/original/TaraRothToolsforCrowdsourcing.pdf)
 * [Evolution of an Impact Portfolio: From Implementation to Results (2014)](http://www.sonencapital.com/evolution-of-impact.php)
 * [Insights from a Decade of Philanthropic R&D (2017)](https://durfee.org/durfee-content/uploads/2016/10/Durfee-What-If-Report-FINAL.pdf)
+* [The Man With the $13 Billion Checkbook (2019)](https://www.nytimes.com/2019/07/12/nyregion/darren-walker-ford-foundation.html)
+* [10 Reasons Not to Measure Impact - and What to Do Instead (2018)](https://ssir.org/articles/entry/ten_reasons_not_to_measure_impact_and_what_to_do_instead#)
+* [Community Engagement Matters (2016)](https://ssir.org/articles/entry/community_engagement_matters_now_more_than_ever)
+* [Skills, Attitudes, and Behaviours That Fuel Public Innovation (2019)](https://media.nesta.org.uk/documents/Nesta_CompetencyFramework_Guide_July2019.pdf)
+* [The Creativity Bubble (2014)](https://jacobinmag.com/2014/10/the-creativity-bubble)
+* [What Every CEO Needs to Know About 'Superstar' Companies (2019)](https://www.mckinsey.com/featured-insights/innovation-and-growth/what-every-ceo-needs-to-know-about-superstar-companies)
 
 
 
@@ -116,6 +122,11 @@ Our team is always learning and sharing. Here is a list of books we are currentl
 * [Personal History](https://ls2pac.lapl.org/?section=resource&resourceid=25571206)
 * [How Luck Happens](https://ls2pac.lapl.org/?section=resource&resourceid=1679845743&currentIndex=0&view=fullDetailsDetailsTab)
 * [The Library Book](https://ls2pac.lapl.org/?section=resource&resourceid=1805157637&currentIndex=4&view=fullDetailsDetailsTab)
+* [Winners Take All](https://ls2pac.lapl.org/?section=resource&resourceid=1825771073&currentIndex=1&view=fullDetailsDetailsTab)
+* [Lean Impact](https://www.annmei.com/book)
+* [The Power of Habit](https://ls2pac.lapl.org/?section=resource&resourceid=452055546&currentIndex=3&view=fullDetailsDetailsTab)
+* [21 Lessons For the 21st Century](https://ls2pac.lapl.org/?section=resource&resourceid=1872347258&currentIndex=0&view=fullDetailsDetailsTab)
+
 
 
 <div class="image"><img src="/assets/files/1434/toolkit.png" alt="" /></div>
@@ -129,6 +140,9 @@ We are constantly learning about new and innovative tools to help nonprofits and
 * [OpenIDEO](https://openideo.com)
 * [IOBY](https://www.ioby.org)
 * [Data USA: Los Angeles](http://datausa.io/profile/geo/los-angeles-county-ca)
+* [Unsplash](https://unsplash.com/)
+* [USC Neighborhood Data For Social Change](https://data.myneighborhooddata.org/stories/s/xs7g-jqmb)
+
 
 
 </div>
