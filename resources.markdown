@@ -27,9 +27,9 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://www.100andchange.org/">100&Change</a></th>
-  <td>100&Change is a MacArthur Foundation competition for a $100 million grant to fund a single proposal that will make measurable progress toward solving a significant problem.</td>
-  <td>July 28, 2019</td>
+  <th scope="row"><a href="https://kresge.org/opportunities">The Kresge Foundation Grants</a></th>
+  <td>Through the BOOST funding opportunity, Kresge will award up to eight grants of up to $450,000 each to qualifying partnerships between community colleges and nonprofit human services nonprofits, focusing on either aligning and strengthening urban higher education ecosystems or fostering the next generation of human services organizations.</td>
+  <td>July 26, 2019</td>
 </tr>
  
 <tr>
@@ -39,8 +39,20 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
+  <th scope="row"><a href="https://www.patagonia.com/corporate-funding-guidelines.html">Patagonia Corporate Grants Program</a></th>
+  <td>The Corporate Grants Program supports small grassroots activist organizations with provocative direct-action agendas, working strategically on multipronged campaigns to preserve and protect the environment. Through this program, Patagonia funds environmental work that takes place within the United States and is either national in scope or not located near one of their U.S. retail stores.</td>
+  <td>August 31, 2019</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.amgen.com/responsibility/grants-and-giving/amgen-foundation-grants/">Amgen Foundation Grant</a></th>
   <td>The Amgen Foundation seeks to advance excellence in science education to inspire the next generation of innovators, and invest in strengthening communities where Amgen staff members live and work. The Foundation awards grants to local, regional, and international nonprofit organizations that are replicable, scalable and designed to have a lasting and meaningful effect in our communities.</td>
+  <td>Rolling</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.annenberg.org/what-we-do/grantmaking/how-apply/">Annenberg Foundation Grants</a></th>
+  <td>The Annenberg Foundation gives priority to 501(c)(3) nonprofit organizations serving the five-county region of Greater Los Angeles that are well-integrated into the fabric of the communities they serve. Grants are for one year and range from $10,000 to a maximum of $100,000.</td>
   <td>Rolling</td>
 </tr>
 
@@ -53,6 +65,12 @@ Financial Capital Opportunities
 <tr>
   <th scope="row"><a href="https://www.globalinnovation.fund/apply/about/">Global Innovation Fund</a></th>
   <td>The Global Innovation Fund is a non-profit innovation fund that invests in the development, rigorous testing, and scaling of innovations targeted at improving the lives of the world's poorest people.</td>
+  <td>Rolling</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://nathancummings.org/apply-for-a-grant/">The Nathan Cummings Foundation Grant</a></th>
+  <td>The Nathan Cummings Foundation is a multigenerational family foundation, rooted in the Jewish tradition of social justice. It awards grants to support movements, organizations and individuals pursuing justice for people and the planet.</td>
   <td>Rolling</td>
 </tr>
 
