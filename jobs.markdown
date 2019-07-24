@@ -52,8 +52,7 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
  
 
-</tbody>
-</table>
+
 
 
 
