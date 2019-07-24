@@ -56,6 +56,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
 
 
-Have a job to share? Email us: [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
+Have a job to share? Email us: <a href="mailto:team@goldhirshfoundation.org">team@goldhirshfoundation.org</a>
 
 
