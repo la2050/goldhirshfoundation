@@ -23,6 +23,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+  tr>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/cap/view/1342934344/">Executive Director, Becoming A Man (BAM) Program - Los Angeles</a></th>
+  <td>Youth Guidance</td>
+  <td>Los Angeles, CA</td>
+  <td>August 2, 2019</td>
+</tr>
+  
   <tr>
   <th scope="row"><a href="https://www.linkedin.com/jobs/cap/view/1342934344/">Office Administrator</a></th>
   <td>Amplify.LA</td>
