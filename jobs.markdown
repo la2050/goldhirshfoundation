@@ -23,6 +23,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+  <tr>
+  <th scope="row"><a href="https://www.sbs.ox.ac.uk/about-us/our-people/work-us/programme-manager-research-and-insights">Programme Manager, Research and Insights</a></th>
+  <td>Skoll Centre for Social Entrepreneurship</td>
+  <td>Oxford, United Kingdom</td>
+  <td>September 11, 2019</td>
+</tr>
+
    <tr>
   <th scope="row"><a href="https://www.opportunityfund.org/assets/docs/Regional%20Philanthropy%20Manager%20-%20Southern%20California%20%20-%20July%202019.pdf">Regional Philanthropy Manager, Southern California</a></th>
   <td>Opportunity Fund</td>
