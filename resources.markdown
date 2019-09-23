@@ -27,23 +27,11 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://kresge.org/opportunities">The Kresge Foundation Grants</a></th>
-  <td>Through the BOOST funding opportunity, Kresge will award up to eight grants of up to $450,000 each to qualifying partnerships between community colleges and nonprofit human services nonprofits, focusing on either aligning and strengthening urban higher education ecosystems or fostering the next generation of human services organizations.</td>
-  <td>July 26, 2019</td>
+  <th scope="row"><a href="https://innovation.nfte.com/">NFTE</a></th>
+  <td>Through the World Series of Innovation, NFTE invites young people ages 13 to 24 to think big and win cash prizes by submitting their ideas for tackling some of the most important challenges facing the world today.</td>
+  <td>December 16, 2019</td>
 </tr>
  
-<tr>
-  <th scope="row"><a href="http://www.theyoungacademy.org/accelerator/">The Young Foundation Accelerator</a></th>
-  <td>The Accelerator supports cohorts of early-stage education ventures, helping them to develop more effective products and services and become more sustainable organisations that can scale up.</td>
-  <td>August 06, 2019</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://www.patagonia.com/corporate-funding-guidelines.html">Patagonia Corporate Grants Program</a></th>
-  <td>The Corporate Grants Program supports small grassroots activist organizations with provocative direct-action agendas, working strategically on multipronged campaigns to preserve and protect the environment. Through this program, Patagonia funds environmental work that takes place within the United States and is either national in scope or not located near one of their U.S. retail stores.</td>
-  <td>August 31, 2019</td>
-</tr>
-
 <tr>
   <th scope="row"><a href="https://www.amgen.com/responsibility/grants-and-giving/amgen-foundation-grants/">Amgen Foundation Grant</a></th>
   <td>The Amgen Foundation seeks to advance excellence in science education to inspire the next generation of innovators, and invest in strengthening communities where Amgen staff members live and work. The Foundation awards grants to local, regional, and international nonprofit organizations that are replicable, scalable and designed to have a lasting and meaningful effect in our communities.</td>
