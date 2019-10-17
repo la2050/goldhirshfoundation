@@ -11,7 +11,7 @@ LA2050
 <div class="image"><img src="/assets/img/la-2050@x2.png" width="940" height="174" alt="" /></div>
 
 
-Our largest and most ambitious effort is [LA2050](https://activation.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
+Our largest and most ambitious effort is [LA2050](https://challenge.la2050.org/), an initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
 
 LA2050 is rooted in a vision of a successful Los Angeles—a region that is a healthy, thriving, and desirable place to live. Our goal is to work with Angelenos to develop a framework that harnesses the area’s untapped potential and lays out a roadmap for a region that supports the shared success of all Angelenos. We foresee an environment that fosters innovation to solve our greatest challenges and that embraces community.
 
@@ -24,7 +24,7 @@ We’ve looked at the health of the region along well-defined indicators: educat
 
 We’ve engaged tens of thousands of Angelenos through a community visioning process and worked together to establish five goals to make Los Angeles the best place to learn, create, play, connect, and live. To make sure we are on track to get where we want to be by 2050, we are monitoring more than 60 metrics that measure quality of life across the region. Learn more about the LA2050 [goals and metrics](http://la2050.s3-us-west-1.amazonaws.com/reports/1/pdfs/vision_for_a_successful_los_angeles.pdf?1441226432).
 
-And, we’ve asked Angelenos via the [My LA2050 Grants Challenge](https://activation.la2050.org/) how we can turn these goals into action. The Los Angeles community has contributed their creative and innovative ideas to shape LA’s future and has been engaged in the process by voting on their favorite proposals. Check out the all [winners of the My LA2050 Grants Challenge](https://www.la2050.org/grantees).
+And, we’ve asked Angelenos via the [My LA2050 Grants Challenge](https://challenge.la2050.org/) how we can turn these goals into action. The Los Angeles community has contributed their creative and innovative ideas to shape LA’s future and has been engaged in the process by voting on their favorite proposals. Check out the all [winners of the My LA2050 Grants Challenge](https://www.la2050.org/grantees).
 
 Join Us
 -----------
