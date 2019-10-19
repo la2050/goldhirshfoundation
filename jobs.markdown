@@ -23,6 +23,20 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+   <tr>
+  <th scope="row"><a href="https://wondermedianetwork.com/jobs">Sales Strategist</a></th>
+  <td>Wonder Media Network</td>
+  <td>New York City, NY</td>
+  <td>October 17, 2019</td>
+</tr>
+
+ <tr>
+  <th scope="row"><a href="http://www.goldenstateopportunity.org/careers/">Multiple Positions Available</a></th>
+  <td>Golden State Opportunity</td>
+  <td>Multiple Cities, CA</td>
+  <td>October 17, 2019</td>
+</tr>
+  
   <tr>
   <th scope="row"><a href="https://airtable.com/shreVZoWxhL7o16nP">Administrative Assistant</a></th>
   <td>Good Robot</td>
