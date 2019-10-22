@@ -23,6 +23,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+     <tr>
+  <th scope="row"><a href="https://www.idealist.org/en/nonprofit/2c3d4d96fc034af6940b9b8df1cd40a5-economic-security-project-new-york">Multiple Positions</a></th>
+  <td>Economic Security Project</td>
+  <td>New York City, NY</td>
+  <td>October 22, 2019</td>
+</tr>
+  
    <tr>
   <th scope="row"><a href="https://wondermedianetwork.com/jobs">Sales Strategist</a></th>
   <td>Wonder Media Network</td>
