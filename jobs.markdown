@@ -23,6 +23,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
   
+    <tr>
+  <th scope="row"><a href="http://corevc.com/wp-content/uploads/2019/11/Core-Innovation-Capital-Vice-President-Job-Description-1.pdf">Vice President</a></th>
+  <td>Core Innovation Capital</td>
+  <td>San Francisco, CA</td>
+  <td>November 13, 2019</td>
+</tr>
+  
      <tr>
   <th scope="row"><a href="https://www.idealist.org/en/nonprofit/2c3d4d96fc034af6940b9b8df1cd40a5-economic-security-project-new-york">Multiple Positions</a></th>
   <td>Economic Security Project</td>
