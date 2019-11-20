@@ -71,6 +71,7 @@ main h2[id*="team"] ~ h3 img {
   display: block;
   border-radius: 50%;
   width: 250px;
+  filter: grayscale(1);
 }
 @supports (object-fit: cover) {
   main h2[id*="team"] ~ h3 img {
