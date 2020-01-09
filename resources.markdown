@@ -26,11 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
-<tr>
-  <th scope="row"><a href="https://innovation.nfte.com/">NFTE</a></th>
-  <td>Through the World Series of Innovation, NFTE invites young people ages 13 to 24 to think big and win cash prizes by submitting their ideas for tackling some of the most important challenges facing the world today.</td>
-  <td>December 16, 2019</td>
-</tr>
  
 <tr>
   <th scope="row"><a href="https://www.amgen.com/responsibility/grants-and-giving/amgen-foundation-grants/">Amgen Foundation Grant</a></th>
