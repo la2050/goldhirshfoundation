@@ -24,10 +24,10 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
   
     <tr>
-  <th scope="row"><a href="http://corevc.com/wp-content/uploads/2019/11/Core-Innovation-Capital-Vice-President-Job-Description-1.pdf">Vice President</a></th>
-  <td>Core Innovation Capital</td>
-  <td>San Francisco, CA</td>
-  <td>November 13, 2019</td>
+  <th scope="row"><a href="https://la2050.org/jobs/2460">Assistant to the President</a></th>
+  <td>Goldhirsh Foundation</td>
+  <td>Los Angeles, CA</td>
+  <td>January 13, 2020</td>
 </tr>
   
    
