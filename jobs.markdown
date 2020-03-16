@@ -23,8 +23,8 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
 
-#
-    <tr>
+
+#    <tr>
   <th scope="row"><a href="https://la2050.org/jobs/2460">Assistant to the President</a></th>
   <td>Goldhirsh Foundation</td>
   <td>Los Angeles, CA</td>
