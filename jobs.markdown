@@ -11,7 +11,7 @@ Jobs
 The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.
 
 
-
+<!--
 <table>
 <thead>
 <tr>
@@ -32,7 +32,7 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
 </tbody>
 </table>
-  
+-->
  
   
 
