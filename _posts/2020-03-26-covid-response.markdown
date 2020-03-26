@@ -1,14 +1,14 @@
 ---
-title: A message from the Goldhirsh Foundation about COVID-19
+title: Goldhirsh Foundation COVID-19 Response
 date: 2020-03-26 00:00:00 -07:00
 categories:
 - blog
-excerpt: We hope that you, the people you serve, your teams, and your families
-         are doing well and staying safe. We’re thinking of you.
+excerpt: "A message from the Goldhirsh Foundation: We hope that you, the people you serve, your teams, and your families
+         are doing well and staying safe. We’re thinking of you."
 author: Tara Roth
 ---
 
-We hope that you, the people you serve, your teams, and your families are doing well and staying safe. We’re thinking of you.
+A message from the Goldhirsh Foundation: We hope that you, the people you serve, your teams, and your families are doing well and staying safe. We’re thinking of you.
 
 It’s a challenging time. We understand that many of our grantees may have paused programs or pivoted to other activities in response to the current public health crisis. Accordingly, the Goldhirsh Foundation worked with our legal and finance teams to create a streamlined process for grantees to extend their current grants beyond the deadline. All grantees have been notified of this new process.<br /><br />We have also postponed reporting requirements for all current grantees. 
 
