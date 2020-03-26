@@ -12,6 +12,16 @@ https://goldhirshfoundation.org
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
 
+## Deployment status
+
+### staging.goldhirshfoundation.org
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a97872d-0d05-4eaa-946d-bcd52d1e6a97/deploy-status)](https://app.netlify.com/sites/staging-goldhirshfoundation/deploys)
+
+### goldhirshfoundation.org
+
+[github.com/la2050/goldhirshfoundation/deployments](https://github.com/la2050/goldhirshfoundation/deployments)
+
 ## How to make changes
 
 The website is published with [GitHub Pages](https://pages.github.com) and the files are generated with [Jekyll](https://jekyllrb.com).
