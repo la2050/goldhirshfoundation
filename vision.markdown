@@ -11,7 +11,7 @@ Our Vision
 
 We connect the dots between the best **emerging innovations** and the **financial**, **social**, and **human** capital to make them thrive.
 
-<div class="image"><img src="/assets/img/vision_tools@x2.png" width="284" height="151" alt="" /></div>
+<div class="image"><img src="/assets/img/vision_tools@x2.png" width="284" height="151" alt="A set of tools including a paintbrush, wrench, shovel and hammer" /></div>
 
 We find **smart** people doing **creative** things, and we give them the **tools** to do those things better.
 
