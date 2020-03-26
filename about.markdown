@@ -99,6 +99,11 @@ Press
 
 To contact the Goldhirsh Foundation, email [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
 
+Sept <strong>4</strong> 2019
+: [Happy Birthday, LA!]
+(https://la2050.org/blog/happy-birthday-la)
+: In honor of our city's birthday we asked 26 leaders, doers, and innovators to share their birthday wish for the City of Angels. [Read more](https://la2050.org/blog/happy-birthday-la)
+
 Jun <strong>4</strong> 2019
 : [My LA2050 $1 Million Grants Challenge Winners Announced](https://www.prweb.com/releases/my_la2050_1_million_grants_challenge_winners_announced/prweb16350859.htm)
 : Today, the Goldhirsh Foundation announces the winners for its annual <a href="challenge.la2050.org">My LA2050 Grants Challenge</a>, a $1 million online crowdsourced competition for creative ideas that shape the future of LA. [Read more](https://www.prweb.com/releases/my_la2050_1_million_grants_challenge_winners_announced/prweb16350859.htm)
