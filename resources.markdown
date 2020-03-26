@@ -26,9 +26,13 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
- 
 <tr>
-  <th scope="row"><a href="https://www.amgen.com/responsibility/grants-and-giving/amgen-foundation-grants/">Amgen Foundation Grant</a></th>
+  <th scope="row"><a href="https://hftforschoolsprize.org/the-prize">Harbor Freight</a></th>
+  <td>The Harbor Freight Tools for Schools Prize for Teaching Excellence awards more than $1 million to skilled trades teachers in public high schools across the United States. Believing that access to quality skilled trades education gives high school students pathways to graduation, opportunity, good jobs and a workforce our country needs, Harbor Freight Tools for Schools aims to stimulate greater understanding, support and investment by public entities and others in skilled trades education. </td>
+  <td>May 13, 2020</td>
+</tr> 
+<tr>
+  <th scope="row"><a href="https://www.amgen.com/responsibility/grants-and-giving/amgen-foundation-grants/">Amgen Foundation</a></th>
   <td>The Amgen Foundation seeks to advance excellence in science education to inspire the next generation of innovators, and invest in strengthening communities where Amgen staff members live and work. The Foundation awards grants to local, regional, and international nonprofit organizations that are replicable, scalable and designed to have a lasting and meaningful effect in our communities.</td>
   <td>Rolling</td>
 </tr>
