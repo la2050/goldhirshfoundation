@@ -95,15 +95,15 @@ main .body > p:first-child {
     margin-top: 0;
   }
 
-  main .body > p:nth-child(4) ~ p {
+  main .body > p:nth-child(1) ~ p {
     margin-bottom: -3em;
     grid-column: 1/-1;
   }
-  main .body > p:nth-child(5) {
+  .disabled main .body > p:nth-child(5) {
     border-top: 1px solid rgb(177, 177, 177); /* @aluminum */
-    padding-top: 1.5em;
+    /* padding-top: 1.5em;
     padding-top: calc(1.5em - 1px);
-    margin-top: -3em;
+    margin-top: -3em; */
   }
 /*  main .body > p:nth-child(4) ~ *:not(p) ~ p {
     margin-bottom: 0;
