@@ -451,3 +451,10 @@ dl {
     margin-top: 0;
   }
 }
+
+/* OPTIONAL: Make spacing between paragraphs consistent */
+@media (min-width: 60em) {
+  .shim-paragraph-after-short-paragraph {
+    margin-top: -1.5em !important;
+  }
+}
