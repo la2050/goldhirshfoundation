@@ -13,7 +13,7 @@ author: Tara Roth
 
 We hope that you, the people you serve, your teams, and your families are doing well and staying safe. We’re thinking of you.
 
-It’s a challenging time. We understand that many of our grantees may have paused programs or pivoted to other activities in response to the current public health crisis. Accordingly, the Goldhirsh Foundation worked with our legal and finance teams to create a streamlined process for grantees to extend their current grants beyond the deadline. All grantees have been notified of this new process.
+It’s a challenging time. We understand that many of our grantees may have paused programs or pivoted to other activities in response to the current public health crisis. We want to help, so we invite current grantees to request new uses of existing budgets and funds. Accordingly, the Goldhirsh Foundation worked with our legal and finance teams to create a streamlined process for grantees to extend their current grants beyond the deadline. All grantees have been notified of this new process.
 
 We have also postponed reporting requirements for all current grantees.
 
