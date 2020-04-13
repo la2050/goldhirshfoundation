@@ -21,7 +21,7 @@ We have also postponed reporting requirements for all current grantees.
 
 We so appreciate all of the work that you do each and every day. 
 
-<p class="shim-paragraph-after-short-paragraph">Special thank you to Southern California Grantmakers for being a leader in philanthropy and providing resources and directions to grantmakers during this time. Link to SCG pledge.</p>
+<p class="shim-paragraph-after-short-paragraph">Special thank you to Southern California Grantmakers for being a leader in philanthropy and providing resources and directions to grantmakers during this time.</p>
 
 
 Sincerely,
