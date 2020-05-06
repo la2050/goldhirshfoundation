@@ -90,7 +90,7 @@ The Team
 
 ### ![Jake Bishop](/uploads/jake.jpg) <a id="jake" />
 
-**Jake Bishop** is the assistant to the president at the Goldhirsh Foundation. He recently graduated with bachelor degrees in Sociology and Political Science from Chapman University. Jake is passionate about creating a more just society where everyone has equal opportunities no matter how they identify. 
+**Jake Bishop** is the Assistant to the President at the Goldhirsh Foundation. He recently graduated with bachelor's degrees in Sociology and Political Science from Chapman University. Jake is passionate about creating a more just society where everyone has equal opportunities no matter how they identify. 
 
 
 
