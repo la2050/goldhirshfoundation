@@ -54,7 +54,7 @@ Seeding social innovation in Los Angeles.
 : Finding, funding, and fostering creativity and entrepreneurship in youth.
 : _Inspired by Caine’s Arcade, we provided seed funding to build an organization that would support more kids like Caine. We want to “help kids not only to learn how to build the things they imagine, but to also imagine the world they can build.”_
 
-[Hammer Museum Arts Restore LA](http://artsrestore.la)
+[Hammer Museum Arts Restore LA](https://hammer.ucla.edu/programs-events/2013/11/arts-restore-la-westwood)
 : The Hammer Museum at UCLA believes in the promise of art and ideas to illuminate our lives and build a more just world.
 : _The Hammer Museum tapped into the thriving Los Angeles creative community to curate an artisanal pop-up village in Westwood and offer a long term strategy to turn the neighborhood around._
 
@@ -62,7 +62,7 @@ Seeding social innovation in Los Angeles.
 : Promoting gender diversity and inspiring innovation in the STEM fields
 : _GALA is LAUSD’s first all-girls public school. With a STEM-centered curriculum, GALA’s students will apply their academic and technology skills to build projects in a flexible, collaborative learning environment._
 
-[Locke Jet Space](http://myla2050.maker.good.is/projects/salamanderproject)
+[Locke Jet Space](https://inhabitat.com/lock-jet-space-awesome-hexagonal-book-towers-update-boring-school-library/)
 : No Right Brain Left Behind's mission is to instill creativity in education. Green Dot Public Schools' mission is to help transform public education so all students graduate prepared for college, leadership, and life.
 : _No Right Brain Left Behind and Green Dot Public Schools transformed a neglected library at Locke High School into the Locke Jet Space to foster students’ exploration, critical thinking, and collaborative problem solving._
 
