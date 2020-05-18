@@ -24,7 +24,7 @@ We’ve looked at the health of the region along well-defined indicators: educat
 
 We’ve engaged tens of thousands of Angelenos through a community visioning process and worked together to establish five goals to make Los Angeles the best place to learn, create, play, connect, and live. To make sure we are on track to get where we want to be by 2050, we are monitoring more than 60 metrics that measure quality of life across the region. Learn more about the LA2050 [goals and metrics](https://la2050.org/goals).
 
-And, we’ve asked Angelenos via the [My LA2050 Grants Challenge](https://challenge.la2050.org/) how we can turn these goals into action. The Los Angeles community has contributed their creative and innovative ideas to shape LA’s future and has been engaged in the process by voting on their favorite proposals. Check out the all [winners of the My LA2050 Grants Challenge](https://www.la2050.org/grantees).
+And, we’ve asked Angelenos via the [My LA2050 Grants Challenge](https://challenge.la2050.org/) how we can turn these goals into action. The Los Angeles community has contributed their creative and innovative ideas to shape LA’s future and has been engaged in the process by voting on their favorite proposals. Check out the all winners of the My LA2050 Grants Challenge below.
 
 Join Us
 -----------
@@ -106,38 +106,38 @@ LIVE
 #### Top Voted ####
 
 LEARN
-: [Altasea](http://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean/)  
+: [Altasea](hhttps://archive.la2050.org/altasea-at-the-port-of-los-angeles/)  
 
 CREATE
-: [Geena Davis Institute on Gender in Media](http://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape-)  
+: [Geena Davis Institute on Gender in Media](https://archive.la2050.org/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/)  
 
 PLAY
-: [The Triforium Project](http://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles)  
+: [The Triforium Project](https://archive.la2050.org/the-triforium-project/)  
 
 CONNECT
-: [Big Citizen Hub](http://challenge.la2050.org/entry/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service)  
+: [Big Citizen Hub](https://archive.la2050.org/big-citizen-hub/)  
 
 LIVE
-: [The Sierra Club Foundation](http://challenge.la2050.org/entry/the-future-is-bright-a-clean-energy-future-for-la)  
+: [The Sierra Club Foundation](https://archive.la2050.org/the-sierra-club-foundation/)  
 
 #### Jury Voted ####
 
 LEARN
-: [Lost Angels Children's Project](http://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration)  
+: [Lost Angels Children's Project](https://archive.la2050.org/lost-angels-childrens-project/)  
 
 CREATE
-: [California Institute of Technology](http://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations)  
-: [Opportunity Fund](http://challenge.la2050.org/entry/catalyzing-community-partnerships-to-create-economic-mobility-for-las-underserved-entrepreneurs)  
+: [California Institute of Technology](https://archive.la2050.org/california-institute-of-technology/)  
+: [Opportunity Fund](https://archive.la2050.org/opportunity-fund/)  
 
 PLAY
-: [Surf Bus Foundation](http://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-toes-as-in-on-the-nose)  
+: [Surf Bus Foundation](https://archive.la2050.org/surf-bus-foundation/)  
 
 CONNECT
-: [Tierra Del Sol Foundation](http://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism)  
-: [Friends of the Family](http://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up)  
+: [Tierra Del Sol Foundation](https://archive.la2050.org/tierra-del-sol-foundation/)  
+: [Friends of the Family](https://archive.la2050.org/friends-of-the-family/)  
 
 LIVE
-: [Covenant House California](http://challenge.la2050.org/entry/the-precise-barber-college)  
+: [Covenant House California](https://archive.la2050.org/covenant-house-california/)  
 
 
 
@@ -150,36 +150,36 @@ LIVE
 #### Top Voted ####
 
 LEARN
-: [Citizens of the World](http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html)  
+: [Citizens of the World](https://archive.la2050.org/citizens-of-the-world-charter-schools-los-angeles/)  
 
 CREATE
-: [Los Angeles Review of Books](http://myla2050create2015.maker.good.is/projects/LARB)  
+: [Los Angeles Review of Books](https://archive.la2050.org/los-angeles-review-of-books/)  
 
 PLAY
-: [Grand Park](http://myla2050play2015.maker.good.is/projects/acoolergrandpark)  
+: [Grand Park](https://archive.la2050.org/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/)  
 
 CONNECT
-: [Los Angeles Promise Zone Initiative](http://myla2050connect2015.maker.good.is/projects/Young_Ethnographers)  
+: [Los Angeles Promise Zone Initiative](https://archive.la2050.org/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/)  
 
 LIVE
-: [Heal the Bay](http://myla2050live2015.maker.good.is/projects/DroppingKnowledgeLA)  
+: [Heal the Bay](https://archive.la2050.org/heal-the-bay/)  
 
 #### Jury Voted ####
 
 LEARN
-: [Girls Academic Leadership Academy](http://myla2050learn2015.maker.good.is/projects/GALA2015)  
+: [Girls Academic Leadership Academy](https://archive.la2050.org/girls-academic-leadership-academy-gala/)  
 
 CREATE
-: [Los Angeles Bioscience Hub](http://myla2050create2015.maker.good.is/projects/BiotechLeaders)  
+: [Los Angeles Bioscience Hub](https://archive.la2050.org/los-angeles-bioscience-hub/)  
 
 PLAY
-: [People for Parks](http://myla2050play2015.maker.good.is/projects/peopleforparks)  
+: [People for Parks](https://archive.la2050.org/people-for-parks/)  
 
 CONNECT
-: [CASA of Los Angeles](http://myla2050connect2015.maker.good.is/projects/casalosangeles)  
+: [CASA of Los Angeles](https://archive.la2050.org/casa-of-los-angeles/)  
 
 LIVE
-: [Iraq and Afghanistan Veterans of America](http://myla2050live2015.maker.good.is/projects/vetsrisingLA)
+: [Iraq and Afghanistan Veterans of America](https://archive.la2050.org/iraq-and-afghanistan-veterans-of-america-iava/)
 
 
 
@@ -192,16 +192,16 @@ LIVE
 #### Top Voted ####
 
 PLAY
-: [Enrich LA](http://maker.good.is/myLA2050play/projects/enrichla.html)  
+: [Enrich LA](https://archive.la2050.org/enrichla/)  
 
 LEARN
-: [City Year LA and Partnership for LA Schools](http://maker.good.is/myLA2050learn/projects/CYLAPLAS.html)  
+: [City Year LA and Partnership for LA Schools](https://archive.la2050.org/city-year-los-angeles/)  
 
 LIVE
-: [UCLA Grand Challenges](http://maker.good.is/myLA2050live/projects/UCLAHotterLA.html)  
+: [UCLA Grand Challenges](https://archive.la2050.org/ucla-grand-challenges/)  
 
 CONNECT
-: [Special Olympics World Games 2015](http://maker.good.is/myLA2050connect/projects/LA2015.html)  
+: [Special Olympics World Games 2015](https://archive.la2050.org/special-olympics-world-games-2015/)  
 
 CREATE
 : [StreetCraft LA](http://maker.good.is/myLA2050create/projects/streetcraftla.html)  
@@ -209,19 +209,19 @@ CREATE
 #### Jury Voted ####
 
 PLAY
-: [Pershing Square Park Advisory Council](http://maker.good.is/myLA2050play/projects/KidsplayatPS.html)  
+: [Pershing Square Park Advisory Council](https://archive.la2050.org/pershing-square-park-advisory-board/)  
 
 LEARN
-: [The Incubator School](http://maker.good.is/myLA2050learn/projects/incubator.html)  
+: [The Incubator School](https://archive.la2050.org/the-incubator-school/)  
 
 LIVE
-: [The Trust for the Public Land](http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html)  
+: [The Trust for the Public Land](https://archive.la2050.org/the-trust-for-public-land/)  
 
 CONNECT
-: [Move LA](http://maker.good.is/myLA2050connect/projects/MoveLA.html)  
+: [Move LA](https://archive.la2050.org/move-la/)  
 
 CREATE
-: [Downtown Women's Center](http://maker.good.is/myLA2050create/projects/DTwomenscenter.html)
+: [Downtown Women's Center](https://archive.la2050.org/downtown-womens-center/)
 
 
 
@@ -232,32 +232,32 @@ CREATE
 ### 2013 ###
 
 Arts & Cultural Vitality
-: [Hammer Museum](http://maker.good.is/myla2050/projects/Hammer_Museum.html)  
+: [Hammer Museum](https://archive.la2050.org/hammer-museum/)  
 
 Education
-: [826LA](http://maker.good.is/myla2050/projects/826LA.html)  
+: [826LA](https://archive.la2050.org/826la/)  
 
 Environmental Quality
-: [CHC, C-Lab, 596 Acres](http://maker.good.is/myla2050/projects/LAOpenAcres.html)  
+: [CHC, C-Lab, 596 Acres](https://archive.la2050.org/community-health-councils/)  
 
 Health
-: [Public Matters](http://maker.good.is/myla2050/projects/MARKETMAKEOVERS.html)  
+: [Public Matters](https://archive.la2050.org/public-matters/)  
 
 Housing
-: [TRUST South LA](http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html)  
+: [TRUST South LA](https://archive.la2050.org/trust-south-la-tenemos-que-reclamar-y-unidos-salvar-la-tierra-south-la/)  
 
 Income & Employment
-: [ELACC & LURN](http://maker.good.is/myla2050/projects/streetvendors.html)  
+: [ELACC & LURN](https://archive.la2050.org/east-la-community-corporation-elacc/)  
 
 Public Safety
-: [Homeboy Industries](http://maker.good.is/myla2050/projects/homeboyindustries.html)  
+: [Homeboy Industries](https://archive.la2050.org/homeboy-industries/)  
 
 Social Connectedness
-: [CicLAvia](http://maker.good.is/myla2050/projects/CicLAvia.html)  
+: [CicLAvia](https://archive.la2050.org/ciclavia/)  
 
 Wild Card
-: [Mission Asset Fund](http://maker.good.is/myla2050/projects/LendingCircles.html)  
-: [No Right Brain Left Behind & Green Dot Public Schools](http://maker.good.is/myla2050/projects/salamanderproject.html)
+: [Mission Asset Fund](https://archive.la2050.org/mission-asset-fund/)  
+: [No Right Brain Left Behind & Green Dot Public Schools](https://archive.la2050.org/no-right-brain-left-behind-and-green-dot-schools/)
 
 
 
