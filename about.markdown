@@ -65,7 +65,7 @@ The Team
 
 ### ![Ben Goldhirsh](/uploads/ben.jpg) <a id="ben-goldhrish" />
 
-**Ben Goldhirsh** is the co-founder and former CEO of GOOD, a global community of, by, and for pragmatic idealists working towards individual and collective progress. Ben is the Chairman of The Goldhirsh Foundation, an organization built to help social innovators implement and scale solutions to critical societal challenges. He is a co-founder and board member of [City Year Los Angeles](http://www.cityyear.org/losangeles) and sits on the boards of the [Ad Council](https://www.adcouncil.org/) and [Unite LA](https://www.unitela.com/). Goldhirsh graduated from Brown University and currently resides in Los Angeles.
+**Ben Goldhirsh** is the co-founder and former CEO of GOOD, a global community of, by, and for pragmatic idealists working towards individual and collective progress. Ben is the Chairman of The Goldhirsh Foundation, an organization built to help social innovators implement and scale solutions to critical societal challenges. He is a co-founder and board member of [City Year Los Angeles](http://www.cityyear.org/losangeles) and sits on the boards of the [Ad Council](https://www.adcouncil.org/). Goldhirsh graduated from Brown University and currently resides in Los Angeles.
 
 <p>
   <a href="https://twitter.com/goldhirsh">
