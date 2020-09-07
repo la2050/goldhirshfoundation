@@ -104,8 +104,7 @@ Press
 To contact the Goldhirsh Foundation, email [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
 
 Sept <strong>4</strong> 2019
-: [Happy Birthday, LA!]
-(https://la2050.org/blog/happy-birthday-la)
+: [Happy Birthday, LA!](https://la2050.org/blog/happy-birthday-la)
 : In honor of our city's birthday we asked 26 leaders, doers, and innovators to share their birthday wish for the City of Angels. [Read more](https://la2050.org/blog/happy-birthday-la)
 
 Jun <strong>4</strong> 2019
