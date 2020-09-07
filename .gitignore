@@ -1,5 +1,4 @@
 /_site
 /_node/node_modules
 /.jekyll-metadata
-/Gemfile.lock
 .DS_Store
