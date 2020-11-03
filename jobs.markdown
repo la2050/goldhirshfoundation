@@ -10,8 +10,6 @@ Jobs
 
 The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.
 
-
-
 <table>
 <thead>
 <tr>
@@ -28,14 +26,6 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
   <td>The Wellbeing Project</td>
   <td>Los Angeles, CA</td>
   <td>November 30, 2020</td>
-</tr>
-
-
-<tr>
-  <th scope="row"><a href="https://la2050.org/jobs/2460">Assistant to the President</a></th>
-  <td>Goldhirsh Foundation</td>
-  <td>Los Angeles, CA</td>
-  <td>January 13, 2020</td>
 </tr>
 
 </tbody>
