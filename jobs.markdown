@@ -22,7 +22,7 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://la2050.org/jobs/2460">Development and Partnership Manager/Lead</a></th>
+  <th scope="row"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6729014433529511936/">Development and Partnership Manager/Lead</a></th>
   <td>The Wellbeing Project</td>
   <td>Los Angeles, CA</td>
   <td>November 30, 2020</td>
