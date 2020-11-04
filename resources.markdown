@@ -62,23 +62,6 @@ Financial Capital Opportunities
   <td>Rolling</td>
 </tr>
 
-<tr>
-  <th scope="row"><a href="https://www.arts.gov/grants-organizations/our-town/grant-program-description">National Endowment for the Arts</a></th>
-  <td> Our Town is the National Endowment for the Arts’ creative placemaking grants program. Through project-based funding, we support projects that integrate arts, culture, and design activities into efforts that strengthen communities by advancing local economic, physical, and/or social outcomes.</td>
-  <td>August 6th, 2020 by 11:59 p.m., Eastern Time</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="http://snaap.indiana.edu/pdf/Call%20for%20Fellows.pdf">Strategic National Arts Alumni Project</a></th>
-  <td>To further expand existing knowledge about the lives and careers of arts graduates, the Board of Directors of Arts & Design Alumni Research (SNAAP) invites proposals from scholars and researchers to develop and conduct new research using the quantitative items in the SNAAP database of arts alumni and be named SNAAP Research Fellows.</td>
-  <td>August 31st, 2020</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://thebennettprize.org/">The Pittsburgh Foundation</a></th>
-  <td>The Bennett Prize is a stipend/grant-in-aid program established by American art collectors Steven Alan Bennett and Dr. Elaine Melotti Schmidt to support the fine art practice of a woman painter working in figurative realism.</td>
-  <td>October 16th, 2020</td>
-</tr>
 
 </tbody>
 </table>
