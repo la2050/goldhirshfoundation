@@ -21,6 +21,14 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
 
+
+<tr>
+  <th scope="row"><a href="https://www.theopedproject.org/work-with-us">Finance & Operations Manager/Lead</a></th>
+  <td>The OpEd Project</td>
+  <td>New York City, NY</td>
+  <td>December 4, 2020</td>
+</tr>
+
 <tr>
   <th scope="row"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6729014433529511936/">Development and Partnership Manager/Lead</a></th>
   <td>The Wellbeing Project</td>
