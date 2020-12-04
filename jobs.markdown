@@ -30,10 +30,24 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6729014433529511936/">Development and Partnership Manager/Lead</a></th>
-  <td>The Wellbeing Project</td>
-  <td>Madrid or Paris preferred</td>
-  <td>November 30, 2020</td>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2311456787/">Director of Foundation Services/Lead</a></th>
+  <td>The Giving Back Fund</td>
+  <td>Los Angeles, CA</td>
+  <td>December 1, 2020</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2318927061/">Executive Vice President, Chief Learning Officer/Lead</a></th>
+  <td>Teach For America</td>
+  <td>Los Angeles, CA</td>
+  <td>November 27, 2020</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2304911571/">Executive Director/Lead</a></th>
+  <td>Age of Learning Foundation</td>
+  <td>Glendale, CA</td>
+  <td>November 27, 2020</td>
 </tr>
 
 <tr>
