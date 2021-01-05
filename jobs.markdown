@@ -23,6 +23,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
 
 <tr>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-424711-executive-director-talent-search-division">Executive Director, Talent Search Division/Lead</a></th>
+  <td>Stronger Consulting</td>
+  <td>San Diego, California</td>
+  <td>December 16, 2020</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.theopedproject.org/work-with-us">Finance & Operations Manager/Lead</a></th>
   <td>The OpEd Project</td>
   <td>New York City, NY</td>
