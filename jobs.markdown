@@ -21,6 +21,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </thead>
 <tbody>
 
+<tr>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-426533-marketing-manager-">Marketing Manager/Lead</a></th>
+  <td>Stronger Consulting</td>
+  <td>Boston, Massachusetts</td>
+  <td>December 23, 2020</td>
+</tr>
+
 
 <tr>
   <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-424711-executive-director-talent-search-division">Executive Director, Talent Search Division/Lead</a></th>
