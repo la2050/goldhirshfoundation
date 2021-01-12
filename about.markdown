@@ -80,10 +80,6 @@ The Team
   </a>
 </p>
 
-### ![Megan Loughman](/uploads/megan.jpg) <a id="megan" />
-
-**Megan Loughman** is the Social Innovation Coordinator at the Goldhirsh Foundation. She graduated with a bachelor’s degree in humanities from the University of Colorado Boulder and is currently working to complete her master's in public policy at USC’s Sol Price School of Public Policy. Megan is also an active participant on the board of her family’s foundation, The Roy and Patricia Disney Family Foundation (RPDFF).
-
 ### ![LeAnn Kelch](/uploads/leann.jpg) <a id="leann" />
 
 **LeAnn Kelch** is the Social Innovation Coordinator at the Goldhirsh Foundation. She graduated with a B.A. in International Development Studies from the University of California, Los Angeles and recently received her Master’s in Urban Planning and Master’s in Public Administration from the USC Sol Price School of Public Policy. LeAnn is passionate about advancing work that breaks barriers and promotes the thriving of all people in Los Angeles.
