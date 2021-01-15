@@ -22,6 +22,20 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429544-search-and-recruitment-role-leaderheadhunter-">Search and Recruitment Role Leader/Headhunter/Lead</a></th>
+  <td>Stronger Consulting</td>
+  <td>San Diego, California</td>
+  <td>January 14, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429468-manager-recuitment">Recruitment Manager/Lead</a></th>
+  <td>Stronger Consulting</td>
+  <td>San Diego, California</td>
+  <td>January 13, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-426533-marketing-manager-">Marketing Manager/Lead</a></th>
   <td>Stronger Consulting</td>
   <td>Boston, Massachusetts</td>
