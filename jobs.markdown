@@ -72,14 +72,14 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2304911571/">Executive Director/Lead</a></th>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2304911571/">Executive Director</a></th>
   <td>Age of Learning Foundation</td>
   <td>Glendale, CA</td>
   <td>November 27, 2020</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-422747-vice-president-external-affairs-">Vice President, External Affairs/Lead</a></th>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-422747-vice-president-external-affairs-">Vice President, External Affairs</a></th>
   <td>Latinos for Education</td>
   <td>Boston, Massachusetts</td>
   <td>November 30, 2020</td>
