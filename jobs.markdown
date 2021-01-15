@@ -22,21 +22,21 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429544-search-and-recruitment-role-leaderheadhunter-">Search and Recruitment Role Leader/Headhunter/Lead</a></th>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429544-search-and-recruitment-role-leaderheadhunter-">Search and Recruitment Role Leader/Headhunter</a></th>
   <td>Stronger Consulting</td>
   <td>San Diego, California</td>
   <td>January 14, 2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429468-manager-recuitment">Recruitment Manager/Lead</a></th>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429468-manager-recuitment">Recruitment Manager</a></th>
   <td>Stronger Consulting</td>
   <td>San Diego, California</td>
   <td>January 13, 2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-426533-marketing-manager-">Marketing Manager/Lead</a></th>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-426533-marketing-manager-">Marketing Manager</a></th>
   <td>Stronger Consulting</td>
   <td>Boston, Massachusetts</td>
   <td>December 23, 2020</td>
@@ -44,28 +44,28 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 
 
 <tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-424711-executive-director-talent-search-division">Executive Director, Talent Search Division/Lead</a></th>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-424711-executive-director-talent-search-division">Executive Director, Talent Search Division</a></th>
   <td>Stronger Consulting</td>
   <td>San Diego, California</td>
   <td>December 16, 2020</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.theopedproject.org/work-with-us">Finance & Operations Manager/Lead</a></th>
+  <th scope="row"><a href="https://www.theopedproject.org/work-with-us">Finance & Operations Manager</a></th>
   <td>The OpEd Project</td>
   <td>New York City, NY</td>
   <td>December 4, 2020</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2311456787/">Director of Foundation Services/Lead</a></th>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2311456787/">Director of Foundation Services</a></th>
   <td>The Giving Back Fund</td>
   <td>Los Angeles, CA</td>
   <td>December 1, 2020</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2318927061/">Executive Vice President, Chief Learning Officer/Lead</a></th>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/2318927061/">Executive Vice President, Chief Learning Officer</a></th>
   <td>Teach For America</td>
   <td>Los Angeles, CA</td>
   <td>November 27, 2020</td>
