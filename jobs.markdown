@@ -22,6 +22,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-425126-managing-director-md-greater-houston-">Managing Director Greater Houston/Headhunter</a></th>
+  <td>Latinos for Education</td>
+  <td>Houston, Texas</td>
+  <td>January 15, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429544-search-and-recruitment-role-leaderheadhunter-">Search and Recruitment Role Leader/Headhunter</a></th>
   <td>Stronger Consulting</td>
   <td>San Diego, California</td>
