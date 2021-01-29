@@ -1,0 +1,149 @@
+
+/* =Promotion
+----------------------------------------------- */
+.promotion {
+  text-align: center;
+  border-bottom: 1px solid rgb(177, 177, 177);
+  --primary-color: rgb(56, 175, 77); /* Green */
+  color: rgba(31, 35, 32, 0.6);
+}
+.promotion a {
+  color: inherit;
+  font-weight: 600;
+}
+.promotion a {
+  display: inline-block;
+}
+.promotion a:hover,
+.promotion a:active,
+.promotion a:focus {
+  color: var(--primary-color, inherit);
+}
+.promotion h1,
+.promotion p {
+  display: inline;
+}
+.promotion h1 {
+  max-width: none;
+  font-size: inherit;
+  font-weight: bold;
+  text-transform: none;
+  letter-spacing: inherit;
+}
+.promotion p {
+  font-size: inherit;
+}
+
+.promotion {
+  margin-left: -1.5em;
+  margin-right: -1.5em;
+  margin-top: -1.5em;
+  margin-bottom: 1.5em;
+  padding: 1.5em;
+}
+@media (min-width: 40em) {
+  .promotion {
+    margin-left: -3em;
+    margin-right: -3em;
+    margin-top: -3em;
+    padding: 1.5em 3em;
+  }
+}
+
+@media (min-width: 70em) {
+  .promotion {
+    margin-left: -16.18vmin;
+    margin-right: -16.18vmin;
+    margin-top: -10vmin;
+    padding: 1.5em 16.18vmin;
+  }
+}
+
+
+.promotion .action {
+  font-size: 0.75em;
+  display: block;
+  max-width: none;
+}
+.promotion .action a {
+  background: white;
+  border-color: black;
+  border-color: var(--primary-color, black);
+  color: black;
+  color: var(--primary-color, black);
+}
+.promotion .action a:hover,
+.promotion .action a:active,
+.promotion .action a:focus {
+  background-color: black;
+  background-color: var(--primary-color, black);
+  color: white;
+}
+
+
+@media (min-width: 70em) {
+  .promotion .action {
+    display: inline-block;
+    margin-top: -1.25em;
+    margin-left: 1.5em;
+    margin-bottom: -1em;
+    vertical-align: middle;
+  }
+}
+
+/* SHIM: Switch to a grid layout */
+@supports (display: grid) {
+  .promotion .action {
+    margin-top: 2.25em;
+    margin-bottom: 0.75em;
+  }
+  @media (min-width: 40em) {
+    .promotion {
+      display: grid;
+      grid-auto-flow: dense;
+      grid-template-columns: 1fr auto;
+      grid-column-gap: 2.25em;
+    }
+    .promotion h1,
+    .promotion p {
+      grid-column: -2 / -1;
+      justify-self: start;
+      text-align: start;
+      margin: 0;
+      align-self: center;
+      max-width: unset;
+      padding-right: 0.75em;
+    }
+    .promotion .action {
+      white-space: nowrap;
+      grid-row: 1 / 3;
+      grid-column: 1 / 2;
+      justify-self: end;
+      margin: 0;
+      align-self: center;
+      text-align: center;
+    }
+  }
+}
+
+
+.page-home .promotion {
+  border-bottom-color: black;
+  color: black;
+}
+.page-home .promotion a:hover,
+.page-home .promotion a:active,
+.page-home .promotion a:focus {
+  color: white;
+}
+.page-home .promotion .action a {
+  background-color: transparent;
+  color: black;
+  border-color: black;
+}
+.page-home .promotion .action a:hover,
+.page-home .promotion .action a:active,
+.page-home .promotion .action a:focus {
+  color: white;
+  border-color: white;
+}

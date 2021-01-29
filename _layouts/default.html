@@ -4,12 +4,14 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}{% unless page.title contains "Goldhirsh Foundation" %}, Goldhirsh Foundation {% endunless %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- TEMPORARY: Jim’s Typekit account -->
   <link rel="stylesheet" href="https://use.typekit.net/hja0dgt.css" />
 
   <link href="/assets/css/shared.css?v={{ site.version }}" rel="stylesheet" />
+  <link href="/assets/css/action.css?v={{ site.version }}" rel="stylesheet" />
+  <link href="/assets/css/promotion.css?v={{ site.version }}" rel="stylesheet" />
 
   {% if page.stylesheets %}
     {% assign stylesheets = page.stylesheets %}
@@ -67,6 +69,11 @@
 </head>
 
 <body class="page-{{ page.url | replace: '/', '' }}{% if page.url == '/' %}home{% endif %}">
+
+  <section class="promotion">
+    {% capture promotion %}{% include promotion.markdown %}{% endcapture %}
+    {{ promotion | markdownify }}
+  </section>
 
   <header>
     <h2>
