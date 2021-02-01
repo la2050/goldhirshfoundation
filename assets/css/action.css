@@ -1,0 +1,28 @@
+
+/* =Action
+----------------------------------------------- */
+.action a {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  background-color: black;
+  border: 0.1875em solid black;
+  color: white;
+  background-color: var(--strawberry);
+  border-color: var(--strawberry);
+  color: var(--snow);
+  padding: 0.75em 1.5em;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600; /* @semibold */
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+.action a:hover,
+.action a:active,
+.action a:focus {
+  background-color: var(--snow);
+  color: var(--strawberry);
+}
