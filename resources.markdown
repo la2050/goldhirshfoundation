@@ -27,49 +27,43 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://blackambitionprize.com/">"Black Ambition"</a></th>
+  <th scope="row"><a href="https://blackambitionprize.com/">Black Ambition</a></th>
   <td>"The initiative provides $1,250,000+ in funding in two categories: Black Ambition HBCU Prize – will award grant funding to seed or early-stage ventures with at least one Black and/or Latinx founder/co-founder that is an HBCU undergraduate, graduate student, or a former student. Black Ambition will award up to $50K in grants for a Business Concept idea"</td>
   <td>2-18-2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://iwmf.submittable.com/submit">""United States Journalism Emergency Fund"</a></th>
+  <th scope="row"><a href="https://iwmf.submittable.com/submit">United States Journalism Emergency Fund</a></th>
   <td>"To qualify for this Fund, you must be a U.S.-based journalist of any gender (including men) targeted as a result of your reporting at events related to the highly charged political unrest and polarization in the U.S., including elections, civil movements and other challenging environments."</td>
   <td>2-21-2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://iwmf.submittable.com/submit">""United States Journalism Emergency Fund"</a></th>
-  <td>"To qualify for this Fund, you must be a U.S.-based journalist of any gender (including men) targeted as a result of your reporting at events related to the highly charged political unrest and polarization in the U.S., including elections, civil movements and other challenging environments."</td>
-  <td>2-24-2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://tribecafilm.com/attuntoldstories">"AT&T Untold Stories"</a></th>
+  <th scope="row"><a href="https://tribecafilm.com/attuntoldstories">AT&T Untold Stories</a></th>
   <td>"Untold Stories is a multi-year, multi-tier alliance between AT&T and the Tribeca Film Festival that awards $1 million dollars, mentorship, and distribution support to underrepresented filmmakers to produce their films."</td>
   <td>2-24-2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://gcgh.grandchallenges.org/challenge/smart-farming-innovations-small-scale-producers">"Bill and Melinda Gates Opportunities"</a></th>
+  <th scope="row"><a href="https://gcgh.grandchallenges.org/challenge/smart-farming-innovations-small-scale-producers">Bill and Melinda Gates Opportunities</a></th>
   <td>"The foundation awards grants to U.S. 501(c)(3) organizations and other tax-exempt organizations for the Smart Farming Innovations for Small-Scale Producers."</td>
   <td>2-25-2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://creative-capital.org/about-the-creative-capital-award-open/">"Creative Capital Awards"</a></th>
+  <th scope="row"><a href="https://creative-capital.org/about-the-creative-capital-award-open/">Creative Capital Awards</a></th>
   <td>"Creative Capital provides each funded project with up to $50,000 in direct funding plus additional career development services."</td>
   <td>3-1-2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.jamesmadison.gov/">"The James Madison Memorial Fellowship Foundation"</a></th>
+  <th scope="row"><a href="https://www.jamesmadison.gov/">The James Madison Memorial Fellowship Foundation</a></th>
   <td>"The James Madison Memorial Fellowship Foundation offers $24,000 James Madison Graduate Fellowships to individuals desiring to become outstanding teachers of the American Constitution at the secondary school level."</td>
   <td>3-1-2021</td>
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://screencraft.org/fund/">"Screencraft Film Fund"</a></th>
+  <th scope="row"><a href="https://screencraft.org/fund/">Screencraft Film Fund</a></th>
   <td>"ScreenCraft is a Los-Angeles based media company dedicated to helping screenwriters and filmmakers succeed through competitions, events and educational content. This grant is up to $30k in finishing funds, it provides you continued commitment and support."</td>
   <td>3-31-2021</td>
 </tr>
