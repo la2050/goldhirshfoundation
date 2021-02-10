@@ -27,38 +27,110 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://blackambitionprize.com/">"Black Ambition"</a></th>
+  <td>"The initiative provides $1,250,000+ in funding in two categories: Black Ambition HBCU Prize – will award grant funding to seed or early-stage ventures with at least one Black and/or Latinx founder/co-founder that is an HBCU undergraduate, graduate student, or a former student. Black Ambition will award up to $50K in grants for a Business Concept idea"</td>
+  <td>2-18-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://iwmf.submittable.com/submit">""United States Journalism Emergency Fund"</a></th>
+  <td>"To qualify for this Fund, you must be a U.S.-based journalist of any gender (including men) targeted as a result of your reporting at events related to the highly charged political unrest and polarization in the U.S., including elections, civil movements and other challenging environments."</td>
+  <td>2-21-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://iwmf.submittable.com/submit">""United States Journalism Emergency Fund"</a></th>
+  <td>"To qualify for this Fund, you must be a U.S.-based journalist of any gender (including men) targeted as a result of your reporting at events related to the highly charged political unrest and polarization in the U.S., including elections, civil movements and other challenging environments."</td>
+  <td>2-24-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://tribecafilm.com/attuntoldstories">"AT&T Untold Stories"</a></th>
+  <td>"Untold Stories is a multi-year, multi-tier alliance between AT&T and the Tribeca Film Festival that awards $1 million dollars, mentorship, and distribution support to underrepresented filmmakers to produce their films."</td>
+  <td>2-24-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://gcgh.grandchallenges.org/challenge/smart-farming-innovations-small-scale-producers">"Bill and Melinda Gates Opportunities"</a></th>
+  <td>"The foundation awards grants to U.S. 501(c)(3) organizations and other tax-exempt organizations for the Smart Farming Innovations for Small-Scale Producers."</td>
+  <td>2-25-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://creative-capital.org/about-the-creative-capital-award-open/">"Creative Capital Awards"</a></th>
+  <td>"Creative Capital provides each funded project with up to $50,000 in direct funding plus additional career development services."</td>
+  <td>3-1-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.jamesmadison.gov/">"The James Madison Memorial Fellowship Foundation"</a></th>
+  <td>"The James Madison Memorial Fellowship Foundation offers $24,000 James Madison Graduate Fellowships to individuals desiring to become outstanding teachers of the American Constitution at the secondary school level."</td>
+  <td>3-1-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://screencraft.org/fund/">"Screencraft Film Fund"</a></th>
+  <td>"ScreenCraft is a Los-Angeles based media company dedicated to helping screenwriters and filmmakers succeed through competitions, events and educational content. This grant is up to $30k in finishing funds, it provides you continued commitment and support."</td>
+  <td>3-31-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.neh.gov/grants/research/fellowships">NEH Fellowships</a></th>
+  <td>"NEH Fellowships are competitive awards granted to individual scholars pursuing projects that embody exceptional research, rigorous analysis, and clear writing.  Applications must clearly articulate a project’s value to humanities scholars, general audiences, or both."</td>
+  <td>4-14-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.braveofheartfund.com/">Brave Heart Fund</a></th>
+  <td>"The Brave of Heart Fund was established to provide monetary grants to eligible family members of frontline healthcare workers and healthcare volunteers who lose their lives because of COVID-19."</td>
+  <td>5-15-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://oaklandblackbusinessfund.org/apply/">Oakland Black Business Fund</a></th>
+  <td>"The OBBF platform includes a $10M relief fund focused on helping Oakland businesses impacted by COVID-19 and a $1B investment fund to support Black entrepreneurs across the country. This is the only Blackled fund providing business grants and larger investments that address the historical lack of access to capital and control of real estate." </td>
+  <td>Rolling</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.wellsfargo.com/about/corporateresponsibility/community-giving/">Wells Fargo</a></th>
+  <td>"Wells Fargo is donating $175 million to help address public health needs, small business, housing, and financial stability for the most vulnerable populations. They focus their philanthropy on three key areas: housing affordability, financial health, and small business growth."</td>
+  <td>Rolling</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.amgen.com/responsibility/grants-and-giving/amgen-foundation-grants/">Amgen Foundation</a></th>
-  <td>The Amgen Foundation seeks to advance excellence in science education to inspire the next generation of innovators, and invest in strengthening communities where Amgen staff members live and work. The Foundation awards grants to local, regional, and international nonprofit organizations that are replicable, scalable and designed to have a lasting and meaningful effect in our communities.</td>
+  <td>"The Amgen Foundation seeks to advance excellence in science education to inspire the next generation of innovators, and invest in strengthening communities where Amgen staff members live and work. The Foundation awards grants to local, regional, and international nonprofit organizations that are replicable, scalable and designed to have a lasting and meaningful effect in our communities."</td>
   <td>Rolling</td>
 </tr>
 
 <tr>
   <th scope="row"><a href="https://www.annenberg.org/what-we-do/grantmaking/how-apply/">Annenberg Foundation Grants</a></th>
-  <td>The Annenberg Foundation gives priority to 501(c)(3) nonprofit organizations serving the five-county region of Greater Los Angeles that are well-integrated into the fabric of the communities they serve. Grants are for one year and range from $10,000 to a maximum of $100,000.</td>
+  <td>"The Annenberg Foundation gives priority to 501(c)(3) nonprofit organizations serving the five-county region of Greater Los Angeles that are well-integrated into the fabric of the communities they serve. Grants are for one year and range from $10,000 to a maximum of $100,000."</td>
   <td>Rolling</td>
 </tr>
 
 <tr>
   <th scope="row"><a href="https://www.fordfund.org/grants">Ford Fund Grants</a></th>
-  <td>Ford Motor Company Fund supports initiatives and nonprofit organizations in three areas: education, community life and driving safely.</td>
+  <td>"Ford Motor Company Fund supports initiatives and nonprofit organizations in three areas: education, community life and driving safely."</td>
   <td>Rolling</td>
 </tr>
 
 <tr>
   <th scope="row"><a href="https://www.globalinnovation.fund/apply/about/">Global Innovation Fund</a></th>
-  <td>The Global Innovation Fund is a non-profit innovation fund that invests in the development, rigorous testing, and scaling of innovations targeted at improving the lives of the world's poorest people.</td>
+  <td>"The Global Innovation Fund is a non-profit innovation fund that invests in the development, rigorous testing, and scaling of innovations targeted at improving the lives of the world's poorest people."</td>
   <td>Rolling</td>
 </tr>
 
 <tr>
   <th scope="row"><a href="https://nathancummings.org/apply-for-a-grant/">The Nathan Cummings Foundation Grant</a></th>
-  <td>The Nathan Cummings Foundation is a multigenerational family foundation, rooted in the Jewish tradition of social justice. It awards grants to support movements, organizations and individuals pursuing justice for people and the planet.</td>
+  <td>"The Nathan Cummings Foundation is a multigenerational family foundation, rooted in the Jewish tradition of social justice. It awards grants to support movements, organizations and individuals pursuing justice for people and the planet."</td>
   <td>Rolling</td>
 </tr>
 
 <tr>
   <th scope="row"><a href="https://theahmansonfoundation.org/letter-of-inquiry/">The Ahmanson Foundation</a></th>
-  <td>The Ahmanson Foundation serves Los Angeles County by funding cultural projects in the arts and humanities, education at all levels, health care, programs related to homelessness, and underserved populations as well as a wide range of human services.</td>
+  <td>"The Ahmanson Foundation serves Los Angeles County by funding cultural projects in the arts and humanities, education at all levels, health care, programs related to homelessness, and underserved populations as well as a wide range of human services."</td>
   <td>Rolling</td>
 </tr>
 
