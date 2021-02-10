@@ -27,8 +27,8 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://blackambitionprize.com/">Black Ambition</a></th>
-  <td>"The initiative provides $1,250,000+ in funding in two categories: Black Ambition HBCU Prize – will award grant funding to seed or early-stage ventures with at least one Black and/or Latinx founder/co-founder that is an HBCU undergraduate, graduate student, or a former student. Black Ambition will award up to $50K in grants for a Business Concept idea"</td>
+  <th scope="row"><a href="https://blackambitionprize.com/">Black Ambition Prize</a></th>
+  <td>"Black Ambition’s goal is to fund bold ideas, and to help reduce barriers to capital. Black and Latinx entrepreneurs will be eligible to receive mentorship and win up to $1,000,000 in funding"</td>
   <td>2-18-2021</td>
 </tr>
 
