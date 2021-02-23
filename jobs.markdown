@@ -22,6 +22,13 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://jobs.lever.co/landed/517f1278-0af4-4497-8bf9-22c466587ff6">User Acquisition Marketing Manager/Headhunter</a></th>
+  <td>Landed</td>
+  <td>Remote with travel to San Francisco</td>
+  <td>February 20th, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-425126-managing-director-md-greater-houston-">Managing Director Greater Houston/Headhunter</a></th>
   <td>Latinos for Education</td>
   <td>Houston, Texas</td>
