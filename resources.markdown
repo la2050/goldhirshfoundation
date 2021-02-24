@@ -27,24 +27,6 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://blackambitionprize.com/">Black Ambition Prize</a></th>
-  <td>"Black Ambition’s goal is to fund bold ideas, and to help reduce barriers to capital. Black and Latinx entrepreneurs will be eligible to receive mentorship and win up to $1,000,000 in funding"</td>
-  <td>2-18-2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://iwmf.submittable.com/submit">United States Journalism Emergency Fund</a></th>
-  <td>"To qualify for this Fund, you must be a U.S.-based journalist of any gender (including men) targeted as a result of your reporting at events related to the highly charged political unrest and polarization in the U.S., including elections, civil movements and other challenging environments."</td>
-  <td>2-21-2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://tribecafilm.com/attuntoldstories">AT&T Untold Stories</a></th>
-  <td>"Untold Stories is a multi-year, multi-tier alliance between AT&T and the Tribeca Film Festival that awards $1 million dollars, mentorship, and distribution support to underrepresented filmmakers to produce their films."</td>
-  <td>2-24-2021</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://gcgh.grandchallenges.org/challenge/smart-farming-innovations-small-scale-producers">Bill and Melinda Gates Opportunities</a></th>
   <td>"The foundation awards grants to U.S. 501(c)(3) organizations and other tax-exempt organizations for the Smart Farming Innovations for Small-Scale Producers."</td>
   <td>2-25-2021</td>
