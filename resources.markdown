@@ -26,11 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
-<tr>
-  <th scope="row"><a href="https://gcgh.grandchallenges.org/challenge/smart-farming-innovations-small-scale-producers">Bill and Melinda Gates Opportunities</a></th>
-  <td>"The foundation awards grants to U.S. 501(c)(3) organizations and other tax-exempt organizations for the Smart Farming Innovations for Small-Scale Producers."</td>
-  <td>2-25-2021</td>
-</tr>
 
 <tr>
   <th scope="row"><a href="https://creative-capital.org/about-the-creative-capital-award-open/">Creative Capital Awards</a></th>
