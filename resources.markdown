@@ -123,6 +123,18 @@ Would you like to add something to the list? Email us at [team@goldhirshfoundati
 
 ### Past and Upcoming Team Goldhirsh Speaking Engagements
 
+Jan <strong>28</strong> 2021
+: [The Raise More Together Summit - Funders Panel, Tara Roth](https://www.outintheboons.me/virtual-summit)
+
+Jan <strong>20</strong> 2021
+: [A Conversation with Copenhagen Institute of Interaction Design Students, Tara Roth]
+
+Dec <strong>10</strong> 2020
+: [CalMatters - The California Divide, Tara Roth](https://drive.google.com/file/d/1yCrsuLggerb3YEbfx-vNZE-iECkhtUOM/view?mc_cid=f01ae67a9d&mc_eid=cc1e1ea5c8)
+
+Nov <strong>19</strong> 2019
+: [USC Price Center for Social Innovation Lunchtime Seminar on Financing Social Innovation, Tara Roth]
+
 Apr <strong>15</strong> 2019
 : [OBAxLA Speaker Event: Creating Change Through Social Innovation, Tara Roth](https://www.eventbrite.com/e/obaxla-speaker-event-creating-change-through-social-innovation-tickets-59362995317)
 
