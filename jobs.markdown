@@ -22,6 +22,27 @@ The Goldhirsh Foundation jobs board provides opportunities to work with grantees
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://static1.squarespace.com/static/5a1ef673a803bb61182df313/t/603c61ed4f7eff1aa500d294/1614569966810/Estolano+Advisors+Sr.+Assoc+Posting+%28Bay+Area%29.2.28.21.pdf">Senior Associate</a></th>
+  <td>Estolano Advisors</td>
+  <td>San Francisco, CA</td>
+  <td>March 1st, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://static1.squarespace.com/static/5a1ef673a803bb61182df313/t/603c62079295ad0aaf714543/1614569992716/Estolano+Advisors+Assoc+Posting+%282.28.21%29.pdf">Associate</a></th>
+  <td>Estolano Advisors</td>
+  <td>West Coast</td>
+  <td>March 1st, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://static1.squarespace.com/static/5a1ef673a803bb61182df313/t/6021e21e1f696e561fa5b647/1612833311096/Estolano+Advisors+Administrative+Assistant+020821.pdf">Administrative Assistant</a></th>
+  <td>Estolano Advisors</td>
+  <td>Los Angeles, CA</td>
+  <td>March 1st, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://jobs.lever.co/landed/517f1278-0af4-4497-8bf9-22c466587ff6">User Acquisition Marketing Manager/Headhunter</a></th>
   <td>Landed</td>
   <td>Remote with travel to San Francisco</td>
