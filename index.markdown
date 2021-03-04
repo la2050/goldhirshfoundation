@@ -41,6 +41,6 @@ stylesheets:
 
 <h1>
   <a href="/vision/">
-    the <strong>Goldhirsh Foundation</strong>
+     <strong>Goldhirsh Foundation</strong>
   </a>
 </h1>
