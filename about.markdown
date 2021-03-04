@@ -103,6 +103,10 @@ Feb <strong>12</strong> 2021
 : [$1M My LA2050 Grants Challenge Launches](https://la2050.org/blog/1m-my-la2050-grants-challenge-launches)
 : Goldhirsh Foundation's LA2050 Initiative Makes Open Call for 25 Impactful Ideas. [Read more](https://la2050.org/blog/1m-my-la2050-grants-challenge-launches)
 
+Jan <strong>30</strong> 2020
+: [Launching the seventh My LA2050 Grants Challenge](https://la2050.org/blog/2020-grants-challenge)
+: $1,000,000 to make LA the best place to learn, create, connect, play, and live [Read more](https://la2050.org/blog/2020-grants-challenge)
+
 Sept <strong>4</strong> 2019
 : [Happy Birthday, LA!](https://la2050.org/blog/happy-birthday-la)
 : In honor of our city's birthday we asked 26 leaders, doers, and innovators to share their birthday wish for the City of Angels. [Read more](https://la2050.org/blog/happy-birthday-la)
