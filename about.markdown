@@ -104,7 +104,7 @@ Feb <strong>12</strong> 2021
 : Goldhirsh Foundation's LA2050 Initiative Makes Open Call for 25 Impactful Ideas. [Read more](https://la2050.org/blog/1m-my-la2050-grants-challenge-launches)
 
 Jan <strong>30</strong> 2020
-: [Launching the seventh My LA2050 Grants Challenge](https://la2050.org/blog/2020-grants-challenge)
+: [Launching the Seventh My LA2050 Grants Challenge](https://la2050.org/blog/2020-grants-challenge)
 : $1,000,000 to make LA the best place to learn, create, connect, play, and live [Read more](https://la2050.org/blog/2020-grants-challenge)
 
 Sept <strong>4</strong> 2019
