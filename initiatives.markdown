@@ -50,7 +50,7 @@ Seeding social innovation in Los Angeles.
 : Women Empowering Women builds capacity for women entrepreneurs.
 : _Opportunity Fund is investing in targeted outreach and technology to reach and engage women entrepreneurs who are seeking to build sustainable small businesses._
 
-[The Imagination Foundation](http://www.imagination.is)
+[The Imagination Foundation](https://imagination.org/)
 : Finding, funding, and fostering creativity and entrepreneurship in youth.
 : _Inspired by Caine’s Arcade, we provided seed funding to build an organization that would support more kids like Caine. We want to “help kids not only to learn how to build the things they imagine, but to also imagine the world they can build.”_
 
@@ -72,7 +72,7 @@ Seeding social innovation in Los Angeles.
 Bringing proven solutions from other regions to Los Angeles.
 
 
-[City Year](http://www.cityyear.org/losangeles.aspx)
+[City Year](https://www.cityyear.org/los-angeles/)
 : Redefining idealism by promoting the idea that each of us can make a difference.
 : _We led City Year’s expansion to Los Angeles and then supported their growth in L.A. We also provided seed funding for their L.A.-based education conference on the topic of how service can drive education reform._
 
@@ -167,10 +167,10 @@ Support pro-social platforms and tools for independent expression and individual
 [XPRIZE](https://www.xprize.org/)
 : Bringing about radical breakthroughs for the benefit of humanity.
 
-[Propublica](http://www.propublica.org/)
+[ProPublica](http://www.propublica.org/)
 : Supporting the creation of independent media stories with a “moral force.”
 
-[Los Angeles Social Venture Partners](http://www.socialventurepartners.org/los-angeles/)
+[Los Angeles Social Venture Partners](https://www.svpla.org/)
 : Amplifying impact through building social capital, investing in collaboration, and increasing funder engagement.
 
 [Tierra del Sol](https://www.tierradelsol.org/)
@@ -179,6 +179,6 @@ Support pro-social platforms and tools for independent expression and individual
 [Kiva](http://www.kiva.org/start)
 : Connecting people through lending; leveraging the internet and a network of microfinance institutions to alleviate poverty around the world.
 
-[Ciclavia](http://www.ciclavia.org/)
+[CicLAvia](http://www.ciclavia.org/)
 : Catalyzing vibrant public spaces, active transportation and good health through car-free street events in Los Angeles.
 
