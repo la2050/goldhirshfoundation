@@ -111,7 +111,7 @@ Financial Capital Opportunities
 
 
 
-Would you like to add something to the list? Email us at [team@goldhirshfoundation.org.](mailto:team@goldhirshfoundation.org)
+Would you like to add something to the list? Email us at [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org)
 
 
 
@@ -193,9 +193,9 @@ From capital development to crowdsourcing technologies, we are always learning. 
 
 <div class="image"><img src="/assets/files/1433/currently-reading.png" width="39" alt="" /></div>
 
-#### 2. Currently Reading
+#### 2. Book Recommendations
 
-Our team is always learning and sharing. Here is a list of books we are currently reading. For real\-time updates, [follow the team on twitter](https://twitter.com/GoldhirshFdn/goldhirsh-foundation-team/members).
+Our team is always learning and sharing. Here is a list of some of the books we recommend.
 
 * [The Upside of Your Dark Side](https://ls2pac.lapl.org/?section=resource&resourceid=893534792)
 * [The Rise and Fall of Urban Economies](https://ls2pac.lapl.org/?section=resource&resourceid=1100384479)
@@ -216,10 +216,10 @@ Our team is always learning and sharing. Here is a list of books we are currentl
 
 #### 3. Innovative tools we love
 
-We are constantly learning about new and innovative tools to help nonprofits and for\-profits succeed in their latest ventures. Here is a list of tools we love:
+We are constantly learning about new and innovative tools to help nonprofits and for\-profits succeed in their latest ventures. Here is a partial list of tools we love:
 
 * [CrowdFunder](https://www.crowdfunder.com)
-* [ImpactBase](http://www.impactbase.org)
+* [Global Impact Investing Network](https://thegiin.org/)
 * [OpenIDEO](https://openideo.com)
 * [IOBY](https://www.ioby.org)
 * [Data USA: Los Angeles](http://datausa.io/profile/geo/los-angeles-county-ca)
