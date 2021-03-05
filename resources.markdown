@@ -39,10 +39,47 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
+  <th scope="row"><a href="https://www.nalac.org/grants/covid19-relief-efforts/actos-emergency-grants/">NALAC COVID Relief Effort</a></th>
+  <td>"In collaboration with the Andrew W. Mellon Foundation and Intercultural Leadership Institute partners, the 2021 Actos de Confianza relief effort will expand to support Latinx artists and arts organizations who have been adversely impacted by the COVID-19 crisis. "</td>
+  <td>May, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.braveofheartfund.com/">Brave Heart Fund</a></th>
   <td>"The Brave of Heart Fund was established to provide monetary grants to eligible family members of frontline healthcare workers and healthcare volunteers who lose their lives because of COVID-19."</td>
   <td>5-15-2021</td>
 </tr>
+
+<tr>
+  <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
+  <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
+  <td>May 10 for Fall round and Nov 10th for Spring round</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.honda.com/community/applying-for-a-grant">Community Education Grant</a></th>
+  <td>"Funding for organizations that support youth education with a specific focus on the STEM (science, technology, engineering and mathematics) subjects in addition to the environment."</td>
+  <td>7-1-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.womenfoundersnetwork.com/fast-pitch-2020">Fast Pitch Competition</a></th>
+  <td>"Fast Pitch competition has helped early-stage women-led businesses craft their stories, messages, monetization plans, legal structure and more. The individualized attention received by finalists allows these women entrepreneurs to become pitch-ready in a way that makes their business much more appealing to Angels and VCs to support funding to scale."</td>
+  <td>06-15-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://latinofilm.org/fellowship/">Latino Film Institute</a></th>
+  <td>"Each filmmaker will receive $20,000 cash and individualized mentorship, meetings with industry leaders and networking opportunities. The completed films will be premiered as a part of a special program during the 2021 version of LALIFF, where filmmakers will also have the opportunity to participate in the Festival’s Industry Week, to further develop their careers and gain industry access needed to sued as working artists."</td>
+  <td>10-14-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/community-action/">Community Action Grant</a></th>
+  <td>"Community Action Grants provide funding to individuals, AAUW branches and AAUW state organizations as well as community-based nonprofits for innovative programs that promote education and equity through projects focused on encouraging girls to select, before entering college, the physical sciences or engineering as a career."</td>
+  <td>12-1-2021</td>
+</tr>
+
 
 <tr>
   <th scope="row"><a href="https://oaklandblackbusinessfund.org/apply/">Oakland Black Business Fund</a></th>
