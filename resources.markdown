@@ -53,7 +53,7 @@ Financial Capital Opportunities
 <tr>
   <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
   <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
-  <td>May 10 for Fall round and Nov 10th for Spring round</td>
+  <td>Fall Round: May 10th Spring Round: Nov 10th</td>
 </tr>
 
 <tr>
