@@ -65,7 +65,7 @@ Financial Capital Opportunities
 <tr>
   <th scope="row"><a href="https://www.womenfoundersnetwork.com/fast-pitch-2020">Fast Pitch Competition</a></th>
   <td>"Fast Pitch competition has helped early-stage women-led businesses craft their stories, messages, monetization plans, legal structure and more. The individualized attention received by finalists allows these women entrepreneurs to become pitch-ready in a way that makes their business much more appealing to Angels and VCs to support funding to scale."</td>
-  <td>06-15-2021</td>
+  <td>6-15-2021</td>
 </tr>
 
 <tr>
