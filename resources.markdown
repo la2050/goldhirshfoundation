@@ -26,19 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
-
-<tr>
-  <th scope="row"><a href="https://creative-capital.org/about-the-creative-capital-award-open/">Creative Capital Awards</a></th>
-  <td>"Creative Capital provides each funded project with up to $50,000 in direct funding plus additional career development services."</td>
-  <td>3-1-2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://www.jamesmadison.gov/">The James Madison Memorial Fellowship Foundation</a></th>
-  <td>"The James Madison Memorial Fellowship Foundation offers $24,000 James Madison Graduate Fellowships to individuals desiring to become outstanding teachers of the American Constitution at the secondary school level."</td>
-  <td>3-1-2021</td>
-</tr>
-
 <tr>
   <th scope="row"><a href="https://screencraft.org/fund/">Screencraft Film Fund</a></th>
   <td>"ScreenCraft is a Los-Angeles based media company dedicated to helping screenwriters and filmmakers succeed through competitions, events and educational content. This grant is up to $30k in finishing funds, it provides you continued commitment and support."</td>
