@@ -23,6 +23,34 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://jobs.lever.co/encantos/bb12a3d6-29e3-48da-acfa-7fbb14359f53">Education Research and Efficacy Intern</a></th>
+  <td>Encantos</td>
+  <td>Remote</td>
+  <td>March 9th, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://jobs.lever.co/encantos/c3b93c6b-b8c8-4ff1-9278-72cf29b25886">Director UX & Product Design</a></th>
+  <td>Encantos</td>
+  <td>Los Angeles, CA</td>
+  <td>March 9th, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://jobs.lever.co/encantos/f093e79d-5efa-4b14-9a0d-019265de79c1">Director Of App Product Development</a></th>
+  <td>Encantos</td>
+  <td>Los Angeles, CA</td>
+  <td>March 9th, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://jobs.lever.co/encantos/f0ab82a0-fc11-4167-a839-76473fbbe3f6">Senior Data Analyst</a></th>
+  <td>Encantos</td>
+  <td>New York, NY</td>
+  <td>March 9th, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://static1.squarespace.com/static/5a1ef673a803bb61182df313/t/603c61ed4f7eff1aa500d294/1614569966810/Estolano+Advisors+Sr.+Assoc+Posting+%28Bay+Area%29.2.28.21.pdf">Senior Associate</a></th>
   <td>Estolano Advisors</td>
   <td>San Francisco, CA</td>
