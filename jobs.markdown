@@ -18,8 +18,8 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <th scope="col">Organization</th>
   <th scope="col">Location</th>
   <th scope="col">Date Posted</th>
-</tr>
-</thead>
+<tr>
+<thead>
 <tbody>
   
 <tr>
