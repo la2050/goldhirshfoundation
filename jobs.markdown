@@ -21,6 +21,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 </tr>
 </thead>
 <tbody>
+  
+<tr>
+  <th scope="row"><a href="https://www.linkedin.com/jobs/view/senior-manager-of-strategy-and-new-initiatives-at-great-public-schools-now-117222231/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">Senior Manager of Strategy and New Initiatives</a></th>
+  <td>Great Public Schools Now/td>
+  <td>Los Angeles, CA</td>
+  <td>March 9th, 2021</td>
+</tr>
 
 <tr>
   <th scope="row"><a href="https://jobs.lever.co/encantos/bb12a3d6-29e3-48da-acfa-7fbb14359f53">Education Research and Efficacy Intern</a></th>
