@@ -39,8 +39,14 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
+  <th scope="row"><a href="https://www.jmkfund.org/innovation-prize-2021/?utm_source=SSIR&utm_medium=banner&utm_content=pro3">J.M.K. Innovation Prize</a></th>
+  <td>"The J.M.K. Innovation Prize seeks to identify, support, and elevate innovators who are spearheading transformative early-stage projects in the fields of social justice, the environment, and heritage conservation."</td>
+  <td>4-30-2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.nalac.org/grants/covid19-relief-efforts/actos-emergency-grants/">NALAC COVID Relief Effort</a></th>
-  <td>"In collaboration with the Andrew W. Mellon Foundation and Intercultural Leadership Institute partners, the 2021 Actos de Confianza relief effort will expand to support Latinx artists and arts organizations who have been adversely impacted by the COVID-19 crisis. "</td>
+  <td>"In collaboration with the Andrew W. Mellon Foundation and Intercultural Leadership Institute partners, the 2021 Actos de Confianza relief effort will expand to support Latinx artists and arts organizations who have been adversely impacted by the COVID-19 crisis."</td>
   <td>May, 2021</td>
 </tr>
 
@@ -57,9 +63,15 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
+  <th scope="row"><a href="https://1863.smapply.io/prog/rrr_program/">3 Rs Program</a></th>
+  <td>"The 3Rs Program is dedicated to helping Black business owners grow and scale during the current pandemic and continued racial unrest. The goal is to help as many Black businesses as possible navigate the short term uncertainty in the markets. The training and coaching provided through the Program will help you reevaluate your business model, pivot where necessary, set a targeted growth strategy, and execute with a clear roadmap."</td>
+  <td>6-1-2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.honda.com/community/applying-for-a-grant">Community Education Grant</a></th>
   <td>"Funding for organizations that support youth education with a specific focus on the STEM (science, technology, engineering and mathematics) subjects in addition to the environment."</td>
-  <td>7-1-2021</td>
+  <td>6-1-2021</td>
 </tr>
 
 <tr>
