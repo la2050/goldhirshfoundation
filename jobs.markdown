@@ -21,7 +21,21 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tr>
 <thead>
 <tbody>
-  
+
+<tr>
+  <th scope="row"><a href="https://app.trinethire.com/companies/17306-the-oped-project-llc/jobs/31675-senior-program-manager">Senior Program Manager</a></th>
+  <td>The Oped Project</td>
+  <td>New York, NY</td>
+  <td>March 16th, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://app.trinethire.com/companies/17306-the-oped-project-llc/jobs/35844-director-of-new-business-and-partnerships">Director of New Business and Partnerships</a></th>
+  <td>The Oped Project</td>
+  <td>New York, NY</td>
+  <td>March 16th, 2021</td>
+</tr>
+   
 <tr>
   <th scope="row"><a href="https://www.linkedin.com/jobs/view/senior-manager-of-strategy-and-new-initiatives-at-great-public-schools-now-117222231/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">Senior Manager of Strategy and New Initiatives</a></th>
   <td>Great Public Schools Now</td>
