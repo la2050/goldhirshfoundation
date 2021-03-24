@@ -52,8 +52,7 @@ What We Do
 The necessary funding for growth
 
 * Provide catalytic funding that can translate ideas into action
-* Invest for impact beyond grants 
-* Connect innovators to new potential funding opportunities
+* Translate ideas into action by providing catalytic funding, whether in the form of grants, loans, investments, or contracts
 
 #### 2. Social Capital ####
 
