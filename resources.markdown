@@ -27,15 +27,15 @@ Financial Capital Opportunities
 <tbody>
 
 <tr>
-  <th scope="row"><a href="https://screencraft.org/fund/">Screencraft Film Fund</a></th>
-  <td>"ScreenCraft is a Los-Angeles based media company dedicated to helping screenwriters and filmmakers succeed through competitions, events and educational content. This grant is up to $30k in finishing funds, it provides you continued commitment and support."</td>
-  <td>3-31-2021</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://www.neh.gov/grants/research/fellowships">NEH Fellowships</a></th>
   <td>"NEH Fellowships are competitive awards granted to individual scholars pursuing projects that embody exceptional research, rigorous analysis, and clear writing.  Applications must clearly articulate a project’s value to humanities scholars, general audiences, or both."</td>
   <td>4-14-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://ifundwomen.typeform.com/to/nqdLOPXA?fbclid=PAAaaDG8VeuPuhHQ28Mo809NVE3GFxOXfPsx41ZDSvVsLpCKyXcfE4EKx6DPE_aem_AQNw_nVEqijdm-Mupm-CMFdHaL2JxguezR8tnHWdDXSJH6Ics2R5V62YMzymPWWMP4-NvHqVzX__3x-q8ENqu7b6eWGAp_pYW4mZL2pA-uOxEw">Black Women-Owned Business Grant Program</a></th>
+  <td>"Visa is continuing to take action to help remove the disproportionate barriers faced by Black women-owned business founders by launching the She’s Next Grant Program in partnership with IFundWomen to provide eligible black women-owned businesses across six (6) key cities in the U.S. the chance to win one of sixty (60) $10,000 grants and a one-year IFW Annual Coaching Membership."</td>
+  <td>4-16-2021</td>
 </tr>
 
 <tr>
