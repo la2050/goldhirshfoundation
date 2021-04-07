@@ -134,21 +134,6 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>January 13, 2021</td>
 </tr>
 
-<tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-426533-marketing-manager-">Marketing Manager</a></th>
-  <td>Stronger Consulting</td>
-  <td>Boston, Massachusetts</td>
-  <td>December 23, 2020</td>
-</tr>
-
-
-<tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-424711-executive-director-talent-search-division">Executive Director, Talent Search Division</a></th>
-  <td>Stronger Consulting</td>
-  <td>San Diego, California</td>
-  <td>December 16, 2020</td>
-</tr>
-
 
 </tbody>
 </table>
