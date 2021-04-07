@@ -22,6 +22,12 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
 
+<tr>
+  <th scope="row"><a href="https://www.newmusicusa.org/content/comms-director/">Communications Director</a></th>
+  <td>New Music USA</td>
+  <td>Remote - New York, NY</td>
+  <td>April 6th, 2021</td>
+</tr>
 
 <tr>
   <th scope="row"><a href="https://app.trinethire.com/companies/17306-the-oped-project-llc/jobs/31675-senior-program-manager">Senior Program Manager</a></th>
