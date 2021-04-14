@@ -113,28 +113,6 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>February 20th, 2021</td>
 </tr>
 
-<tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-425126-managing-director-md-greater-houston-">Managing Director Greater Houston/Headhunter</a></th>
-  <td>Latinos for Education</td>
-  <td>Houston, Texas</td>
-  <td>January 15, 2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429544-search-and-recruitment-role-leaderheadhunter-">Search and Recruitment Role Leader/Headhunter</a></th>
-  <td>Stronger Consulting</td>
-  <td>San Diego, California</td>
-  <td>January 14, 2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://strongerconsulting.com/opportunities/#op-429468-manager-recuitment">Recruitment Manager</a></th>
-  <td>Stronger Consulting</td>
-  <td>San Diego, California</td>
-  <td>January 13, 2021</td>
-</tr>
-
-
 </tbody>
 </table>
 
