@@ -82,7 +82,7 @@ The Team
 
 ### ![LeAnn Kelch](/uploads/leann.jpg) <a id="leann" />
 
-**LeAnn Kelch** is the Social Innovation Coordinator at the Goldhirsh Foundation. She graduated with a B.A. in International Development Studies from the University of California, Los Angeles and recently received her Master’s in Urban Planning and Master’s in Public Administration from the USC Sol Price School of Public Policy. LeAnn is passionate about advancing work that breaks barriers and promotes the thriving of all people in Los Angeles.
+**LeAnn Kelch** is the Social Innovation Manager at the Goldhirsh Foundation. She graduated with a B.A. in International Development Studies from the University of California, Los Angeles and recently received her Master’s in Urban Planning and Master’s in Public Administration from the USC Sol Price School of Public Policy. She currently serves as Communications Co-Chair for the Los Angeles Chapter of Emerging Practitioners in Philanthropy. LeAnn is passionate about advancing work that breaks barriers and promotes the thriving of all people in Los Angeles.
 
 ### ![Jake Bishop](/uploads/jake.jpg) <a id="jake" />
 
