@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://la2050.org/jobs/3137">Social Media and Communications Fellow</a></th>
+  <td>The Goldhirsh Foundation/LA2050</td>
+  <td>Remote - Los Angeles Preferred</td>
+  <td>April 22nd, 2021</td>
+</tr>
+
+<tr>
   <th scope="row"><a href="https://www.newmusicusa.org/content/comms-director/">Communications Director</a></th>
   <td>New Music USA</td>
   <td>Remote - New York, NY</td>
