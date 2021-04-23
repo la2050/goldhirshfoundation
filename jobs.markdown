@@ -11,7 +11,7 @@ Jobs
 The Goldhirsh Foundation jobs board provides opportunities to work with grantees, partners, and community leaders who are helping to create a better future.
 For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jobs)
 
-
+<table>
 <thead>
 <tr>
   <th scope="col">Position</th>
@@ -121,7 +121,7 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 </tr>
 
 </tbody>
-</table>
+<table>
 
  
   
