@@ -161,7 +161,7 @@ Dec <strong>10</strong> 2020
 : [CalMatters - The California Divide, Tara Roth](https://drive.google.com/file/d/1yCrsuLggerb3YEbfx-vNZE-iECkhtUOM/view?mc_cid=f01ae67a9d&mc_eid=cc1e1ea5c8)
 
 Dec <strong>7</strong> 2021
-: [Sustainable LA Grand Challenge (SLA GC) Sandpit 2020, Tara Roth (Judge)](https://grandchallenges.ucla.edu/happenings/2020/11/23/eight-teams-hone-their-pitches-for-1-million/)) 
+: [Sustainable LA Grand Challenge (SLA GC) Sandpit 2020, Tara Roth (Judge)](https://grandchallenges.ucla.edu/happenings/2020/11/23/eight-teams-hone-their-pitches-for-1-million/) 
 
 Nov <strong>19</strong> 2019
 : [USC Price Center for Social Innovation Lunchtime Seminar on Financing Social Innovation, Tara Roth](https://socialinnovation.usc.edu/past_events/social-innovation-speaker-series-tara-roth/)
