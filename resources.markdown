@@ -28,12 +28,6 @@ Financial Capital Opportunities
 
 
 <tr>
-  <th scope="row"><a href="https://www.jmkfund.org/innovation-prize-2021/?utm_source=SSIR&utm_medium=banner&utm_content=pro3">J.M.K. Innovation Prize</a></th>
-  <td>"The J.M.K. Innovation Prize seeks to identify, support, and elevate innovators who are spearheading transformative early-stage projects in the fields of social justice, the environment, and heritage conservation."</td>
-  <td>4-30-2021</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://www.nalac.org/grants/covid19-relief-efforts/actos-emergency-grants/">NALAC COVID Relief Effort</a></th>
   <td>"In collaboration with the Andrew W. Mellon Foundation and Intercultural Leadership Institute partners, the 2021 Actos de Confianza relief effort will expand to support Latinx artists and arts organizations who have been adversely impacted by the COVID-19 crisis."</td>
   <td>May, 2021</td>
