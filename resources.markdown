@@ -206,7 +206,6 @@ From capital development to crowdsourcing technologies, we are always learning. 
 * [The Op\-Ed Project: Op\-Ed Writing Basic Tips and Tricks](https://www.theopedproject.org/oped-basics/)
 * [Crowdsourcing: Practical Insights for Entrepreneurs, Investors, and Philanthropists (2015)](http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/106/files/original/TaraRothToolsforCrowdsourcing.pdf)
 * [Evolution of an Impact Portfolio: From Implementation to Results (2014)](http://www.sonencapital.com/evolution-of-impact.php)
-* [Insights from a Decade of Philanthropic R&D (2017)](https://durfee.org/durfee-content/uploads/2016/10/Durfee-What-If-Report-FINAL.pdf)
 * [The Man With the $13 Billion Checkbook (2019)](https://www.nytimes.com/2019/07/12/nyregion/darren-walker-ford-foundation.html)
 * [10 Reasons Not to Measure Impact - and What to Do Instead (2018)](https://ssir.org/articles/entry/ten_reasons_not_to_measure_impact_and_what_to_do_instead#)
 * [Community Engagement Matters (2016)](https://ssir.org/articles/entry/community_engagement_matters_now_more_than_ever)
