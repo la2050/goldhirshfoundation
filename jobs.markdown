@@ -113,12 +113,6 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>March 1st, 2021</td>
 </tr>
 
-<tr>
-  <th scope="row"><a href="https://jobs.lever.co/landed/517f1278-0af4-4497-8bf9-22c466587ff6">User Acquisition Marketing Manager/Headhunter</a></th>
-  <td>Landed</td>
-  <td>Remote with travel to San Francisco</td>
-  <td>February 20th, 2021</td>
-</tr>
 
 </tbody>
 <table>
