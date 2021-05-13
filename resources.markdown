@@ -45,12 +45,6 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
-  <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
-  <td>Fall Round: May 10th Spring Round: Nov 10th</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://1863.smapply.io/prog/rrr_program/">3 Rs Program</a></th>
   <td>"The 3Rs Program is dedicated to helping Black business owners grow and scale during the current pandemic and continued racial unrest. The goal is to help as many Black businesses as possible navigate the short term uncertainty in the markets. The training and coaching provided through the Program will help you reevaluate your business model, pivot where necessary, set a targeted growth strategy, and execute with a clear roadmap."</td>
   <td>6-1-2021</td>
@@ -72,6 +66,12 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://latinofilm.org/fellowship/">Latino Film Institute</a></th>
   <td>"Each filmmaker will receive $20,000 cash and individualized mentorship, meetings with industry leaders and networking opportunities. The completed films will be premiered as a part of a special program during the 2021 version of LALIFF, where filmmakers will also have the opportunity to participate in the Festival’s Industry Week, to further develop their careers and gain industry access needed to sued as working artists."</td>
   <td>10-14-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
+  <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
+  <td>Spring Round: Nov 10th</td>
 </tr>
 
 <tr>
