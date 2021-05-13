@@ -26,6 +26,11 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
+<tr>
+  <th scope="row"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=SHJZBzjqG0WKvqY47dusgRhkHSYxz5JKiyxHrBS9oFNURDVOVjNMTlFOTDMzTVBESktZU1g5VTExOS4u">Grassroots Grants Program for Vaccine Equity</a></th>
+  <td>"The Center for Strategic Partnerships has worked with DPH to design a Grassroots Grants program that will provide one-time $5000 grants to grassroots community-based organizations and faith-based organizations to support vaccine uptake in highly-impacted communities. "</td>
+  <td>Rolling, As Soon As Possible</td>
+</tr>
 
 <tr>
   <th scope="row"><a href="https://www.nalac.org/grants/covid19-relief-efforts/actos-emergency-grants/">NALAC COVID Relief Effort</a></th>
@@ -73,6 +78,18 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/community-action/">Community Action Grant</a></th>
   <td>"Community Action Grants provide funding to individuals, AAUW branches and AAUW state organizations as well as community-based nonprofits for innovative programs that promote education and equity through projects focused on encouraging girls to select, before entering college, the physical sciences or engineering as a career."</td>
   <td>12-1-2021</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://www.drkfoundation.org/apply-for-funding/what-we-fund/">Draper Richards Kaplan Grant</a></th>
+  <td>"DRK supports outsized impact through entrepreneurs and enterprises that meaningfully address a pressing societal problem affecting people’s lives by providing them with 3 years of unrestricted capital (totaling $300,000) and provide rigorous on-going support by joining their board of directors for the 3 years and partnering with the leader to help them to build capacity in their organization and scale their impact"</td>
+  <td>Rolling</td>
+</tr>
+
+<tr>
+  <th scope="row"><a href="https://rsfsocialfinance.org/get-funding/funding-overview/">Social Finance Loan</a></th>
+  <td>"RSF provides funding to social enterprises that are working to create long-term social and ecological benefit and their broad areas of expertise are food & agriculture, education & the arts, and climate & environment"</td>
+  <td>Rolling</td>
 </tr>
 
 
