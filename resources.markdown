@@ -39,12 +39,6 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.braveofheartfund.com/">Brave Heart Fund</a></th>
-  <td>"The Brave of Heart Fund was established to provide monetary grants to eligible family members of frontline healthcare workers and healthcare volunteers who lose their lives because of COVID-19."</td>
-  <td>5-15-2021</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://1863.smapply.io/prog/rrr_program/">3 Rs Program</a></th>
   <td>"The 3Rs Program is dedicated to helping Black business owners grow and scale during the current pandemic and continued racial unrest. The goal is to help as many Black businesses as possible navigate the short term uncertainty in the markets. The training and coaching provided through the Program will help you reevaluate your business model, pivot where necessary, set a targeted growth strategy, and execute with a clear roadmap."</td>
   <td>6-1-2021</td>
