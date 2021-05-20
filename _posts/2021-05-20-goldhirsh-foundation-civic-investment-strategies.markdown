@@ -9,7 +9,7 @@ excerpt: Today, we release “Civic Investment Strategies,” our new report hig
 <!-- SHIM: Avoid multiple columns -->
 <p style="display: none"></p><p style="display: none"></p><p style="display: none"></p><p style="display: none"></p>
 
-In this report, we share four of our most successful tactics for promoting public sector innovation:
+**In this report, we highlight case studies of our most successful tactics for promoting public sector innovation:**
 
 <p class="shim-paragraph-after-short-paragraph">
   1. Launching pilot projects. We’re proud to have served as early-stage funders for important pilot projects including Stockton Economic Empowerment Demonstration (SEED), Brand LA, and VolunteerLA. We’ve found these seed investments to pay huge dividends in the long-run.
