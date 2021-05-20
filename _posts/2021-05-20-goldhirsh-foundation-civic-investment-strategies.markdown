@@ -15,19 +15,19 @@ Today, we release “Civic Investment Strategies,” our new report highlighting
 In this report, we highlight case studies of our most successful tactics for promoting public sector innovation:<br>
 
 <p class="shim-paragraph-after-short-paragraph">
-  1. Launching pilot projects. 
+  1. Launching pilot projects. <br>
   We’re proud to have served as early-stage funders for important pilot projects including Stockton Economic Empowerment Demonstration (SEED), Brand LA, and VolunteerLA. We’ve found these seed investments to pay huge dividends in the long-run.</p>
 
 <p class="shim-paragraph-after-short-paragraph">
-  2. Supporting government fellowships.
+  2. Supporting government fellowships.<br>
   We’ve had the great fortune of funding fellows embedded in government entities, from the Los Angeles Mayor’s Office and the Los Angeles Department of Transportation to the White House in Washington, D.C, to create targeted change.</p>
 
 <p class="shim-paragraph-after-short-paragraph">
-  3. Funding advocacy and civic engagement efforts. 
+  3. Funding advocacy and civic engagement efforts. <br>
   We are proud to have supported impactful change via our LA2050 initiative, including the work of the Street Vendor Coalition, Sierra Club, and People for Parks. These groups mobilized people and launched campaigns to accomplish their aims, winning huge successes in LA and beyond.</p>
 
 <p class="shim-paragraph-after-short-paragraph">
-  4. Commissioning convenings and reports. 
+  4. Commissioning convenings and reports. <br>
   Sometimes, all it takes is providing space for conversation, research, and experimentation among civic doers to make positive change. We’ve found that funders can play an important role in supporting these dialogues and launching this research.</p>  
 
 
