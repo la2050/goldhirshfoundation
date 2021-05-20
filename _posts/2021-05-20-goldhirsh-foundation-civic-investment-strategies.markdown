@@ -24,4 +24,3 @@ In this report, we share four of our most successful tactics for promoting publi
   4. Commissioning convenings and reports. Sometimes, all it takes is providing space for conversation, research, and experimentation among civic doers to make positive change. We’ve found that funders can play an important role in supporting these dialogues and launching this research.  
 
 <p class="shim-paragraph-after-short-paragraph"> 
-  [Again, for more detail, please visit the full report.](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)
