@@ -5,23 +5,23 @@ excerpt: Today, we release “Civic Investment Strategies,” our new report hig
 author: Goldhirsh Foundation Team
 ---
 
-[Read the full "Civic Investment Strategies" report.](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)
+[Read the full "Civic Investment Strategies" report here.](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)
 
 <!-- SHIM: Avoid multiple columns -->
 <p style="display: none"></p><p style="display: none"></p><p style="display: none"></p><p style="display: none"></p>
 
-**In this report, we highlight case studies of our most successful tactics for promoting public sector innovation:**
+**In this report, we highlight case studies of our most successful tactics for promoting public sector innovation:**<br><br>
 
 <p class="shim-paragraph-after-short-paragraph">
-  1. Launching pilot projects. We’re proud to have served as early-stage funders for important pilot projects including Stockton Economic Empowerment Demonstration (SEED), Brand LA, and VolunteerLA. We’ve found these seed investments to pay huge dividends in the long-run.</p>
-
-
-<p class="shim-paragraph-after-short-paragraph">
-  2. Supporting government fellowships. We’ve had the great fortune of funding fellows embedded in government entities, from the Los Angeles Mayor’s Office and the Los Angeles Department of Transportation to the White House in Washington, D.C, to create targeted change.</p>
+  1. Launching pilot projects. We’re proud to have served as early-stage funders for important pilot projects including Stockton Economic Empowerment Demonstration (SEED), Brand LA, and VolunteerLA. We’ve found these seed investments to pay huge dividends in the long-run.</p><br><br>
 
 
 <p class="shim-paragraph-after-short-paragraph">
-  3. Funding advocacy and civic engagement efforts. We are proud to have supported impactful change via our LA2050 initiative, including the work of the Street Vendor Coalition, Sierra Club, and People for Parks. These groups mobilized people and launched campaigns to accomplish their aims, winning huge successes in LA and beyond.</p>
+  2. Supporting government fellowships. We’ve had the great fortune of funding fellows embedded in government entities, from the Los Angeles Mayor’s Office and the Los Angeles Department of Transportation to the White House in Washington, D.C, to create targeted change.</p><br><br>
+
+
+<p class="shim-paragraph-after-short-paragraph">
+  3. Funding advocacy and civic engagement efforts. We are proud to have supported impactful change via our LA2050 initiative, including the work of the Street Vendor Coalition, Sierra Club, and People for Parks. These groups mobilized people and launched campaigns to accomplish their aims, winning huge successes in LA and beyond.</p><br><br>
 
 
 <p class="shim-paragraph-after-short-paragraph">
