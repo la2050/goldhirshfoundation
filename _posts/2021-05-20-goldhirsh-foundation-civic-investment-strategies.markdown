@@ -7,6 +7,9 @@ author: Goldhirsh Foundation Team
 
 Today, we release “Civic Investment Strategies,” our new report highlighting the tactics and strategies that have proven most successful for us in supporting civic progress.
 
+<!-- SHIM: Avoid multiple columns -->
+<p style="display: none"></p><p style="display: none"></p><p style="display: none"></p><p style="display: none"></p>
+
 **[Read the full "Civic Investment Strategies" report here.](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)**
 
 In this report, we highlight case studies of our most successful tactics for promoting public sector innovation:<br>
