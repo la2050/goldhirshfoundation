@@ -14,17 +14,17 @@ author: Goldhirsh Foundation Team
 
 <p class="shim-paragraph-after-short-paragraph">
   1. Launching pilot projects. 
-  We’re proud to have served as early-stage funders for important pilot projects including Stockton Economic Empowerment Demonstration (SEED), Brand LA, and VolunteerLA. We’ve found these seed investments to pay huge dividends in the long-run.</p><br><br>
+  We’re proud to have served as early-stage funders for important pilot projects including Stockton Economic Empowerment Demonstration (SEED), Brand LA, and VolunteerLA. We’ve found these seed investments to pay huge dividends in the long-run.</p><br>
 
 
 <p class="shim-paragraph-after-short-paragraph">
   2. Supporting government fellowships.
-  We’ve had the great fortune of funding fellows embedded in government entities, from the Los Angeles Mayor’s Office and the Los Angeles Department of Transportation to the White House in Washington, D.C, to create targeted change.</p><br><br>
+  We’ve had the great fortune of funding fellows embedded in government entities, from the Los Angeles Mayor’s Office and the Los Angeles Department of Transportation to the White House in Washington, D.C, to create targeted change.</p><br>
 
 
 <p class="shim-paragraph-after-short-paragraph">
   3. Funding advocacy and civic engagement efforts. 
-  We are proud to have supported impactful change via our LA2050 initiative, including the work of the Street Vendor Coalition, Sierra Club, and People for Parks. These groups mobilized people and launched campaigns to accomplish their aims, winning huge successes in LA and beyond.</p><br><br>
+  We are proud to have supported impactful change via our LA2050 initiative, including the work of the Street Vendor Coalition, Sierra Club, and People for Parks. These groups mobilized people and launched campaigns to accomplish their aims, winning huge successes in LA and beyond.</p><br>
 
 
 <p class="shim-paragraph-after-short-paragraph">
