@@ -22,9 +22,8 @@ In this report, we highlight case studies of our most successful tactics for pro
 
   **3. Funding advocacy and civic engagement efforts.** 
   We are proud to have supported impactful change via our LA2050 initiative, including the work of the Street Vendor Coalition, Sierra Club, and People for Parks. These groups mobilized people and launched campaigns to accomplish their aims, winning huge successes in LA and beyond.
-  
 
   **4. Commissioning convenings and reports.**
   Sometimes, all it takes is providing space for conversation, research, and experimentation among civic doers to make positive change. We’ve found that funders can play an important role in supporting these dialogues and launching this research.
 
-
+**[Read the full "Civic Investment Strategies" report here.](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)**
