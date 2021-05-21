@@ -7,7 +7,7 @@ author: Goldhirsh Foundation Team
 
 **Today, we release “[Civic Investment Strategies](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0),” our new report highlighting the tactics and tools that have proven most successful for us in supporting civic progress.**
 
-![Report Cover](/uploads/civicinvestment.png)
+[![Report Cover](/uploads/civicinvestment.png)](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)
 
 <!-- SHIM: Avoid multiple columns -->
 <p style="display: none"></p><p style="display: none"></p><p style="display: none"></p><p style="display: none"></p>
