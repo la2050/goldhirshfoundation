@@ -5,8 +5,8 @@ excerpt: Today, we release “Civic Investment Strategies,” our new report hig
 author: Goldhirsh Foundation Team
 ---
 
-**Today, we release “[Civic Investment Strategies](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0),” our new report highlighting the tactics and tools that have proven most successful for us in supporting civic progress.**
-<a href="https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0">
+**Today, we release “[Civic Investment Strategies](https://www.dropbox.com/s/30et33yvcpumpx7/The%20Goldhirsh%20Foundation%27s%20Civic%20Investment%20Strategies%20Report.pdf?dl=0),” our new report highlighting the tactics and tools that have proven most successful for us in supporting civic progress.**
+<a href="https://www.dropbox.com/s/30et33yvcpumpx7/The%20Goldhirsh%20Foundation%27s%20Civic%20Investment%20Strategies%20Report.pdf?dl=0">
 <img src="/uploads/civicinvestment.png" alt="Report Cover" style="
     height: 18em;
 "></a>
@@ -26,4 +26,4 @@ In the report, we highlight case studies of our most successful tactics for prom
   **4. Commissioning convenings and reports.**
   Sometimes, all it takes is providing space for conversation, research, and experimentation among civic doers to make positive change. We’ve found that funders can play an important role in supporting these dialogues and launching this research.
 
-**[Read the full "Civic Investment Strategies" report here.](https://www.dropbox.com/s/7dxxl6jb9x4hney/Goldhirsh%20Foundation%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)**
+**[Read the full "Civic Investment Strategies" report here.](https://www.dropbox.com/s/30et33yvcpumpx7/The%20Goldhirsh%20Foundation%27s%20Civic%20Investment%20Strategies%20Report.pdf?dl=0)**
