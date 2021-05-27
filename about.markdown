@@ -87,7 +87,7 @@ Press
 
 To contact the Goldhirsh Foundation, email [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
 
-May <strong>12</strong> 2021
+May <strong>13</strong> 2021
 : [‘Microfarms’ come to South L.A. frontyards, bringing fresh produce to food deserts](https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce)
 : 2020 My LA2050 grantee, Crop Swap LA, discusses how it used grant funds to pilot a microfarm model and combat food insecurity.
 
