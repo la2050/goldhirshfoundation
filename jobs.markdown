@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://drive.google.com/open?id=1iWwXgYmDngBLnNIvGxMVlxxu2g7-dxH2">Executive & Department Assistant</a></th>
+  <td>Bonhams Auction House</td>
+  <td>Los Angeles</td>
+  <td>May 24th, 2021</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://la2050.org/jobs/3137">Social Media and Communications Fellow</a></th>
   <td>The Goldhirsh Foundation/LA2050</td>
   <td>Remote - Los Angeles Preferred</td>
