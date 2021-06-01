@@ -37,6 +37,14 @@ Financial Capital Opportunities
   <td>"Fast Pitch competition has helped early-stage women-led businesses craft their stories, messages, monetization plans, legal structure and more. The individualized attention received by finalists allows these women entrepreneurs to become pitch-ready in a way that makes their business much more appealing to Angels and VCs to support funding to scale."</td>
   <td>6-15-2021</td>
 </tr>
+  
+<tr>
+  <th scope="row"><a href="https://www.jpmorganchase.com/impact/communities/advancingcities">JP Morgan Chase</a></th>
+  <td>"JPMC will make investments of up to $5 million to support creative, collaborative and sustainable solutions that help
+tackle systemic drivers of gender and racial pay and wealth gaps for low- and moderate-income Black
+and/or Latina women."</td>
+  <td>6-28-2021</td>
+</tr> 
 
 <tr>
   <th scope="row"><a href="https://latinofilm.org/fellowship/">Latino Film Institute</a></th>
