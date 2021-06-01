@@ -33,24 +33,6 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.nalac.org/grants/covid19-relief-efforts/actos-emergency-grants/">NALAC COVID Relief Effort</a></th>
-  <td>"In collaboration with the Andrew W. Mellon Foundation and Intercultural Leadership Institute partners, the 2021 Actos de Confianza relief effort will expand to support Latinx artists and arts organizations who have been adversely impacted by the COVID-19 crisis."</td>
-  <td>May, 2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://1863.smapply.io/prog/rrr_program/">3 Rs Program</a></th>
-  <td>"The 3Rs Program is dedicated to helping Black business owners grow and scale during the current pandemic and continued racial unrest. The goal is to help as many Black businesses as possible navigate the short term uncertainty in the markets. The training and coaching provided through the Program will help you reevaluate your business model, pivot where necessary, set a targeted growth strategy, and execute with a clear roadmap."</td>
-  <td>6-1-2021</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://www.honda.com/community/applying-for-a-grant">Community Education Grant</a></th>
-  <td>"Funding for organizations that support youth education with a specific focus on the STEM (science, technology, engineering and mathematics) subjects in addition to the environment."</td>
-  <td>6-1-2021</td>
-</tr>
-
-<tr>
   <th scope="row"><a href="https://www.womenfoundersnetwork.com/fast-pitch-2020">Fast Pitch Competition</a></th>
   <td>"Fast Pitch competition has helped early-stage women-led businesses craft their stories, messages, monetization plans, legal structure and more. The individualized attention received by finalists allows these women entrepreneurs to become pitch-ready in a way that makes their business much more appealing to Angels and VCs to support funding to scale."</td>
   <td>6-15-2021</td>
