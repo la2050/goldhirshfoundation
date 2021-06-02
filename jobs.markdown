@@ -22,6 +22,20 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
 
+ <tr>
+  <th scope="row"><a href="https://www.curling.la/jobs/job-title-curling-instructor#/">Curling Instructor</a></th>
+  <td>Southern California Curling Center</td>
+  <td>Los Angeles</td>
+  <td>June 2nd, 2021</td>
+</tr>
+  
+ <tr>
+  <th scope="row"><a href="https://www.curling.la/jobs/job-title-event-coordinator#/">Event Coordinator</a></th>
+  <td>Southern California Curling Center</td>
+  <td>Los Angeles</td>
+  <td>June 2nd, 2021</td>
+</tr>
+  
 <tr>
   <th scope="row"><a href="https://drive.google.com/open?id=1iWwXgYmDngBLnNIvGxMVlxxu2g7-dxH2">Executive & Department Assistant</a></th>
   <td>Bonhams Auction House</td>
