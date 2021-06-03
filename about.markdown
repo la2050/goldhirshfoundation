@@ -103,6 +103,10 @@ Sept <strong>4</strong> 2019
 : [Happy Birthday, LA!](https://la2050.org/blog/happy-birthday-la)
 : In honor of our city's birthday we asked 26 leaders, doers, and innovators to share their birthday wish for the City of Angels. [Read more](https://la2050.org/blog/happy-birthday-la)
 
+Aug <strong>4</strong> 2019
+: [How This Entrepreneur Survived A Traumatic Brain Injury And Now Runs A Barber College For Homeless Students](https://www.forbes.com/sites/robynshulman/2019/08/04/how-this-entrepreneur-survived-a-traumatic-brain-injury-and-now-runs-a-barber-college-for-homeless-students/?sh=18f9a0e2100b)
+: 2016 My LA2050 grantee, Covenant House California, is highlighted for its Building Precise Barber College program [Read more](https://www.forbes.com/sites/robynshulman/2019/08/04/how-this-entrepreneur-survived-a-traumatic-brain-injury-and-now-runs-a-barber-college-for-homeless-students/?sh=18f9a0e2100b)
+
 Jun <strong>4</strong> 2019
 : [My LA2050 $1 Million Grants Challenge Winners Announced](https://www.prweb.com/releases/my_la2050_1_million_grants_challenge_winners_announced/prweb16350859.htm)
 : Today, the Goldhirsh Foundation announces the winners for its annual <a href="challenge.la2050.org">My LA2050 Grants Challenge</a>, a $1 million online crowdsourced competition for creative ideas that shape the future of LA. [Read more](https://www.prweb.com/releases/my_la2050_1_million_grants_challenge_winners_announced/prweb16350859.htm)
