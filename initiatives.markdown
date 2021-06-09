@@ -21,7 +21,7 @@ Promoting mobilization and disruption within existing infrastructures.
 
 [Stockton Economic Empowerment Demonstration (SEED) via Economic Security Project](https://www.stocktondemonstration.org)
 : Supporting groundbreaking initiatives to ensure opportunity and economic security.
-: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) was the first guaranteed income experiment in the U.S. to pilot basic income._ Updated information on SEED's progress is highlighted in our [Civic Investment Report]. (https://goldhirshfoundation.org/blog/2021/05/20/goldhirsh-foundation-civic-investment-strategies/)
+: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) was the first guaranteed income experiment in the U.S. to pilot basic income._ Updated information on SEED's progress is highlighted in our [Civic Investment Report](https://goldhirshfoundation.org/blog/2021/05/20/goldhirsh-foundation-civic-investment-strategies/))
 
 [Los Angeles Mayor’s Fund](http://mayorsfundla.org)
 : Developing civic pride by showcasing Los Angeles as a world-class creative capital
