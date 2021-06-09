@@ -21,7 +21,7 @@ Promoting mobilization and disruption within existing infrastructures.
 
 [Stockton Economic Empowerment Demonstration (SEED) via Economic Security Project](https://www.stocktondemonstration.org)
 : Supporting groundbreaking initiatives to ensure opportunity and economic security.
-: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) is the first guaranteed income experiment in the U.S. to pilot basic income._
+: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) was the first guaranteed income experiment in the U.S. to pilot basic income._ Updated information on SEED's progress is highlighted in our [Civic Investment Report]. (https://goldhirshfoundation.org/blog/2021/05/20/goldhirsh-foundation-civic-investment-strategies/)
 
 [Los Angeles Mayor’s Fund](http://mayorsfundla.org)
 : Developing civic pride by showcasing Los Angeles as a world-class creative capital
@@ -30,10 +30,6 @@ Promoting mobilization and disruption within existing infrastructures.
 [Transportation Technology Strategist Fellow at City of Los Angeles Department of Transportation](https://www.lamayor.org/mayor-garcetti-announces-appointment-transportation-technology-strategist-fellow)
 : Designing the future of transportation in Los Angeles
 : _With our support, Los Angeles has become the only municipality in the nation with a staff person dedicated to developing a citywide transportation technology strategy that promotes shared mobility and supports a safe, sustainable, and tech-enabled transportation network._
-
-[Heal the Bay in partnership with the U.S. Army Corps of Engineers](https://healthebay.org)
-: The Compton Creek Trash Capture Project
-: _Heal the Bay in partnership with the U.S. Army Corps of Engineers completed a project to build trash capture devices in the concrete portion of Compton Creek, the last major tributary that feeds into the Los Angeles River._
 
 [White House Fellowship in Entrepreneurship](https://www.whitehouse.gov/administration/eop/ostp)
 : Supporting sustainable economic growth and quality jobs with the White House Office of Science and Technology Policy.
@@ -48,11 +44,11 @@ Seeding social innovation in Los Angeles.
 
 [Opportunity Fund](https://www.opportunityfund.org)
 : Women Empowering Women builds capacity for women entrepreneurs.
-: _Opportunity Fund is investing in targeted outreach and technology to reach and engage women entrepreneurs who are seeking to build sustainable small businesses._
+: _Opportunity Fund invests in in targeted outreach and technology to reach and engage women entrepreneurs who are seeking to build sustainable small businesses._
 
 [The Imagination Foundation](https://imagination.org/)
 : Finding, funding, and fostering creativity and entrepreneurship in youth.
-: _Inspired by Caine’s Arcade, we provided seed funding to build an organization that would support more kids like Caine. We want to “help kids not only to learn how to build the things they imagine, but to also imagine the world they can build.”_
+: _Inspired by Caine’s Arcade, we provided seed funding to build an organization that would support more kids like Caine. We wanted to “help kids not only to learn how to build the things they imagine, but to also imagine the world they can build.”_
 
 [Hammer Museum Arts Restore LA](https://hammer.ucla.edu/programs-events/2013/11/arts-restore-la-westwood)
 : The Hammer Museum at UCLA believes in the promise of art and ideas to illuminate our lives and build a more just world.
@@ -60,7 +56,7 @@ Seeding social innovation in Los Angeles.
 
 [Girls Academic Leadership Academy (GALA)](https://www.galacademy.org)
 : Promoting gender diversity and inspiring innovation in the STEM fields
-: _GALA is LAUSD’s first all-girls public school. With a STEM-centered curriculum, GALA’s students will apply their academic and technology skills to build projects in a flexible, collaborative learning environment._
+: _GALA was LAUSD’s first all-girls public school. With a STEM-centered curriculum, GALA’s students apply their academic and technology skills to build projects in a flexible, collaborative learning environment._
 
 [Locke Jet Space](https://inhabitat.com/lock-jet-space-awesome-hexagonal-book-towers-update-boring-school-library/)
 : No Right Brain Left Behind's mission is to instill creativity in education. Green Dot Public Schools' mission is to help transform public education so all students graduate prepared for college, leadership, and life.
