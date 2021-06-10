@@ -53,7 +53,7 @@ and/or Latina women."</td>
 </tr> 
 
 <tr>
-  <th scope="row"><a href="https://www.haloawards.org/application">Halo Award/a></th>
+  <th scope="row"><a href="https://www.haloawards.org/application">Halo Award</a></th>
   <td>"The HALO Award is a capacity building program designed to strengthen and sustain nonprofit organizations by supporting volunteer programs and recognizing and rewarding volunteers doing exemplary work in their communities."</td>
   <td>7-8-2021</td>
 </tr> 
