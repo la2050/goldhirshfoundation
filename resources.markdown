@@ -149,6 +149,9 @@ Would you like to add something to the list? Email us at [team@goldhirshfoundati
 
 ### Past and Upcoming Team Goldhirsh Speaking Engagements
 
+May <strong>5</strong> 2021
+: Investing with a Purpose - Skoll Scholar Summit, Tara Roth
+
 Apr <strong>27</strong> 2021
 : A Compelling Case for Support: Raising Funds for Societally Impactful Innovations - UCLA Sustainable LA Grand Challenge, Tara Roth
 
