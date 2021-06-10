@@ -225,6 +225,14 @@ From capital development to crowdsourcing technologies, we are always learning. 
 * [Skills, Attitudes, and Behaviours That Fuel Public Innovation (2019)](https://media.nesta.org.uk/documents/Nesta_CompetencyFramework_Guide_July2019.pdf)
 * [The Creativity Bubble (2014)](https://jacobinmag.com/2014/10/the-creativity-bubble)
 * [What Every CEO Needs to Know About 'Superstar' Companies (2019)](https://www.mckinsey.com/featured-insights/innovation-and-growth/what-every-ceo-needs-to-know-about-superstar-companies)
+* [Stockton’s Basic-Income Experiment Pays Off (2021)](https://www.theatlantic.com/ideas/archive/2021/03/stocktons-basic-income-experiment-pays-off/618174/)
+* [How Women Are Changing the Philanthropy Game (2021)](https://www.nytimes.com/2021/01/30/style/mackenzie-scott-prisclila-chan-zuckerberg-melinda-gates-philanthropy.html)
+* [Column: Stockton study shows that universal basic income can be life-changing (2021)](https://www.latimes.com/business/story/2021-03-06/stockton-study-universal-basic-income)
+* [How to Find the Right ESG Fund (2021)](https://www.morningstar.com/articles/1032486/how-to-find-the-right-esg-fund)
+* [What is the "fourth sector" of the economy?(2021)](https://www.weforum.org/agenda/2021/03/a-fourth-sector-strategy-to-build-a-better-21st-century-for-all/)
+* [Doughnut economics in Amsterdam (2021)](https://time.com/5930093/amsterdam-doughnut-economics/)
+* [Hitting net zero by 2050 could add $1 trillion to the U.S. economy (2021)](https://www.fastcompany.com/90607953/hitting-net-zero-by-2050-could-add-1-trillion-to-the-u-s-economy)
+* [Impact investing and Native America (2021)](https://ssir.org/articles/entry/bridging_the_divide_between_impact_investing_and_native_america)
 
 
 
@@ -246,6 +254,8 @@ Our team is always learning and sharing. Here is a list of some of the books we 
 * [Lean Impact](https://www.annmei.com/book)
 * [The Power of Habit](https://ls2pac.lapl.org/?section=resource&resourceid=452055546&currentIndex=3&view=fullDetailsDetailsTab)
 * [21 Lessons For the 21st Century](https://ls2pac.lapl.org/?section=resource&resourceid=1872347258&currentIndex=0&view=fullDetailsDetailsTab)
+* [Think Again](https://lapl.overdrive.com/media/5704292)
+* [Pyschology of Money](https://www.goodreads.com/en/book/show/41881472-the-psychology-of-money)
 
 
 
