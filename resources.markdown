@@ -53,6 +53,12 @@ and/or Latina women."</td>
 </tr> 
 
 <tr>
+  <th scope="row"><a href="https://www.haloawards.org/application">Halo Award/a></th>
+  <td>"The HALO Award is a capacity building program designed to strengthen and sustain nonprofit organizations by supporting volunteer programs and recognizing and rewarding volunteers doing exemplary work in their communities."</td>
+  <td>7-8-2021</td>
+</tr> 
+  
+<tr>
   <th scope="row"><a href="https://latinofilm.org/fellowship/">Latino Film Institute</a></th>
   <td>"Each filmmaker will receive $20,000 cash and individualized mentorship, meetings with industry leaders and networking opportunities. The completed films will be premiered as a part of a special program during the 2021 version of LALIFF, where filmmakers will also have the opportunity to participate in the Festival’s Industry Week, to further develop their careers and gain industry access needed to sued as working artists."</td>
   <td>10-14-2021</td>
