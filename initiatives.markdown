@@ -21,19 +21,19 @@ Promoting mobilization and disruption within existing infrastructures.
 
 [Stockton Economic Empowerment Demonstration (SEED) via Economic Security Project](https://www.stocktondemonstration.org)
 : Supporting groundbreaking initiatives to ensure opportunity and economic security.
-: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) was the first guaranteed income experiment in the U.S. to pilot basic income._ Updated information on SEED's progress is highlighted in our [Civic Investment Report](https://goldhirshfoundation.org/blog/2021/05/20/goldhirsh-foundation-civic-investment-strategies/)
+: _Led by Mayor Michael Tubbs, the Stockton Economic Empowerment Demonstration (SEED) was the first guaranteed income experiment in the U.S. to pilot basic income. Updated information on SEED's progress is highlighted in our [Civic Investment Report](https://goldhirshfoundation.org/blog/2021/05/20/goldhirsh-foundation-civic-investment-strategies/)._
 
 [Los Angeles Mayor’s Fund](http://mayorsfundla.org)
 : Developing civic pride by showcasing Los Angeles as a world-class creative capital
-: _Through the Brand LA initiative, the Mayor’s Fund engaged with branding experts and creative thinkers at 72andSunny and the Mayor’s Office of Economic Development, to develop a consistent and revitalized identity for Los Angeles. This program, [LA Original](https://www.laoriginal.com), celebrates LA as the creative capital of the world, showcasing LA’s manufacturers, makers, and entrepreneurs._
+: _Through the Brand LA initiative, the Mayor’s Fund engaged with branding experts and creative thinkers at 72andSunny and the Mayor’s Office of Economic Development, to develop a consistent and revitalized identity for Los Angeles. This program, [LA Original](https://www.laoriginal.com), celebrates LA as the creative capital of the world, showcasing LA’s manufacturers, makers, and entrepreneurs. Updated information on LA Original's progress is highlighted in our [Civic Investment Report](https://goldhirshfoundation.org/blog/2021/05/20/goldhirsh-foundation-civic-investment-strategies/)._
 
 [Transportation Technology Strategist Fellow at City of Los Angeles Department of Transportation](https://www.lamayor.org/mayor-garcetti-announces-appointment-transportation-technology-strategist-fellow)
 : Designing the future of transportation in Los Angeles
-: _With our support, Los Angeles has become the only municipality in the nation with a staff person dedicated to developing a citywide transportation technology strategy that promotes shared mobility and supports a safe, sustainable, and tech-enabled transportation network._
+: _With our support, Los Angeles become the only municipality in the nation with a staff person dedicated to developing a citywide transportation technology strategy that promoted shared mobility and supported a safe, sustainable, and tech-enabled transportation network._
 
-[White House Fellowship in Entrepreneurship](https://www.whitehouse.gov/administration/eop/ostp)
-: Supporting sustainable economic growth and quality jobs with the White House Office of Science and Technology Policy.
-: _This fellowship is designed to coordinate and launch a national agenda supporting inclusive entrepreneurship and expanding business opportunities in the technology field, especially to women and formerly disinvested communities._
+[White House Fellowship in Entrepreneurship and Access to Capital](https://www.whitehouse.gov/administration/eop/ostp)
+: Supported sustainable economic growth and quality jobs with the White House Office of Science and Technology Policy.
+: _This fellowship was designed to coordinate and launch a national agenda supporting inclusive entrepreneurship and to expand business opportunities in the technology field, especially to women and formerly disinvested communities._
 
 
 
