@@ -42,9 +42,9 @@ Promoting mobilization and disruption within existing infrastructures.
 Seeding social innovation in Los Angeles.
 
 
-[Opportunity Fund](https://www.opportunityfund.org)
+[Accion Opportunity Fund](https://www.opportunityfund.org)
 : Women Empowering Women builds capacity for women entrepreneurs.
-: _Opportunity Fund invests in in targeted outreach and technology to reach and engage women entrepreneurs who are seeking to build sustainable small businesses._
+: _Accion Opportunity Fund invests in in targeted outreach and technology to reach and engage women entrepreneurs who are seeking to build sustainable small businesses._
 
 [The Imagination Foundation](https://imagination.org/)
 : Finding, funding, and fostering creativity and entrepreneurship in youth.
