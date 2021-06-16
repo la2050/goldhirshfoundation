@@ -76,7 +76,7 @@ The Team
 
 **Jake Bishop** is the Assistant to the President at the Goldhirsh Foundation. He recently graduated with bachelor's degrees in Sociology and Political Science from Chapman University. Jake is passionate about creating a more just society where everyone has equal opportunities no matter how they identify. 
 
-### ![Jeremy Rosenberg](/uploads/jeremy.png) <a id="jeremy-rosenberg" />
+### ![Jeremy Rosenberg](/uploads/jeremy.jpg) <a id="jeremy-rosenberg" />
 
 **Jeremy Rosenberg** is the Communications Strategist at the Goldhirsh Foundation. Jeremy is an innovative communications executive and cross-platform storyteller with a wide range of non-profit, media, and civic-centric experiences. He served as Assistant Dean, Public Affairs and Special Events, at the USC Annenberg School; Vice President, Communications and Marketing, at the LA84 Foundation; and as an online editor and columnist for the Los Angeles Times. His non-fiction books about LA include “Under Spring,” “Kickoff Concussion,” and “No Man is An Island.”
 
@@ -93,15 +93,15 @@ The Team
   </a>
 </p>
 
-### ![Nida Ahmed](/uploads/nida.png) <a id="nida-ahmed" />
+### ![Nida Ahmed](/uploads/nida.jpg) <a id="nida-ahmed" />
 
 **Nida Ahmed** is the current Social Innovation Fellow at the Goldhirsh Foundation. She holds a B.A in Economics and International Relations and recently completed her Masters in Public Administration at the USC Sol Price School of Public Policy. Her background is in management consulting with a focus on strategic operations and policy development for the public and private sector. She is passionate about social impact, corporate social responsibility, and working towards equity for marginalized communities.
 
-### ![Bryan Byrdlong](/uploads/bryan.png) <a id="bryan-byrdlong" />
+### ![Bryan Byrdlong](/uploads/bryan.jpg) <a id="bryan-byrdlong" />
 
 **Bryan Byrdlong** is a Social Media and Communications Fellow at the Goldhirsh Foundation. He recently received an MFA in Creative Writing from the Helen Zell Writer's Program at the University of Michigan. He is an incoming Creative Writing and Literature PhD student at the University of Southern California. 
 
-### ![Mana Koike](/uploads/mana.png) <a id="mana-koike" />
+### ![Mana Koike](/uploads/mana.jpg) <a id="mana-koike" />
 
 **Mana Koike** is the Design Fellow at the Goldhirsh Foundation. She recently graduated with a B.S. in Product Design from ArtCenter College of Design. Mana is passionate about creating inspiring visual experiences that are true to the brand philosophy.
 
