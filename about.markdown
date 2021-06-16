@@ -103,7 +103,7 @@ The Team
 
 ### ![Bryan Byrdlong](/uploads/bryan.jpg) <a id="bryan-byrdlong" />
 
-**Bryan Byrdlong** is a Social Media and Communications Fellow at the Goldhirsh Foundation. He recently received an MFA in Creative Writing from the Helen Zell Writer's Program at the University of Michigan. He is an incoming Creative Writing and Literature PhD student at the University of Southern California. 
+**Bryan Byrdlong** is a Social Media and Communications Fellow at the Goldhirsh Foundation. He recently received an MFA in Creative Writing from the Helen Zell Writer’s Program at the University of Michigan. He is an incoming Creative Writing and Literature PhD student at the University of Southern California. He is passionate about promoting innovation and equitable initiatives, especially for underserved communities. 
 
 
 ### ![Mana Koike](/uploads/mana.jpg) <a id="mana-koike" />
