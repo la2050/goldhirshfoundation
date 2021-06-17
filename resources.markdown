@@ -39,6 +39,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/ ">USC Pulias Center for Higher Education</a></th>
+  <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
+  <td>6-16-2021</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://santamonicawellbeing.org/microgrants/apply ">Santa Monica Wellbeing</a></th>
   <td>"Wellbeing Microgrants are a new approach to engage and support Santa Monica residents looking to make a positive change in their community. Designed to empower residents, the City provides up to $500 for ideas that are focused on small scale action to improve community wellbeing."</td>
   <td>6-28-2021</td>
