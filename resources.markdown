@@ -26,23 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
-<tr>
-  <th scope="row"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=SHJZBzjqG0WKvqY47dusgRhkHSYxz5JKiyxHrBS9oFNURDVOVjNMTlFOTDMzTVBESktZU1g5VTExOS4u">The Los Angeles County Department of Public Health</a></th>
-  <td>"The Center for Strategic Partnerships has worked with DPH to design a Grassroots Grants program that will provide one-time $5000 grants to grassroots community-based organizations and faith-based organizations to support vaccine uptake in highly-impacted communities. "</td>
-  <td>Rolling, As Soon As Possible</td>
-</tr>
-
-<tr>
-  <th scope="row"><a href="https://www.womenfoundersnetwork.com/fast-pitch-2020">Fast Pitch Competition</a></th>
-  <td>"Fast Pitch competition has helped early-stage women-led businesses craft their stories, messages, monetization plans, legal structure and more. The individualized attention received by finalists allows these women entrepreneurs to become pitch-ready in a way that makes their business much more appealing to Angels and VCs to support funding to scale."</td>
-  <td>6-15-2021</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/ ">USC Pulias Center for Higher Education</a></th>
-  <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
-  <td>6-16-2021</td>
-</tr>
   
 <tr>
   <th scope="row"><a href="https://santamonicawellbeing.org/microgrants/apply ">Santa Monica Wellbeing</a></th>
@@ -64,6 +47,12 @@ and/or Latina women."</td>
   <td>7-8-2021</td>
 </tr> 
 
+ <tr>
+  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/ ">USC Pulias Center for Higher Education</a></th>
+  <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
+  <td>7-16-2021</td>
+</tr>
+  
 <tr>
   <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
   <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
