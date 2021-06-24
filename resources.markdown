@@ -43,10 +43,16 @@ and/or Latina women."</td>
 
 <tr>
   <th scope="row"><a href="https://www.haloawards.org/application">Halo Award</a></th>
+  <td>"The Last Mile Money Accelerator is a 3-month program to supercharge inclusive fintech startups with grant capital & world-class design support. Please complete and submit the following application by July 11th, 2021."</td>
+  <td>7-11-2021</td>
+</tr> 
+
+<tr>
+  <th scope="row"><a href="https://lastmile.money/accelerator">The Last Mile Money Startup Accelerator</a></th>
   <td>"The HALO Award is a capacity building program designed to strengthen and sustain nonprofit organizations by supporting volunteer programs and recognizing and rewarding volunteers doing exemplary work in their communities."</td>
   <td>7-8-2021</td>
 </tr> 
-
+  
  <tr>
   <th scope="row"><a href="https://pullias.usc.edu/delphi/award/ ">USC Pulias Center for Higher Education</a></th>
   <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
