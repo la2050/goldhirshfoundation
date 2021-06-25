@@ -26,20 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
-  
-<tr>
-  <th scope="row"><a href="https://santamonicawellbeing.org/microgrants/apply ">Santa Monica Wellbeing</a></th>
-  <td>"Wellbeing Microgrants are a new approach to engage and support Santa Monica residents looking to make a positive change in their community. Designed to empower residents, the City provides up to $500 for ideas that are focused on small scale action to improve community wellbeing."</td>
-  <td>6-28-2021</td>
-</tr>  
-  
-<tr>
-  <th scope="row"><a href="https://www.jpmorganchase.com/impact/communities/advancingcities">JP Morgan Chase</a></th>
-  <td>"JPMC will make investments of up to $5 million to support creative, collaborative and sustainable solutions that help
-tackle systemic drivers of gender and racial pay and wealth gaps for low- and moderate-income Black
-and/or Latina women."</td>
-  <td>6-28-2021</td>
-</tr> 
 
 <tr>
   <th scope="row"><a href="https://www.haloawards.org/application">Halo Award</a></th>
