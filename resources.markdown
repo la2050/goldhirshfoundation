@@ -40,9 +40,15 @@ Financial Capital Opportunities
 </tr> 
   
  <tr>
-  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/ ">USC Pulias Center for Higher Education</a></th>
+  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/">New Schools Venture Fund</a></th>
   <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
   <td>7-16-2021</td>
+</tr>
+  
+<tr>
+  <th scope="row"><a href="https://www.newschools.org/teacher-diversity-application/">USC Pulias Center for Higher Education</a></th>
+  <td>"With lead funding from The Walton Family Foundation, NewSchools is offering up to $2.5 million in grants to support efforts focused on recruiting, supporting, and retaining educators of color. Grantees will receive one-year grants ranging from $150,000 to $250,000 as well as ongoing management assistance and communities of practice to bring their ideas to life."</td>
+  <td>8-6-2021</td>
 </tr>
   
 <tr>
