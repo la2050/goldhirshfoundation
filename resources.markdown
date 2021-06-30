@@ -52,6 +52,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://catalyzechallenge.org/thechallenge/">Catalyze Challenge</a></th>
+  <td>"The Challenge is looking for bold, creative ideas from United States-based innovators that reinvent young people’s education to emphasize career exploration and learning both inside and outside of the classroom."</td>
+  <td>8-15-2021</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
   <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
   <td>Spring Round: Nov 10th</td>
