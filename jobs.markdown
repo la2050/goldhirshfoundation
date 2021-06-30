@@ -22,6 +22,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
 
+ <tr>
+  <th scope="row"><a href="https://www.morrisberger.com/position.php?id=2154.">Chief Development Officer</a></th>
+  <td>Huntington Medical Research Institutes</td>
+  <td>Pasadena, CA</td>
+  <td>June 30th, 2021</td>
+</tr>
+  
 <tr>
   <th scope="row"><a href="https://glymph-consulting.breezy.hr/p/1d587f67579c-movement-voter-project-vice-president-of-programs">Movement Voter Project - Vice President of Programs</a></th>
   <td>Movement Voter Project</td>
