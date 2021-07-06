@@ -57,6 +57,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://akonadi.org/so-love-can-win/">Akonadi Foundation</a></th>
+  <td>"This grant provides general support grants of $10,000 to Oakland’s organizers, storytellers, culture bearers, and healers who seek to ignite and implement a radical collective vision of freedom and racial justice."</td>
+  <td>9-1-2021</td>
+</tr> 
+  
+<tr>
   <th scope="row"><a href="https://www.cciarts.org/cgi/page.cgi/cali_grants.htm">Center For Cultural Innovation Cali Catalyst</a></th>
   <td>"The Challenge is looking for bold, creative ideas from United States-based innovators that reinvent young people’s education to emphasize career exploration and learning both inside and outside of the classroom."</td>
   <td>9-15-2021</td>
