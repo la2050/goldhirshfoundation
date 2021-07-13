@@ -26,17 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
 
-<tr>
-  <th scope="row"><a href="https://lastmile.money/accelerator">The Last Mile Money Startup Accelerator</a></th>
-  <td>"The HALO Award is a capacity building program designed to strengthen and sustain nonprofit organizations by supporting volunteer programs and recognizing and rewarding volunteers doing exemplary work in their communities."</td>
-  <td>7-8-2021</td>
-</tr> 
-  
-<tr>
-  <th scope="row"><a href="https://www.haloawards.org/application">Halo Award</a></th>
-  <td>"The Last Mile Money Accelerator is a 3-month program to supercharge inclusive fintech startups with grant capital & world-class design support. Please complete and submit the following application by July 11th, 2021."</td>
-  <td>7-11-2021</td>
-</tr> 
   
  <tr>
   <th scope="row"><a href="https://pullias.usc.edu/delphi/award/">New Schools Venture Fund</a></th>
@@ -54,6 +43,12 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://catalyzechallenge.org/thechallenge/">Catalyze Challenge</a></th>
   <td>"CALI Catalyst provides unrestricted grants of up to $5,000 to California changemakers whose bold actions are shifting the arts and culture sector in ways that give underrepresented populations—Black, Indigenous, people of color, LGBTQIA+, and people with disabilities—more power and influence."</td>
   <td>8-15-2021</td>
+</tr>
+  
+ <tr>
+  <th scope="row"><a href="https://www.svpla.org/accelerator">SVPLA's Systems Change Accelerator</a></th>
+  <td>"SVPLA's Systems Change Accelerator is a nine-month program bolstering the growth and impact of leaders of systems change initiatives in Los Angeles County."</td>
+  <td>8-16-2021</td>
 </tr>
   
 <tr>
