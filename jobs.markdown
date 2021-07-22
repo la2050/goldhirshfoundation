@@ -24,14 +24,14 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 
   
 <tr>
-  <th scope="row"><a href="https://foundationccc.wd1.myworkdayjobs.com/en-US/fccc-careers/job/Headquarters/Talent-Acquisition-Manager_JR100070>Talent Acquisition Manager</a></th>
+  <th scope="row"><a href="https://foundationccc.wd1.myworkdayjobs.com/en-US/fccc-careers/job/Headquarters/Talent-Acquisition-Manager_JR100070">Talent Acquisition Manager</a></th>
   <td>Foundation for California Community Colleges</td>
   <td>Sacramento, CA</td>
   <td>July 21st, 2021</td>
 </tr>  
   
 <tr>
-  <th scope="row"><a href="https://foundationccc.wd1.myworkdayjobs.com/en-US/fccc-careers/job/California-Remote/Program-Accountant_JR100008>Program Accountant</a></th>
+  <th scope="row"><a href="https://foundationccc.wd1.myworkdayjobs.com/en-US/fccc-careers/job/California-Remote/Program-Accountant_JR100008">Program Accountant</a></th>
   <td>Foundation for California Community Colleges</td>
   <td>Sacramento, CA</td>
   <td>July 21st, 2021</td>
