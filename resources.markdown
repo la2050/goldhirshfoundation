@@ -74,7 +74,20 @@ Financial Capital Opportunities
   <td>"Community Action Grants provide funding to individuals, AAUW branches and AAUW state organizations as well as community-based nonprofits for innovative programs that promote education and equity through projects focused on encouraging girls to select, before entering college, the physical sciences or engineering as a career."</td>
   <td>12-1-2021</td>
 </tr>
-
+  
+<tr>
+  <th scope="row"><a href="https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies/programs/usc-marshall-greif-incubator">USC Marshall School of Business</a></th>
+  <td>"Each year, we work with founders on everything from feasibility and product development, to customer acquisition, testing business models, gaining distribution, team development, investment preparation, and raising funding. We provide additional support in the form of legal assistance, potential financial grants, and access to mentors."</td>
+  <td>Rolling</td>
+</tr>
+  
+  
+<tr>
+  <th scope="row"><a href="https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies/programs/usc-marshall-venture-fund">USC Marshall School of Business</a></th>
+  <td>"The Fund’s mission is to bridge the funding gap for early-stage and amplify the impact for later-stage USC-related companies; train students to evaluate, make, and manage venture investments; and engage alumni, advisors, experts, and other stakeholders in helping build the entrepreneurial ecosystem at USC and in Southern California."</td>
+  <td>Rolling</td>
+</tr>
+  
 <tr>
   <th scope="row"><a href="https://www.drkfoundation.org/apply-for-funding/what-we-fund/">Draper Richards Kaplan Foundation</a></th>
   <td>"DRK supports outsized impact through entrepreneurs and enterprises that meaningfully address a pressing societal problem affecting people’s lives by providing them with 3 years of unrestricted capital (totaling $300,000) and provide rigorous on-going support by joining their board of directors for the 3 years and partnering with the leader to help them to build capacity in their organization and scale their impact"</td>
