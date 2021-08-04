@@ -34,7 +34,7 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
-  <th scope="row"><a href="https://www.newschools.org/teacher-diversity-application/">nNew Schools Venture Fund</a></th>
+  <th scope="row"><a href="https://www.newschools.org/teacher-diversity-application/">New Schools Venture Fund</a></th>
   <td>"With lead funding from The Walton Family Foundation, NewSchools is offering up to $2.5 million in grants to support efforts focused on recruiting, supporting, and retaining educators of color. Grantees will receive one-year grants ranging from $150,000 to $250,000 as well as ongoing management assistance and communities of practice to bring their ideas to life."</td>
   <td>8-6-2021</td>
 </tr>
