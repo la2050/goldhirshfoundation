@@ -28,7 +28,7 @@ Financial Capital Opportunities
 
   
  <tr>
-  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/">USC Pullias Center for Higher Educatio</a></th>
+  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/">USC Pullias Center for Higher Education</a></th>
   <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
   <td>7-16-2021</td>
 </tr>
