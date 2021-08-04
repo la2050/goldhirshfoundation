@@ -108,7 +108,7 @@ Financial Capital Opportunities
 </tr>
 
 <tr>
-  <th scope="row"><a href="https://www.wellsfargo.com/about/corporateresponsibility/community-giving/">Wells Fargo</a></th>
+  <th scope="row"><a href="https://www.wellsfargo.com/about/corporate-responsibility/community-giving/grant-process/">Wells Fargo</a></th>
   <td>"Wells Fargo is donating $175 million to help address public health needs, small business, housing, and financial stability for the most vulnerable populations. They focus their philanthropy on three key areas: housing affordability, financial health, and small business growth."</td>
   <td>Rolling</td>
 </tr>
