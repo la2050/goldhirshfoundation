@@ -70,10 +70,10 @@
 
 <body class="page-{{ page.url | replace: '/', '' }}{% if page.url == '/' %}home{% endif %}">
 
-  <section class="promotion">
+#  <section class="promotion">
     {% capture promotion %}{% include promotion.markdown %}{% endcapture %}
     {{ promotion | markdownify }}
-  </section>
+  </section> #
 
   <header>
     <h2>
