@@ -22,7 +22,15 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
 
-   <tr>
+  
+<tr>
+  <th scope="row"><a href="https://app.trinethire.com/companies/33689-accion-opportunity-fund/jobs/44525-manager-new-markets-tax-credits">Manager, New Markets Tax Credits</a></th>
+  <td>Accion Opportunity Fund</td>
+  <td>San Jose, CA</td>
+  <td>August 23rd, 2021</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://www.rivetschool.org/job-postings/chief-operating-officer"> Chief Operating Officer </a></th>
   <td>Rivet School</td>
   <td>Richmon, CA (preferred)</td>
