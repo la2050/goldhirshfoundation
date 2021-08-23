@@ -25,31 +25,6 @@ Financial Capital Opportunities
 </tr>
 </thead>
 <tbody>
-
-  
- <tr>
-  <th scope="row"><a href="https://pullias.usc.edu/delphi/award/">USC Pullias Center for Higher Education</a></th>
-  <td>"This award is for applicants that support non-tenure-track, adjunct and/or contingent faculty in pursuing strategic priorities such as student learning and community engagement."</td>
-  <td>7-16-2021</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://www.newschools.org/teacher-diversity-application/">New Schools Venture Fund</a></th>
-  <td>"With lead funding from The Walton Family Foundation, NewSchools is offering up to $2.5 million in grants to support efforts focused on recruiting, supporting, and retaining educators of color. Grantees will receive one-year grants ranging from $150,000 to $250,000 as well as ongoing management assistance and communities of practice to bring their ideas to life."</td>
-  <td>8-6-2021</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://catalyzechallenge.org/thechallenge/">Catalyze Challenge</a></th>
-  <td>"CALI Catalyst provides unrestricted grants of up to $5,000 to California changemakers whose bold actions are shifting the arts and culture sector in ways that give underrepresented populations—Black, Indigenous, people of color, LGBTQIA+, and people with disabilities—more power and influence."</td>
-  <td>8-15-2021</td>
-</tr>
-  
- <tr>
-  <th scope="row"><a href="https://www.svpla.org/accelerator">SVPLA's Systems Change Accelerator</a></th>
-  <td>"SVPLA's Systems Change Accelerator is a nine-month program bolstering the growth and impact of leaders of systems change initiatives in Los Angeles County."</td>
-  <td>8-16-2021</td>
-</tr>
   
 <tr>
   <th scope="row"><a href="https://akonadi.org/so-love-can-win/">Akonadi Foundation</a></th>
