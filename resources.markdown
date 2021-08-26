@@ -148,6 +148,9 @@ Would you like to add something to the list? Email us at [team@goldhirshfoundati
 
 ### Past and Upcoming Team Goldhirsh Speaking Engagements
 
+July <strong>8</strong> 2021
+: [Mayors for a Guaranteed Income First Anniversary Summit, Tara Roth](https://www.dropbox.com/s/svp1t2pscr7pmsx/zoom_0%20%282%29.mp4?dl=0)
+
 May <strong>5</strong> 2021
 : Investing with a Purpose - Skoll Scholar Summit, Tara Roth
 
