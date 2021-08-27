@@ -58,7 +58,7 @@ Financial Capital Opportunities
   
 <tr>
   <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
-  <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation"</td>
+  <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation."</td>
   <td>Rolling - Selected Monthly</td>
 </tr>
   
