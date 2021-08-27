@@ -57,6 +57,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
+  <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation"</td>
+  <td>Rolling - Selected Monthly</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies/programs/usc-marshall-greif-incubator">USC Marshall School of Business</a></th>
   <td>"Each year, we work with founders on everything from feasibility and product development, to customer acquisition, testing business models, gaining distribution, team development, investment preparation, and raising funding. We provide additional support in the form of legal assistance, potential financial grants, and access to mentors."</td>
   <td>Rolling</td>
