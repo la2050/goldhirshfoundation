@@ -25,19 +25,8 @@ Financial Capital Opportunities
 </tr>
 </thead>
 <tbody>
-  
-<tr>
-  <th scope="row"><a href="https://akonadi.org/so-love-can-win/">Akonadi Foundation</a></th>
-  <td>"This grant provides general support grants of $10,000 to Oakland’s organizers, storytellers, culture bearers, and healers who seek to ignite and implement a radical collective vision of freedom and racial justice."</td>
-  <td>9-1-2021</td>
-</tr> 
-  
-<tr>
-  <th scope="row"><a href="https://www.cciarts.org/cgi/page.cgi/cali_grants.htm">Center For Cultural Innovation Cali Catalyst</a></th>
-  <td>"The Challenge is looking for bold, creative ideas from United States-based innovators that reinvent young people’s education to emphasize career exploration and learning both inside and outside of the classroom."</td>
-  <td>9-15-2021</td>
-</tr> 
-  
+    
+
 <tr>
   <th scope="row"><a href="https://newmediaventures.org/intake">New Media Ventures</a></th>
   <td>"New Media Ventures funds for-profit companies and nonprofit organizations building progressive power. Our primary focus areas are media & narrative, organizing & advocacy, and elections & civic engagement."</td>
@@ -49,6 +38,12 @@ Financial Capital Opportunities
   <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
   <td>11-10-2021</td>
 </tr>
+  
+<tr>
+  <th scope="row"><a href="https://www.cciarts.org/cgi/page.cgi/cali_grants.htm">Center For Cultural Innovation Cali Catalyst</a></th>
+  <td>"CALI Catalyst provides unrestricted grants of up to $5,000 to California changemakers whose bold actions are shifting the arts and culture sector in ways that give underrepresented populations—Black, Indigenous, people of color, LGBTQIA+, and people with disabilities—more power and influence."</td>
+  <td>11-15-2021</td>
+</tr> 
 
 <tr>
   <th scope="row"><a href="https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/community-action/">Community Action Grant</a></th>
