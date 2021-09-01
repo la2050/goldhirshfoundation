@@ -22,6 +22,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
 
+<tr>
+  <th scope="row"><a href="https://facinghistory.clearcompany.com/careers/jobs/3065f631-7b84-c267-08fd-aafb40fce2bf/apply?source=1724792-CS-25946">Leadership Gifts Officer, California</a></th>
+  <td>Facing History and Ourselves</td>
+  <td>San Francisco, CA</td>
+  <td>August 31st, 2021</td>
+</tr>   
+  
   
 <tr>
   <th scope="row"><a href="https://app.trinethire.com/companies/33689-accion-opportunity-fund/jobs/44525-manager-new-markets-tax-credits">Manager, New Markets Tax Credits</a></th>
