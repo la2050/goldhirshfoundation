@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://la2050.org/jobs/3487">SOCIAL MEDIA AND COMMUNICATIONS FELLOW, GOLDHIRSH FOUNDATION/LA2050</a></th>
+  <td>Goldhirsh Foundation / LA2050</td>
+  <td>Los Angeles, CA</td>
+  <td>September 8th, 2021</td>
+</tr>     
+  
+<tr>
   <th scope="row"><a href="https://facinghistory.clearcompany.com/careers/jobs/3065f631-7b84-c267-08fd-aafb40fce2bf/apply?source=1724792-CS-25946">Leadership Gifts Officer, California</a></th>
   <td>Facing History and Ourselves</td>
   <td>San Francisco, CA</td>
