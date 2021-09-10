@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://estolanoadvisors.com/news/2021/8/25/were-hiring-senior-associate-bay-area-and-associate-southern-california">Senior Associate</a></th>
+  <td>Estolano Advisors</td>
+  <td>San Francisco, CA</td>
+  <td>September 10th, 2021</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://la2050.org/jobs/3487">SOCIAL MEDIA AND COMMUNICATIONS FELLOW, GOLDHIRSH FOUNDATION/LA2050</a></th>
   <td>Goldhirsh Foundation / LA2050</td>
   <td>Los Angeles, CA</td>
