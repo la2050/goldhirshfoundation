@@ -26,12 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
     
-
-<tr>
-  <th scope="row"><a href="https://newmediaventures.org/intake">New Media Ventures</a></th>
-  <td>"New Media Ventures funds for-profit companies and nonprofit organizations building progressive power. Our primary focus areas are media & narrative, organizing & advocacy, and elections & civic engagement."</td>
-  <td>9-15-2021</td>
-</tr>   
   
 <tr>
   <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
