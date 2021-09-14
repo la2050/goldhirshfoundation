@@ -148,30 +148,6 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>Boston, MA / Remote</td>
   <td>June 15th, 2021</td>
 </tr>
-  
- <tr>
-  <th scope="row"><a href="https://drive.google.com/file/d/1OguekjW65OEY_XZSUDYIZIA-Iy_HTw-S/view">Manager, Institutional Giving</a></th>
-  <td>NewMusicUSA</td>
-  <td>New York / Remote</td>
-  <td>June 8th, 2021</td>
-</tr>
-  
-
- <tr>
-  <th scope="row"><a href="https://www.curling.la/jobs/job-title-curling-instructor#/">Curling Instructor</a></th>
-  <td>Southern California Curling Center</td>
-  <td>Los Angeles</td>
-  <td>June 2nd, 2021</td>
-</tr>
-  
- <tr>
-  <th scope="row"><a href="https://www.curling.la/jobs/job-title-event-coordinator#/">Event Coordinator</a></th>
-  <td>Southern California Curling Center</td>
-  <td>Los Angeles</td>
-  <td>June 2nd, 2021</td>
-</tr>
-  
-
 
 </tbody>
 <table>
