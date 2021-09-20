@@ -96,16 +96,6 @@ The Team
 </p>
 
 
-### ![Nida Ahmed](/uploads/nida.jpg) <a id="nida-ahmed" />
-
-**Nida Ahmed** is the current Social Innovation Fellow at the Goldhirsh Foundation. She holds a B.A in Economics and International Relations and recently completed her Masters in Public Administration at the USC Sol Price School of Public Policy. Her background is in management consulting with a focus on strategic operations and policy development for the public and private sector. She is passionate about social impact, corporate social responsibility, and working towards equity for marginalized communities.
-
-
-### ![Bryan Byrdlong](/uploads/bryan.jpg) <a id="bryan-byrdlong" />
-
-**Bryan Byrdlong** is a Social Media and Communications Fellow at the Goldhirsh Foundation. He recently received an MFA in Creative Writing from the Helen Zell Writer’s Program at the University of Michigan. He is an incoming Creative Writing and Literature PhD student at the University of Southern California. He is passionate about promoting innovation and equitable initiatives, especially for underserved communities. 
-
-
 ### ![Mana Koike](/uploads/mana.jpg) <a id="mana-koike" />
 
 **Mana Koike** is the Design Fellow at the Goldhirsh Foundation. She recently graduated with a B.S. in Product Design from ArtCenter College of Design. Mana is passionate about creating inspiring visual experiences that are true to the brand philosophy.
