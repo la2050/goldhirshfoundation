@@ -112,6 +112,30 @@ Press
 
 To contact the Goldhirsh Foundation, email [team@goldhirshfoundation.org](mailto:team@goldhirshfoundation.org).
 
+August <strong>4</strong> 2021
+: [Ambitious projects take root at historic Griffith Park nursery](https://www.theeastsiderla.com/neighborhoods/los_feliz/ambitious-projects-take-root-at-historic-griffith-park-nursery/article_fad3586a-f16c-11eb-a3d4-1b5ed77c6db6.html)
+: 2021 My LA2050 grantee, City Plants, is featured in The Eastsider for its free trees program.
+
+July <strong>7</strong> 2021
+: [Food truck rental company helping entrepreneurs make a fresh start](https://spectrumnews1.com/ca/la-west/inside-the-issues/2021/07/21/food-truck-rental-company-helping-entrepreneurs)
+: 2021 My LA2050 grantee, On The Go LA, is highlighted by Spectrum News 1 as the first place winner in the My LA2050 Grants Challenge in the CREATE category
+
+July <strong>7</strong> 2021
+: [Three Eastside organizations were among the recipients of $1 million in grants intended to make L.A. a better place](https://www.theeastsiderla.com/news/daily_digest_evening_edition/will-off-leash-dog-trails-prevent-fires-making-los-angeles-a-better-place/article_1883eda6-df76-11eb-8a6d-fb7e10766130.html)
+: 2021 My LA2050 grantees Las Fotos, People's Pottery Project, and City Plants are highlighted as winners in the My LA2050 Grants Challenge
+
+July <strong>7</strong> 2021
+: [Urban gardener Jamiah Hargins bringing fresh produce to South LA](https://spectrumnews1.com/ca/san-fernando-valley-ventura/la-times-today/2021/07/07/urban-gardener-jamiah-hargins-bringing-fresh-produce-to-south-la)
+: Jamiah Hargins, founder of 2020 grantee Crop Swap LA, discusses his work creating the Asante Microfarm by using a My LA2050 grant
+
+June <strong>21</strong> 2021
+: [Public voting begins to select winners in the 2021 My LA2050 Grants Challenge](https://spectrumnews1.com/ca/la-west/human-interest/2021/06/21/public-voting-begins-for-2021-my-la2050-grants-challenge-winners)
+: The voting period beings in the 2021 My LA2050 Grants Challenge
+
+June <strong>24</strong> 2021
+: [Fund For Guaranteed Income’s Compton Pledge Initiative Selected as La2050 Finalist](https://lasentinel.net/fund-for-guaranteed-incomes-compton-pledge-initiative-selected-as-la2050-finalist.html)
+: 2021 My LA2050 grantee, Compton Pledge, is highlighted in the LA Sentinel during voting in the 2021 My LA2050 Grants Challenge
+
 May <strong>13</strong> 2021
 : [‘Microfarms’ come to South L.A. frontyards, bringing fresh produce to food deserts](https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce)
 : 2020 My LA2050 grantee, Crop Swap LA, discusses how it used grant funds to pilot a microfarm model and combat food insecurity.
