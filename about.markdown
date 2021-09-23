@@ -116,7 +116,7 @@ August <strong>4</strong> 2021
 : [Ambitious projects take root at historic Griffith Park nursery](https://www.theeastsiderla.com/neighborhoods/los_feliz/ambitious-projects-take-root-at-historic-griffith-park-nursery/article_fad3586a-f16c-11eb-a3d4-1b5ed77c6db6.html)
 : 2021 My LA2050 grantee, City Plants, is featured in The Eastsider for its free trees program.
 
-July <strong>7</strong> 2021
+July <strong>21</strong> 2021
 : [Food truck rental company helping entrepreneurs make a fresh start](https://spectrumnews1.com/ca/la-west/inside-the-issues/2021/07/21/food-truck-rental-company-helping-entrepreneurs)
 : 2021 My LA2050 grantee, On The Go LA, is highlighted by Spectrum News 1 as the first place winner in the My LA2050 Grants Challenge in the CREATE category
 
