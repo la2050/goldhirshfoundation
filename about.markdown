@@ -128,6 +128,10 @@ July <strong>7</strong> 2021
 : [Urban gardener Jamiah Hargins bringing fresh produce to South LA](https://spectrumnews1.com/ca/san-fernando-valley-ventura/la-times-today/2021/07/07/urban-gardener-jamiah-hargins-bringing-fresh-produce-to-south-la)
 : Jamiah Hargins, founder of 2020 grantee Crop Swap LA, discusses his work creating the Asante Microfarm by using a My LA2050 grant
 
+July <strong>6</strong> 2021
+: [80,000+ Votes; $1M in Grants Awarded](https://www.prnewswire.com/news-releases/80-000-votes-1m-in-grants-awarded-301325241.html)
+: 25 Social Impact Organizations are Winners of the My LA2050 Grants Challenge
+
 June <strong>21</strong> 2021
 : [Public voting begins to select winners in the 2021 My LA2050 Grants Challenge](https://spectrumnews1.com/ca/la-west/human-interest/2021/06/21/public-voting-begins-for-2021-my-la2050-grants-challenge-winners)
 : The voting period beings in the 2021 My LA2050 Grants Challenge
