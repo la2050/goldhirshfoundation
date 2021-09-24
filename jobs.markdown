@@ -127,27 +127,6 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>Pasadena, CA</td>
   <td>June 30th, 2021</td>
 </tr>
-  
-<tr>
-  <th scope="row"><a href="https://glymph-consulting.breezy.hr/p/1d587f67579c-movement-voter-project-vice-president-of-programs">Movement Voter Project - Vice President of Programs</a></th>
-  <td>Movement Voter Project</td>
-  <td>Boston, MA / Remote</td>
-  <td>June 15th, 2021</td>
-</tr>
-  
- <tr>
-  <th scope="row"><a href="https://glymph-consulting.breezy.hr/p/e78f290bc099-movement-voter-project-vice-president-of-development">Movement Voter Project - Vice President of Development</a></th>
-  <td>Movement Voter Project</td>
-  <td>Boston, MA / Remote</td>
-  <td>June 15th, 2021</td>
-</tr>
-  
- <tr>
-  <th scope="row"><a href="https://glymph-consulting.breezy.hr/p/b069e7f78b90-movement-voter-project-vice-president-of-operations-chief-of-staff">Movement Voter Project - Vice President of Operations & Chief of Staff</a></th>
-  <td>Movement Voter Project</td>
-  <td>Boston, MA / Remote</td>
-  <td>June 15th, 2021</td>
-</tr>
 
 </tbody>
 <table>
