@@ -59,7 +59,7 @@ Financial Capital Opportunities
   
   
 <tr>
-  <th scope="row"><a href="https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies/programs/usc-marshall-venture-fund">USC Marshall School of Business</a></th>
+  <th scope="row"><a href="https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies/programs/usc-marshall-venture-fund">USC Marshall Venture Fund</a></th>
   <td>"The Fund’s mission is to bridge the funding gap for early-stage and amplify the impact for later-stage USC-related companies; train students to evaluate, make, and manage venture investments; and engage alumni, advisors, experts, and other stakeholders in helping build the entrepreneurial ecosystem at USC and in Southern California."</td>
   <td>Rolling</td>
 </tr>
