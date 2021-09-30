@@ -32,6 +32,11 @@ Financial Capital Opportunities
   <td>10-15-2021</td>
 </tr>
   
+<tr>
+  <th scope="row"><a href="https://www.svpla.org/supporting-frontline-workers-fund-application">WSocial Venture Partners Los Angeles</a></th>
+  <td>"Social Venture Partners Los Angeles (SVPLA) is pleased to share this Request for Proposal (RFP) to support workers on the frontlines of the homeless response sector. The Supporting Frontline Workers Fund will distribute up to $1M in one-time funds for immediate financial support to employees who provided daily, direct, in-person services to people experiencing homelessness throughout the pandemic. "</td>
+  <td>10-15-2021</td>
+</t27
   
 <tr>
   <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
