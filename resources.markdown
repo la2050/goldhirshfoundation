@@ -24,7 +24,7 @@ Financial Capital Opportunities
   <th scope="col">Deadline</th>
 </tr>
 </thead>
-</tbody>
+<tbody>
     
 <tr>
   <th scope="row"><a href="https://westly.org/westly-prize">Westly Foundation</a></th>
