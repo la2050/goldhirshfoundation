@@ -22,6 +22,14 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
 
+  
+<tr>
+  <th scope="row"><a href="https://www.thekitchensf.org/jobs">Executive Director</a></th>
+  <td>The Kitchen SF</td>
+  <td>San Francisco, CA</td>
+  <td>October 8th, 2021</td>
+</tr>     
+  
 <tr>
   <th scope="row"><a href="https://estolanoadvisors.com/news/2021/8/25/were-hiring-senior-associate-bay-area-and-associate-southern-california">Senior Associate</a></th>
   <td>Estolano Advisors</td>
@@ -120,13 +128,7 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>Sacramento, CA</td>
   <td>July 21st, 2021</td>
 </tr>
-  
- <tr>
-  <th scope="row"><a href="https://www.morrisberger.com/position.php?id=2154.">Chief Development Officer</a></th>
-  <td>Huntington Medical Research Institutes</td>
-  <td>Pasadena, CA</td>
-  <td>June 30th, 2021</td>
-</tr>
+
 
 </tbody>
 <table>
