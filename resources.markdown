@@ -26,17 +26,6 @@ Financial Capital Opportunities
 </thead>
 <tbody>
     
-<tr>
-  <th scope="row"><a href="https://westly.org/westly-prize">Westly Foundation</a></th>
-  <td>"We believe that small bets and a growth mindset lead to breakthrough innovations. Since 2012, we’ve awarded cash prizes to Westly Prize finalists once a year to early-stage, young social innovators in California with novel solutions to community challenges. Westly Prizes totaling up to $145,000 will be awarded to winning social innovations. Three top prizes of $40,000 in unrestricted funding will be given."</td>
-  <td>10-15-2021</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://www.svpla.org/supporting-frontline-workers-fund-application">Social Venture Partners Los Angeles</a></th>
-  <td>"Social Venture Partners Los Angeles (SVPLA) is pleased to share this Request for Proposal (RFP) to support workers on the frontlines of the homeless response sector. The Supporting Frontline Workers Fund will distribute up to $1M in one-time funds for immediate financial support to employees who provided daily, direct, in-person services to people experiencing homelessness throughout the pandemic."</td>
-  <td>10-15-2021</td>
-  </tr>
   
 <tr>
   <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
