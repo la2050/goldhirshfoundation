@@ -1,7 +1,9 @@
 ---
 title: Goldhirsh Foundation "Civic Investment Strategies" Report
 date: 2021-05-20 14:30:00 -07:00
-excerpt: Today, we release “Civic Investment Strategies,” our new report highlighting the tactics and strategies that have proven most successful for us in supporting civic progress.
+excerpt: Today, we release “Civic Investment Strategies,” our new report highlighting
+  the tactics and strategies that have proven most successful for us in supporting
+  civic progress.
 author: Goldhirsh Foundation Team
 ---
 
