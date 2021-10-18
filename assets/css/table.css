@@ -31,3 +31,26 @@ td:last-child {
   padding-right: 0;
 }
 
+/* OPTIONAL: Make table easier to read on small screens */
+@media (max-width: 60em) {
+  table, tbody, thead, tr, th, td {
+    display: block;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  thead {
+    position: absolute;
+    opacity: 0;
+    font-size: 1px;
+  }
+  tbody th:not(:first-child), td:not(:first-child) {
+    padding-top: 0;
+    border-top: none;
+  }
+  tbody th:not(:last-child), td:not(:last-child) {
+    padding-bottom: 0;
+  }
+  tbody th:last-child, tbody td:last-child {
+    padding-top: 0.75em;
+  }
+}

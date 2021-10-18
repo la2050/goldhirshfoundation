@@ -3,14 +3,6 @@
   color: rgb(56, 175, 77); /* @green */
 }
 
-
-tbody th,
-td:last-child {
-  white-space: nowrap;
-}
-
-
-
 main p {
   font-size: 1.25em;
   font-weight: 300; /* @light */
