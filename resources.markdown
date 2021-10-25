@@ -46,6 +46,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://www.newschools.org/innovative-schools-application/">New Schools Venture Fund</a></th>
+  <td>"We are looking for educators who are designing new, innovative public schools launching in Fall 2023. Through this annual funding opportunity, we help early-stage charter organizations launch their first and/or second school in a new network, and support district schools with the autonomy to develop and implement innovative instructional designs. While the ideas we support will involve varying approaches, all the schools in our portfolio are committed to three design principles: an expanded definition of student success, equity and innovation. In addition, these teams aspire to expand their impact by serving more students directly or by influencing the work of other educators."</td>
+  <td>1-7-2022</td>
+</tr>
+  
+<tr>
   <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
   <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation."</td>
   <td>Rolling - Selected Monthly</td>
