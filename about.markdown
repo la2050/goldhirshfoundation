@@ -140,6 +140,10 @@ June <strong>24</strong> 2021
 : [Fund For Guaranteed Income’s Compton Pledge Initiative Selected as La2050 Finalist](https://lasentinel.net/fund-for-guaranteed-incomes-compton-pledge-initiative-selected-as-la2050-finalist.html)
 : 2021 My LA2050 grantee, Compton Pledge, is highlighted in the LA Sentinel during voting in the 2021 My LA2050 Grants Challenge
 
+May <strong>25</strong> 2021
+: [This South L.A. startup will turn your front lawn into a farm](https://www.fastcompany.com/90639950/this-south-la-startup-is-growing-microfarms-in-front-yards)
+: 2020 My LA2050 grantee, Crop Swap LA, is featured for its model of turning front lawns into community gardens.
+
 May <strong>13</strong> 2021
 : [‘Microfarms’ come to South L.A. frontyards, bringing fresh produce to food deserts](https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce)
 : 2020 My LA2050 grantee, Crop Swap LA, discusses how it used grant funds to pilot a microfarm model and combat food insecurity.
