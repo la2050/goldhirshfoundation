@@ -58,6 +58,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://durfee.org/our-programs/the-lark-awards/how-to-apply/">The Lark Awards</a></th>
+  <td>"The Durfee Foundation’s Lark Awards provide up to 10 community-centered organizations with $30,000 each for the collective care and professional development of their teams."</td>
+  <td>1-19-2022</td>
+</tr>  
+  
+<tr>
   <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
   <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation."</td>
   <td>Rolling - Selected Monthly</td>
