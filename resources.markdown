@@ -60,7 +60,7 @@ Financial Capital Opportunities
 <tr>
   <th scope="row"><a href="https://durfee.org/our-programs/the-lark-awards/how-to-apply/">The Lark Awards</a></th>
   <td>"The Durfee Foundation’s Lark Awards provide up to 10 community-centered organizations with $30,000 each for the collective care and professional development of their teams."</td>
-  <td>1-19-2022</td>
+  <td>1-12-2022</td>
 </tr>  
   
 <tr>
