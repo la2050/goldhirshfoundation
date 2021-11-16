@@ -114,7 +114,7 @@ To contact the Goldhirsh Foundation, email [team@goldhirshfoundation.org](mailto
 
 November <strong>15</strong> 2021
 : [Parks and green spaces are vital for neighborhoods, so why aren’t there more?](https://www.latimes.com/business/story/2021-11-15/la-parks-are-not-equitably-distributed-how-to-fix?_amp=true)
-: In the Los Angeles Times, Goldhirsh Foundation President Tara Roth discusses LA2050's metric for park accesbility.
+: In the Los Angeles Times, Goldhirsh Foundation President Tara Roth discusses LA2050's metric for park accessibility.
 
 August <strong>4</strong> 2021
 : [Ambitious projects take root at historic Griffith Park nursery](https://www.theeastsiderla.com/neighborhoods/los_feliz/ambitious-projects-take-root-at-historic-griffith-park-nursery/article_fad3586a-f16c-11eb-a3d4-1b5ed77c6db6.html)
