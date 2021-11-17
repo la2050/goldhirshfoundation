@@ -23,13 +23,20 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
 
 <tr>
+  <th scope="row"><a href="https://www.idealist.org/en/government-job/1ea63567afeb4e269764f156ec46457d-california-climate-action-director-californiavolunteers-sacramento">California Climate Action Director</a></th>
+  <td>California Volunteers</td>
+  <td>Sacramento, CA</td>
+  <td>November 17th, 2021</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://cityyear.wd5.myworkdayjobs.com/en-US/CityYear/job/Individual-Giving-Manager_R4824-2">Development Manager</a></th>
   <td>City Year</td>
   <td>Los Angeles, CA</td>
   <td>October 28th, 2021</td>
 </tr> 
   
-  <tr>
+<tr>
   <th scope="row"><a href="https://www.bonhams.com/employment/33114/">Administrator, Motor Cars Department</a></th>
   <td>BONHAMS auction house</td>
   <td>Los Angeles, CA</td>
