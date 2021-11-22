@@ -26,24 +26,11 @@ Financial Capital Opportunities
 </thead>
 <tbody>
     
-  
 <tr>
-  <th scope="row"><a href="https://www.mvdreyfusfoundation.org/application-guidelines">Max and Victoria Dreyfus Foundation</a></th>
-  <td>"The Foundation will consider requests to support museums, cultural and performing arts programs; schools and hospitals; educational, skills-training and other programs for youth, seniors, and persons with disabilities; environmental and wildlife protection activities; and other community-based organizations and programs."</td>
-  <td>11-10-2021</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://www.cciarts.org/cgi/page.cgi/cali_grants.htm">Center For Cultural Innovation Cali Catalyst</a></th>
-  <td>"LegalZoom has teamed up with the NBA, WBNA, and NBA G League to assist communities by helping small business owners. Fast Break for Small Business is a $6 million commitment in grants and LegalZoom services to help thousands of small businesses all over the country, and Accion Opportunity Fund is the nonprofit administrator of the program."</td>
-  <td>11-15-2021</td>
-</tr> 
-
-<tr>
-  <th scope="row"><a href="https://aofund.org/program/fastbreak/">Accion Opportunity Fund</a></th>
-  <td>"CALI Catalyst provides unrestricted grants of up to $5,000 to California changemakers whose bold actions are shifting the arts and culture sector in ways that give underrepresented populations—Black, Indigenous, people of color, LGBTQIA+, and people with disabilities—more power and influence."</td>
-  <td>11-23-2021</td>
-</tr>   
+  <th scope="row"><a href="https://www.missionassetfund.org/la-young-creatives-grant/">LA Young Creatives Fund</a></th>
+  <td>"We established the LA Young Creatives Fund to offer financial support to members of the creative economy whose work has been impacted by the coronavirus (COVID-19) pandemic. LA County residents who work in creative fields may be eligible to receive a $500 grant to help cover any pressing financial needs."</td>
+  <td>Rolling</td>
+</tr  
   
 <tr>
   <th scope="row"><a href="https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/community-action/">Community Action Grant</a></th>
