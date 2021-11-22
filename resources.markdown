@@ -30,7 +30,7 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://www.missionassetfund.org/la-young-creatives-grant/">LA Young Creatives Fund</a></th>
   <td>"We established the LA Young Creatives Fund to offer financial support to members of the creative economy whose work has been impacted by the coronavirus (COVID-19) pandemic. LA County residents who work in creative fields may be eligible to receive a $500 grant to help cover any pressing financial needs."</td>
   <td>Rolling</td>
-</tr  
+</tr>  
   
 <tr>
   <th scope="row"><a href="https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/community-action/">Community Action Grant</a></th>
