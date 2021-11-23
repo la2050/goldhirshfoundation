@@ -39,6 +39,12 @@ Financial Capital Opportunities
 </tr>
   
 <tr>
+  <th scope="row"><a href="https://www.visionarywomen.com/grants/visionary_prize.php">The Visionary Prize</a></th>
+  <td>"This $100,000 prize will be awarded to a female leader of a nonprofit advancing women’s economic empowerment in the U.S.The nonprofit’s program must demonstrably advance the economic empowerment of women through: Access to capital; Access to other resources that support economic advancement, e.g., mentoring, training, personal professional development, or business support; and/or Removing barriers to women’s full participation and success in the workforce."</td>
+  <td>12-31-2021</td>
+</tr>  
+  
+<tr>
   <th scope="row"><a href="https://www.newschools.org/innovative-schools-application/">New Schools Venture Fund</a></th>
   <td>"We are looking for educators who are designing new, innovative public schools launching in Fall 2023. Through this annual funding opportunity, we help early-stage charter organizations launch their first and/or second school in a new network, and support district schools with the autonomy to develop and implement innovative instructional designs. While the ideas we support will involve varying approaches, all the schools in our portfolio are committed to three design principles: an expanded definition of student success, equity and innovation. In addition, these teams aspire to expand their impact by serving more students directly or by influencing the work of other educators."</td>
   <td>1-7-2022</td>
