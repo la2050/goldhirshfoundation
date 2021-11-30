@@ -21,12 +21,7 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tr>
 <thead>
 <tbody>
-
-<tr>
-  <th scope="row"><a href="https://www.runningdiversity.com/careers">Executive Director</a></th>
-  <td>Running Industry Diversity Coalition</td>
-  <td>November 29th, 2021</td>
-</tr>   
+ 
   
 <tr>
   <th scope="row"><a href="https://www.idealist.org/en/government-job/1ea63567afeb4e269764f156ec46457d-california-climate-action-director-californiavolunteers-sacramento">California Climate Action Director</a></th>
