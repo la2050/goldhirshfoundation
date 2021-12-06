@@ -75,12 +75,12 @@ The Team
 
 ### ![Jake Bishop](/uploads/jake.jpg) <a id="jake-bishop" />
 
-**Jake Bishop** is the Assistant to the President at the Goldhirsh Foundation. He recently graduated with bachelor's degrees in Sociology and Political Science from Chapman University. Jake is passionate about creating a more just society where everyone has equal opportunities no matter how they identify. 
+**Jake Bishop** is the Assistant to the President at the Goldhirsh Foundation. He graduated with bachelor's degrees in Sociology and Political Science from Chapman University. Jake is passionate about creating a more just society where everyone has equal opportunities no matter how they identify. 
 
 
 ### ![Jeremy Rosenberg](/uploads/jeremy.jpg) <a id="jeremy-rosenberg" />
 
-**Jeremy Rosenberg** is the Communications Strategist at the Goldhirsh Foundation. Jeremy is an innovative communications executive and cross-platform storyteller with a wide range of non-profit, media, and civic-centric experiences. He served as Assistant Dean, Public Affairs and Special Events, at the USC Annenberg School; Vice President, Communications and Marketing, at the LA84 Foundation; and as an online editor and columnist for the Los Angeles Times. His non-fiction books about LA include “Under Spring,” “Kickoff Concussion,” and “No Man is An Island.”
+**Jeremy Rosenberg** is Director of Communications at the Goldhirsh Foundation. Jeremy is an innovative communications executive and cross-platform storyteller with a wide range of non-profit, media, and civic-centric experiences. He served as Assistant Dean, Public Affairs and Special Events, at the USC Annenberg School; Vice President, Communications and Marketing, at the LA84 Foundation; and as an online editor and columnist for the Los Angeles Times. His non-fiction books about LA include “Under Spring,” “Kickoff Concussion,” and “No Man is An Island.”
 
 <p>
   <a href="https://twitter.com/LosJeremy">
@@ -100,7 +100,17 @@ The Team
 
 **Mana Koike** is the Design Fellow at the Goldhirsh Foundation. She recently graduated with a B.S. in Product Design from ArtCenter College of Design. Mana is passionate about creating inspiring visual experiences that are true to the brand philosophy.
 
+### ![Carla Fuentes](/uploads/mana.jpg) <a id="mana-koike" />
 
+**Carla Fuentes**  is the Social Impact and Outreach Fellow at the Goldhirsh Foundation. She is a student of Political Science at CSU Northridge. Most recently, she focused on outreach to close the digital divide, and efforts to hold social media platforms accountable for the spread of misinformation. 
+
+### ![Ariadna Cruz](/uploads/mana.jpg) <a id="mana-koike" />
+
+**Ariadna Cruz** is a Social Media and Communications Fellow at the Goldhirsh Foundation. She is a Masters in Social Entrepreneurship candidate at USC, and is passionate about leveling the playing field. She is dedicated to serving the LGBTQ+ immigrant community, and advocating for food insecurity.
+
+### ![SaraJoy Salib](/uploads/mana.jpg) <a id="mana-koike" />
+
+**SaraJoy Salib**  is a Social Media and Communications Fellow at the Goldhirsh Foundation. She is a 2021 Cognitive Science graduate from Occidental College currently completing post-baccalaureate courses at West Los Angeles College to prepare for medical school. She has been an intern with the LA84 Foundation, and has been involved with many social advocacy groups.
 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *
