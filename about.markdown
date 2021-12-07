@@ -68,7 +68,7 @@ The Team
 **Ben Goldhirsh** is the co-founder and former CEO of GOOD, a global community of, by, and for pragmatic idealists working towards individual and collective progress. Ben is the Chairman of The Goldhirsh Foundation, an organization built to help social innovators implement and scale solutions to critical societal challenges. He is a co-founder and board member of [City Year Los Angeles](http://www.cityyear.org/losangeles) and previously served on the board of the [Ad Council](https://www.adcouncil.org/). Goldhirsh graduated from Brown University.
 
 
-### ![LeAnn Kelch](/uploads/leann.jpg) <a id="leann-kelch" />
+### ![LeAnn Kelch](/uploads/leann-new.jpg) <a id="leann-kelch" />
 
 **LeAnn Kelch** is the Social Innovation Manager at the Goldhirsh Foundation. She graduated with a B.A. in International Development Studies from the University of California, Los Angeles and received her Master’s in Urban Planning and Master’s in Public Administration from the USC Sol Price School of Public Policy. She currently serves as Communications Co-Chair for the Los Angeles Chapter of Emerging Practitioners in Philanthropy. LeAnn is passionate about advancing work that breaks barriers and promotes the thriving of all people in Los Angeles.
 
