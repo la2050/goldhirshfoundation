@@ -100,15 +100,15 @@ The Team
 
 **Mana Koike** is the Design Fellow at the Goldhirsh Foundation. She recently graduated with a B.S. in Product Design from ArtCenter College of Design. Mana is passionate about creating inspiring visual experiences that are true to the brand philosophy.
 
-### ![Carla Fuentes](/uploads/mana.jpg) <a id="mana-koike" />
+### ![Carla Fuentes](/uploads/carla.jpg) <a id="carla-fuentes" />
 
 **Carla Fuentes**  is the Social Impact and Outreach Fellow at the Goldhirsh Foundation. She is a student of Political Science at CSU Northridge. Most recently, she focused on outreach to close the digital divide, and efforts to hold social media platforms accountable for the spread of misinformation. 
 
-### ![Ariadna Cruz](/uploads/mana.jpg) <a id="mana-koike" />
+### ![Ariadna Cruz](/uploads/ariadna.jpg) <a id="ariadna-cruz" />
 
 **Ariadna Cruz** is a Social Media and Communications Fellow at the Goldhirsh Foundation. She is a Masters in Social Entrepreneurship candidate at USC, and is passionate about leveling the playing field. She is dedicated to serving the LGBTQ+ immigrant community, and advocating for food insecurity.
 
-### ![SaraJoy Salib](/uploads/mana.jpg) <a id="mana-koike" />
+### ![SaraJoy Salib](/uploads/sarajoy.jpg) <a id="sarajoy-salib" />
 
 **SaraJoy Salib**  is a Social Media and Communications Fellow at the Goldhirsh Foundation. She is a 2021 Cognitive Science graduate from Occidental College currently completing post-baccalaureate courses at West Los Angeles College to prepare for medical school. She has been an intern with the LA84 Foundation, and has been involved with many social advocacy groups.
 
