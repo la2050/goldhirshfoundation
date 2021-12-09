@@ -48,6 +48,12 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://durfee.org/our-programs/the-lark-awards/how-to-apply/">The Lark Awards</a></th>
   <td>"The Durfee Foundation’s Lark Awards provide up to 10 community-centered organizations with $30,000 each for the collective care and professional development of their teams."</td>
   <td>1-12-2022</td>
+</tr> 
+  
+<tr>
+  <th scope="row"><a href="https://files.constantcontact.com/d10afeef701/eca984f6-6fa3-4f16-b01b-219a94606407.pdf">Equitable Innovation Grant Program</a></th>
+  <td>"Equitable Innovation Grants will support projects, programs, and services that integrate student-centered learning techniques and tools to create dynamic learning environments for students and/or promote educator wellness. Grants will also prioritize equity, catalyzing projects designed for students and educators that have suffered the most severe consequences of the pandemic."</td>
+  <td>1-14-2022</td>
 </tr>  
   
 <tr>
