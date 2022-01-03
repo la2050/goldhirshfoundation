@@ -57,6 +57,12 @@ Financial Capital Opportunities
 </tr>    
   
 <tr>
+  <th scope="row"><a href="https://www.tfaforms.com/4951325">2022 Farmer Veteran Fellowship</a></th>
+  <td>"The Farmer Veteran Fellowship Fund is a small grant program that provides direct assistance to veterans who are in their beginning years of farming or ranching. Awards range from $1,000 to $5,000 to purchase equipment or supplies that will support your farm business.  The application process is extremely competitive and submitting an application does not guarantee funding."</td>
+  <td>2-14-2021</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
   <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation."</td>
   <td>Rolling - Selected Monthly</td>
