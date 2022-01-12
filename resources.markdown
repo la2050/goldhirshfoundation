@@ -31,19 +31,7 @@ Financial Capital Opportunities
   <td>"We established the LA Young Creatives Fund to offer financial support to members of the creative economy whose work has been impacted by the coronavirus (COVID-19) pandemic. LA County residents who work in creative fields may be eligible to receive a $500 grant to help cover any pressing financial needs."</td>
   <td>Rolling</td>
 </tr>  
-  
-<tr>
-  <th scope="row"><a href="https://www.newschools.org/innovative-schools-application/">New Schools Venture Fund</a></th>
-  <td>"We are looking for educators who are designing new, innovative public schools launching in Fall 2023. Through this annual funding opportunity, we help early-stage charter organizations launch their first and/or second school in a new network, and support district schools with the autonomy to develop and implement innovative instructional designs. While the ideas we support will involve varying approaches, all the schools in our portfolio are committed to three design principles: an expanded definition of student success, equity and innovation. In addition, these teams aspire to expand their impact by serving more students directly or by influencing the work of other educators."</td>
-  <td>1-7-2022</td>
-</tr>
-  
-<tr>
-  <th scope="row"><a href="https://durfee.org/our-programs/the-lark-awards/how-to-apply/">The Lark Awards</a></th>
-  <td>"The Durfee Foundation’s Lark Awards provide up to 10 community-centered organizations with $30,000 each for the collective care and professional development of their teams."</td>
-  <td>1-12-2022</td>
-</tr> 
-  
+    
 <tr>
   <th scope="row"><a href="https://files.constantcontact.com/d10afeef701/eca984f6-6fa3-4f16-b01b-219a94606407.pdf">Equitable Innovation Grant Program</a></th>
   <td>"Equitable Innovation Grants will support projects, programs, and services that integrate student-centered learning techniques and tools to create dynamic learning environments for students and/or promote educator wellness. Grants will also prioritize equity, catalyzing projects designed for students and educators that have suffered the most severe consequences of the pandemic."</td>
