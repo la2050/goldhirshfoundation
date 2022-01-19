@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
  
 <tr>
+  <th scope="row"><a href=https://www.armoryarts.org/about-us/employment/">Vice President of External Relations</a></th>
+  <td>Armory Center for the Arts</td>
+  <td>Los Angeles, CA</td>
+  <td>January 18th, 2022</td>
+</tr>  
+  
+<tr>
   <th scope="row"><a href="https://jobs.jobvite.com/careers/kcrw/job/omXYhfwi?__jvst=job%20board&__jvsd=LA2050">HR Manager</a></th>
   <td>KCRW</td>
   <td>Los Angeles, CA</td>
@@ -35,6 +42,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
   <td>Los Angeles, CA</td>
   <td>January 18th, 2022</td>
 </tr>  
+    
+<tr>
+  <th scope="row"><a href="https://teachforamerica.wd1.myworkdayjobs.com/en-US/TFA_Careers/job/CA---Los-Angeles/Director--Annual-Giving_REQ-202110-1184-1">Director, Annual Giving</a></th>
+  <td>Teach for America Los Angeles</td>
+  <td>Los Angeles, CA</td>
+  <td>January 12th, 2022</td>
+</tr>     
       
 
 
