@@ -22,7 +22,12 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
  
-
+<tr>
+  <th scope="row"><a href="https://jobs.jobvite.com/careers/kcrw/job/omXYhfwi?__jvst=job%20board&__jvsd=LA2050">HR Manager</a></th>
+  <td>KCRW</td>
+  <td>Los Angeles, CA</td>
+  <td>January 18th, 2022</td>
+</tr>
   
 <tr>
   <th scope="row"><a href="https://pub.lucidpress.com/morrisberger_2176/#rg7Xaw~v1x7e">Associate Director, Major Gifts</a></th>
