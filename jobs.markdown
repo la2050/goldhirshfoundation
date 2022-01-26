@@ -25,7 +25,7 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tr>
   <th scope="row"><a href=https://newmediaventures.org/tools_for_change/details/2022-investment-team">Investment Manager or Principal</a></th>
   <td>New Media Venturess</td>
-  <td>Remote, PST/td>
+  <td>Remote, PST</td>
   <td>January 26th, 2022</td>
 </tr>
   
