@@ -22,11 +22,24 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
  
+<tr>
+  <th scope="row"><a href=https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/21288140320">Postdoctoral Scholar - Research Associate</a></th>
+  <td>University of Southern California</td>
+  <td>Los Angeles, CA</td>
+  <td>January 27th, 2022</td>
+</tr>   
+  
+<tr>
+  <th scope="row"><a href=https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/21288140320">Postdoctoral Scholar - Research Associate</a></th>
+  <td>University of Southern California</td>
+  <td>Los Angeles, CA</td>
+  <td>January 27th, 2022</td>
+</tr>   
  
 <tr>
   <th scope="row"><a href=https://usc.wd5.myworkdayjobs.com/en-US/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Project-Specialist_REQ20109644">Project Specialist</a></th>
   <td>University of Southern California</td>
-  <td>RLos Angeles, CA</td>
+  <td>Los Angeles, CA</td>
   <td>January 27th, 2022</td>
 </tr>  
   
