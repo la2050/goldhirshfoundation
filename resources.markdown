@@ -31,18 +31,7 @@ Financial Capital Opportunities
   <td>"We established the LA Young Creatives Fund to offer financial support to members of the creative economy whose work has been impacted by the coronavirus (COVID-19) pandemic. LA County residents who work in creative fields may be eligible to receive a $500 grant to help cover any pressing financial needs."</td>
   <td>Rolling</td>
 </tr>  
-    
-<tr>
-  <th scope="row"><a href="https://files.constantcontact.com/d10afeef701/eca984f6-6fa3-4f16-b01b-219a94606407.pdf">Equitable Innovation Grant Program</a></th>
-  <td>"Equitable Innovation Grants will support projects, programs, and services that integrate student-centered learning techniques and tools to create dynamic learning environments for students and/or promote educator wellness. Grants will also prioritize equity, catalyzing projects designed for students and educators that have suffered the most severe consequences of the pandemic."</td>
-  <td>1-14-2022</td>
-</tr>  
-
-<tr>
-  <th scope="row"><a href="https://www.visionarywomen.com/grants/visionary_prize.php">The Visionary Prize</a></th>
-  <td>"This $100,000 prize will be awarded to a female leader of a nonprofit advancing women’s economic empowerment in the U.S. The nonprofit’s program must demonstrably advance the economic empowerment of women through: Access to capital; Access to other resources that support economic advancement, e.g., mentoring, training, personal professional development, or business support; and/or Removing barriers to women’s full participation and success in the workforce."</td>
-  <td>1-15-2021</td>
-</tr>    
+     
   
 <tr>
   <th scope="row"><a href="https://www.tfaforms.com/4951325">2022 Farmer Veteran Fellowship</a></th>
