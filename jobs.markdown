@@ -21,13 +21,7 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tr>
 <thead>
 <tbody>
- 
-<tr>
-  <th scope="row"><a href=https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/21288140320">Postdoctoral Scholar - Research Associate</a></th>
-  <td>University of Southern California</td>
-  <td>Los Angeles, CA</td>
-  <td>January 27th, 2022</td>
-</tr>   
+   
   
 <tr>
   <th scope="row"><a href=https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/21288140320">Postdoctoral Scholar - Research Associate</a></th>
