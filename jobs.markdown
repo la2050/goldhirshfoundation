@@ -22,6 +22,12 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
    
+ <tr>
+  <th scope="row"><a href=https://www.linkedin.com/jobs/view/2900035455/">Assistant to Global Head of Social Impact</a></th>
+  <td>United Talent Agency</td>
+  <td>Los Angeles, CA</td>
+  <td>January 31st, 2022</td>
+</tr>  
   
 <tr>
   <th scope="row"><a href=https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/21288140320">Postdoctoral Scholar - Research Associate</a></th>
