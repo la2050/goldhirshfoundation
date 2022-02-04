@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
    
  <tr>
+  <th scope="row"><a href=https://la2050.org/jobs/3912">Development Manager</a></th>
+  <td>Safe Parking LA</td>
+  <td>Los Angeles, CA</td>
+  <td>February 4th, 2022</td>
+</tr>   
+  
+ <tr>
   <th scope="row"><a href=https://www.linkedin.com/jobs/view/2900035455/">Assistant to Global Head of Social Impact</a></th>
   <td>United Talent Agency</td>
   <td>Los Angeles, CA</td>
