@@ -40,6 +40,12 @@ Financial Capital Opportunities
 </tr>   
   
 <tr>
+  <th scope="row"><a href="https://ladwp.com/ladwp/faces/ladwp/commercial/c-savemoney/c-sm-rebatesandprograms/c-sm-rp-non-Profitopportunities;jsessionid=g2Tjh9dFJ7JymBHnbb3pQLvvhK5k3y1rQ9SJNj4XL3GHcBxFfvYc!-1594664820?_afrLoop=569594875629842&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D569594875629842%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dqc6ifw8gb_4">LADWP’s Community Partnership Outreach Grants Program</a></th>
+  <td>"LADWP’s Community Partnership Outreach Grants Program provides grants to non-profit organizations who play a vital role to help further the goal of sustainability efforts for the City of Los Angeles. By leveraging non-profit organization’s roots in the community with their experience, programs, networks, and commitment to maximize public engagement and participation in energy efficiency, water conservation and sustainability programs. LADWP programs assist non-profits to encourage behavior change within populations that may not be reached through more traditional communication strategies."</td>
+  <td>3-10-2022</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
   <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation."</td>
   <td>Rolling - Selected Monthly</td>
