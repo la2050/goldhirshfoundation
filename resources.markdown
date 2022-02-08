@@ -36,8 +36,14 @@ Financial Capital Opportunities
 <tr>
   <th scope="row"><a href="https://www.tfaforms.com/4951325">2022 Farmer Veteran Fellowship</a></th>
   <td>"The Farmer Veteran Fellowship Fund is a small grant program that provides direct assistance to veterans who are in their beginning years of farming or ranching. Awards range from $1,000 to $5,000 to purchase equipment or supplies that will support your farm business.  The application process is extremely competitive and submitting an application does not guarantee funding."</td>
-  <td>2-14-2021</td>
+  <td>2-14-2022</td>
 </tr>   
+  
+<tr>
+  <th scope="row"><a href="https://la2050.org/blog/2022-la2050-listens-applications">LA2050 Listens Grants</a></th>
+  <td>"LA2050 is looking for 10 organizations to facilitate LA2050 Listens conversations about the challenges and opportunities facing the Los Angeles region and motivate participants to vote for the issues that matter most to them through the LA2050 Grants Challenge. Selected LA2050 Listens hosts will be awarded a $5,000 grant and will commit to reaching voters during the LA2050 Grants Challenge"</td>
+  <td>3-10-2022</td>
+</tr>    
   
 <tr>
   <th scope="row"><a href="https://ladwp.com/ladwp/faces/ladwp/commercial/c-savemoney/c-sm-rebatesandprograms/c-sm-rp-non-Profitopportunities;jsessionid=g2Tjh9dFJ7JymBHnbb3pQLvvhK5k3y1rQ9SJNj4XL3GHcBxFfvYc!-1594664820?_afrLoop=569594875629842&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D569594875629842%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dqc6ifw8gb_4">LADWP’s Community Partnership Outreach Grants Program</a></th>
