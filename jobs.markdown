@@ -21,7 +21,14 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tr>
 <thead>
 <tbody>
-   
+  
+ <tr>
+  <th scope="row"><a href="https://seachangecap.org/careers/">Analyst</a></th>
+  <td>SeaChange</td>
+  <td>New York City or Philadelphia</td>
+  <td>February 10th, 2022</td>
+</tr>  
+  
  <tr>
   <th scope="row"><a href="https://cadrela.bamboohr.com/jobs/view.php?id=212">Co-Executive Director of Strategy and Sustainability</a></th>
   <td>CADRE</td>
