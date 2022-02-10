@@ -40,6 +40,12 @@ Financial Capital Opportunities
 </tr>   
   
 <tr>
+  <th scope="row"><a href="https://santamonicawellbeing.org/microgrants/apply">Civic Wellbeing Microgrants</a></th>
+  <td>"Wellbeing Microgrants are a new approach to engage and support Santa Monica residents looking to make a positive change in their community. Designed to empower residents, the City provides up to $500 for ideas that are focused on small scale action to improve community wellbeing."</td>
+  <td>2-25-2022</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://la2050.org/blog/2022-la2050-listens-applications">LA2050 Listens Grants</a></th>
   <td>"LA2050 is looking for 10 organizations to facilitate LA2050 Listens conversations about the challenges and opportunities facing the Los Angeles region and motivate participants to vote for the issues that matter most to them through the LA2050 Grants Challenge. Selected LA2050 Listens hosts will be awarded a $5,000 grant and will commit to reaching voters during the LA2050 Grants Challenge"</td>
   <td>3-10-2022</td>
