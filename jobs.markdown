@@ -23,6 +23,13 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <tbody>
   
  <tr>
+  <th scope="row"><a href="https://boards.greenhouse.io/omidyarnetwork/jobs/3928902">Principal, Belonging</a></th>
+  <td>Omidyar Network</td>
+  <td>Redwood City, CA; Washington D.C., New York, NY (Remote)</td>
+  <td>February 16th, 2022</td>
+</tr>   
+  
+ <tr>
   <th scope="row"><a href="https://seachangecap.org/careers/">Analyst</a></th>
   <td>SeaChange</td>
   <td>New York City or Philadelphia</td>
