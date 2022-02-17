@@ -155,7 +155,7 @@ Would you like to add something to the list? Email us at [team@goldhirshfoundati
 
 ### Past and Upcoming Team Goldhirsh Speaking Engagements
 
-February <strong>15</strong> 2022
+Feb <strong>15</strong> 2022
 : Arizona State University Women's Power Index Launch, Tara Roth
 
 July <strong>8</strong> 2021
