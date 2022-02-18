@@ -31,13 +31,7 @@ Financial Capital Opportunities
   <td>"We established the LA Young Creatives Fund to offer financial support to members of the creative economy whose work has been impacted by the coronavirus (COVID-19) pandemic. LA County residents who work in creative fields may be eligible to receive a $500 grant to help cover any pressing financial needs."</td>
   <td>Rolling</td>
 </tr>  
-     
-  
-<tr>
-  <th scope="row"><a href="https://www.tfaforms.com/4951325">2022 Farmer Veteran Fellowship</a></th>
-  <td>"The Farmer Veteran Fellowship Fund is a small grant program that provides direct assistance to veterans who are in their beginning years of farming or ranching. Awards range from $1,000 to $5,000 to purchase equipment or supplies that will support your farm business.  The application process is extremely competitive and submitting an application does not guarantee funding."</td>
-  <td>2-14-2022</td>
-</tr>   
+      
   
 <tr>
   <th scope="row"><a href="https://santamonicawellbeing.org/microgrants/apply">Civic Wellbeing Microgrants</a></th>
