@@ -31,19 +31,19 @@ Financial Capital Opportunities
   <td>"We established the LA Young Creatives Fund to offer financial support to members of the creative economy whose work has been impacted by the coronavirus (COVID-19) pandemic. LA County residents who work in creative fields may be eligible to receive a $500 grant to help cover any pressing financial needs."</td>
   <td>Rolling</td>
 </tr>  
-      
-  
-<tr>
-  <th scope="row"><a href="https://santamonicawellbeing.org/microgrants/apply">Civic Wellbeing Microgrants</a></th>
-  <td>"Wellbeing Microgrants are a new approach to engage and support Santa Monica residents looking to make a positive change in their community. Designed to empower residents, the City provides up to $500 for ideas that are focused on small scale action to improve community wellbeing."</td>
-  <td>2-25-2022</td>
-</tr>   
+       
   
 <tr>
   <th scope="row"><a href="https://la2050.org/blog/2022-la2050-listens-applications">LA2050 Listens Grants</a></th>
   <td>"LA2050 is looking for 10 organizations to facilitate LA2050 Listens conversations about the challenges and opportunities facing the Los Angeles region and motivate participants to vote for the issues that matter most to them through the LA2050 Grants Challenge. Selected LA2050 Listens hosts will be awarded a $5,000 grant and will commit to reaching voters during the LA2050 Grants Challenge"</td>
   <td>3-10-2022</td>
-</tr>    
+</tr>   
+  
+<tr>
+  <th scope="row"><a href="https://www.gilead.com/purpose/gilead-foundation/creating-possible-fund">Creating Possible Fund</a></th>
+  <td>"The inaugural Creating Possible Fund, Advancing Health Prosperity through Education Equity, will allocate up to $30 million over the next three years to support systemic or scaled impact to advance equity in education and improve the physical and mental health and wellness of adolescent and transitional-age youth in the United States.  "</td>
+  <td>3-15-2022</td>
+</tr>   
   
 <tr>
   <th scope="row"><a href="https://ladwp.com/ladwp/faces/ladwp/commercial/c-savemoney/c-sm-rebatesandprograms/c-sm-rp-non-Profitopportunities;jsessionid=g2Tjh9dFJ7JymBHnbb3pQLvvhK5k3y1rQ9SJNj4XL3GHcBxFfvYc!-1594664820?_afrLoop=569594875629842&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D569594875629842%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dqc6ifw8gb_4">LADWP’s Community Partnership Outreach Grants Program</a></th>
