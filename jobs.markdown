@@ -22,7 +22,14 @@ For social impact jobs in the Los Angeles area, visit [LA2050](www.la2050.com/Jo
 <thead>
 <tbody>
   
- <tr>
+  <tr>
+  <th scope="row"><a href="https://universalgiving.org/jobdescription?jobId=9">Executive Assistant (Global/Remote)</a></th>
+  <td>Universal Giving</td>
+  <td>Remote</td>
+  <td>March 1st, 2022</td>
+</tr>  
+  
+  <tr>
   <th scope="row"><a href="https://boards.greenhouse.io/omidyarnetwork/jobs/3928902">Principal, Belonging</a></th>
   <td>Omidyar Network</td>
   <td>Redwood City, CA; Washington D.C., New York, NY (Remote)</td>
