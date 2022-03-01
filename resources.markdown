@@ -53,6 +53,12 @@ Financial Capital Opportunities
 </tr>   
   
 <tr>
+  <th scope="row"><a href="https://www.cciarts.org/cgi/page.cgi/cali_grants.htm">CALI Catalyst</a></th>
+  <td>"CALI Catalyst provides unrestricted grants of up to $5,000 to California changemakers who are shifting the arts and culture sector in ways that tangibly give underrepresented voices more power and influence."</td>
+  <td>4-29-2022</td>
+</tr>   
+  
+<tr>
   <th scope="row"><a href="https://americorps.gov/funding-opportunity/fy-2022-americorps-state-national-tribal-grants">AmeriCorps State and National Tribal Grants</a></th>
   <td>"With the 2022 AmeriCorps State and National Tribal Grants competition, AmeriCorps seeks to prioritize the investment of national service resources into disaster services like COVID-19 response, economic opportunities, education including traditional knowledge and indigenous language, civic and social engagement, environmental stewardship, healthy futures and veterans and military families."</td>
   <td>5-4-2022</td>
