@@ -57,10 +57,10 @@ Financial Capital Opportunities
 </tr>     
   
 <tr>
-  <th scope="row"><a href="https://www.toryburch.com/en-us/empoweringwomen/empoweredwomen/">Tory Burch in Partnership with Upworthy: Empowered Women</a></th>
-  <td>"Tell us about a woman, anywhere in the world, who is embracing her ambition and making a change. We choose one amazing woman a month - and she receives $5,000 to give to a non-profit of her choice through the Tory Burch Foundation."</td>
-  <td>Rolling - Selected Monthly</td>
-</tr>
+  <th scope="row"><a href="https://www.calfund.org/nonprofits/open-grants/health-integration-collaboration-advocacy/">California Community Foundation: Immigrant Health</a></th>
+  <td>"The California Community Foundation is seeking letters of interest for grants supporting work in improving immigrant health access, behavioral health and health policy and advocacy.Specific information on strategies and eligibility can be found below. All potential applicants are strongly encouraged to speak with a Program Officer before beginning the application process to learn more about the current emphases."</td>
+  <td>Rolling</td>
+</tr> 
   
 <tr>
   <th scope="row"><a href="https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies/programs/usc-marshall-greif-incubator">USC Marshall Greif Incubator</a></th>
