@@ -42,6 +42,12 @@ Financial Capital Opportunities
   <th scope="row"><a href="https://www.cciarts.org/cgi/page.cgi/cali_grants.htm">CALI Catalyst</a></th>
   <td>"CALI Catalyst provides unrestricted grants of up to $5,000 to California changemakers who are shifting the arts and culture sector in ways that tangibly give underrepresented voices more power and influence."</td>
   <td>4-29-2022</td>
+</tr> 
+  
+<tr>
+  <th scope="row"><a href="https://www.calfund.org/nonprofits/what-we-fund/education/los-angeles-scholars-investment-fund/">California Community Foundation: Los Angeles Scholars Investment Fund</a></th>
+  <td>"Through high impact programs and partnerships that advance a more equitable educational system, the Los Angeles Scholars Investment Fund (LASIF) supports underrepresented Los Angeles County students in obtaining a postsecondary credential or degree while bolstering economic mobility and creating brighter futures for students and families in our region. Grant opportunities include funding for college access and success services and a range of direct student aid supports."</td>
+  <td>5-3-2022</td>
 </tr>   
   
 <tr>
